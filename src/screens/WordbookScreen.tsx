@@ -1,7 +1,7 @@
-import { useSQLiteContext } from 'expo-sqlite';
 import { useEffect, useState } from 'react';
 import { FlatList, Pressable, StyleSheet, Text, View } from 'react-native';
 import { lookup } from '../db';
+import { useDict } from '../dbProvider';
 import { C } from '../theme';
 import * as wordbook from '../wordbook';
 
@@ -14,7 +14,7 @@ export function useWordbook(): wordbook.Saved[] {
 }
 
 export default function WordbookScreen({ onOpen, onCards }: Props) {
-  const db = useSQLiteContext();
+  const db = useDict();
   const items = useWordbook();
   const learning = items.filter((i) => !i.known).length;
 

@@ -1,15 +1,15 @@
-import { useSQLiteContext } from 'expo-sqlite';
 import { useEffect, useMemo, useState } from 'react';
 import { Pressable, StyleSheet, Text, View } from 'react-native';
 import { SpeakButton } from '../components/common';
 import { getEntry, lookup } from '../db';
+import { useDict } from '../dbProvider';
 import { C } from '../theme';
 import type { Entry } from '../types';
 import * as wordbook from '../wordbook';
 
 // Flashcards over the words in the wordbook that are not marked known yet.
 export default function CardsScreen({ onBack }: { onBack: () => void }) {
-  const db = useSQLiteContext();
+  const db = useDict();
   const deck = useMemo(() => shuffle(wordbook.list().filter((w) => !w.known).map((w) => w.word)), []);
   const [i, setI] = useState(0);
   const [flipped, setFlipped] = useState(false);

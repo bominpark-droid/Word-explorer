@@ -16,12 +16,13 @@
     "react-dom": "^19.3.0",
     "react-native": "0.88.0",
     "react-native-safe-area-context": "~5.10.1",
-    "react-native-web": "^0.21.4"
+    "react-native-web": "^0.21.4",
+    "sql.js": "^1.15.0"
   },
   "devDependencies": {
     "@types/react": "~19.3.0",
-    "typescript": "~6.0.3",
-    "tsx": "^4.20.0"
+    "tsx": "^4.20.0",
+    "typescript": "~6.0.3"
   },
   "scripts": {
     "start": "expo start",
@@ -31,7 +32,7 @@
     "typecheck": "tsc --noEmit",
     "test": "tsx scripts/test_queries.ts",
     "build:dict": "bash scripts/rebuild_dict.sh",
-    "web:export": "expo export --platform web --output-dir dist"
+    "web:build": "bash scripts/build_web.sh"
   },
   "private": true
 }

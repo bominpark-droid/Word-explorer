@@ -20,7 +20,14 @@
 
 AI가 쓴 쉬운 설명과 한국어 뜻은 사람이 전수 검토한 것이 아닙니다. 이상한 내용을 발견하면 `data/curated/*.json`에서 고치고 사전을 다시 빌드하면 됩니다.
 
-## 폰에서 실행하기
+## 웹 버전 (링크로 열기)
+GitHub Pages로 배포하면 폰 브라우저에서 링크만 눌러서 쓸 수 있어요: https://bominpark-droid.github.io/Word-explorer/
+- 저장소 Settings > Pages > Source를 <GitHub Actions>로 한 번만 바꿔 두면, main에 올라가는 변경이 자동으로 배포돼요.
+- 처음 열 때 사전(약 27MB)을 한 번 내려받고, 이후에는 브라우저에 저장돼서 Wi-Fi가 없어도 열려요.
+- 폰 브라우저의 <홈 화면에 추가>를 하면 앱처럼 아이콘으로 열 수 있어요.
+- 직접 만들어 보기: `npm run web:build` (결과는 `dist/`).
+
+## 폰에서 실행하기 (Expo Go, 선택)
 1. 컴퓨터에 Node.js(22 이상)를 설치합니다.
 2. 이 폴더에서 `npm install` 후 `npx expo start`를 실행합니다.
 3. 폰에 Expo Go 앱을 설치하고, 화면에 뜨는 QR 코드를 찍으면 앱이 열립니다.

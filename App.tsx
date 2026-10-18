@@ -1,8 +1,8 @@
 import { StatusBar } from 'expo-status-bar';
-import { SQLiteProvider, useSQLiteContext } from 'expo-sqlite';
-import { Suspense, useEffect, useState } from 'react';
-import { ActivityIndicator, BackHandler, Pressable, StyleSheet, Text, View } from 'react-native';
+import { useEffect, useState } from 'react';
+import { BackHandler, Pressable, StyleSheet, Text, View } from 'react-native';
 import { SafeAreaProvider, SafeAreaView } from 'react-native-safe-area-context';
+import { DictProvider, useDict } from './src/dbProvider';
 import CardsScreen from './src/screens/CardsScreen';
 import SearchScreen from './src/screens/SearchScreen';
 import WordbookScreen from './src/screens/WordbookScreen';
@@ -10,42 +10,23 @@ import WordScreen from './src/screens/WordScreen';
 import { C } from './src/theme';
 import type { WordRow } from './src/types';
 
-// Bump the file name whenever assets/db/dict.db is rebuilt, so phones copy the
-// new bundled dictionary instead of keeping the old one.
-const DICT_DB = 'dict-v1.db';
-
 export default function App() {
   return (
     <SafeAreaProvider>
       <StatusBar style="dark" />
       <SafeAreaView style={styles.root} edges={['top', 'left', 'right']}>
-        <Suspense fallback={<Loading />}>
-          <SQLiteProvider
-            databaseName={DICT_DB}
-            assetSource={{ assetId: require('./assets/db/dict.db') }}
-            useSuspense
-          >
-            <Main />
-          </SQLiteProvider>
-        </Suspense>
+        <DictProvider>
+          <Main />
+        </DictProvider>
       </SafeAreaView>
     </SafeAreaProvider>
-  );
-}
-
-function Loading() {
-  return (
-    <View style={styles.loading}>
-      <ActivityIndicator color={C.blue} size="large" />
-      <Text style={{ color: C.sub, marginTop: 12 }}>사전을 준비하고 있어요…</Text>
-    </View>
   );
 }
 
 type Tab = 'search' | 'book';
 
 function Main() {
-  const db = useSQLiteContext();
+  const db = useDict();
   const [tab, setTab] = useState<Tab>('search');
   const [stack, setStack] = useState<number[]>([]);
   const [cards, setCards] = useState(false);
@@ -107,7 +88,6 @@ function TabButton({ label, active, onPress }: { label: string; active: boolean;
 
 const styles = StyleSheet.create({
   root: { flex: 1, backgroundColor: C.bg },
-  loading: { flex: 1, alignItems: 'center', justifyContent: 'center' },
   tabs: { flexDirection: 'row', borderTopWidth: 1, borderTopColor: C.line, backgroundColor: C.card },
   tab: { flex: 1, alignItems: 'center', paddingVertical: 12 },
   tabText: { fontSize: 17, fontWeight: '700', color: C.faint },

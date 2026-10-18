@@ -1,10 +1,10 @@
 import { Image } from 'expo-image';
 import { useNetworkState } from 'expo-network';
-import { useSQLiteContext } from 'expo-sqlite';
 import { useEffect, useState } from 'react';
 import { ActivityIndicator, Linking, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { SaveButton, SpeakButton } from '../components/common';
 import { getEntry, lookup, relatedBase } from '../db';
+import { useDict } from '../dbProvider';
 import { findPicture, koreanLabel, type Picture } from '../online';
 import { C, POS_KO, TOPIC_LABEL } from '../theme';
 import type { DictSense, Entry, KidSense, WordRow } from '../types';
@@ -12,7 +12,7 @@ import type { DictSense, Entry, KidSense, WordRow } from '../types';
 type Props = { id: number; onBack: () => void; onOpen: (id: number) => void };
 
 export default function WordScreen({ id, onBack, onOpen }: Props) {
-  const db = useSQLiteContext();
+  const db = useDict();
   const [entry, setEntry] = useState<Entry | null>(null);
   const [showDict, setShowDict] = useState(false);
   const [base, setBase] = useState<WordRow | null>(null);

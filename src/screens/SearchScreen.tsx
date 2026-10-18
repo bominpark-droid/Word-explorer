@@ -1,14 +1,14 @@
-import { useSQLiteContext } from 'expo-sqlite';
 import { useEffect, useRef, useState } from 'react';
 import { FlatList, Keyboard, Pressable, StyleSheet, Text, TextInput, View } from 'react-native';
 import { kidCount, lookup, randomKidWord, suggest } from '../db';
+import { useDict } from '../dbProvider';
 import { C } from '../theme';
 import type { WordRow } from '../types';
 
 type Props = { onOpen: (id: number) => void; recent: WordRow[] };
 
 export default function SearchScreen({ onOpen, recent }: Props) {
-  const db = useSQLiteContext();
+  const db = useDict();
   const [q, setQ] = useState('');
   const [rows, setRows] = useState<WordRow[]>([]);
   const [notFound, setNotFound] = useState(false);

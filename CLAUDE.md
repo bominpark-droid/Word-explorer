@@ -9,10 +9,11 @@ navigation is a small state machine in `App.tsx` (tabs + a stack of word ids). K
 unless the owner asks for something it cannot do.
 
 ## Layout
-- `App.tsx` — SQLiteProvider (bundled dictionary), tabs, word stack, Android back button.
+- `App.tsx` — tabs, word stack, Android back button. The dictionary comes from `DictProvider` / `useDict()` in `src/dbProvider.tsx` (phone: expo-sqlite) and `src/dbProvider.web.tsx` (browser: sql.js + Cache Storage). Metro picks the `.web.tsx` / `.web.ts` file for the browser automatically.
 - `src/screens/` — Search, Word (definition / Korean / examples / picture), Wordbook, Cards.
 - `src/db.ts` — all dictionary queries (search, lemmatizing lookups, entry loading).
-- `src/wordbook.ts` — the child's saved words in a separate `wordbook.db` (never overwritten).
+- `src/wordbook.ts` — the child's saved words in a separate `wordbook.db` (never overwritten). Browser version: `src/wordbook.web.ts` (localStorage). Keep both files' exports identical.
+- `web-extras/`, `scripts/build_web.sh`, `scripts/finish_web.mjs` — web build extras (manifest, icons, offline service worker) and `.github/workflows/deploy-web.yml` (publishes to GitHub Pages on every push to main).
 - `src/online.ts` — pictures (Wikidata P18 → Commons, then Wikipedia summary) and Korean Wikidata labels; only when online.
 - `data/curated/*.json` — hand-written kid entries (easy definition, Korean, 2 examples). Schema in `data/curated/BRIEF.md`.
 - `scripts/build_db.py` — builds `assets/db/dict.db` from Open English WordNet + WordNet exception lists + curated JSON.
@@ -21,17 +22,22 @@ unless the owner asks for something it cannot do.
 - **Add or fix a word's easy definition / Korean / examples**: edit or append to `data/curated/<topic>-N.json`
   following BRIEF.md, then rebuild (below). Check Korean and facts carefully; the owner prefers "I don't know" to a wrong answer.
 - **Rebuild the dictionary**: `npm run build:dict` (downloads sources into `.cache/` the first time, then runs tests).
-  After any rebuild, bump `DICT_DB` in `App.tsx` (`dict-v1.db` → `dict-v2.db`) or phones keep the old copy.
+  After any rebuild, bump `DICT_DB` in `src/dbProvider.tsx` (`dict-v1.db` → `dict-v2.db`) or phones keep the old copy. (The web version needs nothing: it fingerprints dict.db automatically.)
 - **UI change**: edit `src/screens/*`, keep large kid-friendly text, Korean labels next to English.
 
 ## Verify before saying done
 1. `npm run typecheck`
 2. `npm test` (lookup smoke tests against the built db)
-3. Visual check: `npm run web:export`, then
-   `node scripts/preview/serve.mjs dist 8081 &` and
-   `CHROMIUM_PATH=/opt/pw-browsers/chromium node scripts/preview/shot.mjs <outdir> valley`
-   (needs `npm i -D playwright` once; COOP/COEP headers from serve.mjs are required for expo-sqlite on web).
+3. Visual check of the web build (what the owner actually uses):
+   `npm run web:build`, then `node scripts/preview/serve.mjs dist 8081 &` (mimics GitHub Pages: sub-path `/Word-explorer/`, no special headers), then
+   `CHROMIUM_PATH=/opt/pw-browsers/chromium node scripts/preview/shot.mjs <outdir> valley` and
+   `CHROMIUM_PATH=/opt/pw-browsers/chromium node scripts/preview/offline_test.mjs` (needs `npm i --no-save playwright` once; do NOT use `pkill -f serve.mjs`, it kills your own shell).
    Look at the screenshots. Pictures cannot load in cloud sessions (Wikimedia is blocked there), so say so instead of claiming they work.
+
+## Web version (the owner's main way to use the app)
+- Live at https://bominpark-droid.github.io/Word-explorer/ once GitHub Pages is switched on (Settings > Pages > Source: GitHub Actions). `app.json` `experiments.baseUrl` must equal `/<repo name>`.
+- expo-sqlite's web build needs COOP/COEP headers that GitHub Pages cannot send, which is why the browser uses sql.js. Never import `expo-sqlite` from code that the web build reaches except through `src/dbProvider.tsx` / `src/wordbook.ts` (the `.web` files shadow them).
+- After the first online visit the browser caches the app and the dictionary, so it opens offline. Changing the app publishes a new build; the browser picks it up on the next online visit.
 
 ## Data licenses (keep attribution in the app footer and README)
 - Open English WordNet: CC BY 4.0 + WordNet License (`licenses/`).

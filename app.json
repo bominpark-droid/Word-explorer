@@ -21,8 +21,13 @@
       "package": "com.bominpark.wordexplorer"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro",
+      "output": "single"
     },
-    "backgroundColor": "#FFF9EE"
+    "backgroundColor": "#FFF9EE",
+    "experiments": {
+      "baseUrl": "/Word-explorer"
+    }
   }
 }

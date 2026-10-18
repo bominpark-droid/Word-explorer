@@ -5,7 +5,7 @@ const ctx = await browser.newContext({ viewport: { width: 390, height: 844 }, de
 const page = await ctx.newPage();
 page.on('console', m => { if (m.type() === 'error') console.log('console:', m.text().slice(0, 300)); });
 page.on('pageerror', e => console.log('pageerror:', e.message.slice(0, 300)));
-await page.goto('http://localhost:8081/', { waitUntil: 'networkidle' });
+await page.goto('http://localhost:8081/Word-explorer/', { waitUntil: 'networkidle' });
 await page.waitForSelector('input', { timeout: 60000 });
 await page.waitForTimeout(800);
 await page.screenshot({ path: `${out}/1-home.png` });
