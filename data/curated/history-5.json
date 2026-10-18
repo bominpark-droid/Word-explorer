@@ -1,0 +1,2521 @@
+[
+ {
+  "word": "civilization",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A large group of people with cities, a government, writing, and a shared way of life.",
+    "ko": "문명",
+    "ko_simple": "도시, 정부, 글자, 함께 나누는 생활 방식을 가진 큰 무리의 사람들",
+    "examples": [
+     {
+      "en": "Ancient Egypt was one of the first great civilizations.",
+      "ko": "고대 이집트는 최초의 위대한 문명 가운데 하나였다."
+     },
+     {
+      "en": "Many early civilizations grew up next to rivers.",
+      "ko": "초기 문명 가운데 많은 수가 강가에서 자라났다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "civilizations"
+  ],
+  "picture": false
+ },
+ {
+  "word": "ancient",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "From a time very, very long ago, often thousands of years ago.",
+    "ko": "고대의, 아주 오래된",
+    "ko_simple": "흔히 수천 년 전처럼 아주아주 오래전의",
+    "examples": [
+     {
+      "en": "We saw ancient coins from Rome at the museum.",
+      "ko": "우리는 박물관에서 로마의 고대 동전을 보았다."
+     },
+     {
+      "en": "My dad says his phone is ancient because it is five years old.",
+      "ko": "아빠는 휴대폰이 5년이나 되어서 골동품이라고 하신다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "empire",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A group of many lands and peoples ruled by one powerful leader or government.",
+    "ko": "제국",
+    "ko_simple": "한 명의 강한 지도자나 정부가 다스리는 여러 땅과 민족의 집단",
+    "examples": [
+     {
+      "en": "The Roman Empire stretched across three continents.",
+      "ko": "로마 제국은 세 대륙에 걸쳐 있었다."
+     },
+     {
+      "en": "The emperor ruled a huge empire from his palace.",
+      "ko": "황제는 궁전에서 거대한 제국을 다스렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "empires"
+  ],
+  "picture": false
+ },
+ {
+  "word": "emperor",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A man who rules an empire.",
+    "ko": "황제",
+    "ko_simple": "제국을 다스리는 남자",
+    "examples": [
+     {
+      "en": "The first emperor of China built a giant army of clay soldiers.",
+      "ko": "중국의 첫 황제는 진흙으로 만든 거대한 병사 군대를 만들었다."
+     },
+     {
+      "en": "Augustus was the first emperor of Rome.",
+      "ko": "아우구스투스는 로마의 첫 황제였다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "emperors"
+  ],
+  "picture": true
+ },
+ {
+  "word": "kingdom",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A country ruled by a king or queen.",
+    "ko": "왕국",
+    "ko_simple": "왕이나 여왕이 다스리는 나라",
+    "examples": [
+     {
+      "en": "The kingdom of Mali was rich in gold.",
+      "ko": "말리 왕국은 금이 풍부했다."
+     },
+     {
+      "en": "In our game, the sandbox is my kingdom.",
+      "ko": "우리 놀이에서 모래 놀이터는 내 왕국이다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "kingdoms"
+  ],
+  "picture": false
+ },
+ {
+  "word": "monarch",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A king, queen, or emperor who rules a country, usually because they were born into the ruling family.",
+    "ko": "군주",
+    "ko_simple": "보통 왕가에 태어나서 나라를 다스리는 왕, 여왕, 황제",
+    "examples": [
+     {
+      "en": "Queen Elizabeth II was Britain's monarch for 70 years.",
+      "ko": "엘리자베스 2세 여왕은 70년 동안 영국의 군주였다."
+     },
+     {
+      "en": "A monarch often wears a crown.",
+      "ko": "군주는 흔히 왕관을 쓴다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "monarchs"
+  ],
+  "picture": false
+ },
+ {
+  "word": "monarchy",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A country or government ruled by a king, queen, or emperor.",
+    "ko": "군주제, 군주국",
+    "ko_simple": "왕, 여왕, 황제가 다스리는 나라나 정부",
+    "examples": [
+     {
+      "en": "The colonists did not want to live under a monarchy anymore.",
+      "ko": "식민지 사람들은 더는 군주제 아래에서 살고 싶지 않았다."
+     },
+     {
+      "en": "Japan and Great Britain still have a monarchy today.",
+      "ko": "일본과 영국에는 오늘날에도 군주가 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "monarchies"
+  ],
+  "picture": false
+ },
+ {
+  "word": "dynasty",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A family that rules a country for a long time, as power passes from parent to child.",
+    "ko": "왕조",
+    "ko_simple": "부모에서 자식으로 권력이 이어지며 오랫동안 나라를 다스리는 집안",
+    "examples": [
+     {
+      "en": "The Han dynasty ruled China for about 400 years.",
+      "ko": "한나라 왕조는 약 400년 동안 중국을 다스렸다."
+     },
+     {
+      "en": "The Joseon dynasty ruled Korea for more than 500 years.",
+      "ko": "조선 왕조는 500년 넘게 한국을 다스렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "dynasties"
+  ],
+  "picture": false
+ },
+ {
+  "word": "democracy",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A government in which the people hold the power and vote to make choices or to pick their leaders.",
+    "ko": "민주주의, 민주 국가",
+    "ko_simple": "국민이 힘을 가지고 투표로 일을 정하거나 지도자를 뽑는 정부",
+    "examples": [
+     {
+      "en": "Democracy began in ancient Athens.",
+      "ko": "민주주의는 고대 아테네에서 시작되었다."
+     },
+     {
+      "en": "Our class used democracy to vote on a class pet name.",
+      "ko": "우리 반은 민주적으로 투표해서 반 애완동물 이름을 정했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "democracies"
+  ],
+  "picture": false
+ },
+ {
+  "word": "republic",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A country where people vote for leaders to make laws for them, and there is no king.",
+    "ko": "공화국",
+    "ko_simple": "왕 없이 국민이 투표로 뽑은 지도자가 법을 만드는 나라",
+    "examples": [
+     {
+      "en": "Ancient Rome was a republic before it had emperors.",
+      "ko": "고대 로마는 황제가 생기기 전에 공화국이었다."
+     },
+     {
+      "en": "The United States is a republic.",
+      "ko": "미국은 공화국이다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "republics"
+  ],
+  "picture": false
+ },
+ {
+  "word": "city-state",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A city that rules itself and the land around it, like its own small country.",
+    "ko": "도시 국가",
+    "ko_simple": "작은 나라처럼 스스로와 주변 땅을 다스리는 도시",
+    "examples": [
+     {
+      "en": "Athens and Sparta were city-states in ancient Greece.",
+      "ko": "아테네와 스파르타는 고대 그리스의 도시 국가였다."
+     },
+     {
+      "en": "Each city-state in Mesopotamia had its own king.",
+      "ko": "메소포타미아의 도시 국가마다 자기 왕이 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "city-states"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Mesopotamia",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "An ancient land between the Tigris and Euphrates Rivers, in what is now mostly Iraq. Some of the first cities grew there.",
+    "ko": "메소포타미아",
+    "ko_simple": "지금의 이라크 대부분 지역인 티그리스강과 유프라테스강 사이의 고대 땅. 최초의 도시들 가운데 몇이 그곳에서 생겨났다.",
+    "examples": [
+     {
+      "en": "The name Mesopotamia means \"land between rivers.\"",
+      "ko": "메소포타미아라는 이름은 '강 사이의 땅'이라는 뜻이다."
+     },
+     {
+      "en": "People in Mesopotamia invented the wheel.",
+      "ko": "메소포타미아 사람들이 바퀴를 발명했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "Fertile Crescent",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A curved area of rich farmland in the Middle East, shaped like a moon crescent, where some of the first farming began.",
+    "ko": "비옥한 초승달 지대",
+    "ko_simple": "초승달 모양으로 굽은 중동의 기름진 농토. 최초의 농사 가운데 일부가 이곳에서 시작되었다.",
+    "examples": [
+     {
+      "en": "Wheat was first grown in the Fertile Crescent.",
+      "ko": "밀은 비옥한 초승달 지대에서 처음 재배되었다."
+     },
+     {
+      "en": "On the map, the Fertile Crescent looks like a banana.",
+      "ko": "지도에서 비옥한 초승달 지대는 바나나처럼 생겼다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "Sumer",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "An ancient civilization in southern Mesopotamia, where people built some of the world's first cities and invented one of the first kinds of writing.",
+    "ko": "수메르",
+    "ko_simple": "메소포타미아 남부의 고대 문명. 세계 최초의 도시들 가운데 몇을 세우고 최초의 글자 가운데 하나를 만들었다.",
+    "examples": [
+     {
+      "en": "The people of Sumer counted in groups of 60, which is why an hour has 60 minutes.",
+      "ko": "수메르 사람들은 60씩 묶어 셌는데, 그래서 한 시간이 60분이다."
+     },
+     {
+      "en": "Ur was a great city in Sumer.",
+      "ko": "우르는 수메르의 큰 도시였다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "cuneiform",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "An early kind of writing made by pressing wedge-shaped marks into wet clay, first used in Mesopotamia.",
+    "ko": "쐐기 문자",
+    "ko_simple": "젖은 점토에 쐐기 모양 자국을 눌러 쓴 초기 글자. 메소포타미아에서 처음 썼다.",
+    "examples": [
+     {
+      "en": "Scribes wrote cuneiform with a sharp reed.",
+      "ko": "서기들은 뾰족한 갈대로 쐐기 문자를 썼다."
+     },
+     {
+      "en": "We pressed cuneiform into clay with chopsticks in class.",
+      "ko": "우리는 수업 시간에 젓가락으로 점토에 쐐기 문자를 새겼다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "ziggurat",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A huge stepped tower built as a temple in ancient Mesopotamia.",
+    "ko": "지구라트",
+    "ko_simple": "고대 메소포타미아에서 신전으로 지은 계단 모양의 거대한 탑",
+    "examples": [
+     {
+      "en": "The ziggurat had a temple on the very top.",
+      "ko": "지구라트 맨 꼭대기에는 신전이 있었다."
+     },
+     {
+      "en": "A ziggurat looks like a giant stack of steps.",
+      "ko": "지구라트는 거대한 계단을 쌓아 놓은 것처럼 생겼다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "ziggurats"
+  ],
+  "picture": true
+ },
+ {
+  "word": "Code of Hammurabi",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A list of 282 laws written by King Hammurabi of Babylon almost 4,000 years ago. It is one of the oldest sets of written laws.",
+    "ko": "함무라비 법전",
+    "ko_simple": "거의 4,000년 전 바빌론의 함무라비 왕이 쓴 282개의 법. 가장 오래된 성문법 가운데 하나다.",
+    "examples": [
+     {
+      "en": "The Code of Hammurabi was carved on a tall black stone.",
+      "ko": "함무라비 법전은 키 큰 검은 돌에 새겨져 있었다."
+     },
+     {
+      "en": "The Code of Hammurabi is famous for \"an eye for an eye.\"",
+      "ko": "함무라비 법전은 '눈에는 눈'이라는 말로 유명하다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "ancient Egypt",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A great civilization that grew along the Nile River in Africa for about 3,000 years, famous for pharaohs and pyramids.",
+    "ko": "고대 이집트",
+    "ko_simple": "약 3,000년 동안 아프리카 나일강을 따라 번성한, 파라오와 피라미드로 유명한 위대한 문명",
+    "examples": [
+     {
+      "en": "In ancient Egypt, the Nile flooded every year and made the soil rich.",
+      "ko": "고대 이집트에서는 해마다 나일강이 넘쳐 흙을 기름지게 했다."
+     },
+     {
+      "en": "Cats were loved and honored in ancient Egypt.",
+      "ko": "고대 이집트에서 고양이는 사랑받고 귀하게 여겨졌다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "pharaoh",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A king of ancient Egypt. People believed the pharaoh was like a god.",
+    "ko": "파라오",
+    "ko_simple": "고대 이집트의 왕. 사람들은 파라오를 신과 같다고 믿었다.",
+    "examples": [
+     {
+      "en": "The pharaoh wore a tall crown and held a crook and flail.",
+      "ko": "파라오는 높은 왕관을 쓰고 지팡이와 도리깨를 들었다."
+     },
+     {
+      "en": "Some pharaohs started ruling when they were children.",
+      "ko": "어떤 파라오들은 어린아이일 때 다스리기 시작했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "pharaohs"
+  ],
+  "picture": true
+ },
+ {
+  "word": "pyramid",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A huge stone building with a square bottom and four slanted sides that meet in a point at the top. Egyptians built pyramids as tombs for pharaohs.",
+    "ko": "피라미드",
+    "ko_simple": "밑면은 네모나고 비스듬한 네 면이 꼭대기에서 한 점으로 만나는 거대한 돌 건물. 이집트 사람들은 파라오의 무덤으로 피라미드를 지었다.",
+    "examples": [
+     {
+      "en": "Workers moved giant stone blocks to build the pyramid.",
+      "ko": "일꾼들은 피라미드를 지으려고 거대한 돌덩이를 옮겼다."
+     },
+     {
+      "en": "We built a pyramid out of sugar cubes.",
+      "ko": "우리는 각설탕으로 피라미드를 쌓았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "pyramids"
+  ],
+  "picture": true
+ },
+ {
+  "word": "Great Pyramid of Giza",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The biggest pyramid in Egypt, built about 4,500 years ago as a tomb for the pharaoh Khufu.",
+    "ko": "기자의 대피라미드",
+    "ko_simple": "약 4,500년 전 쿠푸 파라오의 무덤으로 지은, 이집트에서 가장 큰 피라미드",
+    "examples": [
+     {
+      "en": "The Great Pyramid of Giza was the tallest building in the world for almost 4,000 years.",
+      "ko": "기자의 대피라미드는 거의 4,000년 동안 세계에서 가장 높은 건물이었다."
+     },
+     {
+      "en": "The Great Pyramid of Giza is made of more than two million stone blocks.",
+      "ko": "기자의 대피라미드는 200만 개가 넘는 돌덩이로 이루어져 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "Sphinx",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The Great Sphinx, a giant stone statue in Egypt with the body of a lion and the head of a man. It sits near the pyramids of Giza.",
+    "ko": "스핑크스",
+    "ko_simple": "사자의 몸에 사람의 머리를 한 이집트의 거대한 돌 조각상. 기자의 피라미드 근처에 있다.",
+    "examples": [
+     {
+      "en": "The Sphinx has been guarding the pyramids for thousands of years.",
+      "ko": "스핑크스는 수천 년 동안 피라미드를 지켜 왔다."
+     },
+     {
+      "en": "The Sphinx's nose is missing.",
+      "ko": "스핑크스는 코가 없다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "mummy",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A dead body that was dried out and wrapped in cloth so it would last a very long time, as the ancient Egyptians did.",
+    "ko": "미라",
+    "ko_simple": "고대 이집트 사람들처럼 아주 오래 남도록 말리고 천으로 감싼 시신",
+    "examples": [
+     {
+      "en": "The mummy was wrapped in hundreds of feet of linen.",
+      "ko": "그 미라는 수백 미터나 되는 아마포로 감겨 있었다."
+     },
+     {
+      "en": "Egyptians even made mummies of cats and crocodiles.",
+      "ko": "이집트 사람들은 고양이와 악어로도 미라를 만들었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "mummies"
+  ],
+  "picture": true
+ },
+ {
+  "word": "mummification",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The process of drying out a dead body and wrapping it so it will last.",
+    "ko": "미라 만들기",
+    "ko_simple": "시신을 말리고 감싸서 오래 남도록 만드는 과정",
+    "examples": [
+     {
+      "en": "Mummification took about 70 days.",
+      "ko": "미라를 만드는 데 약 70일이 걸렸다."
+     },
+     {
+      "en": "Salt was used to dry the body during mummification.",
+      "ko": "미라를 만들 때 시신을 말리려고 소금을 썼다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "sarcophagus",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A large stone box that held a coffin or a mummy.",
+    "ko": "석관",
+    "ko_simple": "관이나 미라를 넣어 두던 큰 돌 상자",
+    "examples": [
+     {
+      "en": "The pharaoh's sarcophagus was carved with pictures of gods.",
+      "ko": "파라오의 석관에는 신들의 그림이 새겨져 있었다."
+     },
+     {
+      "en": "It took ten people to lift the heavy sarcophagus lid.",
+      "ko": "무거운 석관 뚜껑을 들어 올리는 데 열 명이 필요했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "sarcophagi"
+  ],
+  "picture": true
+ },
+ {
+  "word": "tomb",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A room or building where a dead person is buried.",
+    "ko": "무덤",
+    "ko_simple": "죽은 사람을 묻은 방이나 건물",
+    "examples": [
+     {
+      "en": "The tomb was full of gold, food, and furniture for the afterlife.",
+      "ko": "무덤에는 저세상에서 쓸 금, 음식, 가구가 가득했다."
+     },
+     {
+      "en": "Robbers broke into many tombs long ago.",
+      "ko": "오래전 도둑들이 많은 무덤에 몰래 들어갔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "tombs"
+  ],
+  "picture": true
+ },
+ {
+  "word": "afterlife",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A life that some people believe comes after death.",
+    "ko": "내세, 사후 세계",
+    "ko_simple": "어떤 사람들이 죽은 뒤에 이어진다고 믿는 삶",
+    "examples": [
+     {
+      "en": "Egyptians packed food and games in tombs for the afterlife.",
+      "ko": "이집트 사람들은 내세를 위해 무덤에 음식과 놀이 도구를 넣었다."
+     },
+     {
+      "en": "Ancient Egyptians believed your heart was weighed against a feather in the afterlife.",
+      "ko": "고대 이집트 사람들은 사후 세계에서 심장의 무게를 깃털과 견준다고 믿었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "hieroglyphics",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The writing of ancient Egypt, which used small pictures and signs for sounds and words.",
+    "ko": "상형 문자",
+    "ko_simple": "작은 그림과 기호로 소리와 낱말을 나타낸 고대 이집트의 글자",
+    "examples": [
+     {
+      "en": "The tomb walls were covered in hieroglyphics.",
+      "ko": "무덤 벽은 상형 문자로 뒤덮여 있었다."
+     },
+     {
+      "en": "I wrote my name in hieroglyphics, and it had a bird and an owl in it.",
+      "ko": "내 이름을 상형 문자로 썼더니 새와 올빼미가 들어 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "papyrus",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A tall water plant that grows along the Nile River, or the paper that Egyptians made from it.",
+    "ko": "파피루스",
+    "ko_simple": "나일강을 따라 자라는 키 큰 물풀, 또는 이집트 사람들이 그것으로 만든 종이",
+    "examples": [
+     {
+      "en": "Egyptian scribes wrote on long rolls of papyrus.",
+      "ko": "이집트의 서기들은 긴 파피루스 두루마리에 글을 썼다."
+     },
+     {
+      "en": "The word \"paper\" comes from the word papyrus.",
+      "ko": "'페이퍼(종이)'라는 말은 파피루스에서 왔다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "scribe",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A person whose job was to write things down, long ago before most people could read and write.",
+    "ko": "서기, 필경사",
+    "ko_simple": "대부분 사람이 읽고 쓸 줄 모르던 옛날에 글을 받아 적는 일을 하던 사람",
+    "examples": [
+     {
+      "en": "The scribe kept track of how much grain the farmers paid.",
+      "ko": "서기는 농부들이 곡식을 얼마나 냈는지 기록했다."
+     },
+     {
+      "en": "Boys trained for years to become scribes in Egypt.",
+      "ko": "이집트에서 소년들은 서기가 되려고 몇 년 동안 훈련했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "scribes"
+  ],
+  "picture": true
+ },
+ {
+  "word": "Rosetta Stone",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A stone found in Egypt in 1799 with the same message written in hieroglyphics, another Egyptian script, and Greek. It helped people finally read hieroglyphics.",
+    "ko": "로제타석",
+    "ko_simple": "1799년 이집트에서 발견된 돌로, 같은 내용이 상형 문자, 또 다른 이집트 글자, 그리스 문자로 새겨져 있다. 덕분에 마침내 상형 문자를 읽을 수 있게 되었다.",
+    "examples": [
+     {
+      "en": "Because scholars could read Greek, the Rosetta Stone was like an answer key.",
+      "ko": "학자들은 그리스어를 읽을 수 있어서 로제타석은 정답지 같았다."
+     },
+     {
+      "en": "The Rosetta Stone is now in the British Museum in London.",
+      "ko": "로제타석은 지금 런던의 대영 박물관에 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "Tutankhamun",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A young pharaoh of ancient Egypt, often called King Tut, whose tomb full of treasure was found almost untouched in 1922.",
+    "ko": "투탕카멘",
+    "ko_simple": "흔히 '투트 왕'이라고 불리는 고대 이집트의 어린 파라오. 보물로 가득한 그의 무덤이 1922년 거의 손대지 않은 채로 발견되었다.",
+    "examples": [
+     {
+      "en": "Tutankhamun became pharaoh when he was about nine years old.",
+      "ko": "투탕카멘은 아홉 살쯤에 파라오가 되었다."
+     },
+     {
+      "en": "King Tut's gold mask is one of the most famous treasures in the world.",
+      "ko": "투트 왕의 황금 가면은 세계에서 가장 유명한 보물 가운데 하나다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Cleopatra",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The last queen to rule ancient Egypt before it became part of the Roman Empire.",
+    "ko": "클레오파트라",
+    "ko_simple": "고대 이집트가 로마 제국에 들어가기 전 마지막으로 다스린 여왕",
+    "examples": [
+     {
+      "en": "Cleopatra could speak many languages.",
+      "ko": "클레오파트라는 여러 언어를 할 줄 알았다."
+     },
+     {
+      "en": "Cleopatra lived closer in time to us than to the building of the Great Pyramid.",
+      "ko": "클레오파트라는 대피라미드가 지어진 때보다 오늘날에 더 가까운 시대에 살았다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "ancient Greece",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A civilization in and around what is now Greece that was strong about 2,500 years ago and gave the world democracy, the Olympics, and many ideas.",
+    "ko": "고대 그리스",
+    "ko_simple": "약 2,500년 전 지금의 그리스와 그 주변에서 번성하며 민주주의, 올림픽, 많은 사상을 세상에 남긴 문명",
+    "examples": [
+     {
+      "en": "Plays and theaters began in ancient Greece.",
+      "ko": "연극과 극장은 고대 그리스에서 시작되었다."
+     },
+     {
+      "en": "Kids in ancient Greece played with yo-yos.",
+      "ko": "고대 그리스 아이들은 요요를 가지고 놀았다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "Athens",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A city-state in ancient Greece known for democracy, art, and learning. It is the capital of Greece today.",
+    "ko": "아테네",
+    "ko_simple": "민주주의, 예술, 학문으로 유명한 고대 그리스의 도시 국가. 오늘날 그리스의 수도다.",
+    "examples": [
+     {
+      "en": "In Athens, citizens voted by dropping pebbles into jars.",
+      "ko": "아테네에서 시민들은 항아리에 조약돌을 넣어 투표했다."
+     },
+     {
+      "en": "Athens is named after the goddess Athena.",
+      "ko": "아테네는 아테나 여신의 이름을 땄다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Sparta",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A city-state in ancient Greece famous for its strong army. Boys began training to be soldiers at age seven.",
+    "ko": "스파르타",
+    "ko_simple": "강한 군대로 유명한 고대 그리스의 도시 국가. 소년들은 일곱 살부터 군인이 되는 훈련을 받았다.",
+    "examples": [
+     {
+      "en": "Spartan soldiers were feared all over Greece.",
+      "ko": "스파르타 군인들은 그리스 전체에서 두려움의 대상이었다."
+     },
+     {
+      "en": "Girls in Sparta also ran races and trained to be strong.",
+      "ko": "스파르타의 여자아이들도 달리기를 하며 튼튼해지는 훈련을 했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Olympic Games",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "Sports contests that began in ancient Greece in 776 BCE to honor the god Zeus. Today athletes from around the world compete every few years.",
+    "ko": "올림픽 경기",
+    "ko_simple": "기원전 776년 고대 그리스에서 제우스 신을 기리려고 시작한 운동 경기. 오늘날에는 세계 선수들이 몇 년마다 겨룬다.",
+    "examples": [
+     {
+      "en": "The winners at the first Olympic Games got crowns of olive leaves.",
+      "ko": "첫 올림픽 경기 우승자는 올리브잎 관을 받았다."
+     },
+     {
+      "en": "Seoul held the Summer Olympic Games in 1988.",
+      "ko": "서울은 1988년에 하계 올림픽을 열었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "myth",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "An old story that tries to explain nature or tells about gods and heroes.",
+    "ko": "신화",
+    "ko_simple": "자연을 설명하려 하거나 신과 영웅에 대해 들려주는 옛이야기",
+    "examples": [
+     {
+      "en": "A Greek myth tells how Pandora opened a box and let troubles out into the world.",
+      "ko": "그리스 신화는 판도라가 상자를 열어 세상에 온갖 나쁜 것을 풀어놓은 이야기를 들려준다."
+     },
+     {
+      "en": "In the Korean myth, a bear became a woman by eating garlic and mugwort.",
+      "ko": "한국 신화에서는 곰이 마늘과 쑥을 먹고 여자가 되었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "myths"
+  ],
+  "picture": false
+ },
+ {
+  "word": "mythology",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "All the myths of a people or culture.",
+    "ko": "신화(학)",
+    "ko_simple": "한 민족이나 문화의 신화 전체",
+    "examples": [
+     {
+      "en": "I love Greek mythology, especially the story of Medusa.",
+      "ko": "나는 그리스 신화를 좋아하는데, 특히 메두사 이야기가 좋다."
+     },
+     {
+      "en": "Thor comes from Norse mythology.",
+      "ko": "토르는 북유럽 신화에서 나왔다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Zeus",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The king of the gods in the myths of ancient Greece. He was the god of the sky and thunder.",
+    "ko": "제우스",
+    "ko_simple": "고대 그리스 신화에서 신들의 왕. 하늘과 천둥의 신이었다.",
+    "examples": [
+     {
+      "en": "Zeus lived on Mount Olympus with the other gods.",
+      "ko": "제우스는 다른 신들과 함께 올림포스산에 살았다."
+     },
+     {
+      "en": "In the myths, Zeus threw lightning bolts when he was angry.",
+      "ko": "신화에서 제우스는 화가 나면 번개를 던졌다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Parthenon",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A large marble temple built in Athens about 2,400 years ago for the goddess Athena. It has many tall columns.",
+    "ko": "파르테논 신전",
+    "ko_simple": "약 2,400년 전 아테네에 아테나 여신을 위해 지은 큰 대리석 신전. 높은 기둥이 많다.",
+    "examples": [
+     {
+      "en": "The Parthenon sits on a hill called the Acropolis.",
+      "ko": "파르테논 신전은 아크로폴리스라는 언덕 위에 있다."
+     },
+     {
+      "en": "Our town's bank has columns that look like the Parthenon.",
+      "ko": "우리 동네 은행에는 파르테논 신전처럼 생긴 기둥이 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "philosopher",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A person who thinks hard about big questions, like what is right and wrong or what makes a good life.",
+    "ko": "철학자",
+    "ko_simple": "옳고 그름이나 좋은 삶이 무엇인지 같은 큰 질문을 깊이 생각하는 사람",
+    "examples": [
+     {
+      "en": "Socrates was a famous philosopher who asked lots of questions.",
+      "ko": "소크라테스는 질문을 많이 던진 유명한 철학자였다."
+     },
+     {
+      "en": "My little sister is a philosopher; she keeps asking \"But why?\"",
+      "ko": "내 여동생은 철학자다. 계속 \"그런데 왜?\"라고 묻는다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "philosophers"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Alexander the Great",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A king from Macedonia, north of Greece, who built a huge empire from Greece to India before he died at age 32.",
+    "ko": "알렉산드로스 대왕",
+    "ko_simple": "그리스 북쪽 마케도니아의 왕으로, 32살에 죽기 전에 그리스에서 인도까지 거대한 제국을 세웠다.",
+    "examples": [
+     {
+      "en": "Alexander the Great was taught by the philosopher Aristotle.",
+      "ko": "알렉산드로스 대왕은 철학자 아리스토텔레스에게 배웠다."
+     },
+     {
+      "en": "Alexander the Great named more than a dozen cities after himself.",
+      "ko": "알렉산드로스 대왕은 열 곳이 넘는 도시에 자기 이름을 붙였다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "ancient Rome",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A civilization that began with the city of Rome in Italy and grew into a huge empire around the Mediterranean Sea.",
+    "ko": "고대 로마",
+    "ko_simple": "이탈리아의 로마라는 도시에서 시작해 지중해 둘레의 거대한 제국으로 커진 문명",
+    "examples": [
+     {
+      "en": "Roads built in ancient Rome are still used today.",
+      "ko": "고대 로마 때 만든 도로는 지금도 쓰인다."
+     },
+     {
+      "en": "People in ancient Rome went to public baths to wash and chat.",
+      "ko": "고대 로마 사람들은 씻고 이야기하려고 공중목욕탕에 갔다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "Roman Empire",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The huge empire ruled by Rome for hundreds of years, which at its biggest covered much of Europe, North Africa, and the Middle East.",
+    "ko": "로마 제국",
+    "ko_simple": "수백 년 동안 로마가 다스린 거대한 제국. 가장 컸을 때는 유럽, 북아프리카, 중동의 많은 부분을 차지했다.",
+    "examples": [
+     {
+      "en": "The Roman Empire had about 50 million people.",
+      "ko": "로마 제국에는 약 5,000만 명이 살았다."
+     },
+     {
+      "en": "Soldiers of the Roman Empire built a long wall across Britain.",
+      "ko": "로마 제국의 군인들은 브리타니아를 가로지르는 긴 성벽을 쌓았다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Julius Caesar",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A powerful Roman general and leader who was killed by senators in 44 BCE because they feared he would become a king.",
+    "ko": "율리우스 카이사르",
+    "ko_simple": "그가 왕이 될까 두려워한 원로원 의원들에게 기원전 44년 살해된, 힘센 로마의 장군이자 지도자",
+    "examples": [
+     {
+      "en": "The month of July is named after Julius Caesar.",
+      "ko": "7월(July)은 율리우스 카이사르의 이름을 땄다."
+     },
+     {
+      "en": "Julius Caesar was once captured by pirates.",
+      "ko": "율리우스 카이사르는 한때 해적에게 붙잡힌 적이 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Colosseum",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A huge round stadium in Rome, built almost 2,000 years ago, where crowds watched gladiators fight.",
+    "ko": "콜로세움",
+    "ko_simple": "거의 2,000년 전에 지어진 로마의 거대한 원형 경기장. 관중이 검투사들의 싸움을 구경했다.",
+    "examples": [
+     {
+      "en": "The Colosseum could hold about 50,000 people.",
+      "ko": "콜로세움에는 약 5만 명이 들어갈 수 있었다."
+     },
+     {
+      "en": "Part of the Colosseum fell down in earthquakes, but most of it still stands.",
+      "ko": "콜로세움의 일부는 지진으로 무너졌지만 대부분은 아직 서 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "gladiator",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A man in ancient Rome who fought other men or wild animals in an arena while crowds watched.",
+    "ko": "검투사",
+    "ko_simple": "고대 로마에서 관중 앞의 경기장에서 다른 사람이나 사나운 동물과 싸운 남자",
+    "examples": [
+     {
+      "en": "The gladiator carried a net and a three-pointed spear.",
+      "ko": "그 검투사는 그물과 삼지창을 들었다."
+     },
+     {
+      "en": "Many gladiators were enslaved people or prisoners.",
+      "ko": "많은 검투사는 노예나 포로였다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "gladiators"
+  ],
+  "picture": true
+ },
+ {
+  "word": "aqueduct",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A long bridge or channel built to carry water from far away into a city.",
+    "ko": "수도교, 수로",
+    "ko_simple": "멀리서 도시로 물을 끌어오려고 만든 긴 다리나 물길",
+    "examples": [
+     {
+      "en": "Roman aqueducts carried fresh water from the mountains to Rome.",
+      "ko": "로마의 수도교는 산에서 로마까지 깨끗한 물을 날랐다."
+     },
+     {
+      "en": "The aqueduct looked like a bridge with lots of arches.",
+      "ko": "수도교는 아치가 많은 다리처럼 생겼다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "aqueducts"
+  ],
+  "picture": true
+ },
+ {
+  "word": "Latin",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The language of ancient Rome. Many English words come from Latin.",
+    "ko": "라틴어",
+    "ko_simple": "고대 로마의 언어. 영어 낱말 가운데 많은 것이 라틴어에서 왔다.",
+    "examples": [
+     {
+      "en": "The word \"aquarium\" comes from aqua, the Latin word for water.",
+      "ko": "'아쿠아리움'이라는 말은 물을 뜻하는 라틴어 '아쿠아'에서 왔다."
+     },
+     {
+      "en": "Scientists still use Latin to name plants and animals.",
+      "ko": "과학자들은 지금도 동식물의 이름을 붙일 때 라틴어를 쓴다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Pompeii",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Roman town that was buried by ash when the volcano Mount Vesuvius erupted in 79 CE. Its ruins show how Romans lived.",
+    "ko": "폼페이",
+    "ko_simple": "서기 79년 베수비오 화산이 폭발하면서 화산재에 묻힌 로마의 마을. 그 유적에서 로마 사람들의 생활을 알 수 있다.",
+    "examples": [
+     {
+      "en": "In Pompeii, scientists found bread still in an oven.",
+      "ko": "폼페이에서 과학자들은 아직 화덕 속에 있는 빵을 찾아냈다."
+     },
+     {
+      "en": "A sign in Pompeii warns, \"Beware of the dog.\"",
+      "ko": "폼페이의 한 표지에는 '개 조심'이라고 쓰여 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "ancient China",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The early civilization that grew along the Yellow River and Yangtze River in China thousands of years ago.",
+    "ko": "고대 중국",
+    "ko_simple": "수천 년 전 중국의 황허강과 양쯔강을 따라 자라난 초기 문명",
+    "examples": [
+     {
+      "en": "People in ancient China invented paper.",
+      "ko": "고대 중국 사람들이 종이를 발명했다."
+     },
+     {
+      "en": "Ancient China was ruled by one dynasty after another.",
+      "ko": "고대 중국은 왕조가 차례로 이어지며 다스렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "Great Wall of China",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A very long wall in northern China built and rebuilt over many centuries to keep out invaders.",
+    "ko": "만리장성",
+    "ko_simple": "침입자를 막으려고 여러 세기에 걸쳐 쌓고 다시 쌓은 중국 북부의 아주 긴 성벽",
+    "examples": [
+     {
+      "en": "The Great Wall of China is thousands of miles long.",
+      "ko": "만리장성은 길이가 수천 킬로미터나 된다."
+     },
+     {
+      "en": "You cannot really see the Great Wall of China from the Moon; that is a myth.",
+      "ko": "달에서 만리장성이 보인다는 것은 사실이 아닌 낭설이다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "Qin Shi Huang",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The first emperor of a united China, who ruled in the 200s BCE and was buried with an army of clay soldiers.",
+    "ko": "진시황",
+    "ko_simple": "기원전 200년대에 통일된 중국을 처음 다스린 황제. 진흙 병사 군대와 함께 묻혔다.",
+    "examples": [
+     {
+      "en": "Qin Shi Huang made everyone in China use the same coins and writing.",
+      "ko": "진시황은 중국 사람 모두가 같은 돈과 글자를 쓰게 했다."
+     },
+     {
+      "en": "Qin Shi Huang connected older walls to start the Great Wall.",
+      "ko": "진시황은 옛 성벽들을 이어 만리장성을 쌓기 시작했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "terracotta army",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "Thousands of life-size clay soldiers and horses buried with China's first emperor. Farmers digging a well found them in 1974.",
+    "ko": "병마용",
+    "ko_simple": "중국의 첫 황제와 함께 묻힌 수천 개의 실제 크기 진흙 병사와 말. 1974년 우물을 파던 농부들이 발견했다.",
+    "examples": [
+     {
+      "en": "Every soldier in the terracotta army has a different face.",
+      "ko": "병마용의 병사들은 얼굴이 모두 다르다."
+     },
+     {
+      "en": "The terracotta army was buried to protect the emperor after he died.",
+      "ko": "병마용은 황제가 죽은 뒤 그를 지키려고 묻혔다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "Confucius",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A teacher and thinker in ancient China whose ideas about respect, family, and kindness are still followed in China, Korea, and other countries.",
+    "ko": "공자",
+    "ko_simple": "존중, 가족, 친절에 대한 생각이 지금도 중국, 한국 등에서 이어지는 고대 중국의 스승이자 사상가",
+    "examples": [
+     {
+      "en": "Confucius taught that children should respect their parents.",
+      "ko": "공자는 자식이 부모를 공경해야 한다고 가르쳤다."
+     },
+     {
+      "en": "My grandpa often tells me sayings from Confucius.",
+      "ko": "할아버지는 공자의 말씀을 자주 들려주신다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Silk Road",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A long network of trade routes that connected China with the Middle East and Europe for hundreds of years.",
+    "ko": "비단길, 실크로드",
+    "ko_simple": "수백 년 동안 중국과 중동, 유럽을 이은 긴 무역로의 연결망",
+    "examples": [
+     {
+      "en": "Traders on the Silk Road carried silk, spices, and ideas.",
+      "ko": "비단길의 상인들은 비단, 향신료, 생각을 실어 날랐다."
+     },
+     {
+      "en": "Camels carried goods across the deserts of the Silk Road.",
+      "ko": "낙타가 비단길의 사막을 건너 물건을 날랐다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "silk",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A smooth, shiny cloth made from threads spun by silkworms. It was first made in China.",
+    "ko": "비단, 실크",
+    "ko_simple": "누에가 뽑은 실로 만든 부드럽고 반짝이는 천. 중국에서 처음 만들었다.",
+    "examples": [
+     {
+      "en": "China kept how to make silk a secret for a long time.",
+      "ko": "중국은 오랫동안 비단 만드는 법을 비밀로 했다."
+     },
+     {
+      "en": "Mom's silk scarf feels as smooth as water.",
+      "ko": "엄마의 비단 스카프는 물처럼 매끄럽다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "porcelain",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A hard, white, very fine kind of pottery, first made in China.",
+    "ko": "자기",
+    "ko_simple": "중국에서 처음 만든, 단단하고 하얗고 아주 고운 도자기",
+    "examples": [
+     {
+      "en": "The blue and white porcelain vase was very old.",
+      "ko": "그 청화백자 꽃병은 아주 오래된 것이었다."
+     },
+     {
+      "en": "In English, fine porcelain is sometimes just called \"china.\"",
+      "ko": "영어로 고운 자기는 그냥 '차이나'라고 부르기도 한다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "gunpowder",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A black powder that explodes when it is lit. It was invented in China and first used for fireworks.",
+    "ko": "화약",
+    "ko_simple": "불을 붙이면 터지는 검은 가루. 중국에서 발명되어 처음에는 불꽃놀이에 쓰였다.",
+    "examples": [
+     {
+      "en": "Gunpowder makes fireworks go boom.",
+      "ko": "화약 때문에 불꽃이 '펑' 하고 터진다."
+     },
+     {
+      "en": "Later, gunpowder was used in cannons and guns.",
+      "ko": "나중에 화약은 대포와 총에 쓰였다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Middle Ages",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The time in Europe from about 500 to 1500 CE, between ancient times and modern times. It was a time of kings, knights, and castles.",
+    "ko": "중세",
+    "ko_simple": "대략 서기 500년부터 1500년까지 고대와 근대 사이의 유럽 시대. 왕, 기사, 성의 시대였다.",
+    "examples": [
+     {
+      "en": "During the Middle Ages, most people were farmers.",
+      "ko": "중세에는 대부분 사람이 농부였다."
+     },
+     {
+      "en": "Monks in the Middle Ages copied books by hand.",
+      "ko": "중세의 수도사들은 손으로 책을 베껴 썼다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "medieval",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "From or having to do with the Middle Ages.",
+    "ko": "중세의",
+    "ko_simple": "중세의 또는 중세와 관련된",
+    "examples": [
+     {
+      "en": "We ate turkey legs at the medieval fair.",
+      "ko": "우리는 중세 축제에서 칠면조 다리를 먹었다."
+     },
+     {
+      "en": "The medieval castle had a moat and a drawbridge.",
+      "ko": "그 중세 성에는 해자와 들어 올리는 다리가 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "knight",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A soldier in the Middle Ages who wore armor, rode a horse, and served a king or lord.",
+    "ko": "기사",
+    "ko_simple": "중세에 갑옷을 입고 말을 타며 왕이나 영주를 섬긴 군인",
+    "examples": [
+     {
+      "en": "The knight promised to be brave and protect the weak.",
+      "ko": "기사는 용감하게 약한 사람을 지키겠다고 맹세했다."
+     },
+     {
+      "en": "A boy trained for years to become a knight.",
+      "ko": "소년은 기사가 되려고 몇 년 동안 훈련했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "knights"
+  ],
+  "picture": true
+ },
+ {
+  "word": "castle",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A large, strong building with thick stone walls and towers, built in the Middle Ages to protect a lord and his people.",
+    "ko": "성",
+    "ko_simple": "중세에 영주와 그 사람들을 지키려고 두꺼운 돌벽과 탑으로 지은 크고 튼튼한 건물",
+    "examples": [
+     {
+      "en": "The castle had a tall tower for watching enemies.",
+      "ko": "성에는 적을 살피는 높은 탑이 있었다."
+     },
+     {
+      "en": "We built a sand castle with a moat at the beach.",
+      "ko": "우리는 바닷가에서 해자가 있는 모래성을 쌓았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "castles"
+  ],
+  "picture": true
+ },
+ {
+  "word": "moat",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A deep, wide ditch filled with water around a castle to keep enemies out.",
+    "ko": "해자",
+    "ko_simple": "적이 들어오지 못하게 성 둘레에 파서 물을 채운 깊고 넓은 도랑",
+    "examples": [
+     {
+      "en": "The soldiers could not cross the moat.",
+      "ko": "군인들은 해자를 건널 수 없었다."
+     },
+     {
+      "en": "In my drawing, there are crocodiles in the moat.",
+      "ko": "내 그림에서는 해자에 악어가 산다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "moats"
+  ],
+  "picture": true
+ },
+ {
+  "word": "armor",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A metal covering that soldiers wore long ago to protect their bodies in battle.",
+    "ko": "갑옷",
+    "ko_simple": "옛날 군인들이 전투에서 몸을 지키려고 입은 쇠로 된 옷",
+    "examples": [
+     {
+      "en": "A full suit of armor could weigh about 50 pounds.",
+      "ko": "갑옷 한 벌은 무게가 약 23kg이나 되었다."
+     },
+     {
+      "en": "The knight's armor clanked when he walked.",
+      "ko": "기사가 걸을 때 갑옷이 철커덕 소리를 냈다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "peasant",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A poor farmer or farm worker, especially in the Middle Ages.",
+    "ko": "농노, 소작농, 농민",
+    "ko_simple": "특히 중세의 가난한 농부나 농장 일꾼",
+    "examples": [
+     {
+      "en": "Peasants worked the lord's fields in return for a place to live.",
+      "ko": "농민들은 살 곳을 얻는 대신 영주의 밭에서 일했다."
+     },
+     {
+      "en": "Peasant families often shared their homes with their animals.",
+      "ko": "농민 가족은 흔히 가축과 한집에서 살았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "peasants"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Renaissance",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A time in Europe from about the 1300s to the 1600s when there was a new interest in art, science, and learning. The word means \"rebirth.\"",
+    "ko": "르네상스",
+    "ko_simple": "대략 1300~1600년대 유럽에서 미술, 과학, 학문에 대한 관심이 새로 일어난 시기. '다시 태어남'이라는 뜻이다.",
+    "examples": [
+     {
+      "en": "Many great painters lived during the Renaissance.",
+      "ko": "르네상스 때 위대한 화가가 많이 살았다."
+     },
+     {
+      "en": "The Renaissance began in Italy.",
+      "ko": "르네상스는 이탈리아에서 시작되었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Leonardo da Vinci",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "An Italian artist and inventor of the Renaissance who painted the Mona Lisa and drew ideas for flying machines.",
+    "ko": "레오나르도 다빈치",
+    "ko_simple": "〈모나리자〉를 그리고 하늘을 나는 기계를 구상한 르네상스 시대 이탈리아의 화가이자 발명가",
+    "examples": [
+     {
+      "en": "Leonardo da Vinci wrote his notes backward, like in a mirror.",
+      "ko": "레오나르도 다빈치는 거울에 비친 것처럼 글씨를 거꾸로 썼다."
+     },
+     {
+      "en": "Leonardo da Vinci painted the Mona Lisa.",
+      "ko": "레오나르도 다빈치는 〈모나리자〉를 그렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "printing press",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A machine that presses inked letters onto paper to print many copies of books quickly. Johannes Gutenberg built one in Europe around 1440.",
+    "ko": "인쇄기",
+    "ko_simple": "잉크를 묻힌 글자를 종이에 눌러 책을 빠르게 많이 찍어 내는 기계. 요하네스 구텐베르크가 1440년쯤 유럽에서 만들었다.",
+    "examples": [
+     {
+      "en": "The printing press made books cheaper, so more people learned to read.",
+      "ko": "인쇄기 덕분에 책값이 싸져서 더 많은 사람이 글을 배웠다."
+     },
+     {
+      "en": "Korea printed the book Jikji with metal type in 1377, even before Gutenberg's printing press.",
+      "ko": "한국은 구텐베르크의 인쇄기보다도 앞선 1377년에 금속 활자로 《직지》를 찍었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "printing presses"
+  ],
+  "picture": true
+ },
+ {
+  "word": "Johannes Gutenberg",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A German inventor who built a printing press with movable metal letters around 1440.",
+    "ko": "요하네스 구텐베르크",
+    "ko_simple": "1440년쯤 움직이는 금속 활자로 인쇄기를 만든 독일의 발명가",
+    "examples": [
+     {
+      "en": "Johannes Gutenberg printed a famous Bible.",
+      "ko": "요하네스 구텐베르크는 유명한 성경을 찍었다."
+     },
+     {
+      "en": "Gutenberg's press could print hundreds of pages a day.",
+      "ko": "구텐베르크의 인쇄기는 하루에 수백 쪽을 찍을 수 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Vikings",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "Sea raiders, traders, and explorers from Scandinavia (Norway, Sweden, and Denmark) from about 800 to 1050 CE.",
+    "ko": "바이킹",
+    "ko_simple": "대략 서기 800년부터 1050년까지 활동한 스칸디나비아(노르웨이, 스웨덴, 덴마크)의 바다 약탈자, 상인, 탐험가",
+    "examples": [
+     {
+      "en": "The Vikings sailed in long, narrow wooden ships.",
+      "ko": "바이킹은 길고 좁은 나무배를 타고 다녔다."
+     },
+     {
+      "en": "Real Vikings did not wear helmets with horns.",
+      "ko": "진짜 바이킹은 뿔 달린 투구를 쓰지 않았다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "Genghis Khan",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Mongol leader in the 1200s who united the Mongol people and started the Mongol Empire, one of the largest empires ever.",
+    "ko": "칭기즈 칸",
+    "ko_simple": "1200년대에 몽골 사람들을 하나로 묶고 역사상 가장 큰 제국 가운데 하나인 몽골 제국을 세운 몽골의 지도자",
+    "examples": [
+     {
+      "en": "Genghis Khan's soldiers could ride horses for days.",
+      "ko": "칭기즈 칸의 병사들은 며칠 동안 말을 탈 수 있었다."
+     },
+     {
+      "en": "Genghis Khan set up a fast mail system with riders and horse stations.",
+      "ko": "칭기즈 칸은 말 탄 전령과 역참으로 빠른 우편 제도를 만들었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Mansa Musa",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A king of the Mali Empire in West Africa in the 1300s who was one of the richest people in history.",
+    "ko": "만사 무사",
+    "ko_simple": "1300년대 서아프리카 말리 제국의 왕으로, 역사상 가장 부유한 사람 가운데 하나",
+    "examples": [
+     {
+      "en": "Mansa Musa traveled to Mecca with camels carrying gold.",
+      "ko": "만사 무사는 금을 실은 낙타들을 이끌고 메카까지 여행했다."
+     },
+     {
+      "en": "Mansa Musa built schools and mosques in the city of Timbuktu.",
+      "ko": "만사 무사는 팀북투라는 도시에 학교와 모스크를 지었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Magna Carta",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "An important paper signed by King John of England in 1215 that said even the king had to obey the law.",
+    "ko": "마그나 카르타(대헌장)",
+    "ko_simple": "1215년 영국의 존 왕이 서명한 중요한 문서로, 왕도 법을 따라야 한다고 정했다.",
+    "examples": [
+     {
+      "en": "The Magna Carta gave some rights to English nobles.",
+      "ko": "마그나 카르타는 영국 귀족들에게 몇 가지 권리를 주었다."
+     },
+     {
+      "en": "The Magna Carta helped give the Founding Fathers ideas for the Constitution.",
+      "ko": "마그나 카르타는 건국의 아버지들에게 헌법에 대한 생각을 주었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "archaeologist",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A scientist who studies how people lived long ago by digging up and studying things they left behind.",
+    "ko": "고고학자",
+    "ko_simple": "옛사람들이 남긴 물건을 파내고 연구해서 그들이 어떻게 살았는지 알아내는 과학자",
+    "examples": [
+     {
+      "en": "The archaeologist brushed the dirt off an old clay pot.",
+      "ko": "고고학자는 오래된 질그릇의 흙을 솔로 털어 냈다."
+     },
+     {
+      "en": "Farmers found the terracotta army, and then archaeologists dug it up.",
+      "ko": "농부들이 병마용을 발견하자 고고학자들이 그것을 발굴했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "archaeologists"
+  ],
+  "picture": true
+ },
+ {
+  "word": "archaeology",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The study of how people lived long ago by digging up and studying the things they left behind.",
+    "ko": "고고학",
+    "ko_simple": "옛사람들이 남긴 물건을 파내고 연구해서 그들의 생활을 알아내는 학문",
+    "examples": [
+     {
+      "en": "Archaeology is like solving a puzzle with old pieces.",
+      "ko": "고고학은 오래된 조각으로 퍼즐을 푸는 것과 같다."
+     },
+     {
+      "en": "At archaeology camp, we dug for bones in a sandbox.",
+      "ko": "고고학 캠프에서 우리는 모래 상자에서 뼈를 찾았다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "artifact",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "An object made by people long ago, like a tool, pot, or piece of jewelry, that tells us about their lives.",
+    "ko": "유물",
+    "ko_simple": "도구, 그릇, 장신구처럼 옛사람들이 만들어서 그들의 생활을 알려 주는 물건",
+    "examples": [
+     {
+      "en": "The museum showed artifacts from a Viking ship.",
+      "ko": "박물관에는 바이킹 배에서 나온 유물이 전시되어 있었다."
+     },
+     {
+      "en": "A thousand years from now, my old video game might be an artifact.",
+      "ko": "천 년 뒤에는 내 낡은 비디오 게임이 유물이 될지도 모른다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "artifacts"
+  ],
+  "picture": true
+ },
+ {
+  "word": "excavate",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To carefully dig in the ground to find things from long ago.",
+    "ko": "발굴하다",
+    "ko_simple": "오래전 물건을 찾으려고 땅을 조심스럽게 파다",
+    "examples": [
+     {
+      "en": "They excavated the ancient city one bucket of dirt at a time.",
+      "ko": "그들은 흙을 한 양동이씩 퍼내며 고대 도시를 발굴했다."
+     },
+     {
+      "en": "My dog excavated my mom's flower garden.",
+      "ko": "우리 개가 엄마의 꽃밭을 파헤쳤다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "excavates",
+   "excavated",
+   "excavating",
+   "excavation"
+  ],
+  "picture": false
+ },
+ {
+  "word": "ruins",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "What is left of a building or city after it has been destroyed or has fallen apart over time.",
+    "ko": "폐허, 유적",
+    "ko_simple": "부서지거나 오랜 세월 동안 무너진 건물이나 도시의 남은 부분",
+    "examples": [
+     {
+      "en": "We climbed over the ruins of an old Roman wall.",
+      "ko": "우리는 옛 로마 성벽의 유적을 넘어 올라갔다."
+     },
+     {
+      "en": "After the storm, the sand castle was in ruins.",
+      "ko": "폭풍이 지나가자 모래성은 폐허가 되었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "timeline",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A line that shows important events in the order they happened, with dates.",
+    "ko": "연표",
+    "ko_simple": "중요한 사건을 일어난 순서대로 날짜와 함께 보여 주는 선",
+    "examples": [
+     {
+      "en": "We made a timeline of our lives, starting with the day we were born.",
+      "ko": "우리는 태어난 날부터 시작하는 우리 삶의 연표를 만들었다."
+     },
+     {
+      "en": "The timeline showed that the pyramids are older than the Colosseum.",
+      "ko": "연표를 보니 피라미드가 콜로세움보다 오래되었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "timelines"
+  ],
+  "picture": true
+ },
+ {
+  "word": "century",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A period of 100 years.",
+    "ko": "세기, 100년",
+    "ko_simple": "100년 동안의 기간",
+    "examples": [
+     {
+      "en": "The Declaration of Independence was signed in the 18th century.",
+      "ko": "독립선언서는 18세기에 서명되었다."
+     },
+     {
+      "en": "My great-grandma lived for a whole century.",
+      "ko": "우리 증조할머니는 꼬박 100년을 사셨다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "centuries"
+  ],
+  "picture": false
+ },
+ {
+  "word": "decade",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A period of ten years.",
+    "ko": "10년",
+    "ko_simple": "열 해 동안의 기간",
+    "examples": [
+     {
+      "en": "In a decade, I will be old enough to drive.",
+      "ko": "10년 뒤면 나는 운전할 수 있는 나이가 된다."
+     },
+     {
+      "en": "The 1960s was the decade when people first walked on the Moon.",
+      "ko": "1960년대는 사람이 처음 달 위를 걸은 10년이었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "decades"
+  ],
+  "picture": false
+ },
+ {
+  "word": "era",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A long period of time in history that is known for certain events or ways of life.",
+    "ko": "시대",
+    "ko_simple": "어떤 사건이나 생활 방식으로 알려진, 역사 속의 긴 기간",
+    "examples": [
+     {
+      "en": "The era of the pioneers was full of covered wagons.",
+      "ko": "개척민의 시대에는 포장마차가 가득했다."
+     },
+     {
+      "en": "Grandpa says flip phones were from a different era.",
+      "ko": "할아버지는 폴더폰이 다른 시대의 물건이라고 하신다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "eras"
+  ],
+  "picture": false
+ },
+ {
+  "word": "millennium",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A period of 1,000 years.",
+    "ko": "천 년",
+    "ko_simple": "1,000년 동안의 기간",
+    "examples": [
+     {
+      "en": "The Great Pyramid was already more than two millennia old when Rome was at its greatest.",
+      "ko": "로마가 가장 번성했을 때 대피라미드는 이미 이천 년이 넘은 것이었다."
+     },
+     {
+      "en": "People threw big parties when the new millennium began in 2000.",
+      "ko": "2000년에 새 천 년이 시작될 때 사람들은 큰 파티를 열었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "millennia"
+  ],
+  "picture": false
+ },
+ {
+  "word": "BCE",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Short for \"Before the Common Era.\" It is used for years before year 1, counting backward. It means the same as BC.",
+    "ko": "기원전(BCE)",
+    "ko_simple": "'공통 시대 이전'의 줄임말. 1년 이전의 해를 거꾸로 셀 때 쓴다. BC와 같은 뜻이다.",
+    "examples": [
+     {
+      "en": "The first Olympic Games were held in 776 BCE.",
+      "ko": "첫 올림픽 경기는 기원전 776년에 열렸다."
+     },
+     {
+      "en": "In BCE years, a bigger number means longer ago.",
+      "ko": "기원전에서는 숫자가 클수록 더 오래전이다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "CE",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Short for \"Common Era.\" It is used for years from year 1 until now. It means the same as AD.",
+    "ko": "서기(CE)",
+    "ko_simple": "'공통 시대'의 줄임말. 1년부터 지금까지의 해에 쓴다. AD와 같은 뜻이다.",
+    "examples": [
+     {
+      "en": "Mount Vesuvius erupted in 79 CE.",
+      "ko": "베수비오 화산은 서기 79년에 폭발했다."
+     },
+     {
+      "en": "We live in the 21st century CE.",
+      "ko": "우리는 서기 21세기에 살고 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "primary source",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Something made by a person who was there when an event happened, like a diary, letter, photo, or artifact.",
+    "ko": "1차 사료, 1차 자료",
+    "ko_simple": "일기, 편지, 사진, 유물처럼 사건이 일어날 때 그 자리에 있던 사람이 만든 것",
+    "examples": [
+     {
+      "en": "A soldier's letter home is a primary source about the war.",
+      "ko": "병사가 집에 보낸 편지는 전쟁에 대한 1차 사료다."
+     },
+     {
+      "en": "My grandma's old photo of her first day in America is a primary source.",
+      "ko": "미국에 온 첫날을 찍은 할머니의 옛 사진은 1차 자료다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "primary sources"
+  ],
+  "picture": false
+ },
+ {
+  "word": "secondary source",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Something written or made later by someone who was not there, using information from other sources, like a textbook.",
+    "ko": "2차 사료, 2차 자료",
+    "ko_simple": "교과서처럼, 그 자리에 없던 사람이 나중에 다른 자료를 바탕으로 쓰거나 만든 것",
+    "examples": [
+     {
+      "en": "Our history textbook is a secondary source.",
+      "ko": "우리 역사 교과서는 2차 자료다."
+     },
+     {
+      "en": "An encyclopedia article about Lincoln is a secondary source.",
+      "ko": "링컨에 관한 백과사전 글은 2차 자료다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "secondary sources"
+  ],
+  "picture": false
+ },
+ {
+  "word": "historian",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A person who studies and writes about what happened in the past.",
+    "ko": "역사가, 사학자",
+    "ko_simple": "과거에 일어난 일을 연구하고 글로 쓰는 사람",
+    "examples": [
+     {
+      "en": "The historian read hundreds of old letters to learn about the war.",
+      "ko": "그 역사가는 전쟁을 알아보려고 옛 편지 수백 통을 읽었다."
+     },
+     {
+      "en": "My family's historian is Grandma; she remembers everything.",
+      "ko": "우리 집 역사가는 할머니다. 할머니는 모든 것을 기억하신다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "historians"
+  ],
+  "picture": false
+ },
+ {
+  "word": "chronological order",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The order in which events happened, from first to last.",
+    "ko": "연대순, 시간 순서",
+    "ko_simple": "사건이 처음부터 마지막까지 일어난 순서",
+    "examples": [
+     {
+      "en": "Put these events in chronological order: Revolution, Civil War, World War II.",
+      "ko": "이 사건들을 일어난 순서대로 놓아 보세요: 독립 혁명, 남북 전쟁, 제2차 세계 대전."
+     },
+     {
+      "en": "My photo album is in chronological order, from baby pictures to now.",
+      "ko": "내 사진첩은 아기 때 사진부터 지금까지 시간 순서대로 되어 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "legacy",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Something important that a person or group leaves behind for people who come later.",
+    "ko": "유산, 업적",
+    "ko_simple": "어떤 사람이나 집단이 뒷사람들에게 남긴 중요한 것",
+    "examples": [
+     {
+      "en": "Democracy is part of the legacy of ancient Greece.",
+      "ko": "민주주의는 고대 그리스가 남긴 유산의 일부다."
+     },
+     {
+      "en": "Dr. King's legacy lives on in people who work for fairness.",
+      "ko": "킹 목사의 유산은 공정함을 위해 일하는 사람들 속에 살아 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "legacies"
+  ],
+  "picture": false
+ },
+ {
+  "word": "nomad",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A person who moves from place to place instead of living in one spot, often to find food or grass for animals.",
+    "ko": "유목민",
+    "ko_simple": "흔히 먹을 것이나 가축 먹일 풀을 찾아, 한곳에 살지 않고 이곳저곳 옮겨 다니는 사람",
+    "examples": [
+     {
+      "en": "The nomads packed their tents and moved to new grass.",
+      "ko": "유목민들은 천막을 걷고 새 풀밭으로 옮겨 갔다."
+     },
+     {
+      "en": "Before farming, most people were nomads who hunted and gathered.",
+      "ko": "농사를 짓기 전에는 대부분 사람이 사냥하고 채집하는 유목민이었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "nomads"
+  ],
+  "picture": false
+ },
+ {
+  "word": "irrigation",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Bringing water to crops through ditches, pipes, or canals.",
+    "ko": "관개",
+    "ko_simple": "도랑, 관, 수로를 통해 농작물에 물을 대는 것",
+    "examples": [
+     {
+      "en": "Egyptian farmers dug ditches for irrigation from the Nile.",
+      "ko": "이집트 농부들은 나일강에서 물을 끌어오려고 관개용 도랑을 팠다."
+     },
+     {
+      "en": "Without irrigation, the desert farms would dry up.",
+      "ko": "관개가 없으면 사막의 농장은 말라 버릴 것이다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "barter",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To trade things for other things without using money.",
+    "ko": "물물 교환하다",
+    "ko_simple": "돈을 쓰지 않고 물건을 다른 물건과 바꾸다",
+    "examples": [
+     {
+      "en": "Long ago, people bartered grain for tools.",
+      "ko": "옛날에 사람들은 곡식을 도구와 바꾸었다."
+     },
+     {
+      "en": "At lunch I bartered my apple for my friend's cookie.",
+      "ko": "점심시간에 나는 사과를 친구의 쿠키와 바꿨다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "barters",
+   "bartered",
+   "bartering"
+  ],
+  "picture": false
+ },
+ {
+  "word": "tribute",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Money or goods that a weaker people had to pay to a stronger ruler, or something done to show respect for someone.",
+    "ko": "조공, 공물, 헌사",
+    "ko_simple": "약한 나라가 강한 지배자에게 바쳐야 했던 돈이나 물건, 또는 누군가를 존경하는 뜻으로 하는 일",
+    "examples": [
+     {
+      "en": "Conquered cities paid tribute to the emperor in gold and cloth.",
+      "ko": "정복당한 도시들은 황제에게 금과 옷감으로 조공을 바쳤다."
+     },
+     {
+      "en": "The band played a song as a tribute to their old teacher.",
+      "ko": "밴드는 옛 선생님께 바치는 노래를 연주했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "tributes"
+  ],
+  "picture": false
+ },
+ {
+  "word": "temple",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A building where people go to worship a god or gods.",
+    "ko": "신전, 절, 사원",
+    "ko_simple": "사람들이 신을 섬기러 가는 건물",
+    "examples": [
+     {
+      "en": "The Greeks built a temple for Athena on the hill.",
+      "ko": "그리스 사람들은 언덕 위에 아테나를 위한 신전을 지었다."
+     },
+     {
+      "en": "We visited a Buddhist temple in the mountains in Korea.",
+      "ko": "우리는 한국의 산속에 있는 절에 가 보았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "temples"
+  ],
+  "picture": true
+ },
+ {
+  "word": "ancestor",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A person in your family who lived long before you, like your great-great-grandparents.",
+    "ko": "조상",
+    "ko_simple": "고조할아버지 할머니처럼 나보다 훨씬 앞서 살았던 가족",
+    "examples": [
+     {
+      "en": "My ancestors came from a small village in Korea.",
+      "ko": "우리 조상은 한국의 작은 마을에서 왔다."
+     },
+     {
+      "en": "On Chuseok, we honor our ancestors.",
+      "ko": "추석에 우리는 조상을 기린다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "ancestors"
+  ],
+  "picture": false
+ },
+ {
+  "word": "descendant",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A person who comes from a certain ancestor, like a child, grandchild, or great-grandchild.",
+    "ko": "후손, 자손",
+    "ko_simple": "자식, 손주, 증손주처럼 어떤 조상에게서 이어진 사람",
+    "examples": [
+     {
+      "en": "She is a descendant of a family that came on the Mayflower.",
+      "ko": "그녀는 메이플라워호를 타고 온 집안의 후손이다."
+     },
+     {
+      "en": "I am a descendant of my great-grandma, and I have her curly hair.",
+      "ko": "나는 증조할머니의 자손이라서 할머니처럼 곱슬머리다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "descendants"
+  ],
+  "picture": false
+ },
+ {
+  "word": "heritage",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The traditions, language, and beliefs that are passed down to you from your family and the people who came before you.",
+    "ko": "유산, 전통",
+    "ko_simple": "가족과 조상에게서 물려받은 전통, 언어, 믿음",
+    "examples": [
+     {
+      "en": "I am proud of my Korean heritage.",
+      "ko": "나는 한국 사람의 전통을 이어받은 것이 자랑스럽다."
+     },
+     {
+      "en": "Our school's Heritage Night had food from twenty countries.",
+      "ko": "우리 학교 '전통의 밤'에는 스무 나라의 음식이 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "tradition",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A custom or way of doing something that is passed down from older people to younger people for many years.",
+    "ko": "전통, 관습",
+    "ko_simple": "오랫동안 윗세대에서 아랫세대로 전해 내려온 풍습이나 방식",
+    "examples": [
+     {
+      "en": "Eating tteokguk on New Year's Day is a Korean tradition.",
+      "ko": "설날에 떡국을 먹는 것은 한국의 전통이다."
+     },
+     {
+      "en": "Our family tradition is pancakes every Saturday.",
+      "ko": "우리 가족의 전통은 토요일마다 팬케이크를 먹는 것이다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "traditions"
+  ],
+  "picture": false
+ }
+]

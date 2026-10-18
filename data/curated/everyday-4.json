@@ -1,0 +1,2077 @@
+[
+ {
+  "word": "eventually",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "In the end, after a long time or after many things happen.",
+    "ko": "결국, 마침내",
+    "ko_simple": "시간이 한참 지난 뒤 끝내",
+    "examples": [
+     {
+      "en": "We got lost, but eventually we found our way back to the car.",
+      "ko": "우리는 길을 잃었지만 결국 차로 돌아가는 길을 찾았다."
+     },
+     {
+      "en": "If you keep practicing, you will eventually learn to juggle.",
+      "ko": "계속 연습하면 결국 저글링을 배우게 될 거야."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "immediately",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "Right away; at once, with no waiting.",
+    "ko": "즉시, 곧바로",
+    "ko_simple": "기다리지 않고 바로",
+    "examples": [
+     {
+      "en": "When the fire alarm rang, we immediately lined up at the door.",
+      "ko": "화재경보가 울리자 우리는 곧바로 문 앞에 줄을 섰다."
+     },
+     {
+      "en": "Come here immediately and clean up this mess!",
+      "ko": "당장 이리 와서 이 엉망인 것 좀 치워!"
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "immediate"
+  ],
+  "picture": false
+ },
+ {
+  "word": "reluctantly",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "In a way that shows you do not really want to do something.",
+    "ko": "마지못해, 억지로",
+    "ko_simple": "하기 싫지만 어쩔 수 없이",
+    "examples": [
+     {
+      "en": "I reluctantly turned off the video game and went to bed.",
+      "ko": "나는 마지못해 비디오 게임을 끄고 잠자리에 들었다."
+     },
+     {
+      "en": "The dog reluctantly let go of the stick.",
+      "ko": "개는 마지못해 막대기를 놓았다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "suddenly",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "Very quickly, when you do not expect it.",
+    "ko": "갑자기",
+    "ko_simple": "예상하지 못했는데 순간적으로",
+    "examples": [
+     {
+      "en": "Suddenly, the lights went out and everyone screamed.",
+      "ko": "갑자기 불이 꺼져서 모두가 비명을 질렀다."
+     },
+     {
+      "en": "The rain stopped suddenly, and a rainbow appeared.",
+      "ko": "비가 갑자기 그치더니 무지개가 떴다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "sudden"
+  ],
+  "picture": false
+ },
+ {
+  "word": "gradually",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "Slowly, a little bit at a time.",
+    "ko": "점차, 서서히",
+    "ko_simple": "조금씩 천천히",
+    "examples": [
+     {
+      "en": "The sky gradually turned from pink to dark blue.",
+      "ko": "하늘이 분홍색에서 짙은 파란색으로 서서히 변했다."
+     },
+     {
+      "en": "My puppy gradually learned to stop chewing shoes.",
+      "ko": "우리 강아지는 차츰 신발을 물어뜯지 않게 되었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "gradual"
+  ],
+  "picture": false
+ },
+ {
+  "word": "cautiously",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "Carefully, so that you stay safe and avoid mistakes.",
+    "ko": "조심스럽게, 신중하게",
+    "ko_simple": "위험하지 않게 아주 조심해서",
+    "examples": [
+     {
+      "en": "I cautiously stepped onto the frozen pond.",
+      "ko": "나는 조심스럽게 얼어붙은 연못 위로 발을 내디뎠다."
+     },
+     {
+      "en": "The kitten cautiously sniffed the new toy.",
+      "ko": "새끼 고양이는 새 장난감 냄새를 조심스럽게 맡았다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "eagerly",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "In a way that shows you really want to do or have something.",
+    "ko": "열심히, 간절히, 열렬히",
+    "ko_simple": "몹시 하고 싶어서 들뜬 모습으로",
+    "examples": [
+     {
+      "en": "The kids eagerly opened their presents.",
+      "ko": "아이들은 들뜬 마음으로 선물을 뜯었다."
+     },
+     {
+      "en": "My dog waits eagerly by the door for me.",
+      "ko": "우리 개는 문 옆에서 나를 애타게 기다린다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "desperately",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "In a way that shows you want or need something very badly.",
+    "ko": "필사적으로, 몹시",
+    "ko_simple": "너무 간절해서 무엇이든 하려는 듯이",
+    "examples": [
+     {
+      "en": "I desperately wanted a puppy for my birthday.",
+      "ko": "나는 생일 선물로 강아지를 몹시 갖고 싶었다."
+     },
+     {
+      "en": "The cat desperately tried to climb out of the bathtub.",
+      "ko": "고양이는 욕조에서 빠져나오려고 필사적으로 버둥거렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "rarely",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "Not often; only once in a while.",
+    "ko": "좀처럼 ~않는, 드물게",
+    "ko_simple": "거의 하지 않는",
+    "examples": [
+     {
+      "en": "It rarely snows in Florida.",
+      "ko": "플로리다에는 눈이 거의 오지 않는다."
+     },
+     {
+      "en": "My dad rarely gets angry.",
+      "ko": "우리 아빠는 좀처럼 화를 내지 않으신다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "seldom",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "Almost never; not very often.",
+    "ko": "좀처럼 ~않는, 거의 ~않는",
+    "ko_simple": "거의 하지 않는",
+    "examples": [
+     {
+      "en": "We seldom eat dessert before dinner.",
+      "ko": "우리는 저녁 전에 디저트를 먹는 일이 거의 없다."
+     },
+     {
+      "en": "The shy owl is seldom seen during the day.",
+      "ko": "수줍음 많은 부엉이는 낮에는 좀처럼 보이지 않는다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "barely",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "Only just; almost not.",
+    "ko": "간신히, 겨우, 거의 ~않는",
+    "ko_simple": "겨우 될까 말까 할 정도로",
+    "examples": [
+     {
+      "en": "I barely made it to the bus before it left.",
+      "ko": "나는 버스가 떠나기 직전에 간신히 탔다."
+     },
+     {
+      "en": "The baby was so tired that she could barely keep her eyes open.",
+      "ko": "아기는 너무 졸려서 눈을 거의 뜨지 못했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "hardly",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "Almost not at all.",
+    "ko": "거의 ~않다",
+    "ko_simple": "거의 안 하는",
+    "examples": [
+     {
+      "en": "I could hardly see through the thick fog.",
+      "ko": "짙은 안개 때문에 앞이 거의 보이지 않았다."
+     },
+     {
+      "en": "We hardly ever go to the movies.",
+      "ko": "우리는 영화관에 거의 가지 않는다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "entirely",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "Completely; in every way.",
+    "ko": "완전히, 전적으로",
+    "ko_simple": "하나도 빠짐없이 전부",
+    "examples": [
+     {
+      "en": "The cake was eaten entirely by the end of the party.",
+      "ko": "파티가 끝날 무렵 케이크는 완전히 다 먹어 치워졌다."
+     },
+     {
+      "en": "I am not entirely sure where I left my shoes.",
+      "ko": "신발을 어디 두었는지 완전히 확실하지는 않다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "entire"
+  ],
+  "picture": false
+ },
+ {
+  "word": "absolutely",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "Completely; also used to mean \"yes, for sure.\"",
+    "ko": "절대적으로, 완전히, 물론이지",
+    "ko_simple": "전부 다 그렇다, 또는 당연히 그렇다",
+    "examples": [
+     {
+      "en": "The movie was absolutely amazing!",
+      "ko": "그 영화는 정말 완전 최고였어!"
+     },
+     {
+      "en": "\"Can I have more ice cream?\" \"Absolutely!\"",
+      "ko": "\"아이스크림 더 먹어도 돼요?\" \"물론이지!\""
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "absolute"
+  ],
+  "picture": false
+ },
+ {
+  "word": "definitely",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "Surely; without any doubt.",
+    "ko": "확실히, 분명히",
+    "ko_simple": "틀림없이",
+    "examples": [
+     {
+      "en": "I am definitely going to the party on Saturday.",
+      "ko": "나는 토요일 파티에 꼭 갈 거야."
+     },
+     {
+      "en": "That was definitely the best pizza I've ever had.",
+      "ko": "그건 분명 내가 먹어 본 피자 중 최고였다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "definite"
+  ],
+  "picture": false
+ },
+ {
+  "word": "certainly",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "Surely; with no doubt; also a polite way to say yes.",
+    "ko": "확실히, 틀림없이, 물론이죠",
+    "ko_simple": "틀림없이 그렇다, 또는 공손하게 '그럼요'",
+    "examples": [
+     {
+      "en": "You certainly worked hard on that sand castle!",
+      "ko": "너 그 모래성 정말 열심히 만들었구나!"
+     },
+     {
+      "en": "\"May I borrow a pencil?\" \"Certainly.\"",
+      "ko": "\"연필 좀 빌려도 될까요?\" \"그럼요.\""
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "certain"
+  ],
+  "picture": false
+ },
+ {
+  "word": "instantly",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "At once; right at that moment.",
+    "ko": "즉시, 순식간에",
+    "ko_simple": "바로 그 순간에",
+    "examples": [
+     {
+      "en": "The snowflake melted instantly on my warm hand.",
+      "ko": "눈송이가 따뜻한 내 손에 닿자마자 녹았다."
+     },
+     {
+      "en": "I liked my new teacher instantly.",
+      "ko": "나는 새 선생님이 단번에 좋아졌다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "instant"
+  ],
+  "picture": false
+ },
+ {
+  "word": "abruptly",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "Suddenly and quickly, often in a rude or surprising way.",
+    "ko": "갑자기, 불쑥",
+    "ko_simple": "예고 없이 뚝, 갑작스럽게",
+    "examples": [
+     {
+      "en": "The music stopped abruptly in the middle of the song.",
+      "ko": "노래 중간에 음악이 뚝 끊겼다."
+     },
+     {
+      "en": "He left the room abruptly without saying goodbye.",
+      "ko": "그는 인사도 없이 불쑥 방을 나가 버렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "abrupt"
+  ],
+  "picture": false
+ },
+ {
+  "word": "briefly",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "For a short time, or in just a few words.",
+    "ko": "잠시, 간단히",
+    "ko_simple": "짧은 시간 동안, 또는 짧게",
+    "examples": [
+     {
+      "en": "The sun came out briefly before more rain.",
+      "ko": "비가 더 오기 전에 잠깐 해가 났다."
+     },
+     {
+      "en": "Please tell us briefly what your book is about.",
+      "ko": "네 책이 무슨 내용인지 간단히 말해 줘."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "brief"
+  ],
+  "picture": false
+ },
+ {
+  "word": "constantly",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "All the time, without stopping.",
+    "ko": "끊임없이, 계속",
+    "ko_simple": "쉬지 않고 늘",
+    "examples": [
+     {
+      "en": "My little brother talks constantly.",
+      "ko": "내 남동생은 쉴 새 없이 떠든다."
+     },
+     {
+      "en": "The puppy constantly follows me around the house.",
+      "ko": "강아지는 집 안에서 계속 나를 졸졸 따라다닌다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "constant"
+  ],
+  "picture": false
+ },
+ {
+  "word": "frequently",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "Often; many times.",
+    "ko": "자주, 빈번히",
+    "ko_simple": "여러 번 자주",
+    "examples": [
+     {
+      "en": "We frequently go to the park on weekends.",
+      "ko": "우리는 주말에 자주 공원에 간다."
+     },
+     {
+      "en": "Wash your hands frequently during flu season.",
+      "ko": "독감 철에는 손을 자주 씻어라."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "frequent"
+  ],
+  "picture": false
+ },
+ {
+  "word": "occasionally",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "Sometimes, but not often.",
+    "ko": "가끔, 이따금",
+    "ko_simple": "자주는 아니고 때때로",
+    "examples": [
+     {
+      "en": "We occasionally have pancakes for dinner.",
+      "ko": "우리는 가끔 저녁으로 팬케이크를 먹는다."
+     },
+     {
+      "en": "Occasionally, a deer walks through our backyard.",
+      "ko": "이따금 사슴이 우리 뒷마당을 지나간다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "occasional"
+  ],
+  "picture": false
+ },
+ {
+  "word": "recently",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "Not long ago.",
+    "ko": "최근에",
+    "ko_simple": "얼마 전에",
+    "examples": [
+     {
+      "en": "We recently moved to a new town.",
+      "ko": "우리는 최근에 새 동네로 이사했다."
+     },
+     {
+      "en": "Have you read any good books recently?",
+      "ko": "최근에 재미있는 책 읽은 거 있어?"
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "recent"
+  ],
+  "picture": false
+ },
+ {
+  "word": "previously",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "Before now, or before another time.",
+    "ko": "이전에, 앞서",
+    "ko_simple": "그 전에",
+    "examples": [
+     {
+      "en": "The house was previously owned by a famous artist.",
+      "ko": "그 집은 이전에 유명한 화가의 소유였다."
+     },
+     {
+      "en": "I had previously visited the zoo with my class.",
+      "ko": "나는 전에 반 친구들과 그 동물원에 가 본 적이 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "previous"
+  ],
+  "picture": false
+ },
+ {
+  "word": "meanwhile",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "At the same time, while something else is happening.",
+    "ko": "그동안에, 한편",
+    "ko_simple": "다른 일이 일어나는 바로 그때",
+    "examples": [
+     {
+      "en": "Mom cooked dinner. Meanwhile, I set the table.",
+      "ko": "엄마는 저녁을 하셨다. 그동안 나는 상을 차렸다."
+     },
+     {
+      "en": "The hero searched the castle; meanwhile, the dragon slept.",
+      "ko": "영웅은 성을 뒤졌다. 한편 용은 잠들어 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "afterward",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "Later; after something else has happened.",
+    "ko": "나중에, 그 후에",
+    "ko_simple": "어떤 일이 끝난 뒤에",
+    "examples": [
+     {
+      "en": "We went swimming, and afterward we got ice cream.",
+      "ko": "우리는 수영을 하고 그 후에 아이스크림을 먹었다."
+     },
+     {
+      "en": "I was nervous during the play, but I felt proud afterward.",
+      "ko": "연극하는 동안은 떨렸지만 끝나고 나니 뿌듯했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "afterwards"
+  ],
+  "picture": false
+ },
+ {
+  "word": "beforehand",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "Earlier; before something else happens.",
+    "ko": "미리, 사전에",
+    "ko_simple": "어떤 일이 있기 전에 먼저",
+    "examples": [
+     {
+      "en": "Pack your bag beforehand so you are ready in the morning.",
+      "ko": "아침에 바로 나갈 수 있게 미리 가방을 싸 둬."
+     },
+     {
+      "en": "Tell me beforehand if you are bringing a friend.",
+      "ko": "친구를 데려올 거면 미리 말해 줘."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "however",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "But; used to say something that is different from what you just said.",
+    "ko": "그러나, 하지만",
+    "ko_simple": "앞에서 한 말과 반대되는 말을 할 때 쓰는 '하지만'",
+    "examples": [
+     {
+      "en": "I wanted to go outside. However, it was pouring rain.",
+      "ko": "나는 밖에 나가고 싶었다. 하지만 비가 억수같이 쏟아졌다."
+     },
+     {
+      "en": "The test was hard; however, I think I did well.",
+      "ko": "시험은 어려웠다. 그래도 잘 본 것 같다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "therefore",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "For that reason; so.",
+    "ko": "그러므로, 따라서",
+    "ko_simple": "그런 까닭에",
+    "examples": [
+     {
+      "en": "It was snowing hard; therefore, school was closed.",
+      "ko": "눈이 많이 내렸다. 그래서 학교가 문을 닫았다."
+     },
+     {
+      "en": "I forgot my lunch. Therefore, I had to buy one.",
+      "ko": "점심을 깜빡했다. 그래서 사 먹어야 했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "otherwise",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "If not; or else.",
+    "ko": "그렇지 않으면",
+    "ko_simple": "만약 그렇게 하지 않으면",
+    "examples": [
+     {
+      "en": "Wear your coat; otherwise, you will be cold.",
+      "ko": "코트 입어. 안 그러면 추울 거야."
+     },
+     {
+      "en": "Hurry up, otherwise we'll miss the movie.",
+      "ko": "서둘러, 안 그러면 영화 놓친다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "especially",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "More than usual; above all others.",
+    "ko": "특히, 특별히",
+    "ko_simple": "다른 것보다 더",
+    "examples": [
+     {
+      "en": "I love fruit, especially strawberries.",
+      "ko": "나는 과일을 좋아하는데, 특히 딸기를 좋아한다."
+     },
+     {
+      "en": "It is especially cold today.",
+      "ko": "오늘은 특히 춥다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "extremely",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "Very, very much.",
+    "ko": "극도로, 매우",
+    "ko_simple": "아주아주",
+    "examples": [
+     {
+      "en": "The roller coaster was extremely fast.",
+      "ko": "롤러코스터가 엄청나게 빨랐다."
+     },
+     {
+      "en": "I was extremely hungry after soccer practice.",
+      "ko": "축구 연습이 끝나고 나는 배가 몹시 고팠다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "extreme"
+  ],
+  "picture": false
+ },
+ {
+  "word": "rather",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "A little or fairly; also used to say you would like one thing more than another.",
+    "ko": "꽤, 다소, 차라리",
+    "ko_simple": "조금 그렇다, 또는 어떤 것을 더 원할 때",
+    "examples": [
+     {
+      "en": "It was rather cold, so we wore hats.",
+      "ko": "꽤 추워서 우리는 모자를 썼다."
+     },
+     {
+      "en": "I would rather play outside than watch TV.",
+      "ko": "나는 텔레비전을 보느니 밖에서 노는 게 낫다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "somewhat",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "A little; partly.",
+    "ko": "어느 정도, 다소",
+    "ko_simple": "조금은",
+    "examples": [
+     {
+      "en": "The water was somewhat warm, but still nice for swimming.",
+      "ko": "물이 약간 미지근했지만 그래도 수영하기 좋았다."
+     },
+     {
+      "en": "I was somewhat nervous about meeting my new teacher.",
+      "ko": "새 선생님을 만나는 게 조금 긴장됐다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "merely",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "Only; just.",
+    "ko": "단지, 그저",
+    "ko_simple": "그저 ~일 뿐",
+    "examples": [
+     {
+      "en": "It was merely a scratch, not a real cut.",
+      "ko": "그건 진짜 베인 상처가 아니라 그냥 긁힌 것뿐이었다."
+     },
+     {
+      "en": "The scary noise was merely the wind.",
+      "ko": "무서운 소리는 그저 바람 소리였을 뿐이다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "mere"
+  ],
+  "picture": false
+ },
+ {
+  "word": "precisely",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "Exactly.",
+    "ko": "정확히, 바로",
+    "ko_simple": "딱 맞게, 꼭 그렇게",
+    "examples": [
+     {
+      "en": "The train left at precisely 8:00.",
+      "ko": "기차는 정확히 8시에 떠났다."
+     },
+     {
+      "en": "\"So you think the butler did it?\" \"Precisely!\"",
+      "ko": "\"그럼 집사가 범인이라고 생각하는 거야?\" \"바로 그거야!\""
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "precise"
+  ],
+  "picture": false
+ },
+ {
+  "word": "wearily",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "In a very tired way.",
+    "ko": "지쳐서, 피곤하게",
+    "ko_simple": "몹시 지친 모습으로",
+    "examples": [
+     {
+      "en": "The hikers wearily climbed the last hill.",
+      "ko": "등산객들은 지친 몸으로 마지막 언덕을 올랐다."
+     },
+     {
+      "en": "Dad smiled wearily after the long day.",
+      "ko": "긴 하루를 보낸 아빠는 피곤한 듯 웃으셨다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "weary"
+  ],
+  "picture": false
+ },
+ {
+  "word": "sheepishly",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "In an embarrassed way, because you did something silly or wrong.",
+    "ko": "멋쩍게, 쑥스럽게",
+    "ko_simple": "바보 같은 실수를 해서 쑥스러워하며",
+    "examples": [
+     {
+      "en": "\"I forgot my homework again,\" Mia said sheepishly.",
+      "ko": "\"숙제를 또 깜빡했어요.\" 미아가 멋쩍게 말했다."
+     },
+     {
+      "en": "He grinned sheepishly when he got caught eating the frosting.",
+      "ko": "그는 케이크 크림을 먹다 들키자 멋쩍게 씩 웃었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "sheepish"
+  ],
+  "picture": false
+ },
+ {
+  "word": "hastily",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "Quickly and in a hurry, sometimes too fast to be careful.",
+    "ko": "서둘러, 급히",
+    "ko_simple": "급하게 허둥지둥",
+    "examples": [
+     {
+      "en": "I hastily wrote my name and turned in the test.",
+      "ko": "나는 서둘러 이름을 쓰고 시험지를 냈다."
+     },
+     {
+      "en": "He hastily hid the present behind his back.",
+      "ko": "그는 급히 선물을 등 뒤로 숨겼다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "hasty",
+   "haste"
+  ],
+  "picture": false
+ },
+ {
+  "word": "silently",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "Without making any sound.",
+    "ko": "조용히, 소리 없이",
+    "ko_simple": "아무 소리도 내지 않고",
+    "examples": [
+     {
+      "en": "The snow fell silently all night.",
+      "ko": "눈이 밤새 소리 없이 내렸다."
+     },
+     {
+      "en": "We read silently in the library.",
+      "ko": "우리는 도서관에서 조용히 책을 읽었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "silent"
+  ],
+  "picture": false
+ },
+ {
+  "word": "stealthily",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "Quietly and secretly so no one notices.",
+    "ko": "몰래, 살금살금",
+    "ko_simple": "남이 모르게 조용히",
+    "examples": [
+     {
+      "en": "The cat moved stealthily toward the bird.",
+      "ko": "고양이가 살금살금 새에게 다가갔다."
+     },
+     {
+      "en": "I stealthily took a cookie from the jar.",
+      "ko": "나는 쿠키 통에서 쿠키 하나를 몰래 꺼냈다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "stealthy",
+   "stealth"
+  ],
+  "picture": false
+ },
+ {
+  "word": "triumphantly",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "In a proud, happy way because you won or did something hard.",
+    "ko": "의기양양하게, 승리감에 차서",
+    "ko_simple": "이겨서 뿌듯하고 신난 모습으로",
+    "examples": [
+     {
+      "en": "She held the trophy up triumphantly.",
+      "ko": "그녀는 의기양양하게 트로피를 높이 들었다."
+     },
+     {
+      "en": "\"I finished the puzzle!\" Leo shouted triumphantly.",
+      "ko": "\"퍼즐 다 맞췄다!\" 레오가 신이 나서 외쳤다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "triumph",
+   "triumphant"
+  ],
+  "picture": false
+ },
+ {
+  "word": "gracefully",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "In a smooth, beautiful way.",
+    "ko": "우아하게",
+    "ko_simple": "부드럽고 아름다운 몸짓으로",
+    "examples": [
+     {
+      "en": "The ballerina spun gracefully across the stage.",
+      "ko": "발레리나가 무대를 가로지르며 우아하게 돌았다."
+     },
+     {
+      "en": "The deer leaped gracefully over the fence.",
+      "ko": "사슴이 울타리를 우아하게 뛰어넘었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "graceful",
+   "grace"
+  ],
+  "picture": false
+ },
+ {
+  "word": "awkwardly",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "In a clumsy or uncomfortable way.",
+    "ko": "어색하게, 서투르게",
+    "ko_simple": "자연스럽지 못하고 어설프게",
+    "examples": [
+     {
+      "en": "I waved awkwardly at a kid who wasn't waving at me.",
+      "ko": "나에게 손을 흔들지도 않은 아이에게 어색하게 손을 흔들었다."
+     },
+     {
+      "en": "The baby giraffe walked awkwardly on its long legs.",
+      "ko": "아기 기린이 긴 다리로 어설프게 걸었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "awkward"
+  ],
+  "picture": false
+ },
+ {
+  "word": "thoroughly",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "Completely and carefully, doing every part.",
+    "ko": "철저히, 꼼꼼히",
+    "ko_simple": "빠진 데 없이 꼼꼼하게",
+    "examples": [
+     {
+      "en": "Wash the vegetables thoroughly before you eat them.",
+      "ko": "채소는 먹기 전에 꼼꼼히 씻어라."
+     },
+     {
+      "en": "We searched the house thoroughly for the missing hamster.",
+      "ko": "우리는 사라진 햄스터를 찾으려고 집을 샅샅이 뒤졌다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "thorough"
+  ],
+  "picture": false
+ },
+ {
+  "word": "unexpectedly",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "In a way that surprises you because you did not think it would happen.",
+    "ko": "뜻밖에, 예상외로",
+    "ko_simple": "생각지도 못하게",
+    "examples": [
+     {
+      "en": "My aunt visited unexpectedly on Sunday.",
+      "ko": "이모가 일요일에 예고 없이 찾아오셨다."
+     },
+     {
+      "en": "The game ended unexpectedly when the power went out.",
+      "ko": "정전이 되어 경기가 뜻밖에 끝나 버렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "unexpected"
+  ],
+  "picture": false
+ },
+ {
+  "word": "accidentally",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "By mistake; not on purpose.",
+    "ko": "우연히, 실수로",
+    "ko_simple": "일부러 그런 게 아니라 실수로",
+    "examples": [
+     {
+      "en": "I accidentally sent the text to my teacher instead of my mom.",
+      "ko": "나는 실수로 엄마 대신 선생님께 문자를 보냈다."
+     },
+     {
+      "en": "He accidentally sat on his sandwich.",
+      "ko": "그는 실수로 자기 샌드위치 위에 앉았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "accident",
+   "accidental"
+  ],
+  "picture": false
+ },
+ {
+  "word": "deliberately",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "On purpose; not by accident.",
+    "ko": "일부러, 고의로",
+    "ko_simple": "실수가 아니라 일부러",
+    "examples": [
+     {
+      "en": "My brother deliberately stepped in every puddle.",
+      "ko": "남동생은 일부러 물웅덩이마다 발을 디뎠다."
+     },
+     {
+      "en": "She deliberately left the last cookie for me.",
+      "ko": "그녀는 일부러 마지막 쿠키를 나를 위해 남겨 두었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "deliberate"
+  ],
+  "picture": false
+ },
+ {
+  "word": "apparently",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "It seems to be true, from what you have seen or heard.",
+    "ko": "보아하니, 듣자 하니",
+    "ko_simple": "겉으로 보거나 들은 바로는",
+    "examples": [
+     {
+      "en": "Apparently, the new kid can speak three languages.",
+      "ko": "듣자 하니 전학 온 아이는 세 가지 언어를 할 줄 안대."
+     },
+     {
+      "en": "The dog was apparently not hungry, because it ignored its food.",
+      "ko": "개는 밥을 쳐다보지도 않는 걸 보니 배가 고프지 않은 모양이었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "apparent"
+  ],
+  "picture": false
+ },
+ {
+  "word": "obviously",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "In a way that is easy to see or understand.",
+    "ko": "분명히, 명백히",
+    "ko_simple": "누구나 쉽게 알 수 있게",
+    "examples": [
+     {
+      "en": "The cat was obviously the one who knocked over the vase.",
+      "ko": "꽃병을 쓰러뜨린 건 분명히 고양이였다."
+     },
+     {
+      "en": "You are obviously tired; go to bed.",
+      "ko": "너 딱 봐도 피곤해 보여. 가서 자."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "obvious"
+  ],
+  "picture": false
+ },
+ {
+  "word": "fortunately",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "Luckily; by good luck.",
+    "ko": "다행히도, 운 좋게",
+    "ko_simple": "운이 좋게도",
+    "examples": [
+     {
+      "en": "Fortunately, I found my lost mitten in the snow.",
+      "ko": "다행히도 나는 눈 속에서 잃어버린 벙어리장갑을 찾았다."
+     },
+     {
+      "en": "It rained all morning, but fortunately it stopped before the game.",
+      "ko": "아침 내내 비가 왔지만 다행히 경기 전에 그쳤다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "fortunate"
+  ],
+  "picture": false
+ },
+ {
+  "word": "unfortunately",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "Sadly; by bad luck.",
+    "ko": "불행히도, 안타깝게도",
+    "ko_simple": "운이 나쁘게도",
+    "examples": [
+     {
+      "en": "Unfortunately, the zoo was closed when we got there.",
+      "ko": "안타깝게도 우리가 도착했을 때 동물원은 문을 닫았다."
+     },
+     {
+      "en": "I studied hard, but unfortunately I still missed two words.",
+      "ko": "열심히 공부했지만 안타깝게도 두 단어를 틀렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "unfortunate"
+  ],
+  "picture": false
+ },
+ {
+  "word": "indeed",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "Really; truly (used to agree or make something stronger).",
+    "ko": "정말로, 참으로",
+    "ko_simple": "정말 그렇다는 뜻을 강하게 할 때",
+    "examples": [
+     {
+      "en": "\"Is it cold outside?\" \"Yes, indeed!\"",
+      "ko": "\"밖에 추워?\" \"응, 정말 추워!\""
+     },
+     {
+      "en": "The pie was very good indeed.",
+      "ko": "파이가 정말 참 맛있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "nearby",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "Close by; not far away.",
+    "ko": "근처에, 가까이에",
+    "ko_simple": "멀지 않은 곳에",
+    "examples": [
+     {
+      "en": "We stayed at a hotel with a beach nearby.",
+      "ko": "우리는 근처에 해변이 있는 호텔에 묵었다."
+     },
+     {
+      "en": "A deer was standing nearby, watching us.",
+      "ko": "사슴 한 마리가 가까이 서서 우리를 보고 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "anyway",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adverb",
+    "simple": "In spite of something; or used to change the subject back to the main point.",
+    "ko": "어쨌든, 그래도",
+    "ko_simple": "그래도 상관없이, 또는 이야기를 다시 돌릴 때",
+    "examples": [
+     {
+      "en": "It was raining, but we went to the park anyway.",
+      "ko": "비가 왔지만 우리는 그래도 공원에 갔다."
+     },
+     {
+      "en": "Anyway, as I was saying, the dog ate my sock.",
+      "ko": "아무튼, 아까 하던 얘기 말인데, 개가 내 양말을 먹었어."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "exclaim",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To say something suddenly and loudly because you are surprised, excited, or angry.",
+    "ko": "외치다, 소리치다",
+    "ko_simple": "놀라거나 신나서 갑자기 크게 말하다",
+    "examples": [
+     {
+      "en": "\"Look, a shooting star!\" Ava exclaimed.",
+      "ko": "\"봐, 별똥별이야!\" 에이바가 외쳤다."
+     },
+     {
+      "en": "\"You ate the whole thing?\" Mom exclaimed.",
+      "ko": "\"그걸 다 먹었다고?\" 엄마가 소리치셨다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "exclaims",
+   "exclaimed",
+   "exclaiming",
+   "exclamation"
+  ],
+  "picture": false
+ },
+ {
+  "word": "complain",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To say that you are unhappy or annoyed about something.",
+    "ko": "불평하다, 투덜대다",
+    "ko_simple": "마음에 안 든다고 말하다",
+    "examples": [
+     {
+      "en": "My brother always complains about eating vegetables.",
+      "ko": "형은 늘 채소 먹는 걸 불평한다."
+     },
+     {
+      "en": "The neighbors complained that our music was too loud.",
+      "ko": "이웃들은 우리 음악 소리가 너무 크다고 항의했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "complains",
+   "complained",
+   "complaining",
+   "complaint"
+  ],
+  "picture": false
+ },
+ {
+  "word": "demand",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To ask for something strongly, as if you must have it.",
+    "ko": "요구하다",
+    "ko_simple": "꼭 달라고 강하게 말하다",
+    "examples": [
+     {
+      "en": "The toddler demanded another cookie.",
+      "ko": "아기는 쿠키를 하나 더 달라고 떼를 썼다."
+     },
+     {
+      "en": "\"Who ate my cake?\" Dad demanded.",
+      "ko": "\"누가 내 케이크 먹었어?\" 아빠가 따져 물으셨다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "demands",
+   "demanded",
+   "demanding"
+  ],
+  "picture": false
+ },
+ {
+  "word": "admit",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To say that something is true, often something you did wrong.",
+    "ko": "인정하다, 시인하다",
+    "ko_simple": "잘못한 것이 사실이라고 털어놓다",
+    "examples": [
+     {
+      "en": "Leo admitted that he broke the vase.",
+      "ko": "레오는 꽃병을 깼다고 인정했다."
+     },
+     {
+      "en": "I have to admit, your idea is better than mine.",
+      "ko": "솔직히 말하면 네 생각이 내 생각보다 낫다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "admits",
+   "admitted",
+   "admitting"
+  ],
+  "picture": false
+ },
+ {
+  "word": "apologize",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To say you are sorry for something you did.",
+    "ko": "사과하다",
+    "ko_simple": "잘못한 일에 대해 미안하다고 말하다",
+    "examples": [
+     {
+      "en": "I apologized to my sister for reading her diary.",
+      "ko": "나는 언니 일기를 읽은 것에 대해 언니에게 사과했다."
+     },
+     {
+      "en": "The bus driver apologized for being late.",
+      "ko": "버스 기사님은 늦어서 미안하다고 사과하셨다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "apologizes",
+   "apologized",
+   "apologizing",
+   "apology"
+  ],
+  "picture": false
+ },
+ {
+  "word": "confess",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To tell someone about something bad you did, especially something secret.",
+    "ko": "자백하다, 고백하다",
+    "ko_simple": "숨겨 왔던 잘못을 털어놓다",
+    "examples": [
+     {
+      "en": "The boy confessed that he had hidden the remote.",
+      "ko": "소년은 리모컨을 숨긴 게 자기라고 털어놓았다."
+     },
+     {
+      "en": "I must confess, I ate the last cookie.",
+      "ko": "고백할게, 마지막 쿠키는 내가 먹었어."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "confesses",
+   "confessed",
+   "confessing",
+   "confession"
+  ],
+  "picture": false
+ },
+ {
+  "word": "persuade",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To get someone to do or believe something by giving good reasons.",
+    "ko": "설득하다",
+    "ko_simple": "좋은 이유를 들어 남이 내 말대로 하게 만들다",
+    "examples": [
+     {
+      "en": "I persuaded my parents to let me get a hamster.",
+      "ko": "나는 부모님을 설득해서 햄스터를 키우게 되었다."
+     },
+     {
+      "en": "She tried to persuade her friends to try the spicy soup.",
+      "ko": "그녀는 친구들에게 매운 수프를 먹어 보라고 설득했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "persuades",
+   "persuaded",
+   "persuading"
+  ],
+  "picture": false
+ },
+ {
+  "word": "encourage",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To give someone hope or confidence, or to help them want to do something.",
+    "ko": "격려하다, 용기를 주다",
+    "ko_simple": "힘을 내서 해 보라고 북돋아 주다",
+    "examples": [
+     {
+      "en": "My coach encouraged me to keep trying after I missed the shot.",
+      "ko": "코치님은 내가 슛을 놓친 뒤에도 계속 해 보라고 격려해 주셨다."
+     },
+     {
+      "en": "The crowd cheered to encourage the last runner.",
+      "ko": "관중들은 마지막 주자에게 힘을 주려고 환호했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "encourages",
+   "encouraged",
+   "encouraging",
+   "encouragement"
+  ],
+  "picture": false
+ },
+ {
+  "word": "comfort",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To make someone feel better when they are sad or hurt.",
+    "ko": "위로하다, 달래다",
+    "ko_simple": "슬프거나 아픈 사람의 마음을 편하게 해 주다",
+    "examples": [
+     {
+      "en": "I hugged my friend to comfort her when she lost her cat.",
+      "ko": "친구가 고양이를 잃어버렸을 때 나는 안아 주며 위로했다."
+     },
+     {
+      "en": "Mom comforted the baby by singing softly.",
+      "ko": "엄마는 노래를 조용히 불러 아기를 달래셨다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "comforts",
+   "comforted",
+   "comforting"
+  ],
+  "picture": false
+ },
+ {
+  "word": "ignore",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To pay no attention to something or someone on purpose.",
+    "ko": "무시하다, 모른 척하다",
+    "ko_simple": "일부러 못 본 척, 못 들은 척하다",
+    "examples": [
+     {
+      "en": "Try to ignore your brother when he makes silly faces.",
+      "ko": "동생이 웃긴 표정을 지으면 그냥 모른 척해."
+     },
+     {
+      "en": "The cat ignored the expensive toy and played with the box.",
+      "ko": "고양이는 비싼 장난감은 본 척도 안 하고 상자를 가지고 놀았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "ignores",
+   "ignored",
+   "ignoring"
+  ],
+  "picture": false
+ },
+ {
+  "word": "interrupt",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To stop someone while they are talking or doing something.",
+    "ko": "방해하다, 끼어들다",
+    "ko_simple": "남이 말하거나 무엇을 하는 중에 끼어들어 멈추게 하다",
+    "examples": [
+     {
+      "en": "Please don't interrupt while I'm talking.",
+      "ko": "내가 말하는 동안 끼어들지 마."
+     },
+     {
+      "en": "A loud phone interrupted the movie.",
+      "ko": "시끄러운 전화벨 소리가 영화를 방해했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "interrupts",
+   "interrupted",
+   "interrupting",
+   "interruption"
+  ],
+  "picture": false
+ },
+ {
+  "word": "realize",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To suddenly understand or notice something.",
+    "ko": "깨닫다, 알아차리다",
+    "ko_simple": "어떤 것을 문득 알게 되다",
+    "examples": [
+     {
+      "en": "I realized I had forgotten my lunch when the bell rang.",
+      "ko": "종이 울렸을 때에야 점심을 두고 온 걸 깨달았다."
+     },
+     {
+      "en": "She didn't realize her shirt was on backwards.",
+      "ko": "그녀는 셔츠를 거꾸로 입은 것을 알아차리지 못했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "realizes",
+   "realized",
+   "realizing"
+  ],
+  "picture": false
+ },
+ {
+  "word": "recognize",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To know who someone is or what something is because you have seen or heard it before.",
+    "ko": "알아보다, 인식하다",
+    "ko_simple": "전에 본 적이 있어서 누군지 무엇인지 알다",
+    "examples": [
+     {
+      "en": "I didn't recognize my teacher without her glasses.",
+      "ko": "안경을 안 쓰신 선생님을 나는 못 알아봤다."
+     },
+     {
+      "en": "The dog recognized my voice and ran to me.",
+      "ko": "개가 내 목소리를 알아듣고 나에게 달려왔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "recognizes",
+   "recognized",
+   "recognizing"
+  ],
+  "picture": false
+ },
+ {
+  "word": "pretend",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To act as if something is true when it is not, often as a game.",
+    "ko": "~인 척하다, 흉내 내다",
+    "ko_simple": "사실이 아닌데 그런 것처럼 하다",
+    "examples": [
+     {
+      "en": "We pretended the floor was hot lava.",
+      "ko": "우리는 바닥이 뜨거운 용암인 척 놀았다."
+     },
+     {
+      "en": "He pretended to be asleep when Mom checked on him.",
+      "ko": "엄마가 들여다보시자 그는 자는 척했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "pretends",
+   "pretended",
+   "pretending"
+  ],
+  "picture": false
+ },
+ {
+  "word": "refuse",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To say no; to not do or accept something.",
+    "ko": "거절하다, 거부하다",
+    "ko_simple": "싫다고 하고 하지 않다",
+    "examples": [
+     {
+      "en": "The cat refused to come out from under the bed.",
+      "ko": "고양이는 침대 밑에서 나오지 않으려고 했다."
+     },
+     {
+      "en": "My sister refused to share her popcorn.",
+      "ko": "언니는 팝콘을 나눠 주지 않겠다고 했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "refuses",
+   "refused",
+   "refusing"
+  ],
+  "picture": false
+ },
+ {
+  "word": "rescue",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To save someone or something from danger.",
+    "ko": "구조하다, 구하다",
+    "ko_simple": "위험에 빠진 사람이나 동물을 구해 내다",
+    "examples": [
+     {
+      "en": "The firefighters rescued a kitten from the tall tree.",
+      "ko": "소방관들이 높은 나무에서 새끼 고양이를 구조했다."
+     },
+     {
+      "en": "The lifeguard rescued a boy who was caught by a big wave.",
+      "ko": "안전요원이 큰 파도에 휩쓸린 소년을 구했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "rescues",
+   "rescued",
+   "rescuing"
+  ],
+  "picture": false
+ },
+ {
+  "word": "vanish",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To disappear suddenly, without anyone seeing how.",
+    "ko": "사라지다",
+    "ko_simple": "갑자기 감쪽같이 없어지다",
+    "examples": [
+     {
+      "en": "The magician made the coin vanish.",
+      "ko": "마술사가 동전을 감쪽같이 사라지게 했다."
+     },
+     {
+      "en": "My cookies vanished while I was out of the room.",
+      "ko": "내가 방에서 나간 사이에 쿠키가 감쪽같이 없어졌다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "vanishes",
+   "vanished",
+   "vanishing"
+  ],
+  "picture": false
+ },
+ {
+  "word": "emerge",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To come out from a hidden or covered place.",
+    "ko": "나타나다, 나오다",
+    "ko_simple": "숨어 있거나 가려진 곳에서 밖으로 나오다",
+    "examples": [
+     {
+      "en": "A turtle emerged from the pond.",
+      "ko": "거북이가 연못에서 나왔다."
+     },
+     {
+      "en": "The sun emerged from behind the clouds.",
+      "ko": "해가 구름 뒤에서 모습을 드러냈다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "emerges",
+   "emerged",
+   "emerging"
+  ],
+  "picture": false
+ },
+ {
+  "word": "approach",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To come closer to someone or something.",
+    "ko": "다가가다, 접근하다",
+    "ko_simple": "가까이 다가오다",
+    "examples": [
+     {
+      "en": "We slowly approached the sleeping dog.",
+      "ko": "우리는 자고 있는 개에게 천천히 다가갔다."
+     },
+     {
+      "en": "Winter is approaching, so get out your coat.",
+      "ko": "겨울이 다가오고 있으니 코트를 꺼내 둬."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "approaches",
+   "approached",
+   "approaching"
+  ],
+  "picture": false
+ },
+ {
+  "word": "retreat",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To move back or away, especially from danger.",
+    "ko": "후퇴하다, 물러나다",
+    "ko_simple": "위험을 피해 뒤로 물러나다",
+    "examples": [
+     {
+      "en": "The crab retreated into its shell.",
+      "ko": "게가 껍데기 속으로 쏙 들어갔다."
+     },
+     {
+      "en": "We retreated inside when the bees came.",
+      "ko": "벌이 날아오자 우리는 안으로 피했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "retreats",
+   "retreated",
+   "retreating"
+  ],
+  "picture": false
+ },
+ {
+  "word": "struggle",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To try very hard to do something that is difficult.",
+    "ko": "애쓰다, 몸부림치다, 고군분투하다",
+    "ko_simple": "힘든 일을 해내려고 무척 애쓰다",
+    "examples": [
+     {
+      "en": "I struggled to open the tight jar lid.",
+      "ko": "나는 꽉 닫힌 병뚜껑을 열려고 애를 썼다."
+     },
+     {
+      "en": "The little bird struggled to fly in the strong wind.",
+      "ko": "작은 새가 강한 바람 속에서 날려고 몸부림쳤다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "struggles",
+   "struggled",
+   "struggling"
+  ],
+  "picture": false
+ },
+ {
+  "word": "sulk",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To be quiet and grumpy because you are upset about something.",
+    "ko": "부루퉁하다, 삐치다",
+    "ko_simple": "기분이 상해서 말없이 뾰로통해 있다",
+    "examples": [
+     {
+      "en": "My brother sulked in his room after losing the game.",
+      "ko": "형은 게임에서 진 뒤 방에서 삐쳐 있었다."
+     },
+     {
+      "en": "Stop sulking and come have some cake.",
+      "ko": "그만 삐치고 와서 케이크 먹어."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "sulks",
+   "sulked",
+   "sulking"
+  ],
+  "picture": false
+ },
+ {
+  "word": "panic",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To suddenly feel so scared that you cannot think clearly.",
+    "ko": "겁에 질려 허둥대다, 당황하다",
+    "ko_simple": "갑자기 너무 무서워서 어쩔 줄 모르다",
+    "examples": [
+     {
+      "en": "Don't panic if you get lost; find a police officer.",
+      "ko": "길을 잃어도 당황하지 말고 경찰관을 찾아."
+     },
+     {
+      "en": "I panicked when I couldn't find my ticket.",
+      "ko": "표를 찾을 수 없어서 나는 겁에 질려 허둥댔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "panics",
+   "panicked",
+   "panicking"
+  ],
+  "picture": false
+ },
+ {
+  "word": "sneak",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To go somewhere or do something quietly and secretly.",
+    "ko": "몰래 하다, 살금살금 가다",
+    "ko_simple": "남이 모르게 조용히 가거나 하다",
+    "examples": [
+     {
+      "en": "We sneaked into the kitchen for a midnight snack.",
+      "ko": "우리는 한밤중에 간식을 먹으려고 부엌에 몰래 들어갔다."
+     },
+     {
+      "en": "The dog snuck a bite of my sandwich.",
+      "ko": "개가 내 샌드위치를 몰래 한 입 먹었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "sneaks",
+   "sneaked",
+   "snuck",
+   "sneaking",
+   "sneaky"
+  ],
+  "picture": false
+ }
+]

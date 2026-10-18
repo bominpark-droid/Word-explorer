@@ -1,0 +1,2469 @@
+[
+ {
+  "word": "anxious",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Feeling worried and nervous because you think something bad might happen.",
+    "ko": "불안한, 걱정하는",
+    "ko_simple": "무슨 나쁜 일이 생길까 봐 마음이 조마조마한",
+    "examples": [
+     {
+      "en": "Maya felt anxious the night before her first piano recital.",
+      "ko": "마야는 첫 피아노 발표회 전날 밤 마음이 불안했다."
+     },
+     {
+      "en": "My dog gets anxious every time it thunders and hides under the bed.",
+      "ko": "우리 개는 천둥이 칠 때마다 불안해서 침대 밑에 숨는다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "anxiously"
+  ],
+  "picture": false
+ },
+ {
+  "word": "furious",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Very, very angry.",
+    "ko": "몹시 화가 난, 격노한",
+    "ko_simple": "아주아주 많이 화가 난",
+    "examples": [
+     {
+      "en": "Dad was furious when the puppy chewed up his new shoes.",
+      "ko": "강아지가 새 신발을 물어뜯자 아빠는 몹시 화가 나셨다."
+     },
+     {
+      "en": "The coach was furious that we forgot our uniforms again.",
+      "ko": "우리가 또 유니폼을 잊어버리자 코치님은 불같이 화를 내셨다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "furiously"
+  ],
+  "picture": false
+ },
+ {
+  "word": "embarrassed",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Feeling shy, silly, or uncomfortable because other people saw you make a mistake.",
+    "ko": "당황한, 창피한, 쑥스러운",
+    "ko_simple": "다른 사람 앞에서 실수해서 얼굴이 빨개지고 부끄러운",
+    "examples": [
+     {
+      "en": "I was so embarrassed when I tripped on the stage in front of the whole school.",
+      "ko": "전교생 앞에서 무대 위에서 넘어졌을 때 나는 너무 창피했다."
+     },
+     {
+      "en": "Leo looked embarrassed when his mom kissed him at the bus stop.",
+      "ko": "버스 정류장에서 엄마가 뽀뽀하자 레오는 쑥스러워 보였다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "embarrass",
+   "embarrassing",
+   "embarrassment"
+  ],
+  "picture": false
+ },
+ {
+  "word": "reluctant",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Not wanting to do something, so you do it slowly or only because you have to.",
+    "ko": "마지못해 하는, 꺼리는",
+    "ko_simple": "하고 싶지 않아서 망설이는",
+    "examples": [
+     {
+      "en": "Sam was reluctant to share his last cookie with his little sister.",
+      "ko": "샘은 마지막 쿠키를 여동생과 나누기를 꺼렸다."
+     },
+     {
+      "en": "The cat was reluctant to step into the cold water.",
+      "ko": "고양이는 차가운 물에 발을 담그기를 꺼렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "reluctantly",
+   "reluctance"
+  ],
+  "picture": false
+ },
+ {
+  "word": "stubborn",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Not willing to change your mind or do what others want, even when you should.",
+    "ko": "고집 센, 완고한",
+    "ko_simple": "남의 말을 듣지 않고 자기 뜻만 끝까지 고집하는",
+    "examples": [
+     {
+      "en": "My stubborn little brother would not wear a coat, even in the snow.",
+      "ko": "고집 센 내 남동생은 눈이 오는데도 코트를 입으려 하지 않았다."
+     },
+     {
+      "en": "The stubborn mule sat down and refused to walk another step.",
+      "ko": "고집 센 노새는 주저앉아 한 걸음도 더 가지 않으려 했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "stubbornly"
+  ],
+  "picture": false
+ },
+ {
+  "word": "generous",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Happy to give or share money, time, or things with others.",
+    "ko": "너그러운, 후한, 인심 좋은",
+    "ko_simple": "자기 것을 다른 사람에게 기꺼이 나누어 주는",
+    "examples": [
+     {
+      "en": "Grandma is so generous that she bakes cookies for the whole street.",
+      "ko": "할머니는 인심이 좋으셔서 온 동네 사람들을 위해 쿠키를 구우신다."
+     },
+     {
+      "en": "It was generous of Ava to give her umbrella to a friend.",
+      "ko": "친구에게 우산을 내준 것은 에이바의 너그러운 행동이었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "generously",
+   "generosity"
+  ],
+  "picture": false
+ },
+ {
+  "word": "curious",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Wanting to know or learn about something.",
+    "ko": "호기심이 많은, 궁금해하는",
+    "ko_simple": "무언가를 알고 싶어서 궁금한",
+    "examples": [
+     {
+      "en": "The curious kitten poked its nose into every box in the room.",
+      "ko": "호기심 많은 새끼 고양이는 방 안의 모든 상자에 코를 들이밀었다."
+     },
+     {
+      "en": "I was curious about what was inside the wrapped present.",
+      "ko": "나는 포장된 선물 안에 무엇이 들어 있는지 궁금했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "curiously",
+   "curiosity"
+  ],
+  "picture": false
+ },
+ {
+  "word": "cautious",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Very careful to stay away from danger or mistakes.",
+    "ko": "조심스러운, 신중한",
+    "ko_simple": "위험이나 실수를 피하려고 아주 조심하는",
+    "examples": [
+     {
+      "en": "Be cautious when you cross a busy street.",
+      "ko": "차가 많은 길을 건널 때는 조심해야 한다."
+     },
+     {
+      "en": "The cautious deer looked around before it stepped into the field.",
+      "ko": "조심성 많은 사슴은 들판에 들어서기 전에 주위를 살폈다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "cautiously",
+   "caution"
+  ],
+  "picture": false
+ },
+ {
+  "word": "determined",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Having made a strong choice to do something and not letting anything stop you.",
+    "ko": "굳게 결심한, 단호한",
+    "ko_simple": "어떤 일을 꼭 해내겠다고 굳게 마음먹은",
+    "examples": [
+     {
+      "en": "Lily was determined to ride her bike without training wheels by summer.",
+      "ko": "릴리는 여름까지 보조 바퀴 없이 자전거를 타겠다고 굳게 마음먹었다."
+     },
+     {
+      "en": "The determined team practiced every day until they won.",
+      "ko": "굳게 결심한 그 팀은 이길 때까지 매일 연습했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "determination",
+   "determine"
+  ],
+  "picture": false
+ },
+ {
+  "word": "jealous",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Feeling upset because someone else has something you want.",
+    "ko": "질투하는, 시샘하는",
+    "ko_simple": "다른 사람이 가진 것을 부러워하며 속상한",
+    "examples": [
+     {
+      "en": "Mia was jealous of her friend's shiny new bike.",
+      "ko": "미아는 친구의 반짝이는 새 자전거가 샘이 났다."
+     },
+     {
+      "en": "Our old dog gets jealous when we pet the new puppy.",
+      "ko": "우리 늙은 개는 우리가 새 강아지를 쓰다듬으면 질투를 한다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "jealousy",
+   "jealously"
+  ],
+  "picture": false
+ },
+ {
+  "word": "grateful",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Feeling thankful for something someone did for you.",
+    "ko": "고마워하는, 감사하는",
+    "ko_simple": "누군가 해 준 일에 대해 고마운 마음이 드는",
+    "examples": [
+     {
+      "en": "I am grateful to my neighbor for finding my lost cat.",
+      "ko": "잃어버린 고양이를 찾아 준 이웃에게 정말 고맙다."
+     },
+     {
+      "en": "The tired hikers were grateful for a cold drink of water.",
+      "ko": "지친 등산객들은 시원한 물 한 잔에 감사했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "gratefully",
+   "gratitude"
+  ],
+  "picture": false
+ },
+ {
+  "word": "humble",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Not thinking you are better or more important than other people, even when you do well.",
+    "ko": "겸손한",
+    "ko_simple": "잘해도 뽐내지 않고 자기를 낮추는",
+    "examples": [
+     {
+      "en": "Even after scoring three goals, Noah stayed humble and thanked his team.",
+      "ko": "세 골이나 넣고도 노아는 겸손하게 팀원들에게 고마워했다."
+     },
+     {
+      "en": "The famous author was humble and talked to every kid in line.",
+      "ko": "그 유명한 작가는 겸손해서 줄 선 아이들 모두와 이야기를 나눴다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "humbly"
+  ],
+  "picture": false
+ },
+ {
+  "word": "mischievous",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Liking to play tricks or cause small trouble, often in a playful way.",
+    "ko": "장난이 심한, 짓궂은",
+    "ko_simple": "장난을 쳐서 작은 말썽을 일으키기 좋아하는",
+    "examples": [
+     {
+      "en": "The mischievous twins hid their dad's car keys in the cookie jar.",
+      "ko": "장난꾸러기 쌍둥이는 아빠의 자동차 열쇠를 쿠키 통에 숨겼다."
+     },
+     {
+      "en": "The monkey gave a mischievous grin and grabbed my banana.",
+      "ko": "원숭이는 짓궂게 씩 웃더니 내 바나나를 낚아챘다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "mischief",
+   "mischievously"
+  ],
+  "picture": false
+ },
+ {
+  "word": "ashamed",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Feeling bad and sorry because you did something wrong.",
+    "ko": "부끄러운, 수치스러운",
+    "ko_simple": "잘못한 일 때문에 마음이 무겁고 부끄러운",
+    "examples": [
+     {
+      "en": "Ben felt ashamed after he lied to his teacher.",
+      "ko": "벤은 선생님께 거짓말을 한 뒤 부끄러웠다."
+     },
+     {
+      "en": "The dog looked ashamed next to the torn-up pillow.",
+      "ko": "개는 찢어진 베개 옆에서 부끄러운 표정을 지었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "astonished",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Very, very surprised.",
+    "ko": "깜짝 놀란, 경악한",
+    "ko_simple": "아주 크게 놀란",
+    "examples": [
+     {
+      "en": "We were astonished when the magician pulled a rabbit out of the hat.",
+      "ko": "마술사가 모자에서 토끼를 꺼내자 우리는 깜짝 놀랐다."
+     },
+     {
+      "en": "Mom was astonished to see my room so clean.",
+      "ko": "엄마는 내 방이 그렇게 깨끗한 걸 보고 깜짝 놀라셨다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "astonish",
+   "astonishing"
+  ],
+  "picture": false
+ },
+ {
+  "word": "bashful",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Shy and easily embarrassed around other people.",
+    "ko": "수줍어하는, 숫기 없는",
+    "ko_simple": "사람들 앞에서 쑥스러워하는",
+    "examples": [
+     {
+      "en": "The bashful girl hid behind her mom when the guests arrived.",
+      "ko": "수줍음 많은 소녀는 손님들이 오자 엄마 뒤에 숨었다."
+     },
+     {
+      "en": "He gave a bashful smile when everyone sang to him.",
+      "ko": "모두가 그에게 노래를 불러 주자 그는 수줍게 웃었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "bewildered",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Very confused and not sure what is happening.",
+    "ko": "어리둥절한, 당황한",
+    "ko_simple": "무슨 일인지 몰라 몹시 헷갈리는",
+    "examples": [
+     {
+      "en": "The new student looked bewildered in the giant school hallway.",
+      "ko": "전학생은 커다란 학교 복도에서 어리둥절해 보였다."
+     },
+     {
+      "en": "I was bewildered when my math answer was right but my teacher marked it wrong.",
+      "ko": "수학 답이 맞았는데 틀렸다고 표시되어 나는 어리둥절했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "bewilder"
+  ],
+  "picture": false
+ },
+ {
+  "word": "bold",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Brave and not afraid to take risks or say what you think.",
+    "ko": "대담한, 용감한",
+    "ko_simple": "두려워하지 않고 과감하게 행동하는",
+    "examples": [
+     {
+      "en": "The bold squirrel walked right up and took a nut from my hand.",
+      "ko": "대담한 다람쥐가 곧장 다가와 내 손에서 땅콩을 가져갔다."
+     },
+     {
+      "en": "It was bold of Zoe to raise her hand first in a room full of strangers.",
+      "ko": "낯선 사람들로 가득한 방에서 가장 먼저 손을 든 것은 조이의 대담한 행동이었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "bolder",
+   "boldest",
+   "boldly"
+  ],
+  "picture": false
+ },
+ {
+  "word": "courageous",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Brave; able to do something even when you are scared.",
+    "ko": "용기 있는, 용감한",
+    "ko_simple": "무서워도 해야 할 일을 해내는",
+    "examples": [
+     {
+      "en": "The courageous firefighter ran into the smoke to save a cat.",
+      "ko": "용감한 소방관이 고양이를 구하려고 연기 속으로 뛰어들었다."
+     },
+     {
+      "en": "It was courageous of Max to tell the truth about the broken lamp.",
+      "ko": "깨진 전등에 대해 사실대로 말한 것은 맥스의 용기 있는 행동이었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "courage"
+  ],
+  "picture": false
+ },
+ {
+  "word": "cheerful",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Happy and full of good feelings, in a way others can see.",
+    "ko": "쾌활한, 명랑한",
+    "ko_simple": "기분이 좋고 밝은",
+    "examples": [
+     {
+      "en": "Our cheerful bus driver says good morning to every kid.",
+      "ko": "명랑한 우리 버스 기사님은 모든 아이에게 아침 인사를 하신다."
+     },
+     {
+      "en": "The yellow walls made the classroom look bright and cheerful.",
+      "ko": "노란 벽 덕분에 교실이 밝고 명랑해 보였다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "cheerfully"
+  ],
+  "picture": false
+ },
+ {
+  "word": "confident",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Sure that you can do something well.",
+    "ko": "자신감 있는, 확신하는",
+    "ko_simple": "내가 잘할 수 있다고 믿는",
+    "examples": [
+     {
+      "en": "After lots of practice, Emma felt confident about her spelling test.",
+      "ko": "많이 연습한 뒤 엠마는 받아쓰기 시험에 자신감이 생겼다."
+     },
+     {
+      "en": "He walked onto the field with a confident smile.",
+      "ko": "그는 자신감 있는 미소를 지으며 경기장으로 걸어 나갔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "confidence",
+   "confidently"
+  ],
+  "picture": false
+ },
+ {
+  "word": "content",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Happy and satisfied with what you have.",
+    "ko": "만족한, 흡족한",
+    "ko_simple": "가진 것에 만족해서 편안한",
+    "examples": [
+     {
+      "en": "The cat was content to nap all day in the sunny window.",
+      "ko": "고양이는 햇살 드는 창가에서 하루 종일 낮잠 자는 것에 만족했다."
+     },
+     {
+      "en": "I was content with a simple bowl of noodles for dinner.",
+      "ko": "나는 저녁으로 소박한 국수 한 그릇에 만족했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "contented"
+  ],
+  "picture": false
+ },
+ {
+  "word": "cranky",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "In a bad mood and easily annoyed, often because you are tired or hungry.",
+    "ko": "짜증 내는, 까다로운",
+    "ko_simple": "피곤하거나 배고파서 쉽게 짜증을 내는",
+    "examples": [
+     {
+      "en": "My baby sister gets cranky when she misses her nap.",
+      "ko": "내 여동생은 낮잠을 못 자면 짜증을 낸다."
+     },
+     {
+      "en": "I am always cranky before breakfast.",
+      "ko": "나는 아침을 먹기 전에는 늘 짜증이 난다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "crankier",
+   "crankiest"
+  ],
+  "picture": false
+ },
+ {
+  "word": "cruel",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Mean in a way that hurts people or animals on purpose.",
+    "ko": "잔인한, 잔혹한",
+    "ko_simple": "일부러 사람이나 동물을 아프게 하는",
+    "examples": [
+     {
+      "en": "In the story, the cruel stepmother made Cinderella clean all day.",
+      "ko": "이야기에서 잔인한 새엄마는 신데렐라에게 하루 종일 청소를 시켰다."
+     },
+     {
+      "en": "It is cruel to leave a dog outside in freezing weather.",
+      "ko": "몹시 추운 날 개를 밖에 두는 것은 잔인한 일이다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "cruelty",
+   "cruelly"
+  ],
+  "picture": false
+ },
+ {
+  "word": "delighted",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Very pleased and happy.",
+    "ko": "아주 기뻐하는",
+    "ko_simple": "무척 기쁘고 즐거운",
+    "examples": [
+     {
+      "en": "Grandpa was delighted with the card I made for him.",
+      "ko": "할아버지는 내가 만든 카드를 받고 무척 기뻐하셨다."
+     },
+     {
+      "en": "The kids were delighted to hear that school was closed for snow.",
+      "ko": "아이들은 눈 때문에 휴교한다는 소식에 아주 기뻐했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "delight",
+   "delightful"
+  ],
+  "picture": false
+ },
+ {
+  "word": "desperate",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Wanting or needing something so badly that you would try almost anything.",
+    "ko": "필사적인, 절박한",
+    "ko_simple": "무엇이 너무 필요해서 무엇이든 해 보려는",
+    "examples": [
+     {
+      "en": "After the long hike, we were desperate for a drink of water.",
+      "ko": "오랜 등산 끝에 우리는 물 한 모금이 절실했다."
+     },
+     {
+      "en": "The desperate mouse squeezed through a tiny crack to escape the cat.",
+      "ko": "필사적인 쥐는 고양이를 피하려고 작은 틈으로 비집고 들어갔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "desperately"
+  ],
+  "picture": false
+ },
+ {
+  "word": "disappointed",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Sad because something did not happen the way you hoped.",
+    "ko": "실망한",
+    "ko_simple": "기대한 대로 되지 않아서 서운한",
+    "examples": [
+     {
+      "en": "I was disappointed when the rain canceled our trip to the beach.",
+      "ko": "비 때문에 바닷가 여행이 취소되어 나는 실망했다."
+     },
+     {
+      "en": "The team looked disappointed after losing by one point.",
+      "ko": "그 팀은 1점 차로 지고 나서 실망한 표정이었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "disappoint",
+   "disappointment"
+  ],
+  "picture": false
+ },
+ {
+  "word": "eager",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Wanting very much to do or have something.",
+    "ko": "열망하는, 간절히 바라는",
+    "ko_simple": "무언가를 몹시 하고 싶어 하는",
+    "examples": [
+     {
+      "en": "The eager students lined up early for the field trip bus.",
+      "ko": "들뜬 학생들은 현장 학습 버스를 타려고 일찍 줄을 섰다."
+     },
+     {
+      "en": "My puppy is always eager to go for a walk.",
+      "ko": "우리 강아지는 언제나 산책을 가고 싶어 안달이다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "eagerly",
+   "eagerness"
+  ],
+  "picture": false
+ },
+ {
+  "word": "envious",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Wishing you had something that another person has.",
+    "ko": "부러워하는, 시기하는",
+    "ko_simple": "남이 가진 것을 나도 갖고 싶어 하는",
+    "examples": [
+     {
+      "en": "I was envious of my cousin's huge collection of comic books.",
+      "ko": "나는 사촌의 엄청난 만화책 수집이 부러웠다."
+     },
+     {
+      "en": "The other kids were envious of Jake's front-row seat.",
+      "ko": "다른 아이들은 제이크의 맨 앞자리를 부러워했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "envy"
+  ],
+  "picture": false
+ },
+ {
+  "word": "exhausted",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Very, very tired, with no energy left.",
+    "ko": "기진맥진한, 녹초가 된",
+    "ko_simple": "힘이 하나도 없을 만큼 몹시 지친",
+    "examples": [
+     {
+      "en": "After the soccer tournament, we were too exhausted to eat dinner.",
+      "ko": "축구 대회가 끝난 뒤 우리는 너무 지쳐서 저녁도 못 먹었다."
+     },
+     {
+      "en": "The exhausted puppy fell asleep in its food bowl.",
+      "ko": "녹초가 된 강아지는 밥그릇에 머리를 박고 잠들었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "exhaust",
+   "exhausting"
+  ],
+  "picture": false
+ },
+ {
+  "word": "frantic",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Wild and rushed because you are very scared or worried.",
+    "ko": "정신없는, 미친 듯이 서두르는",
+    "ko_simple": "너무 걱정되거나 무서워서 허둥지둥하는",
+    "examples": [
+     {
+      "en": "Mom made a frantic search for her keys when we were late.",
+      "ko": "우리가 늦자 엄마는 정신없이 열쇠를 찾으셨다."
+     },
+     {
+      "en": "The frantic chicken ran in circles when the dog barked.",
+      "ko": "개가 짖자 겁먹은 닭은 미친 듯이 빙빙 돌며 뛰어다녔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "frantically"
+  ],
+  "picture": false
+ },
+ {
+  "word": "frustrated",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Upset and annoyed because you cannot do or change something.",
+    "ko": "좌절한, 답답해하는",
+    "ko_simple": "해도 잘 안 되어서 속상하고 답답한",
+    "examples": [
+     {
+      "en": "I got frustrated when my kite kept crashing into the ground.",
+      "ko": "연이 자꾸 땅으로 곤두박질쳐서 나는 답답했다."
+     },
+     {
+      "en": "Dad was frustrated by the long line at the store.",
+      "ko": "아빠는 가게의 긴 줄 때문에 짜증이 나셨다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "frustrate",
+   "frustrating",
+   "frustration"
+  ],
+  "picture": false
+ },
+ {
+  "word": "grumpy",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "In a bad mood and complaining a lot.",
+    "ko": "심술궂은, 기분이 언짢은",
+    "ko_simple": "기분이 나빠서 투덜거리는",
+    "examples": [
+     {
+      "en": "The grumpy old man yelled at us to get off his lawn.",
+      "ko": "심술궂은 할아버지는 잔디밭에서 나가라고 우리에게 소리쳤다."
+     },
+     {
+      "en": "I feel grumpy when I have to wake up early on Saturday.",
+      "ko": "토요일에 일찍 일어나야 하면 나는 기분이 언짢다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "grumpier",
+   "grumpiest"
+  ],
+  "picture": false
+ },
+ {
+  "word": "guilty",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Feeling bad because you know you did something wrong.",
+    "ko": "죄책감이 드는, 유죄의",
+    "ko_simple": "잘못한 것을 알고 마음이 불편한",
+    "examples": [
+     {
+      "en": "I felt guilty after I ate the last slice of pizza without asking.",
+      "ko": "물어보지 않고 마지막 피자 조각을 먹고 나서 나는 죄책감이 들었다."
+     },
+     {
+      "en": "The dog had a guilty look and cookie crumbs on its nose.",
+      "ko": "개는 미안한 표정이었고 코에는 쿠키 부스러기가 묻어 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "guilt"
+  ],
+  "picture": false
+ },
+ {
+  "word": "hopeful",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Believing that something good will happen.",
+    "ko": "희망에 찬, 기대하는",
+    "ko_simple": "좋은 일이 생길 거라고 믿는",
+    "examples": [
+     {
+      "en": "The farmers were hopeful that rain would come soon.",
+      "ko": "농부들은 곧 비가 오기를 희망했다."
+     },
+     {
+      "en": "Kai gave his mom a hopeful look when they passed the ice cream truck.",
+      "ko": "아이스크림 트럭을 지나칠 때 카이는 기대에 찬 눈빛으로 엄마를 바라보았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "hopefully"
+  ],
+  "picture": false
+ },
+ {
+  "word": "impatient",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Not able to wait calmly; wanting things to happen right now.",
+    "ko": "참을성 없는, 조급한",
+    "ko_simple": "기다리지 못하고 빨리 되기를 바라는",
+    "examples": [
+     {
+      "en": "The impatient kids kept asking, \"Are we there yet?\"",
+      "ko": "참을성 없는 아이들은 계속 \"아직 멀었어요?\" 하고 물었다."
+     },
+     {
+      "en": "I get impatient waiting for my turn on the swings.",
+      "ko": "그네 차례를 기다릴 때 나는 조급해진다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "impatiently",
+   "impatience"
+  ],
+  "picture": false
+ },
+ {
+  "word": "irritated",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "A little angry or annoyed.",
+    "ko": "짜증 난, 신경질 난",
+    "ko_simple": "조금 화가 나고 귀찮은",
+    "examples": [
+     {
+      "en": "Dad got irritated when the fly kept buzzing around his head.",
+      "ko": "파리가 계속 머리 주위에서 윙윙거리자 아빠는 짜증이 나셨다."
+     },
+     {
+      "en": "I was irritated when my brother kept kicking my seat.",
+      "ko": "동생이 계속 내 의자를 차서 나는 짜증이 났다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "irritate",
+   "irritating"
+  ],
+  "picture": false
+ },
+ {
+  "word": "lonely",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Sad because you are alone or have no friends to be with.",
+    "ko": "외로운, 쓸쓸한",
+    "ko_simple": "혼자여서 슬프고 쓸쓸한",
+    "examples": [
+     {
+      "en": "On the first day at her new school, Ella felt lonely at lunch.",
+      "ko": "새 학교 첫날 엘라는 점심시간에 외로웠다."
+     },
+     {
+      "en": "The lonely dog howled when its family left for vacation.",
+      "ko": "가족이 휴가를 떠나자 외로운 개는 울부짖었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "lonelier",
+   "loneliest",
+   "loneliness"
+  ],
+  "picture": false
+ },
+ {
+  "word": "loyal",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Always standing by a friend, family, or team, even in hard times.",
+    "ko": "충성스러운, 의리 있는",
+    "ko_simple": "힘들 때에도 친구나 가족 곁을 지키는",
+    "examples": [
+     {
+      "en": "My loyal dog waits by the door every day until I get home.",
+      "ko": "충직한 우리 개는 내가 집에 올 때까지 매일 문 옆에서 기다린다."
+     },
+     {
+      "en": "A loyal friend keeps your secrets.",
+      "ko": "의리 있는 친구는 비밀을 지켜 준다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "loyalty"
+  ],
+  "picture": false
+ },
+ {
+  "word": "miserable",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Very unhappy or uncomfortable.",
+    "ko": "비참한, 몹시 불행한",
+    "ko_simple": "아주 슬프거나 몸이 불편해서 괴로운",
+    "examples": [
+     {
+      "en": "We were cold, wet, and miserable after camping in the rain.",
+      "ko": "빗속에서 캠핑을 하고 나니 우리는 춥고 젖고 비참했다."
+     },
+     {
+      "en": "Having a cold on your birthday is miserable.",
+      "ko": "생일에 감기에 걸리는 것은 정말 괴롭다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "miserably"
+  ],
+  "picture": false
+ },
+ {
+  "word": "nervous",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Worried and a little scared about something that is going to happen.",
+    "ko": "긴장한, 초조한",
+    "ko_simple": "곧 일어날 일 때문에 떨리고 걱정되는",
+    "examples": [
+     {
+      "en": "My hands shook because I was nervous about my speech.",
+      "ko": "발표 때문에 긴장해서 손이 떨렸다."
+     },
+     {
+      "en": "The nervous kitten hid when the vacuum cleaner turned on.",
+      "ko": "겁먹은 새끼 고양이는 청소기가 켜지자 숨었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "nervously"
+  ],
+  "picture": false
+ },
+ {
+  "word": "obedient",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Doing what you are told to do.",
+    "ko": "순종하는, 말을 잘 듣는",
+    "ko_simple": "시키는 대로 잘 따르는",
+    "examples": [
+     {
+      "en": "The obedient dog sat as soon as I said \"sit.\"",
+      "ko": "말 잘 듣는 개는 내가 \"앉아\"라고 하자마자 앉았다."
+     },
+     {
+      "en": "The soldiers in the toy story were brave and obedient.",
+      "ko": "장난감 이야기 속 병정들은 용감하고 명령을 잘 따랐다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "obey",
+   "obedience"
+  ],
+  "picture": false
+ },
+ {
+  "word": "patient",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Able to wait calmly without getting upset.",
+    "ko": "참을성 있는, 인내심 있는",
+    "ko_simple": "화내지 않고 차분히 기다릴 수 있는",
+    "examples": [
+     {
+      "en": "Our teacher is very patient when we ask the same question twice.",
+      "ko": "우리 선생님은 우리가 같은 질문을 두 번 해도 참을성 있게 대해 주신다."
+     },
+     {
+      "en": "You have to be patient when you are fishing.",
+      "ko": "낚시할 때는 참을성이 있어야 한다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "patiently",
+   "patience"
+  ],
+  "picture": false
+ },
+ {
+  "word": "polite",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Having good manners and treating others kindly and with respect.",
+    "ko": "예의 바른, 공손한",
+    "ko_simple": "다른 사람을 존중하고 예의를 잘 지키는",
+    "examples": [
+     {
+      "en": "It is polite to say \"please\" and \"thank you.\"",
+      "ko": "\"부탁해요\"와 \"고마워요\"라고 말하는 것은 예의 바른 일이다."
+     },
+     {
+      "en": "The polite boy held the door open for the lady with the stroller.",
+      "ko": "예의 바른 소년은 유모차를 끄는 아주머니를 위해 문을 잡아 주었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "politely",
+   "politeness"
+  ],
+  "picture": false
+ },
+ {
+  "word": "proud",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Feeling happy and pleased about something you or someone close to you did.",
+    "ko": "자랑스러운, 뿌듯한",
+    "ko_simple": "내가 또는 가까운 사람이 잘한 일 때문에 뿌듯한",
+    "examples": [
+     {
+      "en": "I was proud of my science project when it won a ribbon.",
+      "ko": "과학 프로젝트가 리본을 받았을 때 나는 뿌듯했다."
+     },
+     {
+      "en": "Mom was proud when I learned to tie my shoes by myself.",
+      "ko": "내가 혼자 신발 끈을 맬 줄 알게 되자 엄마는 자랑스러워하셨다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "prouder",
+   "proudest",
+   "proudly",
+   "pride"
+  ],
+  "picture": false
+ },
+ {
+  "word": "relieved",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Feeling calm and happy because something you were worried about is over or went well.",
+    "ko": "안심한, 안도한",
+    "ko_simple": "걱정하던 일이 잘 끝나서 마음이 놓이는",
+    "examples": [
+     {
+      "en": "I was relieved when I found my lost library book under the couch.",
+      "ko": "소파 밑에서 잃어버린 도서관 책을 찾아서 나는 안심했다."
+     },
+     {
+      "en": "The class was relieved that the test was easy.",
+      "ko": "시험이 쉬워서 반 아이들은 안도했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "relief",
+   "relieve"
+  ],
+  "picture": false
+ },
+ {
+  "word": "restless",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Not able to sit still or relax.",
+    "ko": "가만히 있지 못하는, 들썩이는",
+    "ko_simple": "가만히 앉아 있거나 쉬지 못하는",
+    "examples": [
+     {
+      "en": "The kids grew restless during the long car ride.",
+      "ko": "긴 차 여행 동안 아이들은 몸이 근질근질해졌다."
+     },
+     {
+      "en": "I was too restless to sleep the night before my birthday.",
+      "ko": "생일 전날 밤 나는 들떠서 잠을 잘 수 없었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "restlessly"
+  ],
+  "picture": false
+ },
+ {
+  "word": "rude",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Not polite; saying or doing things that hurt or bother others.",
+    "ko": "무례한, 버릇없는",
+    "ko_simple": "예의 없이 남을 기분 나쁘게 하는",
+    "examples": [
+     {
+      "en": "It is rude to talk with your mouth full.",
+      "ko": "입에 음식을 가득 넣고 말하는 것은 무례하다."
+     },
+     {
+      "en": "The rude customer shouted at the waiter.",
+      "ko": "무례한 손님이 웨이터에게 소리를 질렀다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "ruder",
+   "rudest",
+   "rudely"
+  ],
+  "picture": false
+ },
+ {
+  "word": "selfish",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Caring only about yourself and not about other people.",
+    "ko": "이기적인",
+    "ko_simple": "다른 사람은 생각하지 않고 자기만 생각하는",
+    "examples": [
+     {
+      "en": "It was selfish of me to keep all the crayons to myself.",
+      "ko": "크레용을 모두 혼자 차지한 것은 이기적인 행동이었다."
+     },
+     {
+      "en": "The selfish giant would not let the children play in his garden.",
+      "ko": "이기적인 거인은 아이들이 자기 정원에서 놀지 못하게 했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "selfishly"
+  ],
+  "picture": false
+ },
+ {
+  "word": "sensible",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Showing good sense and making smart, careful choices.",
+    "ko": "분별 있는, 현명한",
+    "ko_simple": "생각이 바르고 똑똑하게 판단하는",
+    "examples": [
+     {
+      "en": "Wearing boots in the snow is a sensible idea.",
+      "ko": "눈 올 때 부츠를 신는 것은 현명한 생각이다."
+     },
+     {
+      "en": "My sensible older sister always brings a snack and a map.",
+      "ko": "분별 있는 우리 언니는 늘 간식과 지도를 챙긴다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "sensibly"
+  ],
+  "picture": false
+ },
+ {
+  "word": "shy",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Nervous and quiet around people you do not know well.",
+    "ko": "수줍어하는, 부끄럼 타는",
+    "ko_simple": "잘 모르는 사람 앞에서 조용하고 쑥스러워하는",
+    "examples": [
+     {
+      "en": "The shy boy whispered his name to the class.",
+      "ko": "수줍은 소년은 반 친구들에게 이름을 작게 속삭였다."
+     },
+     {
+      "en": "Our new hamster is shy and hides in its tube all day.",
+      "ko": "우리 새 햄스터는 겁이 많아서 하루 종일 통 속에 숨어 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "shyer",
+   "shyest",
+   "shyly",
+   "shyness"
+  ],
+  "picture": false
+ },
+ {
+  "word": "sincere",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Honest and really meaning what you say or feel.",
+    "ko": "진실한, 진심 어린",
+    "ko_simple": "꾸밈없이 마음에서 우러나는",
+    "examples": [
+     {
+      "en": "Jamal gave a sincere apology for breaking the window.",
+      "ko": "자말은 창문을 깬 것에 대해 진심으로 사과했다."
+     },
+     {
+      "en": "Her thank-you note was short but sincere.",
+      "ko": "그녀의 감사 편지는 짧았지만 진심이 담겨 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "sincerely"
+  ],
+  "picture": false
+ },
+ {
+  "word": "sly",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Clever at tricking people in a sneaky way.",
+    "ko": "교활한, 음흉한",
+    "ko_simple": "몰래 꾀를 부려 남을 속이는",
+    "examples": [
+     {
+      "en": "In the fable, the sly fox tricked the crow into dropping its cheese.",
+      "ko": "우화에서 교활한 여우는 까마귀를 속여 치즈를 떨어뜨리게 했다."
+     },
+     {
+      "en": "My brother gave me a sly wink and grabbed the last cupcake.",
+      "ko": "형은 나에게 음흉하게 윙크하고 마지막 컵케이크를 집었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "slyly"
+  ],
+  "picture": false
+ },
+ {
+  "word": "startled",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Suddenly surprised or a little scared.",
+    "ko": "깜짝 놀란",
+    "ko_simple": "갑자기 놀라서 움찔한",
+    "examples": [
+     {
+      "en": "The startled bird flew off when the door slammed.",
+      "ko": "문이 쾅 닫히자 깜짝 놀란 새가 날아갔다."
+     },
+     {
+      "en": "I was startled when my friend jumped out from behind the tree.",
+      "ko": "친구가 나무 뒤에서 튀어나와서 나는 깜짝 놀랐다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "startle"
+  ],
+  "picture": false
+ },
+ {
+  "word": "terrified",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Extremely scared.",
+    "ko": "겁에 질린, 몹시 무서워하는",
+    "ko_simple": "너무너무 무서운",
+    "examples": [
+     {
+      "en": "My little brother was terrified of the dark hallway.",
+      "ko": "내 남동생은 어두운 복도를 몹시 무서워했다."
+     },
+     {
+      "en": "The terrified rabbit froze when it saw the hawk.",
+      "ko": "겁에 질린 토끼는 매를 보자 그 자리에 얼어붙었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "terrify",
+   "terrifying"
+  ],
+  "picture": false
+ },
+ {
+  "word": "thoughtful",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Kind and thinking about what other people need or how they feel.",
+    "ko": "사려 깊은, 배려하는",
+    "ko_simple": "다른 사람의 마음과 필요를 생각해 주는",
+    "examples": [
+     {
+      "en": "It was thoughtful of Ana to bring soup to her sick neighbor.",
+      "ko": "아픈 이웃에게 수프를 가져다준 것은 애나의 사려 깊은 행동이었다."
+     },
+     {
+      "en": "My thoughtful friend remembered that I love purple.",
+      "ko": "사려 깊은 내 친구는 내가 보라색을 좋아한다는 걸 기억했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "thoughtfully"
+  ],
+  "picture": false
+ },
+ {
+  "word": "timid",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Shy and easily scared; not brave.",
+    "ko": "겁 많은, 소심한",
+    "ko_simple": "쉽게 겁먹고 용기가 부족한",
+    "examples": [
+     {
+      "en": "The timid mouse peeked out of its hole before running across the floor.",
+      "ko": "겁 많은 쥐는 바닥을 가로질러 달리기 전에 구멍에서 살짝 내다보았다."
+     },
+     {
+      "en": "At first, the timid girl would not try the high diving board.",
+      "ko": "처음에 소심한 소녀는 높은 다이빙대에 올라가려 하지 않았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "timidly"
+  ],
+  "picture": false
+ },
+ {
+  "word": "honest",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Telling the truth and not cheating or stealing.",
+    "ko": "정직한, 솔직한",
+    "ko_simple": "거짓말하거나 속이지 않는",
+    "examples": [
+     {
+      "en": "The honest boy returned the wallet he found on the sidewalk.",
+      "ko": "정직한 소년은 길에서 주운 지갑을 돌려주었다."
+     },
+     {
+      "en": "To be honest, I did not like the broccoli soup.",
+      "ko": "솔직히 말하면 나는 브로콜리 수프가 맛없었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "honestly",
+   "honesty"
+  ],
+  "picture": false
+ },
+ {
+  "word": "arrogant",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Acting like you are better or more important than everyone else.",
+    "ko": "거만한, 오만한",
+    "ko_simple": "자기가 남보다 잘났다고 뽐내는",
+    "examples": [
+     {
+      "en": "The arrogant hare was sure he would beat the slow tortoise.",
+      "ko": "거만한 토끼는 느린 거북이를 당연히 이길 거라고 확신했다."
+     },
+     {
+      "en": "Nobody wanted to play with the arrogant kid who bragged all the time.",
+      "ko": "아무도 늘 자랑만 하는 거만한 아이와 놀고 싶어 하지 않았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "arrogance"
+  ],
+  "picture": false
+ },
+ {
+  "word": "boastful",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Talking too much about how good you are or what you have.",
+    "ko": "자랑하는, 뽐내는",
+    "ko_simple": "자기가 잘하는 것이나 가진 것을 너무 자랑하는",
+    "examples": [
+     {
+      "en": "The boastful knight said he could beat any dragon.",
+      "ko": "허풍쟁이 기사는 어떤 용이든 무찌를 수 있다고 큰소리쳤다."
+     },
+     {
+      "en": "Try not to be boastful when you win a game.",
+      "ko": "게임에서 이겼을 때 너무 뽐내지 않도록 해라."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "boast"
+  ],
+  "picture": false
+ },
+ {
+  "word": "clumsy",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Moving in a careless way so that you often drop or bump into things.",
+    "ko": "서투른, 덜렁대는",
+    "ko_simple": "자주 물건을 떨어뜨리거나 부딪히는",
+    "examples": [
+     {
+      "en": "I am so clumsy that I spilled juice on my homework again.",
+      "ko": "나는 너무 덜렁대서 또 숙제에 주스를 쏟았다."
+     },
+     {
+      "en": "The clumsy puppy tripped over its own big paws.",
+      "ko": "어설픈 강아지는 자기 큰 발에 걸려 넘어졌다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "clumsier",
+   "clumsiest",
+   "clumsily"
+  ],
+  "picture": false
+ },
+ {
+  "word": "compassionate",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Feeling sorry for people who are hurting and wanting to help them.",
+    "ko": "동정심 있는, 인정 많은",
+    "ko_simple": "아픈 사람의 마음을 느끼고 도와주고 싶어 하는",
+    "examples": [
+     {
+      "en": "The compassionate nurse held the scared child's hand.",
+      "ko": "인정 많은 간호사는 겁먹은 아이의 손을 잡아 주었다."
+     },
+     {
+      "en": "Lucy is compassionate and always helps kids who fall on the playground.",
+      "ko": "루시는 인정이 많아서 놀이터에서 넘어진 아이들을 늘 도와준다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "compassion"
+  ],
+  "picture": false
+ },
+ {
+  "word": "considerate",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Careful not to hurt or bother others; thinking about their feelings.",
+    "ko": "사려 깊은, 남을 배려하는",
+    "ko_simple": "남에게 폐가 되지 않도록 마음을 쓰는",
+    "examples": [
+     {
+      "en": "It was considerate of you to turn the music down while the baby slept.",
+      "ko": "아기가 자는 동안 음악 소리를 줄인 건 참 배려 깊었다."
+     },
+     {
+      "en": "A considerate guest takes off muddy shoes at the door.",
+      "ko": "배려심 있는 손님은 문 앞에서 진흙 묻은 신발을 벗는다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "consider"
+  ],
+  "picture": false
+ },
+ {
+  "word": "dependable",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Able to be trusted to do what you say you will do.",
+    "ko": "믿을 수 있는, 신뢰할 수 있는",
+    "ko_simple": "맡긴 일을 꼭 해내서 믿을 만한",
+    "examples": [
+     {
+      "en": "Our dependable class helper feeds the fish every single day.",
+      "ko": "믿음직한 우리 반 도우미는 하루도 빠짐없이 물고기에게 먹이를 준다."
+     },
+     {
+      "en": "An old car can still be dependable if you take care of it.",
+      "ko": "오래된 차도 잘 관리하면 여전히 믿고 탈 수 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "depend"
+  ],
+  "picture": false
+ },
+ {
+  "word": "energetic",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Full of energy and always active.",
+    "ko": "활기찬, 힘이 넘치는",
+    "ko_simple": "힘이 넘쳐서 늘 바쁘게 움직이는",
+    "examples": [
+     {
+      "en": "The energetic puppy chased the ball for an hour.",
+      "ko": "힘이 넘치는 강아지는 한 시간 동안 공을 쫓아다녔다."
+     },
+     {
+      "en": "Our gym teacher is so energetic that she never seems tired.",
+      "ko": "우리 체육 선생님은 너무 활기차서 지치는 법이 없어 보인다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "energy"
+  ],
+  "picture": false
+ },
+ {
+  "word": "fierce",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Wild, strong, and scary, ready to fight or attack.",
+    "ko": "사나운, 맹렬한",
+    "ko_simple": "무섭고 힘이 세서 덤벼들 것 같은",
+    "examples": [
+     {
+      "en": "The fierce lion roared and showed its sharp teeth.",
+      "ko": "사나운 사자가 으르렁거리며 날카로운 이빨을 드러냈다."
+     },
+     {
+      "en": "A fierce wind blew the umbrella out of my hand.",
+      "ko": "사나운 바람이 내 손에서 우산을 날려 버렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "fiercer",
+   "fiercest",
+   "fiercely"
+  ],
+  "picture": false
+ },
+ {
+  "word": "foolish",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Not smart or sensible; silly.",
+    "ko": "어리석은, 바보 같은",
+    "ko_simple": "생각이 모자라서 바보 같은",
+    "examples": [
+     {
+      "en": "It was foolish to go outside in shorts during a snowstorm.",
+      "ko": "눈보라 속에 반바지를 입고 밖에 나간 것은 어리석은 짓이었다."
+     },
+     {
+      "en": "I felt foolish when I realized I had my shirt on backwards.",
+      "ko": "셔츠를 거꾸로 입은 걸 알았을 때 나는 바보가 된 기분이었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "foolishly",
+   "fool"
+  ],
+  "picture": false
+ },
+ {
+  "word": "gracious",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Kind, polite, and warm, especially to guests.",
+    "ko": "친절한, 품위 있는",
+    "ko_simple": "손님 등을 따뜻하고 예의 바르게 대하는",
+    "examples": [
+     {
+      "en": "Our gracious host made sure everyone had enough to eat.",
+      "ko": "친절한 주인은 모두가 충분히 먹었는지 꼼꼼히 챙겼다."
+     },
+     {
+      "en": "Even after losing, she was gracious and shook the winner's hand.",
+      "ko": "지고 나서도 그녀는 품위 있게 우승자와 악수했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "graciously"
+  ],
+  "picture": false
+ },
+ {
+  "word": "greedy",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Wanting much more of something, like food or money, than you need.",
+    "ko": "욕심 많은, 탐욕스러운",
+    "ko_simple": "필요한 것보다 훨씬 더 많이 가지려는",
+    "examples": [
+     {
+      "en": "The greedy king wanted everything he touched to turn to gold.",
+      "ko": "욕심 많은 왕은 손대는 모든 것이 금으로 변하기를 바랐다."
+     },
+     {
+      "en": "Don't be greedy; leave some popcorn for everyone else.",
+      "ko": "욕심부리지 말고 다른 사람들 몫의 팝콘도 좀 남겨 둬."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "greedier",
+   "greediest",
+   "greed"
+  ],
+  "picture": false
+ },
+ {
+  "word": "gullible",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Easily tricked because you believe almost anything people tell you.",
+    "ko": "잘 속는, 귀가 얇은",
+    "ko_simple": "남이 하는 말을 쉽게 믿어서 잘 속는",
+    "examples": [
+     {
+      "en": "My gullible cousin believed me when I said the moon was made of cheese.",
+      "ko": "잘 속는 내 사촌은 달이 치즈로 만들어졌다는 내 말을 믿었다."
+     },
+     {
+      "en": "On April Fools' Day, gullible people get tricked a lot.",
+      "ko": "만우절에는 잘 속는 사람들이 많이 속는다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "hesitant",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Slow to act or speak because you are unsure or nervous.",
+    "ko": "망설이는, 주저하는",
+    "ko_simple": "확신이 없어서 머뭇거리는",
+    "examples": [
+     {
+      "en": "Jin was hesitant to jump into the deep end of the pool.",
+      "ko": "진은 수영장 깊은 쪽으로 뛰어들기를 망설였다."
+     },
+     {
+      "en": "She gave a hesitant answer because she was not sure it was right.",
+      "ko": "맞는지 확신이 없어서 그녀는 머뭇거리며 대답했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "hesitate",
+   "hesitantly"
+  ],
+  "picture": false
+ },
+ {
+  "word": "indignant",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Angry because something seems unfair.",
+    "ko": "분개한, 억울해하는",
+    "ko_simple": "불공평한 일 때문에 화가 난",
+    "examples": [
+     {
+      "en": "Rosa was indignant when she got blamed for her brother's mess.",
+      "ko": "로사는 동생이 어지른 것 때문에 혼나자 억울해서 화가 났다."
+     },
+     {
+      "en": "The indignant cat glared at us after its bath.",
+      "ko": "목욕을 하고 난 고양이는 분하다는 듯 우리를 노려보았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "indignantly"
+  ],
+  "picture": false
+ },
+ {
+  "word": "jolly",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Happy, cheerful, and full of fun.",
+    "ko": "즐거운, 유쾌한",
+    "ko_simple": "웃음이 많고 명랑한",
+    "examples": [
+     {
+      "en": "Santa is often shown as a jolly man with a big laugh.",
+      "ko": "산타는 흔히 크게 웃는 유쾌한 사람으로 그려진다."
+     },
+     {
+      "en": "We had a jolly time singing songs around the campfire.",
+      "ko": "우리는 모닥불 주위에서 노래하며 즐거운 시간을 보냈다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "jollier",
+   "jolliest"
+  ],
+  "picture": false
+ },
+ {
+  "word": "lazy",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Not wanting to work or be active.",
+    "ko": "게으른",
+    "ko_simple": "일하거나 움직이기 싫어하는",
+    "examples": [
+     {
+      "en": "On lazy Sunday mornings, we eat pancakes in our pajamas.",
+      "ko": "느긋한 일요일 아침이면 우리는 잠옷 차림으로 팬케이크를 먹는다."
+     },
+     {
+      "en": "The lazy cat would not even get up to catch the mouse.",
+      "ko": "게으른 고양이는 쥐를 잡으려고 일어나지도 않았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "lazier",
+   "laziest",
+   "laziness"
+  ],
+  "picture": false
+ },
+ {
+  "word": "modest",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Not talking a lot about your own skills or the good things you do.",
+    "ko": "겸손한, 수수한",
+    "ko_simple": "자기가 잘하는 것을 크게 자랑하지 않는",
+    "examples": [
+     {
+      "en": "Grace is a great artist, but she is too modest to say so.",
+      "ko": "그레이스는 훌륭한 화가지만 너무 겸손해서 그렇게 말하지 않는다."
+     },
+     {
+      "en": "He gave a modest shrug when we cheered for him.",
+      "ko": "우리가 그를 응원하자 그는 겸손하게 어깨를 으쓱했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "modestly"
+  ],
+  "picture": false
+ },
+ {
+  "word": "optimistic",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Expecting good things to happen.",
+    "ko": "낙관적인, 낙천적인",
+    "ko_simple": "앞으로 좋은 일이 생길 거라고 생각하는",
+    "examples": [
+     {
+      "en": "Even though it was cloudy, we were optimistic that the game would happen.",
+      "ko": "날이 흐렸지만 우리는 경기가 열릴 거라고 낙관했다."
+     },
+     {
+      "en": "My optimistic friend always says, \"Tomorrow will be better!\"",
+      "ko": "낙천적인 내 친구는 늘 \"내일은 더 좋을 거야!\"라고 말한다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "optimist"
+  ],
+  "picture": false
+ },
+ {
+  "word": "pessimistic",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Expecting bad things to happen.",
+    "ko": "비관적인",
+    "ko_simple": "앞으로 나쁜 일이 생길 거라고 생각하는",
+    "examples": [
+     {
+      "en": "Owen was pessimistic and was sure he would fail the quiz.",
+      "ko": "오웬은 비관적이어서 쪽지 시험을 망칠 거라고 확신했다."
+     },
+     {
+      "en": "Don't be so pessimistic; the rain might stop soon.",
+      "ko": "너무 비관하지 마. 비가 곧 그칠지도 몰라."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "pessimist"
+  ],
+  "picture": false
+ },
+ {
+  "word": "playful",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Full of fun and wanting to play.",
+    "ko": "장난기 많은, 놀기 좋아하는",
+    "ko_simple": "놀고 장난치기를 좋아하는",
+    "examples": [
+     {
+      "en": "The playful otters slid down the muddy bank again and again.",
+      "ko": "장난기 많은 수달들이 진흙 둑을 몇 번이고 미끄러져 내려왔다."
+     },
+     {
+      "en": "Grandpa gave me a playful poke in the belly.",
+      "ko": "할아버지는 장난스럽게 내 배를 쿡 찌르셨다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "playfully"
+  ],
+  "picture": false
+ },
+ {
+  "word": "puzzled",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Confused because you do not understand something.",
+    "ko": "어리둥절한, 당혹한",
+    "ko_simple": "이해가 안 돼서 갸우뚱하는",
+    "examples": [
+     {
+      "en": "I was puzzled when my socks went into the dryer as a pair but came out alone.",
+      "ko": "양말을 짝으로 건조기에 넣었는데 한 짝만 나와서 나는 어리둥절했다."
+     },
+     {
+      "en": "The dog tilted its head with a puzzled look.",
+      "ko": "개는 어리둥절한 표정으로 고개를 갸웃했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "puzzle",
+   "puzzling"
+  ],
+  "picture": false
+ },
+ {
+  "word": "resourceful",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Good at finding clever ways to solve problems with what you have.",
+    "ko": "수완 있는, 재치 있는",
+    "ko_simple": "가진 것으로 문제를 잘 해결해 내는",
+    "examples": [
+     {
+      "en": "The resourceful campers used a shoelace to fix the broken tent.",
+      "ko": "재치 있는 야영객들은 신발 끈으로 망가진 텐트를 고쳤다."
+     },
+     {
+      "en": "In the book, the resourceful girl built a raft out of old barrels.",
+      "ko": "책 속의 재주 많은 소녀는 낡은 통으로 뗏목을 만들었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "responsible",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Able to be trusted to do the right thing and take care of your jobs.",
+    "ko": "책임감 있는",
+    "ko_simple": "맡은 일을 잘 해내서 믿을 수 있는",
+    "examples": [
+     {
+      "en": "Ivy is responsible enough to walk the neighbor's dog.",
+      "ko": "아이비는 이웃집 개를 산책시킬 만큼 책임감이 있다."
+     },
+     {
+      "en": "Being responsible means doing your chores without being reminded.",
+      "ko": "책임감이 있다는 건 누가 말하지 않아도 집안일을 하는 것이다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "responsibility"
+  ],
+  "picture": false
+ },
+ {
+  "word": "skeptical",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Not sure if something is true; having doubts.",
+    "ko": "의심하는, 회의적인",
+    "ko_simple": "정말 그런지 쉽게 믿지 못하는",
+    "examples": [
+     {
+      "en": "I was skeptical when my brother said he saw a ghost in the attic.",
+      "ko": "형이 다락방에서 유령을 봤다고 했을 때 나는 믿기지 않았다."
+     },
+     {
+      "en": "Mom looked skeptical when I said I had already brushed my teeth.",
+      "ko": "내가 벌써 이를 닦았다고 하자 엄마는 의심스러운 표정을 지으셨다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "skeptic"
+  ],
+  "picture": false
+ },
+ {
+  "word": "solemn",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Very serious and not smiling.",
+    "ko": "엄숙한, 진지한",
+    "ko_simple": "웃지 않고 아주 진지한",
+    "examples": [
+     {
+      "en": "Everyone was quiet and solemn at Grandpa's funeral.",
+      "ko": "할아버지 장례식에서 모두가 조용하고 엄숙했다."
+     },
+     {
+      "en": "He made a solemn promise to take care of the class hamster.",
+      "ko": "그는 반 햄스터를 잘 돌보겠다고 진지하게 약속했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "solemnly"
+  ],
+  "picture": false
+ },
+ {
+  "word": "sympathetic",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Showing that you understand and care about someone's problems or sadness.",
+    "ko": "동정적인, 공감하는",
+    "ko_simple": "다른 사람의 슬픔을 이해하고 마음 써 주는",
+    "examples": [
+     {
+      "en": "My teacher was sympathetic when I told her my grandma was sick.",
+      "ko": "할머니가 아프시다고 말씀드리자 선생님은 내 마음을 헤아려 주셨다."
+     },
+     {
+      "en": "Our sympathetic neighbor helped look for our missing cat.",
+      "ko": "공감해 준 이웃이 잃어버린 우리 고양이를 함께 찾아 주었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "sympathy",
+   "sympathize"
+  ],
+  "picture": false
+ },
+ {
+  "word": "thrilled",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Very excited and happy.",
+    "ko": "몹시 신이 난, 짜릿한",
+    "ko_simple": "아주 신나고 기쁜",
+    "examples": [
+     {
+      "en": "I was thrilled when I got a puppy for my birthday.",
+      "ko": "생일에 강아지를 받았을 때 나는 너무나 신이 났다."
+     },
+     {
+      "en": "The fans were thrilled when their team won the championship.",
+      "ko": "팬들은 응원하는 팀이 우승하자 무척 기뻐했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "thrill",
+   "thrilling"
+  ],
+  "picture": false
+ },
+ {
+  "word": "wary",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Careful because you think there might be danger or trouble.",
+    "ko": "경계하는, 조심하는",
+    "ko_simple": "위험할지 몰라서 조심하는",
+    "examples": [
+     {
+      "en": "The wary cat sniffed the new food before eating it.",
+      "ko": "조심성 있는 고양이는 새 음식을 먹기 전에 냄새를 맡았다."
+     },
+     {
+      "en": "Be wary of big waves when you swim at the beach.",
+      "ko": "바닷가에서 수영할 때는 큰 파도를 조심해라."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "warily"
+  ],
+  "picture": false
+ },
+ {
+  "word": "witty",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Clever and funny with words.",
+    "ko": "재치 있는, 위트 있는",
+    "ko_simple": "말을 재미있고 똑똑하게 하는",
+    "examples": [
+     {
+      "en": "My witty uncle always makes everyone laugh at dinner.",
+      "ko": "재치 있는 우리 삼촌은 저녁 식사 때 늘 모두를 웃게 하신다."
+     },
+     {
+      "en": "She gave a witty answer that made the whole class giggle.",
+      "ko": "그녀가 재치 있게 대답해서 온 반이 킥킥 웃었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "wittier",
+   "wittiest",
+   "wit"
+  ],
+  "picture": false
+ },
+ {
+  "word": "cunning",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Clever at getting what you want, often by tricking others.",
+    "ko": "교활한, 꾀 많은",
+    "ko_simple": "남을 속여서라도 원하는 것을 얻는 꾀가 많은",
+    "examples": [
+     {
+      "en": "The cunning wolf dressed up like Grandma to fool Red Riding Hood.",
+      "ko": "꾀 많은 늑대는 빨간 모자를 속이려고 할머니처럼 차려입었다."
+     },
+     {
+      "en": "The raccoon came up with a cunning plan to open the trash can.",
+      "ko": "너구리는 쓰레기통을 열 교묘한 계획을 세웠다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "cunningly"
+  ],
+  "picture": false
+ },
+ {
+  "word": "devoted",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Loving and caring about someone or something very much.",
+    "ko": "헌신적인, 열성적인",
+    "ko_simple": "누구나 무엇을 아주 많이 아끼고 정성을 쏟는",
+    "examples": [
+     {
+      "en": "My grandparents are devoted to their garden and work in it every day.",
+      "ko": "우리 조부모님은 정원에 정성을 쏟아 매일 가꾸신다."
+     },
+     {
+      "en": "The devoted dog stayed by its owner's side.",
+      "ko": "충직한 개는 주인 곁을 떠나지 않았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "devote",
+   "devotion"
+  ],
+  "picture": false
+ },
+ {
+  "word": "overjoyed",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Extremely happy.",
+    "ko": "매우 기뻐하는",
+    "ko_simple": "기뻐서 어쩔 줄 모르는",
+    "examples": [
+     {
+      "en": "We were overjoyed when our lost dog came home.",
+      "ko": "잃어버린 개가 집에 돌아오자 우리는 너무나 기뻤다."
+     },
+     {
+      "en": "The overjoyed team jumped up and down on the field.",
+      "ko": "무척 기뻐한 팀은 경기장에서 펄쩍펄쩍 뛰었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "sullen",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Quiet and grumpy because you are upset, without saying why.",
+    "ko": "시무룩한, 뚱한",
+    "ko_simple": "기분이 나빠서 말없이 뾰로통한",
+    "examples": [
+     {
+      "en": "My sister was sullen all day after she lost the game.",
+      "ko": "언니는 게임에서 진 뒤 하루 종일 뾰로통했다."
+     },
+     {
+      "en": "He gave a sullen shrug instead of answering.",
+      "ko": "그는 대답하는 대신 시무룩하게 어깨만 으쓱했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "sullenly"
+  ],
+  "picture": false
+ },
+ {
+  "word": "homesick",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Sad because you are away from home and miss it.",
+    "ko": "향수병에 걸린, 집을 그리워하는",
+    "ko_simple": "집을 떠나 있어서 집이 그리운",
+    "examples": [
+     {
+      "en": "On the first night of summer camp, Toby felt homesick.",
+      "ko": "여름 캠프 첫날 밤, 토비는 집이 그리웠다."
+     },
+     {
+      "en": "Writing letters to my family helped when I was homesick.",
+      "ko": "집이 그리울 때 가족에게 편지를 쓰니 도움이 되었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "homesickness"
+  ],
+  "picture": false
+ },
+ {
+  "word": "outraged",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Extremely angry and shocked because something is very wrong or unfair.",
+    "ko": "격분한, 분노한",
+    "ko_simple": "아주 잘못된 일 때문에 몹시 화가 난",
+    "examples": [
+     {
+      "en": "The town was outraged when someone cut down the old oak tree.",
+      "ko": "누군가 오래된 참나무를 베어 버리자 마을 사람들은 격분했다."
+     },
+     {
+      "en": "I was outraged that the movie ended right before the big surprise.",
+      "ko": "영화가 큰 반전 바로 직전에 끝나서 나는 분통이 터졌다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "outrage",
+   "outrageous"
+  ],
+  "picture": false
+ }
+]

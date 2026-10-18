@@ -1,0 +1,2479 @@
+[
+ {
+  "word": "pioneer",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "One of the first people to move to and settle a new place, especially the American West in the 1800s.",
+    "ko": "개척자, 개척민",
+    "ko_simple": "새로운 곳, 특히 1800년대 미국 서부에 처음 옮겨 가 자리 잡은 사람",
+    "examples": [
+     {
+      "en": "The pioneer family packed everything they owned into one wagon.",
+      "ko": "그 개척민 가족은 가진 것을 모두 마차 한 대에 실었다."
+     },
+     {
+      "en": "Pioneer kids walked beside the wagon most of the way.",
+      "ko": "개척민 아이들은 거의 내내 마차 옆에서 걸었다."
+     }
+    ]
+   },
+   {
+    "pos": "noun",
+    "simple": "A person who is one of the first to do something new.",
+    "ko": "선구자",
+    "ko_simple": "새로운 일을 처음으로 하는 사람 가운데 하나",
+    "examples": [
+     {
+      "en": "Amelia Earhart was a pioneer in flying airplanes.",
+      "ko": "어밀리아 에어하트는 비행의 선구자였다."
+     },
+     {
+      "en": "My grandma was a pioneer who became the first woman doctor in her town.",
+      "ko": "우리 할머니는 마을에서 처음으로 여성 의사가 된 선구자였다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "pioneers"
+  ],
+  "picture": true
+ },
+ {
+  "word": "frontier",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The edge of the settled part of a country, where few people live and the wild land begins.",
+    "ko": "변경, 개척지의 끝",
+    "ko_simple": "한 나라에서 사람이 사는 곳이 끝나고 거친 땅이 시작되는 가장자리",
+    "examples": [
+     {
+      "en": "Daniel Boone lived on the frontier.",
+      "ko": "대니얼 분은 변경 지역에 살았다."
+     },
+     {
+      "en": "Life on the frontier meant no stores, no doctors, and lots of hard work.",
+      "ko": "변경 생활은 가게도 의사도 없이 일만 많다는 뜻이었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "frontiers"
+  ],
+  "picture": false
+ },
+ {
+  "word": "wagon train",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A long line of covered wagons traveling together across the country.",
+    "ko": "마차 행렬, 포장마차 대열",
+    "ko_simple": "함께 나라를 가로질러 가던 포장마차들의 긴 줄",
+    "examples": [
+     {
+      "en": "The wagon train stretched for a mile across the prairie.",
+      "ko": "마차 행렬은 초원을 가로질러 1.6km나 이어졌다."
+     },
+     {
+      "en": "At night, the wagon train made a circle to keep the oxen inside.",
+      "ko": "밤이 되면 마차 행렬은 소들을 안에 두려고 둥글게 섰다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "wagon trains"
+  ],
+  "picture": true
+ },
+ {
+  "word": "covered wagon",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A wagon with a cloth cover stretched over hoops, used by pioneers to move west.",
+    "ko": "포장마차",
+    "ko_simple": "둥근 테 위에 천을 씌운 마차. 개척민들이 서부로 갈 때 썼다.",
+    "examples": [
+     {
+      "en": "The covered wagon was so full that the kids had to walk.",
+      "ko": "포장마차에 짐이 너무 많아서 아이들은 걸어야 했다."
+     },
+     {
+      "en": "Oxen pulled the covered wagon about 15 miles a day.",
+      "ko": "소들이 하루에 약 24km씩 포장마차를 끌었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "covered wagons"
+  ],
+  "picture": true
+ },
+ {
+  "word": "Oregon Trail",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A trail about 2,000 miles long that pioneers followed in the 1800s from Missouri to Oregon.",
+    "ko": "오리건 트레일",
+    "ko_simple": "1800년대 개척민들이 미주리에서 오리건까지 따라간 약 3,200km 길이의 길",
+    "examples": [
+     {
+      "en": "The trip on the Oregon Trail took about five or six months.",
+      "ko": "오리건 트레일로 가는 여행은 대략 대여섯 달 걸렸다."
+     },
+     {
+      "en": "You can still see wagon wheel ruts from the Oregon Trail.",
+      "ko": "지금도 오리건 트레일의 마차 바퀴 자국을 볼 수 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "Santa Fe Trail",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A trade route in the 1800s from Missouri to Santa Fe, New Mexico, used by traders with wagons.",
+    "ko": "산타페 트레일",
+    "ko_simple": "1800년대 상인들이 마차를 끌고 미주리에서 뉴멕시코의 산타페까지 다닌 무역로",
+    "examples": [
+     {
+      "en": "Traders on the Santa Fe Trail carried cloth and tools to sell.",
+      "ko": "산타페 트레일의 상인들은 팔 옷감과 도구를 싣고 갔다."
+     },
+     {
+      "en": "The Santa Fe Trail crossed hot, dry land with little water.",
+      "ko": "산타페 트레일은 물이 거의 없는 덥고 메마른 땅을 지났다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "westward expansion",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The movement of settlers into the western part of North America during the 1800s, as the United States grew bigger.",
+    "ko": "서부 확장, 서부 개척",
+    "ko_simple": "1800년대에 미국이 커지면서 정착민들이 북아메리카 서쪽으로 옮겨 간 일",
+    "examples": [
+     {
+      "en": "Westward expansion pushed many Native nations off their lands.",
+      "ko": "서부 확장으로 많은 원주민 부족이 땅에서 밀려났다."
+     },
+     {
+      "en": "Railroads sped up westward expansion.",
+      "ko": "철도가 서부 확장에 속도를 붙였다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "manifest destiny",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The belief in the 1800s that the United States was meant to spread all the way across North America to the Pacific Ocean.",
+    "ko": "명백한 운명(론)",
+    "ko_simple": "1800년대에 미국이 북아메리카를 가로질러 태평양까지 넓어질 운명이라고 믿은 생각",
+    "examples": [
+     {
+      "en": "Believers in manifest destiny ignored the Native people already living in the West.",
+      "ko": "명백한 운명을 믿은 사람들은 이미 서부에 살고 있던 원주민을 무시했다."
+     },
+     {
+      "en": "The painting showed manifest destiny as a woman floating west.",
+      "ko": "그 그림은 명백한 운명을 서쪽으로 떠가는 여인으로 그렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "gold rush",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A time when many people rush to a place where gold has been found, hoping to get rich.",
+    "ko": "골드러시",
+    "ko_simple": "금이 발견된 곳으로 부자가 되기를 바라며 많은 사람이 몰려드는 때",
+    "examples": [
+     {
+      "en": "The California Gold Rush began in 1848.",
+      "ko": "캘리포니아 골드러시는 1848년에 시작되었다."
+     },
+     {
+      "en": "During the gold rush, an egg could cost a dollar.",
+      "ko": "골드러시 때는 달걀 하나가 1달러나 했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "gold rushes"
+  ],
+  "picture": true
+ },
+ {
+  "word": "forty-niner",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A person who went to California in 1849 to look for gold.",
+    "ko": "포티나이너(1849년 금광꾼)",
+    "ko_simple": "1849년에 금을 찾으러 캘리포니아로 간 사람",
+    "examples": [
+     {
+      "en": "The forty-niner dug all day but found only a tiny bit of gold.",
+      "ko": "그 금광꾼은 하루 종일 땅을 팠지만 아주 조금의 금만 찾았다."
+     },
+     {
+      "en": "The San Francisco football team is named the 49ers after the forty-niners.",
+      "ko": "샌프란시스코 미식축구팀 '포티나이너스'는 금광꾼들의 이름을 땄다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "forty-niners"
+  ],
+  "picture": true
+ },
+ {
+  "word": "prospector",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A person who searches the land for gold, silver, or other valuable metals.",
+    "ko": "탐광자, 금 캐는 사람",
+    "ko_simple": "땅에서 금이나 은 같은 값진 금속을 찾아다니는 사람",
+    "examples": [
+     {
+      "en": "The prospector led his mule into the mountains.",
+      "ko": "탐광자는 노새를 끌고 산으로 들어갔다."
+     },
+     {
+      "en": "The old prospector shouted \"Eureka!\" when he saw something shiny.",
+      "ko": "늙은 탐광자는 반짝이는 것을 보고 \"유레카!\" 하고 외쳤다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "prospectors"
+  ],
+  "picture": true
+ },
+ {
+  "word": "pan",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To look for gold by washing dirt and gravel from a stream in a shallow pan, so the heavy gold stays at the bottom.",
+    "ko": "사금을 일다",
+    "ko_simple": "얕은 냄비에 냇가의 흙과 자갈을 넣고 물에 씻어서 무거운 금이 바닥에 남게 하여 금을 찾다",
+    "examples": [
+     {
+      "en": "We panned for gold at the museum and found three tiny flakes.",
+      "ko": "우리는 박물관에서 사금 일기를 해서 작은 금 조각 세 개를 찾았다."
+     },
+     {
+      "en": "Miners panned in the cold river for hours.",
+      "ko": "광부들은 차가운 강물에서 몇 시간 동안 사금을 일었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "pans",
+   "panned",
+   "panning"
+  ],
+  "picture": true
+ },
+ {
+  "word": "Sutter's Mill",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A sawmill in California where gold was found in 1848, which started the California Gold Rush.",
+    "ko": "서터의 제재소",
+    "ko_simple": "1848년 금이 발견되어 캘리포니아 골드러시를 일으킨 캘리포니아의 제재소",
+    "examples": [
+     {
+      "en": "A worker named James Marshall saw gold flakes at Sutter's Mill.",
+      "ko": "제임스 마셜이라는 일꾼이 서터의 제재소에서 금 조각을 보았다."
+     },
+     {
+      "en": "John Sutter tried to keep the gold at Sutter's Mill a secret, but the news spread fast.",
+      "ko": "존 서터는 제재소의 금을 비밀로 하려 했지만 소문은 빠르게 퍼졌다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "boomtown",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A town that grows very quickly, often because gold or oil was found nearby.",
+    "ko": "신흥 도시, 급성장 도시",
+    "ko_simple": "근처에서 금이나 석유가 발견되어 아주 빨리 커진 마을",
+    "examples": [
+     {
+      "en": "The boomtown went from 10 tents to 1,000 people in one summer.",
+      "ko": "그 신흥 도시는 여름 한 철 만에 천막 10개에서 1,000명이 사는 곳이 되었다."
+     },
+     {
+      "en": "Boomtowns had stores, hotels, and lots of mud.",
+      "ko": "신흥 도시에는 가게와 호텔, 그리고 진흙이 많았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "boomtowns"
+  ],
+  "picture": true
+ },
+ {
+  "word": "ghost town",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A town that everyone has left, often after the gold or silver ran out.",
+    "ko": "유령 도시",
+    "ko_simple": "흔히 금이나 은이 바닥난 뒤 모두가 떠나 버린 마을",
+    "examples": [
+     {
+      "en": "We explored a ghost town with empty buildings and a rusty bank safe.",
+      "ko": "우리는 빈 건물과 녹슨 은행 금고가 있는 유령 도시를 둘러보았다."
+     },
+     {
+      "en": "There are no real ghosts in a ghost town, only tumbleweeds.",
+      "ko": "유령 도시에 진짜 유령은 없고 회전초만 굴러다닌다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "ghost towns"
+  ],
+  "picture": true
+ },
+ {
+  "word": "homestead",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A house and the farmland around it, especially land given to settlers by the government.",
+    "ko": "자영 농지, 농가",
+    "ko_simple": "집과 그 주변의 농지, 특히 정부가 정착민에게 준 땅",
+    "examples": [
+     {
+      "en": "The family built a homestead on the open prairie.",
+      "ko": "그 가족은 탁 트인 초원에 농가를 지었다."
+     },
+     {
+      "en": "You can visit an old homestead with a barn and a windmill.",
+      "ko": "헛간과 풍차가 있는 옛 농가에 가 볼 수 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "homesteads"
+  ],
+  "picture": true
+ },
+ {
+  "word": "Homestead Act",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A law from 1862 that gave 160 acres of western land to settlers who would live on it and farm it for five years.",
+    "ko": "자영 농지법(홈스테드법)",
+    "ko_simple": "1862년에 만든 법으로, 5년 동안 살면서 농사를 지을 정착민에게 서부 땅 160에이커를 주었다.",
+    "examples": [
+     {
+      "en": "Thanks to the Homestead Act, a family could get land for a small fee.",
+      "ko": "자영 농지법 덕분에 한 가족이 적은 돈으로 땅을 얻을 수 있었다."
+     },
+     {
+      "en": "The Homestead Act brought settlers to the Great Plains.",
+      "ko": "자영 농지법으로 정착민들이 대평원으로 왔다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "homesteader",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A person who got land from the government and farmed it, especially under the Homestead Act.",
+    "ko": "자영 농민, 홈스테더",
+    "ko_simple": "특히 자영 농지법에 따라 정부에게서 땅을 받아 농사지은 사람",
+    "examples": [
+     {
+      "en": "The homesteaders had to plow the tough prairie grass.",
+      "ko": "자영 농민들은 질긴 초원의 풀을 갈아엎어야 했다."
+     },
+     {
+      "en": "Many homesteaders were immigrants from Europe.",
+      "ko": "많은 자영 농민이 유럽에서 온 이민자였다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "homesteaders"
+  ],
+  "picture": true
+ },
+ {
+  "word": "sod house",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A house made of blocks of grassy earth, built by settlers on the prairie where there were few trees.",
+    "ko": "떼집, 흙집",
+    "ko_simple": "나무가 거의 없는 초원에서 정착민들이 풀뿌리가 엉긴 흙덩이로 지은 집",
+    "examples": [
+     {
+      "en": "The sod house stayed cool in summer and warm in winter.",
+      "ko": "떼집은 여름에는 시원하고 겨울에는 따뜻했다."
+     },
+     {
+      "en": "Sometimes a snake fell from the roof of the sod house!",
+      "ko": "가끔 떼집 지붕에서 뱀이 떨어지기도 했다!"
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "sod houses"
+  ],
+  "picture": true
+ },
+ {
+  "word": "dugout",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A simple home dug into the side of a hill, used by some pioneers on the prairie.",
+    "ko": "토굴집",
+    "ko_simple": "언덕 옆을 파서 만든 간단한 집. 초원의 일부 개척민들이 썼다.",
+    "examples": [
+     {
+      "en": "In On the Banks of Plum Creek, Laura's family lived in a dugout.",
+      "ko": "《플럼 시냇가에서》에서 로라의 가족은 토굴집에 살았다."
+     },
+     {
+      "en": "A big steer once walked on the roof of the dugout and its leg came through!",
+      "ko": "한번은 소가 토굴집 지붕 위를 걷다가 다리가 천장을 뚫고 들어왔다!"
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "dugouts"
+  ],
+  "picture": true
+ },
+ {
+  "word": "transcontinental railroad",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The first railroad across the United States, finished in 1869, which joined the East and the West.",
+    "ko": "대륙 횡단 철도",
+    "ko_simple": "1869년에 완성되어 동부와 서부를 이은 미국 최초의 대륙을 가로지르는 철도",
+    "examples": [
+     {
+      "en": "The transcontinental railroad turned a six-month trip into about a week.",
+      "ko": "대륙 횡단 철도로 여섯 달 걸리던 여행이 일주일쯤으로 줄었다."
+     },
+     {
+      "en": "Thousands of Chinese and Irish workers built the transcontinental railroad.",
+      "ko": "수천 명의 중국인과 아일랜드인 노동자들이 대륙 횡단 철도를 놓았다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "Golden Spike",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A special gold spike hammered into the track in Utah in 1869 to celebrate finishing the transcontinental railroad.",
+    "ko": "황금 못",
+    "ko_simple": "1869년 대륙 횡단 철도 완성을 기념해 유타주의 철로에 박은 특별한 금 못",
+    "examples": [
+     {
+      "en": "Leaders took turns trying to hit the Golden Spike, and one of them missed!",
+      "ko": "지도자들이 번갈아 황금 못을 치려 했는데 한 사람은 헛쳤다!"
+     },
+     {
+      "en": "The Golden Spike is now kept in a museum in California.",
+      "ko": "황금 못은 지금 캘리포니아의 박물관에 보관되어 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "Pony Express",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A mail service in 1860 and 1861 where riders on fast horses carried letters from Missouri to California in about ten days.",
+    "ko": "포니 익스프레스",
+    "ko_simple": "1860~1861년에 빠른 말을 탄 사람들이 미주리에서 캘리포니아까지 약 열흘 만에 편지를 나른 우편 제도",
+    "examples": [
+     {
+      "en": "Pony Express riders changed horses about every 10 to 15 miles.",
+      "ko": "포니 익스프레스 기수들은 약 16~24km마다 말을 바꿔 탔다."
+     },
+     {
+      "en": "The Pony Express ended when the telegraph line was finished.",
+      "ko": "전신선이 완성되자 포니 익스프레스는 끝났다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "telegraph",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A machine that sends messages over long wires using electric signals, often in Morse code.",
+    "ko": "전신, 전보",
+    "ko_simple": "긴 전선으로 전기 신호를 보내 소식을 전하는 기계. 흔히 모스 부호를 썼다.",
+    "examples": [
+     {
+      "en": "News of the Golden Spike traveled by telegraph in minutes.",
+      "ko": "황금 못 소식은 전신으로 몇 분 만에 퍼졌다."
+     },
+     {
+      "en": "The telegraph operator tapped out a message: dot, dot, dash.",
+      "ko": "전신 기사는 '점, 점, 선' 하고 소식을 두드려 보냈다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "telegraphs"
+  ],
+  "picture": true
+ },
+ {
+  "word": "Daniel Boone",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A famous frontiersman and explorer who blazed a trail through the Cumberland Gap into Kentucky.",
+    "ko": "대니얼 분",
+    "ko_simple": "컴벌랜드 협곡을 지나 켄터키로 가는 길을 낸 유명한 개척자이자 탐험가",
+    "examples": [
+     {
+      "en": "Daniel Boone helped build the Wilderness Road.",
+      "ko": "대니얼 분은 윌더니스 로드를 만드는 것을 도왔다."
+     },
+     {
+      "en": "Daniel Boone could find his way through thick forests.",
+      "ko": "대니얼 분은 빽빽한 숲에서도 길을 찾을 수 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Wilderness Road",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A trail through the Cumberland Gap in the Appalachian Mountains that settlers used to reach Kentucky and Tennessee.",
+    "ko": "윌더니스 로드",
+    "ko_simple": "정착민들이 켄터키와 테네시로 갈 때 쓴, 애팔래치아산맥의 컴벌랜드 협곡을 지나는 길",
+    "examples": [
+     {
+      "en": "More than 200,000 people traveled the Wilderness Road.",
+      "ko": "20만 명이 넘는 사람이 윌더니스 로드를 지나갔다."
+     },
+     {
+      "en": "At first the Wilderness Road was too narrow for wagons.",
+      "ko": "처음에 윌더니스 로드는 마차가 지나가기에 너무 좁았다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Cumberland Gap",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A low pass through the Appalachian Mountains where Virginia, Kentucky, and Tennessee meet.",
+    "ko": "컴벌랜드 협곡",
+    "ko_simple": "버지니아, 켄터키, 테네시가 만나는 곳에 있는 애팔래치아산맥의 낮은 고갯길",
+    "examples": [
+     {
+      "en": "Bison and Native people used the Cumberland Gap long before settlers.",
+      "ko": "정착민들보다 훨씬 전에 들소와 원주민들이 컴벌랜드 협곡을 이용했다."
+     },
+     {
+      "en": "From the top of the Cumberland Gap, you can see three states.",
+      "ko": "컴벌랜드 협곡 꼭대기에서는 세 개의 주를 볼 수 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "mountain man",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A trapper and explorer who lived in the Rocky Mountains in the early 1800s, catching beavers for their fur.",
+    "ko": "산사람, 산악 사냥꾼",
+    "ko_simple": "1800년대 초 로키산맥에 살며 털가죽을 얻으려고 비버를 잡던 사냥꾼이자 탐험가",
+    "examples": [
+     {
+      "en": "The mountain man wore clothes made of deerskin.",
+      "ko": "그 산사람은 사슴 가죽으로 만든 옷을 입었다."
+     },
+     {
+      "en": "Mountain men met once a year at a big trading party called a rendezvous.",
+      "ko": "산사람들은 1년에 한 번 '랑데부'라는 큰 교역 모임에서 만났다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "mountain men"
+  ],
+  "picture": true
+ },
+ {
+  "word": "fur trade",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The buying and selling of animal furs, like beaver, which was a big business in North America long ago.",
+    "ko": "모피 무역",
+    "ko_simple": "비버 같은 동물의 털가죽을 사고팔던 일. 옛날 북아메리카에서 큰 사업이었다.",
+    "examples": [
+     {
+      "en": "The French built forts along rivers for the fur trade.",
+      "ko": "프랑스인들은 모피 무역을 위해 강을 따라 요새를 지었다."
+     },
+     {
+      "en": "Beaver fur was used to make fancy hats in Europe.",
+      "ko": "비버 털은 유럽에서 멋진 모자를 만드는 데 쓰였다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "trapper",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A person who catches wild animals in traps, usually to sell their fur.",
+    "ko": "덫 사냥꾼",
+    "ko_simple": "보통 털가죽을 팔려고 덫으로 야생 동물을 잡는 사람",
+    "examples": [
+     {
+      "en": "The trapper checked his traps along the frozen creek.",
+      "ko": "덫 사냥꾼은 얼어붙은 개울을 따라 덫을 살폈다."
+     },
+     {
+      "en": "Trappers traded furs for flour, coffee, and gunpowder.",
+      "ko": "덫 사냥꾼들은 털가죽을 밀가루, 커피, 화약과 바꿨다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "trappers"
+  ],
+  "picture": true
+ },
+ {
+  "word": "trading post",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A store in a far-off place where people traded goods like furs, food, and tools.",
+    "ko": "교역소",
+    "ko_simple": "사람들이 털가죽, 음식, 도구 같은 물건을 바꾸던 외딴 곳의 가게",
+    "examples": [
+     {
+      "en": "Native hunters brought furs to the trading post.",
+      "ko": "원주민 사냥꾼들은 털가죽을 교역소로 가져왔다."
+     },
+     {
+      "en": "The trading post sold blankets, beads, and metal pots.",
+      "ko": "교역소에서는 담요, 구슬, 쇠 냄비를 팔았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "trading posts"
+  ],
+  "picture": true
+ },
+ {
+  "word": "fort",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A strong building or group of buildings with walls, where soldiers live and protect an area.",
+    "ko": "요새",
+    "ko_simple": "군인들이 머물며 한 지역을 지키는, 벽으로 둘러싸인 튼튼한 건물",
+    "examples": [
+     {
+      "en": "Pioneers stopped at the fort to rest and buy supplies.",
+      "ko": "개척민들은 쉬고 물건을 사려고 요새에 들렀다."
+     },
+     {
+      "en": "We built a fort out of couch cushions.",
+      "ko": "우리는 소파 쿠션으로 요새를 만들었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "forts"
+  ],
+  "picture": true
+ },
+ {
+  "word": "territory",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "An area of land that belongs to the United States but is not yet a state.",
+    "ko": "준주, 영토",
+    "ko_simple": "미국 땅이지만 아직 주가 되지 않은 지역",
+    "examples": [
+     {
+      "en": "Oregon was a territory before it became a state.",
+      "ko": "오리건은 주가 되기 전에 준주였다."
+     },
+     {
+      "en": "Puerto Rico is a US territory today.",
+      "ko": "푸에르토리코는 오늘날 미국 영토다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "territories"
+  ],
+  "picture": false
+ },
+ {
+  "word": "stagecoach",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A large closed carriage pulled by horses that carried passengers and mail on a regular route.",
+    "ko": "역마차",
+    "ko_simple": "정해진 길로 승객과 우편물을 나르던, 말이 끄는 지붕 있는 큰 마차",
+    "examples": [
+     {
+      "en": "The stagecoach bounced so much that the passengers got sore.",
+      "ko": "역마차가 너무 덜컹거려서 승객들은 몸이 쑤셨다."
+     },
+     {
+      "en": "The stagecoach stopped at stations to get fresh horses.",
+      "ko": "역마차는 정거장에 서서 새 말로 바꿨다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "stagecoaches"
+  ],
+  "picture": true
+ },
+ {
+  "word": "cattle drive",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A long trip in which cowboys moved large herds of cattle across the country to a railroad town.",
+    "ko": "소 떼 몰이",
+    "ko_simple": "카우보이들이 많은 소 떼를 몰고 철도가 있는 마을까지 먼 길을 가던 일",
+    "examples": [
+     {
+      "en": "A cattle drive from Texas to Kansas could take three months.",
+      "ko": "텍사스에서 캔자스까지 소 떼를 모는 데 석 달이 걸리기도 했다."
+     },
+     {
+      "en": "On the cattle drive, the cook drove the chuck wagon full of beans.",
+      "ko": "소 떼 몰이 때 요리사는 콩이 가득 실린 취사 마차를 몰았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "cattle drives"
+  ],
+  "picture": true
+ },
+ {
+  "word": "cowboy",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A worker on horseback who takes care of cattle on a ranch.",
+    "ko": "카우보이, 목동",
+    "ko_simple": "목장에서 말을 타고 소를 돌보는 일꾼",
+    "examples": [
+     {
+      "en": "The cowboy used a rope called a lasso to catch the calf.",
+      "ko": "카우보이는 올가미라는 밧줄로 송아지를 잡았다."
+     },
+     {
+      "en": "Many real cowboys in the West were Black or Mexican.",
+      "ko": "서부의 진짜 카우보이 가운데는 흑인이나 멕시코인이 많았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "cowboys"
+  ],
+  "picture": true
+ },
+ {
+  "word": "ranch",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A very large farm where cattle, horses, or sheep are raised.",
+    "ko": "목장",
+    "ko_simple": "소, 말, 양을 기르는 아주 큰 농장",
+    "examples": [
+     {
+      "en": "The ranch was so big that it took all day to ride across.",
+      "ko": "그 목장은 너무 커서 말을 타고 가로지르는 데 하루가 걸렸다."
+     },
+     {
+      "en": "On the ranch, I fed carrots to a horse named Biscuit.",
+      "ko": "목장에서 나는 '비스킷'이라는 말에게 당근을 먹였다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "ranches"
+  ],
+  "picture": true
+ },
+ {
+  "word": "Alamo",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "An old mission in San Antonio, Texas, where a famous battle was fought in 1836 during the Texas fight for independence from Mexico.",
+    "ko": "알라모",
+    "ko_simple": "1836년 텍사스가 멕시코에서 독립하려고 싸울 때 유명한 전투가 벌어진 텍사스주 샌안토니오의 옛 선교 시설",
+    "examples": [
+     {
+      "en": "\"Remember the Alamo!\" became a famous battle cry.",
+      "ko": "\"알라모를 기억하라!\"는 유명한 함성이 되었다."
+     },
+     {
+      "en": "Davy Crockett died at the Alamo.",
+      "ko": "데이비 크로켓은 알라모에서 죽었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "Davy Crockett",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A frontiersman from Tennessee who served in Congress and died at the Alamo in 1836.",
+    "ko": "데이비 크로켓",
+    "ko_simple": "의회 의원을 지냈고 1836년 알라모에서 죽은 테네시 출신 개척자",
+    "examples": [
+     {
+      "en": "Davy Crockett was famous for telling tall tales.",
+      "ko": "데이비 크로켓은 허풍 섞인 이야기로 유명했다."
+     },
+     {
+      "en": "In pictures, Davy Crockett wears a raccoon-skin cap.",
+      "ko": "그림 속 데이비 크로켓은 너구리 가죽 모자를 쓰고 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Laura Ingalls Wilder",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "An author who wrote the Little House books about growing up as a pioneer girl in the 1870s and 1880s.",
+    "ko": "로라 잉걸스 와일더",
+    "ko_simple": "1870~1880년대 개척민 소녀로 자란 이야기를 담은 《초원의 집》 시리즈를 쓴 작가",
+    "examples": [
+     {
+      "en": "Laura Ingalls Wilder lived in a log cabin in Wisconsin.",
+      "ko": "로라 잉걸스 와일더는 위스콘신의 통나무집에 살았다."
+     },
+     {
+      "en": "Laura Ingalls Wilder wrote her first book when she was 65.",
+      "ko": "로라 잉걸스 와일더는 65살에 첫 책을 썼다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "log cabin",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A small house built from logs stacked on top of each other.",
+    "ko": "통나무집",
+    "ko_simple": "통나무를 쌓아 올려 지은 작은 집",
+    "examples": [
+     {
+      "en": "Abraham Lincoln was born in a log cabin.",
+      "ko": "에이브러햄 링컨은 통나무집에서 태어났다."
+     },
+     {
+      "en": "Pioneers filled the cracks of the log cabin with mud.",
+      "ko": "개척민들은 통나무집 틈을 진흙으로 메웠다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "log cabins"
+  ],
+  "picture": true
+ },
+ {
+  "word": "Johnny Appleseed",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The nickname of John Chapman, a man who planted apple trees across Ohio, Indiana, and nearby areas in the early 1800s.",
+    "ko": "조니 애플시드",
+    "ko_simple": "1800년대 초 오하이오, 인디애나 등지에 사과나무를 심고 다닌 존 채프먼의 별명",
+    "examples": [
+     {
+      "en": "Johnny Appleseed sold young apple trees to settlers.",
+      "ko": "조니 애플시드는 정착민들에게 어린 사과나무를 팔았다."
+     },
+     {
+      "en": "Some stories say Johnny Appleseed wore a pot on his head, but that may not be true.",
+      "ko": "조니 애플시드가 머리에 냄비를 썼다는 이야기도 있지만, 사실이 아닐 수도 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "slavery",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "When people are owned by other people and forced to work without pay or freedom.",
+    "ko": "노예 제도",
+    "ko_simple": "사람이 다른 사람의 소유가 되어 돈도 자유도 없이 강제로 일해야 하는 것",
+    "examples": [
+     {
+      "en": "Slavery was a terrible wrong in American history.",
+      "ko": "노예 제도는 미국 역사의 끔찍한 잘못이었다."
+     },
+     {
+      "en": "Slavery ended in the United States in 1865.",
+      "ko": "미국에서 노예 제도는 1865년에 끝났다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "enslaved",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Forced to be owned by another person and to work without pay or freedom.",
+    "ko": "노예가 된, 노예로 붙잡힌",
+    "ko_simple": "다른 사람의 소유가 되어 돈도 자유도 없이 강제로 일하게 된",
+    "examples": [
+     {
+      "en": "Enslaved people were not allowed to learn to read.",
+      "ko": "노예가 된 사람들은 글을 배우지 못하게 했다."
+     },
+     {
+      "en": "Historians say \"enslaved person\" to remember that they were people first.",
+      "ko": "역사가들은 그들이 무엇보다 사람이었다는 것을 기억하려고 '노예가 된 사람'이라고 말한다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "slave trade",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The buying and selling of people as slaves, especially taking Africans across the ocean to the Americas.",
+    "ko": "노예 무역",
+    "ko_simple": "사람을 노예로 사고파는 일, 특히 아프리카 사람들을 바다 건너 아메리카로 끌고 간 일",
+    "examples": [
+     {
+      "en": "Millions of Africans were taken in the slave trade.",
+      "ko": "노예 무역으로 수백만 명의 아프리카 사람이 끌려갔다."
+     },
+     {
+      "en": "The US banned bringing in people through the slave trade in 1808.",
+      "ko": "미국은 1808년에 노예 무역으로 사람을 들여오는 것을 금지했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "abolition",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The act of ending something completely, especially ending slavery.",
+    "ko": "폐지, 노예제 폐지",
+    "ko_simple": "무언가를 완전히 없애는 것, 특히 노예 제도를 없애는 것",
+    "examples": [
+     {
+      "en": "Frederick Douglass spoke out for the abolition of slavery.",
+      "ko": "프레더릭 더글러스는 노예제 폐지를 외쳤다."
+     },
+     {
+      "en": "Many churches in the North worked for abolition.",
+      "ko": "북부의 많은 교회가 노예제 폐지를 위해 일했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "abolitionist",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A person who worked to end slavery.",
+    "ko": "노예제 폐지론자",
+    "ko_simple": "노예 제도를 없애려고 노력한 사람",
+    "examples": [
+     {
+      "en": "The abolitionist wrote newspaper stories about the cruelty of slavery.",
+      "ko": "그 노예제 폐지론자는 노예제의 잔인함에 대한 신문 기사를 썼다."
+     },
+     {
+      "en": "Harriet Tubman and Frederick Douglass were abolitionists.",
+      "ko": "해리엇 터브먼과 프레더릭 더글러스는 노예제 폐지론자였다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "abolitionists"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Underground Railroad",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A secret network of people and safe houses that helped enslaved people escape to freedom in the North and Canada. It was not under the ground or a real railroad.",
+    "ko": "지하 철도",
+    "ko_simple": "노예들이 북부와 캐나다로 도망쳐 자유를 얻도록 도운 사람들과 숨을 곳의 비밀 연결망. 실제로 땅 밑에 있거나 진짜 철도는 아니었다.",
+    "examples": [
+     {
+      "en": "People on the Underground Railroad often traveled at night.",
+      "ko": "지하 철도로 도망치는 사람들은 주로 밤에 이동했다."
+     },
+     {
+      "en": "A hidden room under the stairs was a stop on the Underground Railroad.",
+      "ko": "계단 밑 비밀 방은 지하 철도의 정거장이었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "conductor",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "On the Underground Railroad, a person who guided people escaping slavery from one safe place to the next.",
+    "ko": "안내인(지하 철도의 차장)",
+    "ko_simple": "지하 철도에서 노예 생활을 피해 도망치는 사람들을 안전한 곳에서 다음 안전한 곳으로 이끈 사람",
+    "examples": [
+     {
+      "en": "Harriet Tubman was the most famous conductor on the Underground Railroad.",
+      "ko": "해리엇 터브먼은 지하 철도의 가장 유명한 안내인이었다."
+     },
+     {
+      "en": "The conductor led the group across the river in the dark.",
+      "ko": "안내인은 어둠 속에서 일행을 이끌고 강을 건넜다."
+     }
+    ]
+   },
+   {
+    "pos": "noun",
+    "simple": "A person who collects tickets on a train, or who leads a band or orchestra.",
+    "ko": "차장, 지휘자",
+    "ko_simple": "기차에서 표를 받는 사람, 또는 악단이나 오케스트라를 이끄는 사람",
+    "examples": [
+     {
+      "en": "The conductor waved her stick and the orchestra began to play.",
+      "ko": "지휘자가 지휘봉을 흔들자 오케스트라가 연주를 시작했다."
+     },
+     {
+      "en": "The train conductor punched a hole in my ticket.",
+      "ko": "기차 차장이 내 표에 구멍을 뚫었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "conductors"
+  ],
+  "picture": false
+ },
+ {
+  "word": "freedom seeker",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A person who escaped, or tried to escape, from slavery.",
+    "ko": "자유를 찾는 사람, 탈출 노예",
+    "ko_simple": "노예 생활에서 도망쳤거나 도망치려 한 사람",
+    "examples": [
+     {
+      "en": "The freedom seekers hid in a barn during the day.",
+      "ko": "자유를 찾는 사람들은 낮에는 헛간에 숨었다."
+     },
+     {
+      "en": "Freedom seekers followed the North Star at night.",
+      "ko": "자유를 찾는 사람들은 밤에 북극성을 따라갔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "freedom seekers"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Harriet Tubman",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A woman who escaped slavery in 1849 and then went back many times to lead about 70 others to freedom on the Underground Railroad.",
+    "ko": "해리엇 터브먼",
+    "ko_simple": "1849년 노예 생활에서 탈출한 뒤 여러 번 되돌아가 지하 철도로 약 70명을 자유로 이끈 여성",
+    "examples": [
+     {
+      "en": "Harriet Tubman said she never lost a single passenger.",
+      "ko": "해리엇 터브먼은 단 한 명의 승객도 잃지 않았다고 말했다."
+     },
+     {
+      "en": "During the Civil War, Harriet Tubman worked as a spy and scout for the Union.",
+      "ko": "남북 전쟁 때 해리엇 터브먼은 북군의 첩자이자 정찰병으로 일했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "Frederick Douglass",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A man who escaped slavery and became a famous speaker, writer, and leader who fought to end slavery.",
+    "ko": "프레더릭 더글러스",
+    "ko_simple": "노예 생활에서 탈출해 노예제를 없애려고 싸운 유명한 연설가, 작가, 지도자가 된 사람",
+    "examples": [
+     {
+      "en": "Frederick Douglass taught himself to read even though it was against the law.",
+      "ko": "프레더릭 더글러스는 법으로 금지되어 있었는데도 혼자 글을 깨쳤다."
+     },
+     {
+      "en": "Frederick Douglass started a newspaper called The North Star.",
+      "ko": "프레더릭 더글러스는 《노스 스타》라는 신문을 만들었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "Sojourner Truth",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A woman who escaped slavery and traveled around giving powerful speeches for the end of slavery and for women's rights.",
+    "ko": "소저너 트루스",
+    "ko_simple": "노예 생활에서 벗어나 여러 곳을 다니며 노예제 폐지와 여성의 권리를 위해 힘찬 연설을 한 여성",
+    "examples": [
+     {
+      "en": "Sojourner Truth gave a famous speech called \"Ain't I a Woman?\"",
+      "ko": "소저너 트루스는 '나는 여자가 아닌가요?'라는 유명한 연설을 했다."
+     },
+     {
+      "en": "Sojourner Truth chose her own name, which means \"traveler of truth.\"",
+      "ko": "소저너 트루스는 '진실의 나그네'라는 뜻의 이름을 스스로 지었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Harriet Beecher Stowe",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The author of Uncle Tom's Cabin, a book from 1852 that showed many Northerners how cruel slavery was.",
+    "ko": "해리엇 비처 스토",
+    "ko_simple": "1852년 북부 사람들에게 노예제가 얼마나 잔인한지 보여 준 책 《톰 아저씨의 오두막》을 쓴 작가",
+    "examples": [
+     {
+      "en": "Harriet Beecher Stowe's book sold hundreds of thousands of copies.",
+      "ko": "해리엇 비처 스토의 책은 수십만 부가 팔렸다."
+     },
+     {
+      "en": "Harriet Beecher Stowe wrote at her kitchen table while raising seven children.",
+      "ko": "해리엇 비처 스토는 일곱 아이를 키우면서 부엌 식탁에서 글을 썼다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Uncle Tom's Cabin",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A famous novel by Harriet Beecher Stowe, published in 1852, about the suffering of enslaved people.",
+    "ko": "톰 아저씨의 오두막",
+    "ko_simple": "1852년에 나온 해리엇 비처 스토의 유명한 소설로, 노예들의 고통을 그렸다.",
+    "examples": [
+     {
+      "en": "Uncle Tom's Cabin made many people want to end slavery.",
+      "ko": "《톰 아저씨의 오두막》을 읽고 많은 사람이 노예제를 없애고 싶어 했다."
+     },
+     {
+      "en": "Uncle Tom's Cabin was turned into plays all over the country.",
+      "ko": "《톰 아저씨의 오두막》은 전국 곳곳에서 연극으로 만들어졌다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Abraham Lincoln",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The 16th President of the United States. He led the country during the Civil War and worked to end slavery.",
+    "ko": "에이브러햄 링컨",
+    "ko_simple": "미국의 16번째 대통령. 남북 전쟁 동안 나라를 이끌고 노예제를 없애려고 힘썼다.",
+    "examples": [
+     {
+      "en": "Abraham Lincoln was born in a log cabin in Kentucky.",
+      "ko": "에이브러햄 링컨은 켄터키의 통나무집에서 태어났다."
+     },
+     {
+      "en": "Abraham Lincoln is on the penny and the five-dollar bill.",
+      "ko": "에이브러햄 링컨은 1센트 동전과 5달러 지폐에 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "Civil War",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The war in the United States from 1861 to 1865 between the Northern states (the Union) and the Southern states (the Confederacy), mainly over slavery.",
+    "ko": "남북 전쟁",
+    "ko_simple": "1861년부터 1865년까지 주로 노예제 문제로 북부 주(북부 연방)와 남부 주(남부 연합)가 싸운 미국의 전쟁",
+    "examples": [
+     {
+      "en": "More Americans died in the Civil War than in any other war.",
+      "ko": "남북 전쟁에서는 다른 어떤 전쟁보다 많은 미국인이 죽었다."
+     },
+     {
+      "en": "Some brothers fought on opposite sides in the Civil War.",
+      "ko": "남북 전쟁 때는 형제가 서로 다른 편에서 싸우기도 했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "Union",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The United States, especially the Northern states that stayed loyal to the national government during the Civil War.",
+    "ko": "북부 연방, 연방",
+    "ko_simple": "미국, 특히 남북 전쟁 때 중앙 정부 편에 남은 북부 주들",
+    "examples": [
+     {
+      "en": "Union soldiers wore blue uniforms.",
+      "ko": "북군 병사들은 파란 군복을 입었다."
+     },
+     {
+      "en": "Lincoln wanted to keep the Union together.",
+      "ko": "링컨은 연방이 갈라지지 않기를 바랐다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Confederacy",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The 11 Southern states that left the United States in 1860 and 1861 and formed their own government, mainly to keep slavery.",
+    "ko": "남부 연합",
+    "ko_simple": "주로 노예제를 지키려고 1860~1861년에 미국에서 떨어져 나와 자기들만의 정부를 만든 남부의 11개 주",
+    "examples": [
+     {
+      "en": "The capital of the Confederacy was Richmond, Virginia.",
+      "ko": "남부 연합의 수도는 버지니아주 리치먼드였다."
+     },
+     {
+      "en": "Jefferson Davis was the president of the Confederacy.",
+      "ko": "제퍼슨 데이비스는 남부 연합의 대통령이었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Confederate",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Belonging to the Confederacy, the Southern states during the Civil War.",
+    "ko": "남부 연합의",
+    "ko_simple": "남북 전쟁 때 남부 주들인 남부 연합에 속한",
+    "examples": [
+     {
+      "en": "Confederate soldiers wore gray uniforms.",
+      "ko": "남군 병사들은 회색 군복을 입었다."
+     },
+     {
+      "en": "The Confederate army was led by Robert E. Lee.",
+      "ko": "남부 연합군은 로버트 E. 리가 이끌었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Confederates"
+  ],
+  "picture": false
+ },
+ {
+  "word": "secede",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To formally leave a group or country to form a new one.",
+    "ko": "탈퇴하다, 분리 독립하다",
+    "ko_simple": "한 무리나 나라에서 공식적으로 떨어져 나와 새로운 것을 만들다",
+    "examples": [
+     {
+      "en": "South Carolina was the first state to secede from the Union.",
+      "ko": "사우스캐롤라이나는 연방에서 처음으로 탈퇴한 주였다."
+     },
+     {
+      "en": "Our team almost seceded from the club after the coach left.",
+      "ko": "코치가 떠난 뒤 우리 팀은 하마터면 클럽에서 갈라져 나갈 뻔했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "secedes",
+   "seceded",
+   "seceding"
+  ],
+  "picture": false
+ },
+ {
+  "word": "secession",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "When a state or group formally leaves a country to form a new one.",
+    "ko": "탈퇴, 분리 독립",
+    "ko_simple": "주나 집단이 공식적으로 나라에서 떨어져 나와 새로운 것을 만드는 것",
+    "examples": [
+     {
+      "en": "Lincoln said secession was against the law.",
+      "ko": "링컨은 분리 독립이 법에 어긋난다고 말했다."
+     },
+     {
+      "en": "Secession led to the start of the Civil War.",
+      "ko": "분리 독립이 남북 전쟁의 시작으로 이어졌다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Jefferson Davis",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The president of the Confederacy during the Civil War.",
+    "ko": "제퍼슨 데이비스",
+    "ko_simple": "남북 전쟁 때 남부 연합의 대통령",
+    "examples": [
+     {
+      "en": "Jefferson Davis had been a senator from Mississippi.",
+      "ko": "제퍼슨 데이비스는 미시시피주 상원 의원이었다."
+     },
+     {
+      "en": "Jefferson Davis was captured after the Confederacy lost the war.",
+      "ko": "제퍼슨 데이비스는 남부 연합이 전쟁에서 진 뒤 붙잡혔다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Ulysses S. Grant",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The general who led the Union army to win the Civil War. He later became the 18th President.",
+    "ko": "율리시스 S. 그랜트",
+    "ko_simple": "북군을 이끌어 남북 전쟁을 승리로 이끈 장군. 나중에 18번째 대통령이 되었다.",
+    "examples": [
+     {
+      "en": "Ulysses S. Grant accepted Lee's surrender at Appomattox.",
+      "ko": "율리시스 S. 그랜트는 애퍼매톡스에서 리의 항복을 받았다."
+     },
+     {
+      "en": "Ulysses S. Grant loved horses since he was a boy.",
+      "ko": "율리시스 S. 그랜트는 어릴 때부터 말을 좋아했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Robert E. Lee",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The general who led the main Confederate army during the Civil War.",
+    "ko": "로버트 E. 리",
+    "ko_simple": "남북 전쟁 때 남부 연합의 주력 군대를 이끈 장군",
+    "examples": [
+     {
+      "en": "Robert E. Lee surrendered to Grant in April 1865.",
+      "ko": "로버트 E. 리는 1865년 4월 그랜트에게 항복했다."
+     },
+     {
+      "en": "Robert E. Lee's horse was named Traveller.",
+      "ko": "로버트 E. 리의 말 이름은 트래블러였다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Fort Sumter",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A fort in South Carolina where the first shots of the Civil War were fired in April 1861.",
+    "ko": "섬터 요새",
+    "ko_simple": "1861년 4월 남북 전쟁의 첫 총성이 울린 사우스캐롤라이나주의 요새",
+    "examples": [
+     {
+      "en": "Confederate cannons fired on Fort Sumter.",
+      "ko": "남부 연합의 대포가 섬터 요새를 향해 불을 뿜었다."
+     },
+     {
+      "en": "Fort Sumter sits on a small island in Charleston Harbor.",
+      "ko": "섬터 요새는 찰스턴 항구의 작은 섬에 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Gettysburg",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A town in Pennsylvania where a huge Civil War battle was fought in July 1863. The Union won.",
+    "ko": "게티즈버그",
+    "ko_simple": "1863년 7월 남북 전쟁의 큰 전투가 벌어진 펜실베이니아주의 마을. 북군이 이겼다.",
+    "examples": [
+     {
+      "en": "The Battle of Gettysburg lasted three days.",
+      "ko": "게티즈버그 전투는 사흘 동안 이어졌다."
+     },
+     {
+      "en": "Gettysburg was a turning point in the Civil War.",
+      "ko": "게티즈버그 전투는 남북 전쟁의 전환점이었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Gettysburg Address",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A short, famous speech Abraham Lincoln gave in 1863 to honor soldiers who died at Gettysburg. It begins \"Four score and seven years ago.\"",
+    "ko": "게티즈버그 연설",
+    "ko_simple": "1863년 게티즈버그에서 죽은 병사들을 기리며 에이브러햄 링컨이 한 짧고 유명한 연설. \"87년 전\"으로 시작한다.",
+    "examples": [
+     {
+      "en": "The Gettysburg Address took only about two minutes to give.",
+      "ko": "게티즈버그 연설은 2분 정도밖에 걸리지 않았다."
+     },
+     {
+      "en": "\"Four score\" in the Gettysburg Address means 80.",
+      "ko": "게티즈버그 연설의 '포 스코어'는 80이라는 뜻이다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Emancipation Proclamation",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "An order by Abraham Lincoln on January 1, 1863, that declared enslaved people in the Confederate states to be free.",
+    "ko": "노예 해방 선언",
+    "ko_simple": "1863년 1월 1일 에이브러햄 링컨이 남부 연합 주의 노예들을 자유인이라고 선언한 명령",
+    "examples": [
+     {
+      "en": "After the Emancipation Proclamation, many freed men joined the Union army.",
+      "ko": "노예 해방 선언 뒤 해방된 많은 남자가 북군에 들어갔다."
+     },
+     {
+      "en": "The Emancipation Proclamation made ending slavery a goal of the war.",
+      "ko": "노예 해방 선언으로 노예제를 끝내는 것이 전쟁의 목표가 되었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "emancipation",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The act of setting people free, especially from slavery.",
+    "ko": "해방",
+    "ko_simple": "사람들을, 특히 노예 상태에서 자유롭게 풀어 주는 것",
+    "examples": [
+     {
+      "en": "Emancipation meant families could finally stay together.",
+      "ko": "해방은 가족들이 마침내 함께 지낼 수 있게 되었다는 뜻이었다."
+     },
+     {
+      "en": "People sang and danced to celebrate emancipation.",
+      "ko": "사람들은 해방을 축하하며 노래하고 춤췄다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Appomattox",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "Appomattox Court House, a village in Virginia where General Lee surrendered to General Grant in April 1865, ending most of the Civil War fighting.",
+    "ko": "애퍼매톡스",
+    "ko_simple": "1865년 4월 리 장군이 그랜트 장군에게 항복해 남북 전쟁의 싸움이 대부분 끝난 버지니아주의 마을",
+    "examples": [
+     {
+      "en": "At Appomattox, Grant let Lee's soldiers keep their horses to farm.",
+      "ko": "애퍼매톡스에서 그랜트는 리의 병사들이 농사짓도록 말을 가져가게 해 주었다."
+     },
+     {
+      "en": "Lee and Grant met in a farmhouse parlor at Appomattox.",
+      "ko": "리와 그랜트는 애퍼매톡스의 농가 거실에서 만났다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "assassinate",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To kill an important person, like a leader, on purpose, often for political reasons.",
+    "ko": "암살하다",
+    "ko_simple": "흔히 정치적인 이유로 지도자 같은 중요한 사람을 일부러 죽이다",
+    "examples": [
+     {
+      "en": "John Wilkes Booth assassinated President Lincoln in 1865.",
+      "ko": "존 윌크스 부스는 1865년 링컨 대통령을 암살했다."
+     },
+     {
+      "en": "The whole country cried when Martin Luther King Jr. was assassinated.",
+      "ko": "마틴 루서 킹 주니어가 암살되자 온 나라가 울었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "assassinates",
+   "assassinated",
+   "assassinating",
+   "assassination"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Reconstruction",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The time from 1865 to 1877, after the Civil War, when the country worked to rebuild the South and bring the states back together.",
+    "ko": "재건 시대",
+    "ko_simple": "남북 전쟁 뒤 1865년부터 1877년까지 남부를 다시 세우고 주들을 다시 하나로 묶으려 한 시기",
+    "examples": [
+     {
+      "en": "During Reconstruction, Black men were elected to Congress for the first time.",
+      "ko": "재건 시대에 흑인 남성들이 처음으로 의회 의원으로 뽑혔다."
+     },
+     {
+      "en": "Schools for freed people opened during Reconstruction.",
+      "ko": "재건 시대에 해방된 사람들을 위한 학교들이 문을 열었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Thirteenth Amendment",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The change to the US Constitution in 1865 that ended slavery in the whole country.",
+    "ko": "수정 헌법 제13조",
+    "ko_simple": "1865년에 나라 전체에서 노예제를 없앤 미국 헌법의 수정 조항",
+    "examples": [
+     {
+      "en": "The Thirteenth Amendment made slavery against the law everywhere in the US.",
+      "ko": "수정 헌법 제13조로 미국 어디서나 노예제가 불법이 되었다."
+     },
+     {
+      "en": "Lincoln pushed Congress to pass the Thirteenth Amendment.",
+      "ko": "링컨은 의회가 수정 헌법 제13조를 통과시키도록 힘썼다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Juneteenth",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A holiday on June 19 that celebrates the end of slavery. On that day in 1865, enslaved people in Galveston, Texas, learned they were free.",
+    "ko": "준틴스(노예 해방 기념일)",
+    "ko_simple": "노예제가 끝난 것을 기념하는 6월 19일의 명절. 1865년 이날 텍사스주 갤버스턴의 노예들이 자유를 얻었다는 소식을 들었다.",
+    "examples": [
+     {
+      "en": "Our neighborhood has a Juneteenth picnic with music.",
+      "ko": "우리 동네는 준틴스에 음악이 있는 소풍을 연다."
+     },
+     {
+      "en": "Juneteenth became a national holiday in 2021.",
+      "ko": "준틴스는 2021년에 국경일이 되었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "free state",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Before the Civil War, a state where slavery was not allowed.",
+    "ko": "자유주",
+    "ko_simple": "남북 전쟁 전, 노예제가 허용되지 않은 주",
+    "examples": [
+     {
+      "en": "Ohio was a free state.",
+      "ko": "오하이오는 자유주였다."
+     },
+     {
+      "en": "Freedom seekers crossed the river into a free state, but they still were not safe.",
+      "ko": "자유를 찾는 사람들은 강을 건너 자유주로 갔지만 여전히 안전하지 않았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "free states"
+  ],
+  "picture": false
+ },
+ {
+  "word": "slave state",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Before the Civil War, a state where slavery was allowed.",
+    "ko": "노예주",
+    "ko_simple": "남북 전쟁 전, 노예제가 허용된 주",
+    "examples": [
+     {
+      "en": "Kentucky was a slave state, but it stayed in the Union.",
+      "ko": "켄터키는 노예주였지만 연방에 남았다."
+     },
+     {
+      "en": "Leaders argued about whether new states would be free states or slave states.",
+      "ko": "지도자들은 새로 생기는 주가 자유주가 될지 노예주가 될지를 두고 다퉜다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "slave states"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Missouri Compromise",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "An agreement in 1820 that let Missouri join as a slave state and Maine as a free state, and drew a line for slavery in western lands.",
+    "ko": "미주리 타협",
+    "ko_simple": "1820년 미주리는 노예주로, 메인은 자유주로 들어오게 하고 서부 땅에서 노예제의 경계선을 그은 합의",
+    "examples": [
+     {
+      "en": "The Missouri Compromise kept the number of free and slave states equal.",
+      "ko": "미주리 타협으로 자유주와 노예주의 수가 같게 유지되었다."
+     },
+     {
+      "en": "The Missouri Compromise only calmed the fight for a while.",
+      "ko": "미주리 타협은 싸움을 잠시 가라앉혔을 뿐이었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Mason-Dixon Line",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A boundary line between Pennsylvania and Maryland that became known as the line between the North and the South.",
+    "ko": "메이슨-딕슨선",
+    "ko_simple": "펜실베이니아와 메릴랜드 사이의 경계선으로, 북부와 남부를 가르는 선으로 알려지게 되었다.",
+    "examples": [
+     {
+      "en": "Two surveyors named Mason and Dixon drew the Mason-Dixon Line in the 1760s.",
+      "ko": "메이슨과 딕슨이라는 두 측량사가 1760년대에 메이슨-딕슨선을 그었다."
+     },
+     {
+      "en": "Freedom seekers hoped to cross the Mason-Dixon Line.",
+      "ko": "자유를 찾는 사람들은 메이슨-딕슨선을 넘기를 바랐다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Clara Barton",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A nurse who helped wounded soldiers during the Civil War and later started the American Red Cross.",
+    "ko": "클라라 바턴",
+    "ko_simple": "남북 전쟁 때 다친 병사들을 돌보았고 나중에 미국 적십자를 세운 간호사",
+    "examples": [
+     {
+      "en": "Clara Barton was called the \"Angel of the Battlefield.\"",
+      "ko": "클라라 바턴은 '전쟁터의 천사'라고 불렸다."
+     },
+     {
+      "en": "Clara Barton brought bandages and food right to the battlefield.",
+      "ko": "클라라 바턴은 붕대와 음식을 전쟁터까지 직접 가져갔다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Yankee",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A person from the northern United States. During the Civil War, Southerners called Union soldiers Yankees.",
+    "ko": "양키(북부 사람)",
+    "ko_simple": "미국 북부 출신 사람. 남북 전쟁 때 남부 사람들은 북군 병사를 양키라고 불렀다.",
+    "examples": [
+     {
+      "en": "The Confederate soldier yelled, \"Here come the Yankees!\"",
+      "ko": "남군 병사가 \"양키들이 온다!\" 하고 소리쳤다."
+     },
+     {
+      "en": "My uncle from Boston calls himself a real Yankee.",
+      "ko": "보스턴에서 온 삼촌은 자기가 진짜 양키라고 한다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Yankees"
+  ],
+  "picture": false
+ },
+ {
+  "word": "blockade",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "When ships or soldiers block a place so that nothing can go in or out.",
+    "ko": "봉쇄",
+    "ko_simple": "배나 군인이 한 곳을 막아 아무것도 드나들지 못하게 하는 것",
+    "examples": [
+     {
+      "en": "The Union blockade stopped ships from carrying cotton out of the South.",
+      "ko": "북부의 봉쇄로 남부의 목화를 실은 배가 나가지 못했다."
+     },
+     {
+      "en": "My dog made a blockade in the doorway so no one could leave.",
+      "ko": "우리 개가 문간을 막고 누워서 아무도 나갈 수 없었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "blockades"
+  ],
+  "picture": false
+ },
+ {
+  "word": "ironclad",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A warship covered with iron plates, first used in battle during the Civil War.",
+    "ko": "철갑선",
+    "ko_simple": "쇠판으로 덮은 군함. 남북 전쟁 때 처음 전투에 쓰였다.",
+    "examples": [
+     {
+      "en": "Cannonballs bounced off the ironclad.",
+      "ko": "대포알이 철갑선에 맞고 튕겨 나갔다."
+     },
+     {
+      "en": "The Monitor and the Merrimack were two famous ironclads.",
+      "ko": "모니터호와 메리맥호는 유명한 철갑선이었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "ironclads"
+  ],
+  "picture": true
+ },
+ {
+  "word": "sharecropper",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A farmer who farms land owned by someone else and pays the owner with part of the crop. Many freed people became sharecroppers after the Civil War.",
+    "ko": "소작농",
+    "ko_simple": "남의 땅에 농사를 짓고 수확물의 일부로 땅값을 치르는 농부. 남북 전쟁 뒤 많은 해방된 사람이 소작농이 되었다.",
+    "examples": [
+     {
+      "en": "The sharecropper gave half of his cotton to the landowner.",
+      "ko": "그 소작농은 목화의 절반을 땅 주인에게 주었다."
+     },
+     {
+      "en": "Many sharecroppers stayed poor because they always owed money.",
+      "ko": "많은 소작농이 늘 빚을 지고 있어서 가난을 벗어나지 못했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "sharecroppers"
+  ],
+  "picture": false
+ },
+ {
+  "word": "fugitive",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A person who is running away, especially from the police or from being captured.",
+    "ko": "도망자",
+    "ko_simple": "특히 경찰이나 붙잡히는 것을 피해 달아나는 사람",
+    "examples": [
+     {
+      "en": "The Fugitive Slave Act said fugitives from slavery had to be returned.",
+      "ko": "도망 노예법은 노예 생활에서 도망친 사람을 돌려보내야 한다고 정했다."
+     },
+     {
+      "en": "The fugitive hid in the swamp for three days.",
+      "ko": "도망자는 사흘 동안 늪에 숨어 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "fugitives"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Fugitive Slave Act",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A law from 1850 that said people who escaped slavery had to be returned, even if they reached a free state.",
+    "ko": "도망 노예법",
+    "ko_simple": "1850년에 만든 법으로, 노예 생활에서 탈출한 사람은 자유주에 닿았더라도 돌려보내야 한다고 정했다.",
+    "examples": [
+     {
+      "en": "Because of the Fugitive Slave Act, many freedom seekers went all the way to Canada.",
+      "ko": "도망 노예법 때문에 많은 탈출 노예가 캐나다까지 갔다."
+     },
+     {
+      "en": "The Fugitive Slave Act made many Northerners angry.",
+      "ko": "도망 노예법은 많은 북부 사람들을 화나게 했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Booker T. Washington",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A teacher and leader, born into slavery, who started the Tuskegee Institute, a school for Black students in Alabama.",
+    "ko": "부커 T. 워싱턴",
+    "ko_simple": "노예로 태어나 앨라배마에 흑인 학생을 위한 학교 터스키기 학교를 세운 교육자이자 지도자",
+    "examples": [
+     {
+      "en": "Booker T. Washington's students built many of the school's buildings themselves.",
+      "ko": "부커 T. 워싱턴의 학생들은 학교 건물 여러 채를 직접 지었다."
+     },
+     {
+      "en": "Booker T. Washington wrote a book called Up from Slavery.",
+      "ko": "부커 T. 워싱턴은 《노예의 굴레를 벗고》라는 책을 썼다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "George Washington Carver",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Black scientist who found hundreds of uses for peanuts and sweet potatoes and taught farmers how to keep their soil healthy.",
+    "ko": "조지 워싱턴 카버",
+    "ko_simple": "땅콩과 고구마의 쓰임새를 수백 가지 찾아내고 농부들에게 땅을 건강하게 지키는 법을 가르친 흑인 과학자",
+    "examples": [
+     {
+      "en": "George Washington Carver taught farmers to plant peanuts to help the soil.",
+      "ko": "조지 워싱턴 카버는 농부들에게 땅을 위해 땅콩을 심으라고 가르쳤다."
+     },
+     {
+      "en": "George Washington Carver did not invent peanut butter, but many people think he did.",
+      "ko": "조지 워싱턴 카버가 땅콩버터를 발명한 것은 아니지만 많은 사람이 그렇게 생각한다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "immigrant",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A person who comes to live in a new country.",
+    "ko": "이민자, 이주민",
+    "ko_simple": "새로운 나라에 와서 사는 사람",
+    "examples": [
+     {
+      "en": "My grandparents were immigrants from Korea.",
+      "ko": "우리 할아버지 할머니는 한국에서 온 이민자셨다."
+     },
+     {
+      "en": "Immigrants bring their food, music, and holidays to their new home.",
+      "ko": "이민자들은 새로 사는 곳에 자기 음식과 음악과 명절을 가져온다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "immigrants"
+  ],
+  "picture": true
+ },
+ {
+  "word": "immigration",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The act of coming to live in a new country.",
+    "ko": "이민, 이주",
+    "ko_simple": "새로운 나라에 와서 사는 것",
+    "examples": [
+     {
+      "en": "Immigration made America a country of many cultures.",
+      "ko": "이민 덕분에 미국은 여러 문화가 어우러진 나라가 되었다."
+     },
+     {
+      "en": "My mom went to an immigration office to get her papers.",
+      "ko": "엄마는 서류를 받으러 이민국 사무소에 가셨다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "emigrate",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To leave your own country to go live in another one.",
+    "ko": "이민 가다, 이주하다",
+    "ko_simple": "자기 나라를 떠나 다른 나라에 가서 살다",
+    "examples": [
+     {
+      "en": "My family emigrated from Seoul to Los Angeles.",
+      "ko": "우리 가족은 서울에서 로스앤젤레스로 이민 왔다."
+     },
+     {
+      "en": "Many people emigrated from Ireland when there was not enough food.",
+      "ko": "먹을 것이 모자랄 때 많은 사람이 아일랜드를 떠나 이민을 갔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "emigrates",
+   "emigrated",
+   "emigrating"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Ellis Island",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "An island in New York Harbor where more than 12 million immigrants were checked before entering the United States, from 1892 to 1954.",
+    "ko": "엘리스섬",
+    "ko_simple": "1892년부터 1954년까지 1,200만 명이 넘는 이민자가 미국에 들어오기 전에 검사를 받은 뉴욕항의 섬",
+    "examples": [
+     {
+      "en": "At Ellis Island, doctors checked immigrants' eyes and lungs.",
+      "ko": "엘리스섬에서 의사들은 이민자들의 눈과 폐를 검사했다."
+     },
+     {
+      "en": "My friend found her great-grandma's name on a list at Ellis Island.",
+      "ko": "내 친구는 엘리스섬의 명단에서 증조할머니 이름을 찾았다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "Angel Island",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "An island in San Francisco Bay where many immigrants from China and other parts of Asia were held and questioned from 1910 to 1940.",
+    "ko": "에인절섬",
+    "ko_simple": "1910년부터 1940년까지 중국과 아시아 여러 곳에서 온 많은 이민자가 붙잡혀 심문을 받은 샌프란시스코만의 섬",
+    "examples": [
+     {
+      "en": "Some immigrants waited for months at Angel Island.",
+      "ko": "어떤 이민자들은 에인절섬에서 몇 달씩 기다렸다."
+     },
+     {
+      "en": "Sad poems carved by immigrants are still on the walls at Angel Island.",
+      "ko": "이민자들이 새긴 슬픈 시가 지금도 에인절섬의 벽에 남아 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "Statue of Liberty",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A huge statue of a woman holding a torch, on an island in New York Harbor. France gave it to the United States in 1886 as a gift of friendship.",
+    "ko": "자유의 여신상",
+    "ko_simple": "뉴욕항의 섬에 있는 횃불을 든 여인의 거대한 조각상. 1886년 프랑스가 우정의 선물로 미국에 주었다.",
+    "examples": [
+     {
+      "en": "Immigrants cheered when they first saw the Statue of Liberty from their ship.",
+      "ko": "이민자들은 배에서 자유의 여신상을 처음 보고 환호했다."
+     },
+     {
+      "en": "The Statue of Liberty is green because its copper skin changed color over time.",
+      "ko": "자유의 여신상은 구리 겉면이 시간이 지나며 색이 변해서 초록색이다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "steerage",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The cheapest and most crowded part of a ship, where many poor immigrants traveled.",
+    "ko": "3등 선실",
+    "ko_simple": "많은 가난한 이민자들이 타고 온 배에서 가장 싸고 비좁은 곳",
+    "examples": [
+     {
+      "en": "In steerage, hundreds of people slept in bunks below deck.",
+      "ko": "3등 선실에서는 수백 명이 갑판 아래 2층 침대에서 잤다."
+     },
+     {
+      "en": "Steerage was dark and smelled bad.",
+      "ko": "3등 선실은 어둡고 냄새가 고약했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "tenement",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A crowded old apartment building in a city, where many poor families lived long ago.",
+    "ko": "공동 주택, 셋집",
+    "ko_simple": "옛날 도시에서 가난한 가족들이 많이 살던 비좁고 낡은 아파트 건물",
+    "examples": [
+     {
+      "en": "Eight people shared two small rooms in the tenement.",
+      "ko": "공동 주택의 작은 방 두 개에서 여덟 명이 함께 살았다."
+     },
+     {
+      "en": "There was one bathroom for the whole floor of the tenement.",
+      "ko": "공동 주택 한 층 전체에 화장실이 하나뿐이었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "tenements"
+  ],
+  "picture": true
+ },
+ {
+  "word": "melting pot",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A place where people from many different cultures live together and mix.",
+    "ko": "용광로(여러 문화가 섞이는 곳)",
+    "ko_simple": "서로 다른 여러 문화에서 온 사람들이 함께 살며 섞이는 곳",
+    "examples": [
+     {
+      "en": "America is often called a melting pot.",
+      "ko": "미국은 흔히 용광로라고 불린다."
+     },
+     {
+      "en": "Our class is a melting pot; kids speak seven languages at home.",
+      "ko": "우리 반은 용광로다. 아이들이 집에서 일곱 가지 언어를 쓴다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "famine",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A time when there is not enough food for many people in a place, so many go hungry or die.",
+    "ko": "기근",
+    "ko_simple": "한 곳에서 많은 사람이 먹을 것이 모자라 굶주리거나 죽는 때",
+    "examples": [
+     {
+      "en": "The Irish Potato Famine in the 1840s made many Irish families come to America.",
+      "ko": "1840년대 아일랜드 감자 기근 때문에 많은 아일랜드 가족이 미국으로 왔다."
+     },
+     {
+      "en": "After the long dry spell, there was a famine in the land.",
+      "ko": "긴 가뭄이 끝난 뒤 그 땅에 기근이 들었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "famines"
+  ],
+  "picture": false
+ }
+]

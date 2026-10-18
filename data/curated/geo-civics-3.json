@@ -1,0 +1,2527 @@
+[
+{
+"word": "government",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "The group of people who lead a country, state, or town. They make rules, keep people safe, and provide services.",
+"ko": "정부",
+"ko_simple": "나라, 주, 마을을 이끌고 법을 만들고 사람들을 지키는 사람들의 모임",
+"examples": [
+{
+"en": "The government pays for roads, schools, and parks.",
+"ko": "정부는 도로, 학교, 공원에 돈을 낸다."
+},
+{
+"en": "Our class made a pretend government and voted for a class president.",
+"ko": "우리 반은 가짜 정부를 만들고 반장을 뽑는 투표를 했다."
+}
+]
+}
+],
+"forms": [
+"governments",
+"govern"
+],
+"picture": false
+},
+{
+"word": "Constitution",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "The most important set of laws of the United States. It was written in 1787 and tells how the government works and what rights people have.",
+"ko": "미국 헌법",
+"ko_simple": "1787년에 쓰인 미국의 가장 중요한 법. 정부가 어떻게 일하고 국민이 어떤 권리를 가지는지 정해 놓았다",
+"examples": [
+{
+"en": "The Constitution begins with the words We the People.",
+"ko": "미국 헌법은 '우리 국민은'이라는 말로 시작한다."
+},
+{
+"en": "No law in the US is allowed to break the rules in the Constitution.",
+"ko": "미국의 어떤 법도 헌법의 규칙을 어길 수 없다."
+}
+]
+},
+{
+"pos": "noun",
+"simple": "A written plan of the main laws and ideas for a country, state, or group.",
+"ko": "헌법, 규약",
+"ko_simple": "나라나 주, 모임의 가장 기본이 되는 법과 생각을 적은 것",
+"examples": [
+{
+"en": "Every US state has its own constitution, too.",
+"ko": "미국의 각 주에도 저마다 헌법이 있다."
+},
+{
+"en": "Our club wrote a constitution that says everyone gets a turn to lead.",
+"ko": "우리 동아리는 모두가 돌아가며 이끈다는 규약을 만들었다."
+}
+]
+}
+],
+"forms": [
+"constitutions",
+"constitutional"
+],
+"picture": true
+},
+{
+"word": "Congress",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "The group of people chosen by voters to make the laws of the United States. It has two parts: the Senate and the House of Representatives.",
+"ko": "(미국) 의회",
+"ko_simple": "국민이 뽑은 사람들이 미국의 법을 만드는 곳. 상원과 하원 두 부분으로 되어 있다",
+"examples": [
+{
+"en": "Congress meets in the Capitol building in Washington, D.C.",
+"ko": "의회는 워싱턴 D.C.의 국회의사당에서 모인다."
+},
+{
+"en": "Congress voted to make a new law about clean water.",
+"ko": "의회는 깨끗한 물에 관한 새 법을 만들기로 투표했다."
+}
+]
+}
+],
+"forms": [
+"congressional"
+],
+"picture": true
+},
+{
+"word": "Senate",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "One of the two parts of Congress. It has 100 members, two from each state.",
+"ko": "상원",
+"ko_simple": "미국 의회의 두 부분 중 하나. 주마다 두 명씩 모두 100명이다",
+"examples": [
+{
+"en": "Every state, big or small, has two people in the Senate.",
+"ko": "크든 작든 모든 주는 상원에 두 명씩 보낸다."
+},
+{
+"en": "The Senate must agree before a new Supreme Court justice can join.",
+"ko": "새 대법관이 들어오려면 상원이 찬성해야 한다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "House of Representatives",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "One of the two parts of Congress. It has 435 members, and states with more people get more members.",
+"ko": "하원",
+"ko_simple": "미국 의회의 두 부분 중 하나. 435명이고 사람이 많은 주일수록 더 많이 보낸다",
+"examples": [
+{
+"en": "California has more members in the House of Representatives than any other state.",
+"ko": "캘리포니아는 하원 의원 수가 어느 주보다 많다."
+},
+{
+"en": "Members of the House of Representatives are elected every two years.",
+"ko": "하원 의원은 2년마다 선거로 뽑는다."
+}
+]
+}
+],
+"forms": [
+"the House"
+],
+"picture": false
+},
+{
+"word": "senator",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "A member of the Senate. US senators are elected for six years at a time.",
+"ko": "상원 의원",
+"ko_simple": "상원의 한 사람. 미국 상원 의원은 한 번 뽑히면 6년 동안 일한다",
+"examples": [
+{
+"en": "Our class wrote letters to our senator about saving the local forest.",
+"ko": "우리 반은 동네 숲을 지켜 달라고 상원 의원에게 편지를 썼다."
+},
+{
+"en": "Each state elects two senators.",
+"ko": "각 주는 상원 의원 두 명을 뽑는다."
+}
+]
+}
+],
+"forms": [
+"senators"
+],
+"picture": false
+},
+{
+"word": "representative",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "A person chosen to speak and act for a group of people. In the US, a member of the House of Representatives.",
+"ko": "대표, 하원 의원",
+"ko_simple": "여러 사람을 대신해 말하고 일하도록 뽑힌 사람. 미국에서는 하원 의원을 말한다",
+"examples": [
+{
+"en": "Our representative visited our school and answered our questions.",
+"ko": "우리 지역 하원 의원이 학교를 방문해서 우리 질문에 답해 주었다."
+},
+{
+"en": "Mia is the class representative on the student council.",
+"ko": "미아는 학생회에서 우리 반 대표이다."
+}
+]
+}
+],
+"forms": [
+"representatives",
+"represent"
+],
+"picture": false
+},
+{
+"word": "President",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "The leader of a country like the United States. The US President leads the executive branch and is elected every four years.",
+"ko": "대통령",
+"ko_simple": "미국 같은 나라의 지도자. 미국 대통령은 행정부를 이끌고 4년마다 선거로 뽑힌다",
+"examples": [
+{
+"en": "George Washington was the first President of the United States.",
+"ko": "조지 워싱턴은 미국의 첫 대통령이었다."
+},
+{
+"en": "The President lives and works in the White House.",
+"ko": "대통령은 백악관에서 살면서 일한다."
+}
+]
+},
+{
+"pos": "noun",
+"simple": "The leader of a club, group, or company.",
+"ko": "회장, 사장",
+"ko_simple": "동아리, 모임, 회사의 우두머리",
+"examples": [
+{
+"en": "I want to be president of the chess club.",
+"ko": "나는 체스 동아리 회장이 되고 싶다."
+},
+{
+"en": "The company president gave every worker a holiday gift.",
+"ko": "회사 사장님이 모든 직원에게 명절 선물을 주었다."
+}
+]
+}
+],
+"forms": [
+"presidents",
+"presidential",
+"president"
+],
+"picture": false
+},
+{
+"word": "vice president",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "The person who helps the President and takes over if the President can no longer do the job. The US Vice President also leads the Senate.",
+"ko": "부통령, 부회장",
+"ko_simple": "대통령을 돕고 대통령이 일을 못 하게 되면 대신하는 사람",
+"examples": [
+{
+"en": "If the President gets very sick, the vice president takes over.",
+"ko": "대통령이 많이 아프면 부통령이 대신 일을 맡는다."
+},
+{
+"en": "John Adams was the first vice president of the United States.",
+"ko": "존 애덤스는 미국의 첫 부통령이었다."
+}
+]
+}
+],
+"forms": [
+"vice presidents"
+],
+"picture": false
+},
+{
+"word": "Supreme Court",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "The highest court in the United States. Its nine judges decide if laws follow the Constitution.",
+"ko": "(미국) 연방 대법원",
+"ko_simple": "미국에서 가장 높은 법원. 아홉 명의 판사가 법이 헌법에 맞는지 결정한다",
+"examples": [
+{
+"en": "The Supreme Court has nine justices who wear black robes.",
+"ko": "연방 대법원에는 검은 법복을 입은 대법관 아홉 명이 있다."
+},
+{
+"en": "In 1954, the Supreme Court said schools could not separate children by race.",
+"ko": "1954년에 연방 대법원은 학교가 인종에 따라 아이들을 나눌 수 없다고 판결했다."
+}
+]
+}
+],
+"forms": [],
+"picture": true
+},
+{
+"word": "justice",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "Fair treatment for everyone under the law.",
+"ko": "정의, 공정",
+"ko_simple": "법 아래에서 모든 사람을 공평하게 대하는 것",
+"examples": [
+{
+"en": "The Pledge of Allegiance ends with liberty and justice for all.",
+"ko": "충성의 맹세는 '모두를 위한 자유와 정의'로 끝난다."
+},
+{
+"en": "Martin Luther King Jr. worked for justice for all people.",
+"ko": "마틴 루서 킹 주니어는 모든 사람을 위한 정의를 위해 일했다."
+}
+]
+},
+{
+"pos": "noun",
+"simple": "A judge, especially one on the Supreme Court.",
+"ko": "판사, 대법관",
+"ko_simple": "판사, 특히 대법원의 판사",
+"examples": [
+{
+"en": "Sandra Day O'Connor was the first woman justice on the Supreme Court.",
+"ko": "샌드라 데이 오코너는 연방 대법원의 첫 여성 대법관이었다."
+},
+{
+"en": "A Supreme Court justice can serve for the rest of their life.",
+"ko": "연방 대법관은 평생 일할 수 있다."
+}
+]
+}
+],
+"forms": [
+"justices"
+],
+"picture": false
+},
+{
+"word": "judge",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "A person in charge of a court who listens to both sides and decides what the law means and what should happen.",
+"ko": "판사",
+"ko_simple": "법원에서 양쪽 이야기를 듣고 법에 따라 결정을 내리는 사람",
+"examples": [
+{
+"en": "The judge banged her wooden hammer and said, Order in the court!",
+"ko": "판사는 나무망치를 두드리며 '법정에서는 정숙하세요!'라고 말했다."
+},
+{
+"en": "The judge listened carefully to both sides before deciding.",
+"ko": "판사는 결정하기 전에 양쪽 이야기를 주의 깊게 들었다."
+}
+]
+},
+{
+"pos": "verb",
+"simple": "To decide or give an opinion about something after thinking about it.",
+"ko": "판단하다, 심사하다",
+"ko_simple": "잘 생각해 보고 어떤 것에 대해 결정하거나 의견을 내다",
+"examples": [
+{
+"en": "Three teachers will judge the science fair projects.",
+"ko": "선생님 세 분이 과학 박람회 작품을 심사하실 것이다."
+},
+{
+"en": "Don't judge a book by its cover.",
+"ko": "겉모습만 보고 판단하지 마."
+}
+]
+}
+],
+"forms": [
+"judges",
+"judged",
+"judging"
+],
+"picture": true
+},
+{
+"word": "court",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "A place where a judge, and sometimes a jury, decides if someone broke a law or settles an argument.",
+"ko": "법원, 법정",
+"ko_simple": "판사나 배심원이 누가 법을 어겼는지 정하거나 다툼을 해결하는 곳",
+"examples": [
+{
+"en": "The two neighbors went to court to settle their fight about the fence.",
+"ko": "두 이웃은 울타리 문제로 생긴 다툼을 해결하려고 법원에 갔다."
+},
+{
+"en": "On our field trip, we sat in a real court and watched a judge.",
+"ko": "현장 학습에서 우리는 진짜 법정에 앉아 판사를 지켜보았다."
+}
+]
+},
+{
+"pos": "noun",
+"simple": "A space with lines where people play games like basketball or tennis.",
+"ko": "코트, 경기장",
+"ko_simple": "농구나 테니스 같은 경기를 하는 선이 그려진 곳",
+"examples": [
+{
+"en": "We played basketball on the court after school.",
+"ko": "우리는 방과 후에 코트에서 농구를 했다."
+},
+{
+"en": "The tennis court was wet from the rain.",
+"ko": "테니스 코트가 비에 젖어 있었다."
+}
+]
+}
+],
+"forms": [
+"courts",
+"courthouse"
+],
+"picture": true
+},
+{
+"word": "jury",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "A group of ordinary citizens who listen to the facts in a trial and decide if a person is guilty or not.",
+"ko": "배심원단",
+"ko_simple": "재판에서 사실을 듣고 죄가 있는지 없는지 정하는 평범한 시민들의 모임",
+"examples": [
+{
+"en": "The jury listened for three days before making a decision.",
+"ko": "배심원단은 사흘 동안 이야기를 들은 뒤 결정을 내렸다."
+},
+{
+"en": "Mom got a letter asking her to serve on a jury.",
+"ko": "엄마는 배심원으로 나와 달라는 편지를 받으셨다."
+}
+]
+}
+],
+"forms": [
+"juries",
+"juror"
+],
+"picture": true
+},
+{
+"word": "trial",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "A meeting in a court where a judge or jury hears the facts and decides if someone broke the law.",
+"ko": "재판",
+"ko_simple": "법정에서 판사나 배심원이 사실을 듣고 누가 법을 어겼는지 정하는 일",
+"examples": [
+{
+"en": "In the US, a person accused of a crime has the right to a fair trial.",
+"ko": "미국에서는 죄를 지었다고 의심받는 사람에게 공정한 재판을 받을 권리가 있다."
+},
+{
+"en": "Our class held a pretend trial for the Big Bad Wolf.",
+"ko": "우리 반은 늑대를 두고 가짜 재판을 열었다."
+}
+]
+}
+],
+"forms": [
+"trials"
+],
+"picture": true
+},
+{
+"word": "branch",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "One of the three parts of the US government: the legislative, executive, and judicial branches.",
+"ko": "(정부의) 부",
+"ko_simple": "미국 정부를 이루는 세 부분(입법부, 행정부, 사법부) 중 하나",
+"examples": [
+{
+"en": "The government has three branches so that no one part gets too much power.",
+"ko": "정부는 한 부분이 너무 큰 힘을 갖지 않도록 세 부로 나뉜다."
+},
+{
+"en": "We drew the three branches of government as a tree with three big limbs.",
+"ko": "우리는 정부의 세 부를 큰 가지 세 개가 있는 나무로 그렸다."
+}
+]
+},
+{
+"pos": "noun",
+"simple": "A part of a tree that grows out from the trunk.",
+"ko": "나뭇가지",
+"ko_simple": "나무 줄기에서 뻗어 나온 부분",
+"examples": [
+{
+"en": "A squirrel ran along the branch.",
+"ko": "다람쥐가 나뭇가지를 따라 달렸다."
+},
+{
+"en": "We hung a swing from a strong branch.",
+"ko": "우리는 튼튼한 나뭇가지에 그네를 매달았다."
+}
+]
+}
+],
+"forms": [
+"branches"
+],
+"picture": true
+},
+{
+"word": "legislative branch",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "The part of government that makes laws. In the US, it is Congress.",
+"ko": "입법부",
+"ko_simple": "법을 만드는 정부의 부분. 미국에서는 의회이다",
+"examples": [
+{
+"en": "The legislative branch writes and votes on new laws.",
+"ko": "입법부는 새 법을 쓰고 투표로 정한다."
+},
+{
+"en": "Senators and representatives work in the legislative branch.",
+"ko": "상원 의원과 하원 의원은 입법부에서 일한다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "executive branch",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "The part of government that carries out the laws. In the US, it is led by the President.",
+"ko": "행정부",
+"ko_simple": "법을 실제로 지키고 실행하는 정부의 부분. 미국에서는 대통령이 이끈다",
+"examples": [
+{
+"en": "The President is the head of the executive branch.",
+"ko": "대통령은 행정부의 우두머리이다."
+},
+{
+"en": "The executive branch makes sure the laws are carried out.",
+"ko": "행정부는 법이 제대로 실행되도록 한다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "judicial branch",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "The part of government made up of courts and judges. It decides what laws mean and if they are fair.",
+"ko": "사법부",
+"ko_simple": "법원과 판사로 이루어진 정부의 부분. 법이 무슨 뜻인지, 공정한지 판단한다",
+"examples": [
+{
+"en": "The Supreme Court is the top of the judicial branch.",
+"ko": "연방 대법원은 사법부의 가장 꼭대기이다."
+},
+{
+"en": "The judicial branch can say a law breaks the Constitution.",
+"ko": "사법부는 어떤 법이 헌법에 어긋난다고 판단할 수 있다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "checks and balances",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "The way each branch of government can stop or limit the other branches, so no one branch becomes too powerful.",
+"ko": "견제와 균형",
+"ko_simple": "정부의 각 부가 서로를 막거나 제한해서 어느 한쪽도 너무 강해지지 않게 하는 방법",
+"examples": [
+{
+"en": "Because of checks and balances, the President can veto a law, but Congress can still pass it with enough votes.",
+"ko": "견제와 균형 때문에 대통령이 법을 거부해도, 의회는 표를 충분히 모으면 그 법을 통과시킬 수 있다."
+},
+{
+"en": "Checks and balances work like a seesaw that keeps every side even.",
+"ko": "견제와 균형은 양쪽을 고르게 맞춰 주는 시소처럼 작동한다."
+}
+]
+}
+],
+"forms": [],
+"picture": true
+},
+{
+"word": "separation of powers",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "The idea of splitting the government's power into three branches, each with its own job.",
+"ko": "권력 분립, 삼권 분립",
+"ko_simple": "정부의 힘을 세 부로 나누어 각자 맡은 일을 하게 하는 생각",
+"examples": [
+{
+"en": "Because of the separation of powers, the President cannot also be a judge.",
+"ko": "권력 분립 때문에 대통령은 판사를 겸할 수 없다."
+},
+{
+"en": "The writers of the Constitution chose a separation of powers so no king could rule them.",
+"ko": "헌법을 쓴 사람들은 왕 같은 사람이 다스리지 못하도록 권력 분립을 택했다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "amendment",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "A change or addition to a law or to the Constitution. The US Constitution has 27 of them.",
+"ko": "(헌법) 수정 조항, 개정",
+"ko_simple": "법이나 헌법을 고치거나 덧붙인 것. 미국 헌법에는 27개가 있다",
+"examples": [
+{
+"en": "The 19th Amendment gave women the right to vote in 1920.",
+"ko": "수정 헌법 제19조는 1920년에 여성에게 투표권을 주었다."
+},
+{
+"en": "Our class voted on an amendment to our rules to allow longer recess.",
+"ko": "우리 반은 쉬는 시간을 늘리는 규칙 개정안에 투표했다."
+}
+]
+}
+],
+"forms": [
+"amendments",
+"amend"
+],
+"picture": false
+},
+{
+"word": "Bill of Rights",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "The first ten amendments to the US Constitution. They protect freedoms like free speech and religion.",
+"ko": "권리 장전",
+"ko_simple": "미국 헌법의 처음 열 개 수정 조항. 말하기와 종교의 자유 같은 자유를 지켜 준다",
+"examples": [
+{
+"en": "The Bill of Rights says the government cannot stop you from saying what you think.",
+"ko": "권리 장전에 따르면 정부는 네가 생각을 말하는 것을 막을 수 없다."
+},
+{
+"en": "The Bill of Rights was added to the Constitution in 1791.",
+"ko": "권리 장전은 1791년에 헌법에 추가되었다."
+}
+]
+}
+],
+"forms": [],
+"picture": true
+},
+{
+"word": "citizen",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "A person who belongs to a country by law, with rights and responsibilities there.",
+"ko": "시민, 국민",
+"ko_simple": "법에 따라 한 나라에 속해 그 나라에서 권리와 책임을 가진 사람",
+"examples": [
+{
+"en": "Anyone born in the United States is a US citizen.",
+"ko": "미국에서 태어난 사람은 누구나 미국 시민이다."
+},
+{
+"en": "Good citizens follow the rules and help their community.",
+"ko": "좋은 시민은 규칙을 지키고 이웃을 돕는다."
+}
+]
+}
+],
+"forms": [
+"citizens"
+],
+"picture": false
+},
+{
+"word": "citizenship",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "Being a citizen of a country, with all its rights and duties. It can also mean acting like a good member of a group.",
+"ko": "시민권, 시민 의식",
+"ko_simple": "한 나라의 시민이 되어 권리와 의무를 갖는 것. 또는 모임의 좋은 구성원으로 행동하는 것",
+"examples": [
+{
+"en": "My dad got his US citizenship after living here for many years.",
+"ko": "우리 아빠는 여기서 여러 해 산 뒤에 미국 시민권을 받으셨다."
+},
+{
+"en": "Jake won the citizenship award for always helping classmates.",
+"ko": "제이크는 늘 친구들을 도와서 모범 시민상을 받았다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "naturalization",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "The way a person born in another country becomes a citizen of a new country.",
+"ko": "귀화",
+"ko_simple": "다른 나라에서 태어난 사람이 새 나라의 시민이 되는 과정",
+"examples": [
+{
+"en": "At the naturalization ceremony, my mom raised her hand and became a US citizen.",
+"ko": "귀화 선서식에서 엄마는 손을 들고 미국 시민이 되셨다."
+},
+{
+"en": "People studying for naturalization learn about US history and government.",
+"ko": "귀화를 준비하는 사람들은 미국 역사와 정부에 대해 공부한다."
+}
+]
+}
+],
+"forms": [
+"naturalized"
+],
+"picture": true
+},
+{
+"word": "vote",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "verb",
+"simple": "To show your choice, like picking a leader or deciding on a rule, by marking a paper, raising your hand, or pushing a button.",
+"ko": "투표하다",
+"ko_simple": "종이에 표시하거나 손을 들어서 지도자나 규칙을 고르는 데 자기 선택을 나타내다",
+"examples": [
+{
+"en": "Our class voted, and pizza won over tacos for the party.",
+"ko": "우리 반이 투표했더니 파티 음식으로 타코보다 피자가 이겼다."
+},
+{
+"en": "In the US, citizens can vote when they turn 18.",
+"ko": "미국에서는 시민이 18살이 되면 투표할 수 있다."
+}
+]
+},
+{
+"pos": "noun",
+"simple": "A choice that a person shows when picking a leader or deciding something.",
+"ko": "표, 투표",
+"ko_simple": "지도자를 뽑거나 무엇을 정할 때 사람이 나타내는 선택",
+"examples": [
+{
+"en": "She won the election by just three votes.",
+"ko": "그녀는 겨우 세 표 차이로 선거에서 이겼다."
+},
+{
+"en": "Every vote counts, so make sure to choose.",
+"ko": "한 표 한 표가 소중하니 꼭 선택해."
+}
+]
+}
+],
+"forms": [
+"votes",
+"voted",
+"voting",
+"voter"
+],
+"picture": true
+},
+{
+"word": "ballot",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "A paper or screen where a person marks their choices in an election.",
+"ko": "투표용지",
+"ko_simple": "선거에서 자기 선택을 표시하는 종이나 화면",
+"examples": [
+{
+"en": "I filled in the circle next to my choice on the ballot.",
+"ko": "나는 투표용지에서 내가 고른 이름 옆 동그라미를 칠했다."
+},
+{
+"en": "We put our folded ballots into a shoebox for the class election.",
+"ko": "우리는 반 선거에서 접은 투표용지를 신발 상자에 넣었다."
+}
+]
+}
+],
+"forms": [
+"ballots"
+],
+"picture": true
+},
+{
+"word": "election",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "A time when people vote to choose a leader or decide something.",
+"ko": "선거",
+"ko_simple": "사람들이 투표로 지도자를 뽑거나 무엇을 정하는 일",
+"examples": [
+{
+"en": "There is an election for President every four years.",
+"ko": "4년마다 대통령 선거가 있다."
+},
+{
+"en": "I made posters for my friend in the student council election.",
+"ko": "나는 학생회 선거에 나간 친구를 위해 포스터를 만들었다."
+}
+]
+}
+],
+"forms": [
+"elections"
+],
+"picture": true
+},
+{
+"word": "elect",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "verb",
+"simple": "To choose someone for a job by voting.",
+"ko": "(투표로) 선출하다, 뽑다",
+"ko_simple": "투표를 해서 어떤 일을 맡을 사람을 고르다",
+"examples": [
+{
+"en": "Our town will elect a new mayor in November.",
+"ko": "우리 마을은 11월에 새 시장을 뽑을 것이다."
+},
+{
+"en": "The class elected Sam as line leader for the month.",
+"ko": "우리 반은 샘을 이번 달 줄반장으로 뽑았다."
+}
+]
+}
+],
+"forms": [
+"elects",
+"elected",
+"electing"
+],
+"picture": false
+},
+{
+"word": "candidate",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "A person who is trying to be chosen for a job, especially in an election.",
+"ko": "후보, 후보자",
+"ko_simple": "선거 등에서 어떤 자리에 뽑히려고 나선 사람",
+"examples": [
+{
+"en": "Each candidate gave a short speech about why they should be class president.",
+"ko": "후보마다 자기가 왜 반장이 되어야 하는지 짧은 연설을 했다."
+},
+{
+"en": "The candidates shook hands after the debate.",
+"ko": "후보들은 토론이 끝나고 악수를 했다."
+}
+]
+}
+],
+"forms": [
+"candidates"
+],
+"picture": false
+},
+{
+"word": "campaign",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "A planned set of actions, like speeches and posters, to try to win an election or reach a goal.",
+"ko": "선거 운동, 캠페인",
+"ko_simple": "선거에서 이기거나 목표를 이루려고 연설하고 포스터를 붙이는 등 계획해서 하는 일",
+"examples": [
+{
+"en": "My campaign slogan for class president was More Recess, Less Mess!",
+"ko": "반장 선거 운동 구호는 '쉬는 시간은 더 많이, 어지르기는 더 적게!'였다."
+},
+{
+"en": "The school started a campaign to recycle more paper.",
+"ko": "학교는 종이를 더 많이 재활용하자는 캠페인을 시작했다."
+}
+]
+},
+{
+"pos": "verb",
+"simple": "To work hard to get people to vote for someone or to support an idea.",
+"ko": "선거 운동을 하다",
+"ko_simple": "사람들이 누군가에게 투표하거나 어떤 생각을 지지하도록 열심히 애쓰다",
+"examples": [
+{
+"en": "She campaigned by visiting every classroom.",
+"ko": "그녀는 모든 교실을 찾아다니며 선거 운동을 했다."
+},
+{
+"en": "The candidates campaigned in our town last week.",
+"ko": "후보들이 지난주에 우리 마을에서 선거 운동을 했다."
+}
+]
+}
+],
+"forms": [
+"campaigns",
+"campaigned",
+"campaigning"
+],
+"picture": true
+},
+{
+"word": "majority",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "More than half of a group.",
+"ko": "과반수, 대다수",
+"ko_simple": "어떤 무리의 절반보다 많은 수",
+"examples": [
+{
+"en": "The majority of our class wanted to go to the zoo, so we went there.",
+"ko": "우리 반 대다수가 동물원에 가고 싶어 해서 우리는 동물원에 갔다."
+},
+{
+"en": "A bill needs a majority of votes to pass.",
+"ko": "법안이 통과되려면 과반수의 표가 필요하다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "minority",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "A smaller part of a group, less than half. It can also mean a group of people who are different from most people in a place.",
+"ko": "소수, 소수 집단",
+"ko_simple": "어떤 무리의 절반보다 적은 부분. 또는 한 곳에서 대부분의 사람과 다른 작은 집단",
+"examples": [
+{
+"en": "Only a minority of the class wanted spinach for lunch.",
+"ko": "우리 반에서 점심으로 시금치를 원한 사람은 소수였다."
+},
+{
+"en": "In a democracy, the rights of the minority are protected too.",
+"ko": "민주주의에서는 소수의 권리도 보호된다."
+}
+]
+}
+],
+"forms": [
+"minorities"
+],
+"picture": false
+},
+{
+"word": "democracy",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "A kind of government where the people have the power and choose their leaders by voting.",
+"ko": "민주주의",
+"ko_simple": "국민이 힘을 가지고 투표로 지도자를 뽑는 정부의 형태",
+"examples": [
+{
+"en": "In a democracy, people vote for their leaders.",
+"ko": "민주주의에서는 사람들이 지도자를 투표로 뽑는다."
+},
+{
+"en": "Ancient Athens in Greece was one of the first democracies.",
+"ko": "고대 그리스의 아테네는 최초의 민주주의 국가 중 하나였다."
+}
+]
+}
+],
+"forms": [
+"democracies",
+"democratic"
+],
+"picture": false
+},
+{
+"word": "republic",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "A country where people vote for leaders to make decisions for them, and there is no king or queen.",
+"ko": "공화국",
+"ko_simple": "왕이나 여왕 없이 국민이 뽑은 지도자가 대신 결정하는 나라",
+"examples": [
+{
+"en": "The United States is a republic because citizens elect people to make laws for them.",
+"ko": "미국은 시민이 뽑은 사람들이 대신 법을 만들기 때문에 공화국이다."
+},
+{
+"en": "South Korea's full name is the Republic of Korea.",
+"ko": "한국의 정식 이름은 대한민국(Republic of Korea)이다."
+}
+]
+}
+],
+"forms": [
+"republics"
+],
+"picture": false
+},
+{
+"word": "monarchy",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "A kind of government led by a king or queen. The ruler usually gets the job from their parent.",
+"ko": "군주제, 군주국",
+"ko_simple": "왕이나 여왕이 다스리는 정부의 형태. 보통 부모에게서 그 자리를 물려받는다",
+"examples": [
+{
+"en": "Long ago, the American colonies were ruled by a monarchy in Britain.",
+"ko": "오래전 미국 식민지들은 영국의 군주제 아래 다스려졌다."
+},
+{
+"en": "In a monarchy, the crown passes from a king to his child.",
+"ko": "군주제에서는 왕관이 왕에게서 그 자녀에게 넘어간다."
+}
+]
+}
+],
+"forms": [
+"monarch",
+"monarchies"
+],
+"picture": true
+},
+{
+"word": "dictator",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "A ruler who has total power over a country and does not let people vote or speak freely.",
+"ko": "독재자",
+"ko_simple": "나라를 마음대로 다스리며 국민이 투표하거나 자유롭게 말하지 못하게 하는 지도자",
+"examples": [
+{
+"en": "A dictator can make laws without asking anyone.",
+"ko": "독재자는 아무에게도 묻지 않고 법을 만들 수 있다."
+},
+{
+"en": "People were afraid to speak out against the dictator.",
+"ko": "사람들은 독재자에게 반대하는 말을 하기를 두려워했다."
+}
+]
+}
+],
+"forms": [
+"dictators",
+"dictatorship"
+],
+"picture": false
+},
+{
+"word": "mayor",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "The leader of a city or town government.",
+"ko": "시장",
+"ko_simple": "시나 마을 정부의 지도자",
+"examples": [
+{
+"en": "The mayor cut a ribbon to open the new playground.",
+"ko": "시장님이 리본을 잘라 새 놀이터 개장을 알렸다."
+},
+{
+"en": "We wrote to the mayor asking for a crosswalk near our school.",
+"ko": "우리는 학교 근처에 횡단보도를 만들어 달라고 시장님께 편지를 썼다."
+}
+]
+}
+],
+"forms": [
+"mayors"
+],
+"picture": false
+},
+{
+"word": "governor",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "The leader of a state government in the US.",
+"ko": "주지사",
+"ko_simple": "미국 주 정부의 지도자",
+"examples": [
+{
+"en": "The governor closed schools because of the big snowstorm.",
+"ko": "큰 눈보라 때문에 주지사가 학교 문을 닫았다."
+},
+{
+"en": "The governor works in the state capital.",
+"ko": "주지사는 주도에서 일한다."
+}
+]
+}
+],
+"forms": [
+"governors"
+],
+"picture": false
+},
+{
+"word": "city council",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "A group of people elected to make laws and decisions for a city or town.",
+"ko": "시 의회",
+"ko_simple": "시나 마을의 법과 결정을 만들도록 뽑힌 사람들의 모임",
+"examples": [
+{
+"en": "The city council voted to build a new skate park.",
+"ko": "시 의회는 새 스케이트 공원을 짓기로 투표했다."
+},
+{
+"en": "Anyone can speak at a city council meeting.",
+"ko": "누구나 시 의회 회의에서 의견을 말할 수 있다."
+}
+]
+}
+],
+"forms": [
+"city councils"
+],
+"picture": false
+},
+{
+"word": "local government",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "The government of a city, town, or county. It takes care of things like parks, libraries, police, and trash pickup.",
+"ko": "지방 정부, 지방 자치 단체",
+"ko_simple": "시, 마을, 카운티의 정부. 공원, 도서관, 경찰, 쓰레기 수거 같은 일을 맡는다",
+"examples": [
+{
+"en": "Our local government fixes the potholes on our street.",
+"ko": "우리 지방 정부가 우리 동네 길의 움푹 팬 곳을 고친다."
+},
+{
+"en": "The local government runs the public library.",
+"ko": "지방 정부가 공공 도서관을 운영한다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "state government",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "The government of one of the 50 states. It is led by a governor and makes laws for that state.",
+"ko": "주 정부",
+"ko_simple": "50개 주 가운데 한 주의 정부. 주지사가 이끌고 그 주의 법을 만든다",
+"examples": [
+{
+"en": "The state government decides how old you must be to get a driver's license.",
+"ko": "주 정부는 몇 살이 되어야 운전면허를 딸 수 있는지 정한다."
+},
+{
+"en": "State governments help pay for public schools.",
+"ko": "주 정부는 공립 학교에 드는 돈을 함께 낸다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "federal",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "adjective",
+"simple": "Having to do with the national government of the whole country, not one state or town.",
+"ko": "연방의",
+"ko_simple": "한 주나 마을이 아닌 나라 전체를 다스리는 정부와 관련된",
+"examples": [
+{
+"en": "The federal government prints money and runs the post office.",
+"ko": "연방 정부는 돈을 찍어 내고 우체국을 운영한다."
+},
+{
+"en": "July 4th is a federal holiday, so the post office is closed.",
+"ko": "7월 4일은 연방 공휴일이라 우체국이 문을 닫는다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "law",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "A rule made by a government that everyone must follow.",
+"ko": "법, 법률",
+"ko_simple": "정부가 만든, 모두가 지켜야 하는 규칙",
+"examples": [
+{
+"en": "There is a law that says you must wear a seat belt in a car.",
+"ko": "차 안에서는 안전띠를 매야 한다는 법이 있다."
+},
+{
+"en": "People who break the law may have to pay a fine.",
+"ko": "법을 어긴 사람은 벌금을 내야 할 수도 있다."
+}
+]
+}
+],
+"forms": [
+"laws"
+],
+"picture": false
+},
+{
+"word": "bill",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "A written idea for a new law that lawmakers talk about and vote on.",
+"ko": "법안",
+"ko_simple": "법을 만드는 사람들이 이야기하고 투표하는 새 법의 초안",
+"examples": [
+{
+"en": "A bill becomes a law after Congress passes it and the President signs it.",
+"ko": "법안은 의회가 통과시키고 대통령이 서명하면 법이 된다."
+},
+{
+"en": "Students helped write a bill to make the honeybee our state insect.",
+"ko": "학생들이 꿀벌을 우리 주의 곤충으로 정하는 법안을 쓰는 데 도움을 주었다."
+}
+]
+},
+{
+"pos": "noun",
+"simple": "A paper that tells how much money you owe for something.",
+"ko": "청구서, 계산서",
+"ko_simple": "무엇에 대해 얼마를 내야 하는지 적힌 종이",
+"examples": [
+{
+"en": "Dad paid the bill after we finished dinner.",
+"ko": "저녁을 다 먹고 아빠가 계산서를 지불하셨다."
+},
+{
+"en": "The electric bill was high after a hot summer.",
+"ko": "더운 여름이 지나고 전기 요금 청구서가 많이 나왔다."
+}
+]
+}
+],
+"forms": [
+"bills"
+],
+"picture": false
+},
+{
+"word": "veto",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "verb",
+"simple": "To refuse to sign a bill so it does not become a law. The President or a governor can do this.",
+"ko": "거부권을 행사하다, 거부하다",
+"ko_simple": "법안에 서명하지 않아 법이 되지 못하게 하다. 대통령이나 주지사가 할 수 있다",
+"examples": [
+{
+"en": "The President vetoed the bill, so it went back to Congress.",
+"ko": "대통령이 그 법안에 거부권을 행사해서 법안은 의회로 돌아갔다."
+},
+{
+"en": "Mom vetoed our plan to have ice cream for dinner.",
+"ko": "엄마는 저녁으로 아이스크림을 먹자는 우리 계획을 거부하셨다."
+}
+]
+},
+{
+"pos": "noun",
+"simple": "The power to say no to a bill or a plan.",
+"ko": "거부권",
+"ko_simple": "법안이나 계획에 안 된다고 말할 수 있는 힘",
+"examples": [
+{
+"en": "Congress can override a veto if two-thirds of both houses agree.",
+"ko": "양원의 3분의 2가 찬성하면 의회는 거부권을 무효로 할 수 있다."
+},
+{
+"en": "The governor's veto stopped the new tax.",
+"ko": "주지사의 거부권으로 새 세금이 막혔다."
+}
+]
+}
+],
+"forms": [
+"vetoes",
+"vetoed",
+"vetoing"
+],
+"picture": false
+},
+{
+"word": "Capitol",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "The large building with a white dome in Washington, D.C., where Congress meets.",
+"ko": "(미국) 국회의사당",
+"ko_simple": "워싱턴 D.C.에 있는, 의회가 모이는 하얀 둥근 지붕의 큰 건물",
+"examples": [
+{
+"en": "We took a tour of the Capitol and stood under its giant dome.",
+"ko": "우리는 국회의사당을 구경하며 거대한 둥근 지붕 아래 서 보았다."
+},
+{
+"en": "Each state also has a capitol building where its lawmakers meet.",
+"ko": "각 주에도 의원들이 모이는 의사당 건물이 있다."
+}
+]
+}
+],
+"forms": [
+"capitol"
+],
+"picture": true
+},
+{
+"word": "White House",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "The home and office of the President of the United States, in Washington, D.C.",
+"ko": "백악관",
+"ko_simple": "워싱턴 D.C.에 있는 미국 대통령의 집이자 사무실",
+"examples": [
+{
+"en": "Every spring, kids roll eggs on the White House lawn.",
+"ko": "봄마다 아이들은 백악관 잔디밭에서 달걀 굴리기를 한다."
+},
+{
+"en": "The White House has 132 rooms and a bowling alley.",
+"ko": "백악관에는 방이 132개 있고 볼링장도 있다."
+}
+]
+}
+],
+"forms": [],
+"picture": true
+},
+{
+"word": "Washington, D.C.",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "The capital city of the United States. It is not part of any state. D.C. stands for District of Columbia.",
+"ko": "워싱턴 D.C.",
+"ko_simple": "미국의 수도. 어느 주에도 속하지 않는다. D.C.는 컬럼비아 특별구라는 뜻이다",
+"examples": [
+{
+"en": "We saw the Lincoln Memorial on our trip to Washington, D.C.",
+"ko": "우리는 워싱턴 D.C. 여행에서 링컨 기념관을 보았다."
+},
+{
+"en": "Washington, D.C., sits between Maryland and Virginia.",
+"ko": "워싱턴 D.C.는 메릴랜드주와 버지니아주 사이에 있다."
+}
+]
+}
+],
+"forms": [],
+"picture": true
+},
+{
+"word": "rights",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "Freedoms and fair treatment that every person should have, which the law protects.",
+"ko": "권리",
+"ko_simple": "모든 사람이 누려야 하고 법이 지켜 주는 자유와 공정한 대우",
+"examples": [
+{
+"en": "Every child has the right to go to school.",
+"ko": "모든 어린이는 학교에 다닐 권리가 있다."
+},
+{
+"en": "The Bill of Rights protects the rights of Americans.",
+"ko": "권리 장전은 미국인의 권리를 지켜 준다."
+}
+]
+}
+],
+"forms": [
+"right"
+],
+"picture": false
+},
+{
+"word": "responsibility",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "A job or duty that you are expected to do.",
+"ko": "책임, 의무",
+"ko_simple": "마땅히 해야 하는 일이나 맡은 일",
+"examples": [
+{
+"en": "Feeding the fish is my responsibility every morning.",
+"ko": "매일 아침 물고기 밥 주기는 내 책임이다."
+},
+{
+"en": "Citizens have a responsibility to obey laws and respect others.",
+"ko": "시민에게는 법을 지키고 다른 사람을 존중할 책임이 있다."
+}
+]
+}
+],
+"forms": [
+"responsibilities",
+"responsible"
+],
+"picture": false
+},
+{
+"word": "freedom of speech",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "The right to say, write, or share what you think without the government punishing you. It is in the First Amendment.",
+"ko": "언론의 자유, 표현의 자유",
+"ko_simple": "정부에게 벌을 받지 않고 자기 생각을 말하고 쓰고 나눌 수 있는 권리. 수정 헌법 제1조에 있다",
+"examples": [
+{
+"en": "Freedom of speech lets people write letters saying they disagree with the mayor.",
+"ko": "표현의 자유 덕분에 사람들은 시장에게 반대한다는 편지를 쓸 수 있다."
+},
+{
+"en": "Freedom of speech is one of the most important rights in the Bill of Rights.",
+"ko": "표현의 자유는 권리 장전에서 가장 중요한 권리 중 하나이다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "freedom of religion",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "The right to follow any religion you choose, or none at all.",
+"ko": "종교의 자유",
+"ko_simple": "원하는 종교를 믿거나 아무 종교도 믿지 않을 수 있는 권리",
+"examples": [
+{
+"en": "Because of freedom of religion, my friends go to a church, a temple, and a mosque.",
+"ko": "종교의 자유 덕분에 내 친구들은 교회, 절, 모스크에 다닌다."
+},
+{
+"en": "The Pilgrims came to America looking for freedom of religion.",
+"ko": "순례자들은 종교의 자유를 찾아 미국에 왔다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "freedom of the press",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "The right of newspapers, TV, and other news makers to report the news without the government stopping them.",
+"ko": "언론의 자유, 출판의 자유",
+"ko_simple": "신문, 텔레비전 같은 언론이 정부의 방해 없이 뉴스를 전할 수 있는 권리",
+"examples": [
+{
+"en": "Freedom of the press lets reporters write about problems in the government.",
+"ko": "언론의 자유 덕분에 기자들은 정부의 문제를 기사로 쓸 수 있다."
+},
+{
+"en": "Our school newspaper has freedom of the press, too.",
+"ko": "우리 학교 신문에도 언론의 자유가 있다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "petition",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "A written request signed by many people asking a leader or group to do something.",
+"ko": "청원서, 진정서",
+"ko_simple": "지도자나 단체에 무엇을 해 달라고 많은 사람이 서명한 글",
+"examples": [
+{
+"en": "We got 200 people to sign a petition for a new crosswalk.",
+"ko": "우리는 새 횡단보도를 만들어 달라는 청원서에 200명의 서명을 받았다."
+},
+{
+"en": "The students sent a petition asking for healthier school lunches.",
+"ko": "학생들은 더 건강한 급식을 요청하는 청원서를 보냈다."
+}
+]
+},
+{
+"pos": "verb",
+"simple": "To formally ask a leader or group to do something.",
+"ko": "청원하다",
+"ko_simple": "지도자나 단체에 무엇을 해 달라고 공식적으로 요청하다",
+"examples": [
+{
+"en": "Neighbors petitioned the city to fix the broken streetlight.",
+"ko": "이웃들은 고장 난 가로등을 고쳐 달라고 시에 청원했다."
+},
+{
+"en": "The First Amendment gives people the right to petition the government.",
+"ko": "수정 헌법 제1조는 사람들에게 정부에 청원할 권리를 준다."
+}
+]
+}
+],
+"forms": [
+"petitions",
+"petitioned"
+],
+"picture": true
+},
+{
+"word": "civic",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "adjective",
+"simple": "Having to do with being a citizen or with the life of a town or city.",
+"ko": "시민의, 시의",
+"ko_simple": "시민으로서의 일이나 마을, 도시의 생활과 관련된",
+"examples": [
+{
+"en": "Voting is a civic duty.",
+"ko": "투표는 시민의 의무이다."
+},
+{
+"en": "Our scout troop did a civic project by planting trees in the park.",
+"ko": "우리 스카우트 단은 공원에 나무를 심는 시민 봉사 활동을 했다."
+}
+]
+}
+],
+"forms": [
+"civics"
+],
+"picture": false
+},
+{
+"word": "common good",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "What is best for everyone in a group or community, not just for one person.",
+"ko": "공익, 공공의 이익",
+"ko_simple": "한 사람만이 아니라 모임이나 마을 모두에게 가장 좋은 것",
+"examples": [
+{
+"en": "Picking up litter in the park is good for the common good.",
+"ko": "공원에서 쓰레기를 줍는 것은 모두에게 이로운 일이다."
+},
+{
+"en": "Taxes pay for things for the common good, like fire trucks.",
+"ko": "세금은 소방차처럼 공공의 이익을 위한 것에 쓰인다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "volunteer",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "A person who chooses to help or do work without getting paid.",
+"ko": "자원봉사자",
+"ko_simple": "돈을 받지 않고 스스로 나서서 돕는 사람",
+"examples": [
+{
+"en": "Volunteers at the animal shelter walk the dogs every day.",
+"ko": "동물 보호소의 자원봉사자들은 매일 개들을 산책시킨다."
+},
+{
+"en": "My mom is a volunteer in our school library.",
+"ko": "우리 엄마는 학교 도서관에서 자원봉사를 하신다."
+}
+]
+},
+{
+"pos": "verb",
+"simple": "To offer to help or do a job without being asked or paid.",
+"ko": "자원하다, 자원봉사하다",
+"ko_simple": "시키지 않았는데 스스로 돕겠다고 나서다",
+"examples": [
+{
+"en": "I volunteered to clean the hamster cage.",
+"ko": "나는 햄스터 우리를 청소하겠다고 자원했다."
+},
+{
+"en": "Our family volunteers at the food bank on Saturdays.",
+"ko": "우리 가족은 토요일마다 푸드 뱅크에서 자원봉사를 한다."
+}
+]
+}
+],
+"forms": [
+"volunteers",
+"volunteered",
+"volunteering"
+],
+"picture": true
+},
+{
+"word": "patriotism",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "A strong love for your country and pride in it.",
+"ko": "애국심",
+"ko_simple": "자기 나라를 깊이 사랑하고 자랑스러워하는 마음",
+"examples": [
+{
+"en": "People showed their patriotism by waving flags at the Fourth of July parade.",
+"ko": "사람들은 독립기념일 행진에서 깃발을 흔들며 애국심을 보여 주었다."
+},
+{
+"en": "Singing the national anthem is one way to show patriotism.",
+"ko": "국가를 부르는 것은 애국심을 보여 주는 한 가지 방법이다."
+}
+]
+}
+],
+"forms": [
+"patriot",
+"patriotic"
+],
+"picture": false
+},
+{
+"word": "Pledge of Allegiance",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A short promise of loyalty to the United States flag and country, often said in schools.",
+"ko": "(미국) 국기에 대한 맹세, 충성의 맹세",
+"ko_simple": "미국 국기와 나라에 충성하겠다는 짧은 약속. 학교에서 자주 말한다",
+"examples": [
+{
+"en": "Every morning, we stand and say the Pledge of Allegiance.",
+"ko": "매일 아침 우리는 일어서서 국기에 대한 맹세를 한다."
+},
+{
+"en": "During the Pledge of Allegiance, we put our right hand over our heart.",
+"ko": "국기에 대한 맹세를 하는 동안 우리는 오른손을 가슴에 얹는다."
+}
+]
+}
+],
+"forms": [],
+"picture": true
+},
+{
+"word": "national anthem",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "A country's official song. The US national anthem is The Star-Spangled Banner.",
+"ko": "국가 (나라의 노래)",
+"ko_simple": "나라를 대표하는 공식 노래. 미국 국가는 '성조기여 영원하라(The Star-Spangled Banner)'이다",
+"examples": [
+{
+"en": "Everyone stood up for the national anthem before the baseball game.",
+"ko": "야구 경기 전에 모두 일어나 국가를 불렀다."
+},
+{
+"en": "Francis Scott Key wrote the words of the US national anthem in 1814.",
+"ko": "프랜시스 스콧 키는 1814년에 미국 국가의 가사를 썼다."
+}
+]
+}
+],
+"forms": [
+"national anthems"
+],
+"picture": false
+},
+{
+"word": "Statue of Liberty",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A huge copper statue of a woman holding a torch, in New York Harbor. France gave it to the US as a symbol of freedom.",
+"ko": "자유의 여신상",
+"ko_simple": "뉴욕항에 있는, 횃불을 든 여인의 거대한 구리 동상. 프랑스가 자유의 상징으로 미국에 선물했다",
+"examples": [
+{
+"en": "The Statue of Liberty is green because the copper changed color over time.",
+"ko": "자유의 여신상은 시간이 지나며 구리 색이 변해서 초록색이다."
+},
+{
+"en": "Immigrants on ships cheered when they saw the Statue of Liberty.",
+"ko": "배를 타고 온 이민자들은 자유의 여신상을 보고 환호했다."
+}
+]
+}
+],
+"forms": [],
+"picture": true
+},
+{
+"word": "Liberty Bell",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A large, old bell with a big crack, kept in Philadelphia. It is a symbol of American freedom.",
+"ko": "자유의 종",
+"ko_simple": "필라델피아에 있는, 큰 금이 간 오래된 종. 미국 자유의 상징이다",
+"examples": [
+{
+"en": "We saw the famous crack in the Liberty Bell in Philadelphia.",
+"ko": "우리는 필라델피아에서 자유의 종에 난 유명한 금을 보았다."
+},
+{
+"en": "Because of its big crack, the Liberty Bell is no longer rung like a normal bell.",
+"ko": "커다란 금 때문에 자유의 종은 이제 보통 종처럼 울리지 않는다."
+}
+]
+}
+],
+"forms": [],
+"picture": true
+},
+{
+"word": "bald eagle",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "A large bird with a white head and a yellow beak. It is the national bird and a symbol of the United States.",
+"ko": "흰머리독수리",
+"ko_simple": "머리가 하얗고 부리가 노란 큰 새. 미국의 국조이자 상징이다",
+"examples": [
+{
+"en": "A bald eagle swooped down and grabbed a fish from the lake.",
+"ko": "흰머리독수리가 휙 내려와 호수에서 물고기를 낚아챘다."
+},
+{
+"en": "The bald eagle is not really bald; it has white feathers on its head.",
+"ko": "흰머리독수리는 사실 대머리가 아니라 머리에 흰 깃털이 있다."
+}
+]
+}
+],
+"forms": [
+"bald eagles"
+],
+"picture": true
+},
+{
+"word": "motto",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "A short saying that tells what a person, group, or country believes in.",
+"ko": "표어, 좌우명",
+"ko_simple": "사람, 모임, 나라가 믿는 것을 짧게 나타낸 말",
+"examples": [
+{
+"en": "Our class motto is Be kind, work hard, have fun.",
+"ko": "우리 반 표어는 '친절하게, 열심히, 즐겁게'이다."
+},
+{
+"en": "E pluribus unum, which means out of many, one, is a US motto.",
+"ko": "'여럿이 모여 하나'라는 뜻의 E pluribus unum은 미국의 표어이다."
+}
+]
+}
+],
+"forms": [
+"mottos",
+"mottoes"
+],
+"picture": false
+},
+{
+"word": "liberty",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "Freedom to live, think, and act the way you choose, without unfair control.",
+"ko": "자유",
+"ko_simple": "부당한 간섭 없이 원하는 대로 살고 생각하고 행동할 수 있는 것",
+"examples": [
+{
+"en": "Patrick Henry said, Give me liberty, or give me death!",
+"ko": "패트릭 헨리는 '자유가 아니면 죽음을 달라!'라고 말했다."
+},
+{
+"en": "The colonists fought for liberty from British rule.",
+"ko": "식민지 사람들은 영국의 지배에서 벗어나 자유를 얻으려고 싸웠다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "equality",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "Being treated the same way and having the same rights as everyone else.",
+"ko": "평등",
+"ko_simple": "다른 모든 사람과 똑같이 대우받고 같은 권리를 가지는 것",
+"examples": [
+{
+"en": "Equality means girls and boys get the same chance to play on the team.",
+"ko": "평등이란 여자아이와 남자아이가 팀에서 뛸 같은 기회를 갖는 것이다."
+},
+{
+"en": "Many people marched for equality during the civil rights movement.",
+"ko": "민권 운동 때 많은 사람이 평등을 위해 행진했다."
+}
+]
+}
+],
+"forms": [
+"equal"
+],
+"picture": false
+},
+{
+"word": "civil rights",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "The rights every citizen should have to be treated fairly and equally, no matter their race, religion, or whether they are a man or a woman.",
+"ko": "민권, 시민권",
+"ko_simple": "인종, 종교, 성별에 상관없이 모든 시민이 공평하고 평등하게 대우받을 권리",
+"examples": [
+{
+"en": "Rosa Parks became a hero of the civil rights movement.",
+"ko": "로자 파크스는 민권 운동의 영웅이 되었다."
+},
+{
+"en": "Civil rights laws say people cannot be kept out of a restaurant because of their skin color.",
+"ko": "민권법에 따르면 피부색 때문에 식당에 못 들어가게 할 수 없다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "protest",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "An event where people gather to show they strongly disagree with something.",
+"ko": "시위, 항의",
+"ko_simple": "사람들이 모여서 어떤 일에 강하게 반대한다는 것을 보여 주는 일",
+"examples": [
+{
+"en": "People held signs at a peaceful protest to save the old library.",
+"ko": "사람들은 오래된 도서관을 지키려고 평화 시위에서 팻말을 들었다."
+},
+{
+"en": "The Boston Tea Party was a protest against unfair taxes.",
+"ko": "보스턴 차 사건은 불공평한 세금에 대한 항의였다."
+}
+]
+},
+{
+"pos": "verb",
+"simple": "To say or show strongly that you disagree with something.",
+"ko": "항의하다, 반대하다",
+"ko_simple": "어떤 일에 반대한다고 강하게 말하거나 보여 주다",
+"examples": [
+{
+"en": "The kids protested when recess was cut short.",
+"ko": "쉬는 시간이 줄어들자 아이들이 항의했다."
+},
+{
+"en": "Students protested peacefully outside city hall.",
+"ko": "학생들이 시청 밖에서 평화롭게 시위했다."
+}
+]
+}
+],
+"forms": [
+"protests",
+"protested",
+"protesting",
+"protester"
+],
+"picture": true
+},
+{
+"word": "rule of law",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "The idea that everyone, even leaders, must follow the same laws.",
+"ko": "법치, 법의 지배",
+"ko_simple": "지도자를 포함한 모든 사람이 똑같은 법을 지켜야 한다는 생각",
+"examples": [
+{
+"en": "Because of the rule of law, even the President must obey the law.",
+"ko": "법치 때문에 대통령도 법을 지켜야 한다."
+},
+{
+"en": "The rule of law means a rich person and a poor person follow the same rules.",
+"ko": "법의 지배란 부자와 가난한 사람이 같은 규칙을 지킨다는 뜻이다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "authority",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "The power or right to give orders, make rules, and decide things.",
+"ko": "권한, 권위",
+"ko_simple": "명령하고 규칙을 만들고 결정할 수 있는 힘이나 권리",
+"examples": [
+{
+"en": "The principal has the authority to close the school on a snow day.",
+"ko": "교장 선생님은 눈 오는 날 학교 문을 닫을 권한이 있다."
+},
+{
+"en": "A police officer has the authority to stop cars.",
+"ko": "경찰관은 차를 세울 권한이 있다."
+}
+]
+}
+],
+"forms": [
+"authorities"
+],
+"picture": false
+},
+{
+"word": "legislature",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "A group of elected people who make laws for a state or country.",
+"ko": "입법부, 의회",
+"ko_simple": "주나 나라의 법을 만드는 뽑힌 사람들의 모임",
+"examples": [
+{
+"en": "Our state legislature meets in the state capitol building.",
+"ko": "우리 주 의회는 주 의사당 건물에서 모인다."
+},
+{
+"en": "The legislature passed a law to protect sea turtles.",
+"ko": "주 의회는 바다거북을 보호하는 법을 통과시켰다."
+}
+]
+}
+],
+"forms": [
+"legislatures",
+"legislator"
+],
+"picture": false
+},
+{
+"word": "term",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "The set length of time that a person holds a job, like a mayor or President.",
+"ko": "임기",
+"ko_simple": "시장이나 대통령 같은 사람이 일을 맡는 정해진 기간",
+"examples": [
+{
+"en": "A US President's term is four years.",
+"ko": "미국 대통령의 임기는 4년이다."
+},
+{
+"en": "A President can serve only two terms.",
+"ko": "대통령은 두 번의 임기까지만 일할 수 있다."
+}
+]
+},
+{
+"pos": "noun",
+"simple": "A word with a special meaning in a subject.",
+"ko": "용어",
+"ko_simple": "어떤 과목에서 특별한 뜻을 가진 말",
+"examples": [
+{
+"en": "Peninsula is a geography term.",
+"ko": "반도는 지리 용어이다."
+},
+{
+"en": "Our teacher put new science terms on the word wall.",
+"ko": "선생님이 새 과학 용어를 단어 벽에 붙이셨다."
+}
+]
+}
+],
+"forms": [
+"terms"
+],
+"picture": false
+},
+{
+"word": "oath",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "A serious, official promise, often said out loud in front of others.",
+"ko": "선서, 맹세",
+"ko_simple": "다른 사람들 앞에서 소리 내어 하는 진지하고 공식적인 약속",
+"examples": [
+{
+"en": "The new President takes an oath to protect the Constitution.",
+"ko": "새 대통령은 헌법을 지키겠다고 선서한다."
+},
+{
+"en": "New citizens raise their right hands and take an oath.",
+"ko": "새 시민들은 오른손을 들고 선서한다."
+}
+]
+}
+],
+"forms": [
+"oaths"
+],
+"picture": true
+},
+{
+"word": "inauguration",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "A special ceremony when a new leader, like a President or governor, starts the job.",
+"ko": "취임식",
+"ko_simple": "대통령이나 주지사 같은 새 지도자가 일을 시작할 때 여는 특별한 행사",
+"examples": [
+{
+"en": "Thousands of people watched the President's inauguration in Washington, D.C.",
+"ko": "수천 명이 워싱턴 D.C.에서 대통령 취임식을 지켜보았다."
+},
+{
+"en": "There was a parade after the governor's inauguration.",
+"ko": "주지사 취임식이 끝나고 행진이 있었다."
+}
+]
+}
+],
+"forms": [
+"inaugurate",
+"inaugurated"
+],
+"picture": true
+},
+{
+"word": "cabinet",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "A group of top advisers who help the President run different parts of the government.",
+"ko": "내각",
+"ko_simple": "대통령을 도와 정부의 여러 부분을 이끄는 가장 높은 조언자들의 모임",
+"examples": [
+{
+"en": "The President met with the cabinet to talk about the hurricane.",
+"ko": "대통령은 허리케인 문제를 이야기하려고 내각과 만났다."
+},
+{
+"en": "One member of the cabinet is in charge of schools across the country.",
+"ko": "내각의 한 사람은 나라 전체의 학교를 맡고 있다."
+}
+]
+},
+{
+"pos": "noun",
+"simple": "A piece of furniture with shelves and doors for storing things.",
+"ko": "수납장, 찬장",
+"ko_simple": "물건을 넣어 두는 선반과 문이 달린 가구",
+"examples": [
+{
+"en": "The cups are in the kitchen cabinet.",
+"ko": "컵은 부엌 찬장에 있다."
+},
+{
+"en": "My cat likes to hide inside the cabinet.",
+"ko": "우리 고양이는 수납장 안에 숨는 것을 좋아한다."
+}
+]
+}
+],
+"forms": [
+"cabinets"
+],
+"picture": false
+},
+{
+"word": "Electoral College",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "The group of people from each state who officially choose the President, based on how people in their state voted.",
+"ko": "선거인단",
+"ko_simple": "각 주 사람들이 투표한 결과에 따라 공식적으로 대통령을 뽑는 사람들의 모임",
+"examples": [
+{
+"en": "A candidate needs 270 votes in the Electoral College to become President.",
+"ko": "대통령이 되려면 선거인단 투표에서 270표를 얻어야 한다."
+},
+{
+"en": "States with more people have more votes in the Electoral College.",
+"ko": "사람이 많은 주일수록 선거인단 표가 더 많다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "political party",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "A group of people who share ideas about how the government should work and try to get their members elected.",
+"ko": "정당",
+"ko_simple": "정부가 어떻게 일해야 하는지 생각이 비슷하고 자기 사람을 선거에서 뽑히게 하려는 사람들의 모임",
+"examples": [
+{
+"en": "The two biggest political parties in the US are the Democrats and the Republicans.",
+"ko": "미국에서 가장 큰 두 정당은 민주당과 공화당이다."
+},
+{
+"en": "Each political party picks one candidate to run for President.",
+"ko": "각 정당은 대통령 선거에 나갈 후보 한 명을 뽑는다."
+}
+]
+}
+],
+"forms": [
+"political parties"
+],
+"picture": false
+},
+{
+"word": "treaty",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "A written agreement between two or more countries or nations, often about peace, land, or trade.",
+"ko": "조약",
+"ko_simple": "평화, 땅, 무역 등에 대해 두 나라 이상이 맺은 글로 된 약속",
+"examples": [
+{
+"en": "The two countries signed a treaty to end the war.",
+"ko": "두 나라는 전쟁을 끝내는 조약에 서명했다."
+},
+{
+"en": "The US government signed many treaties with Native American nations.",
+"ko": "미국 정부는 여러 아메리카 원주민 부족과 많은 조약을 맺었다."
+}
+]
+}
+],
+"forms": [
+"treaties"
+],
+"picture": true
+},
+{
+"word": "ambassador",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "An official sent by a country to live in another country and speak for their own country there.",
+"ko": "대사",
+"ko_simple": "한 나라가 다른 나라에 보내 그곳에서 자기 나라를 대표하게 하는 관리",
+"examples": [
+{
+"en": "The US ambassador to Korea works in Seoul.",
+"ko": "주한 미국 대사는 서울에서 일한다."
+},
+{
+"en": "The ambassador helped the two countries work together.",
+"ko": "대사는 두 나라가 함께 일하도록 도왔다."
+}
+]
+}
+],
+"forms": [
+"ambassadors"
+],
+"picture": false
+},
+{
+"word": "compromise",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "An agreement where each side gives up a little of what it wants.",
+"ko": "타협, 절충",
+"ko_simple": "양쪽이 원하는 것을 조금씩 양보해서 이룬 합의",
+"examples": [
+{
+"en": "We made a compromise: I pick the movie and my sister picks the snack.",
+"ko": "우리는 타협했다. 영화는 내가 고르고 간식은 동생이 고르기로 했다."
+},
+{
+"en": "The Great Compromise decided how many members each state would get in Congress.",
+"ko": "대타협은 각 주가 의회에 몇 명을 보낼지를 정했다."
+}
+]
+},
+{
+"pos": "verb",
+"simple": "To settle a disagreement by each side giving up a little.",
+"ko": "타협하다",
+"ko_simple": "양쪽이 조금씩 양보해서 의견 차이를 해결하다",
+"examples": [
+{
+"en": "My brother and I compromised and took turns on the video game.",
+"ko": "형과 나는 타협해서 비디오 게임을 번갈아 했다."
+},
+{
+"en": "Lawmakers compromised so the bill could pass.",
+"ko": "의원들은 법안이 통과되도록 타협했다."
+}
+]
+}
+],
+"forms": [
+"compromises",
+"compromised"
+],
+"picture": false
+},
+{
+"word": "Preamble",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "The opening part of the US Constitution that starts with We the People and tells the reasons for the Constitution.",
+"ko": "(미국 헌법) 전문",
+"ko_simple": "'우리 국민은'으로 시작해서 헌법을 만든 이유를 밝히는 미국 헌법의 첫 부분",
+"examples": [
+{
+"en": "Our class memorized the Preamble and recited it for our parents.",
+"ko": "우리 반은 헌법 전문을 외워서 부모님 앞에서 낭송했다."
+},
+{
+"en": "The Preamble says the Constitution is meant to secure the blessings of liberty.",
+"ko": "헌법 전문에는 헌법이 자유의 축복을 지키기 위한 것이라고 쓰여 있다."
+}
+]
+}
+],
+"forms": [
+"preamble"
+],
+"picture": false
+},
+{
+"word": "county",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "An area that a state is divided into, with its own local government.",
+"ko": "카운티, 군",
+"ko_simple": "주를 나눈 지역 단위. 따로 지방 정부가 있다",
+"examples": [
+{
+"en": "Our county fair has pig races and funnel cakes.",
+"ko": "우리 카운티 축제에는 돼지 경주와 퍼넬 케이크가 있다."
+},
+{
+"en": "Texas has more counties than any other state.",
+"ko": "텍사스주는 어느 주보다 카운티가 많다."
+}
+]
+}
+],
+"forms": [
+"counties"
+],
+"picture": false
+},
+{
+"word": "nation",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "A country and the people who live there, with their own government. It can also mean a people with a shared history and government, like a Native American nation.",
+"ko": "국가, 나라, 민족",
+"ko_simple": "자기 정부를 가진 나라와 그 나라 사람들. 또는 아메리카 원주민 부족처럼 역사와 정부를 함께하는 사람들",
+"examples": [
+{
+"en": "The United States is a nation of 50 states.",
+"ko": "미국은 50개 주로 이루어진 나라이다."
+},
+{
+"en": "The Navajo Nation has its own government and laws.",
+"ko": "나바호 네이션에는 자체 정부와 법이 있다."
+}
+]
+}
+],
+"forms": [
+"nations",
+"national"
+],
+"picture": false
+},
+{
+"word": "territory",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "An area of land that belongs to a country but is not a state, like Puerto Rico or Guam.",
+"ko": "영토, 준주",
+"ko_simple": "나라에 속하지만 주가 아닌 땅. 푸에르토리코나 괌 같은 곳",
+"examples": [
+{
+"en": "Puerto Rico is a US territory in the Caribbean Sea.",
+"ko": "푸에르토리코는 카리브해에 있는 미국의 준주이다."
+},
+{
+"en": "Before it became a state, Alaska was a territory.",
+"ko": "알래스카는 주가 되기 전에 준주였다."
+}
+]
+}
+],
+"forms": [
+"territories"
+],
+"picture": true
+},
+{
+"word": "jury duty",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "The responsibility of a citizen to serve on a jury when asked by a court.",
+"ko": "배심원 의무",
+"ko_simple": "법원이 부르면 배심원으로 일해야 하는 시민의 책임",
+"examples": [
+{
+"en": "Dad couldn't come to my game because he had jury duty.",
+"ko": "아빠는 배심원 의무 때문에 내 경기에 오지 못하셨다."
+},
+{
+"en": "Jury duty is one way citizens help the courts be fair.",
+"ko": "배심원 의무는 시민이 법원을 공정하게 만드는 데 돕는 한 방법이다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "lawmaker",
+"topic": "civics-economics",
+"senses": [
+{
+"pos": "noun",
+"simple": "A person whose job is to write and vote on laws, like a senator or representative.",
+"ko": "입법자, 국회의원",
+"ko_simple": "상원 의원이나 하원 의원처럼 법을 쓰고 투표하는 일을 하는 사람",
+"examples": [
+{
+"en": "Lawmakers argued about the new bill for hours.",
+"ko": "의원들은 새 법안을 두고 몇 시간 동안 논쟁했다."
+},
+{
+"en": "Kids can write to lawmakers to share their ideas.",
+"ko": "어린이도 의원에게 편지를 써서 생각을 전할 수 있다."
+}
+]
+}
+],
+"forms": [
+"lawmakers"
+],
+"picture": false
+}
+]

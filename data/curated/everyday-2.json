@@ -1,0 +1,2639 @@
+[
+ {
+  "word": "gasp",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To take in a quick, loud breath because you are surprised, scared, or out of breath.",
+    "ko": "숨이 턱 막히다, 헉 하고 숨을 들이쉬다",
+    "ko_simple": "놀라거나 숨이 차서 갑자기 '헉' 하고 숨을 들이마시다",
+    "examples": [
+     {
+      "en": "Everyone gasped when the magician made the elephant disappear.",
+      "ko": "마술사가 코끼리를 사라지게 하자 모두가 '헉' 하고 놀랐다."
+     },
+     {
+      "en": "I came up from the bottom of the pool gasping for air.",
+      "ko": "나는 수영장 바닥에서 올라와 숨을 헐떡였다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "gasps",
+   "gasped",
+   "gasping"
+  ],
+  "picture": false
+ },
+ {
+  "word": "glance",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To look at something quickly and then look away.",
+    "ko": "힐끗 보다, 흘끗 보다",
+    "ko_simple": "무언가를 아주 잠깐 쳐다보다",
+    "examples": [
+     {
+      "en": "I glanced at the clock and saw that recess was almost over.",
+      "ko": "시계를 힐끗 보니 쉬는 시간이 거의 끝나 가고 있었다."
+     },
+     {
+      "en": "She glanced over her shoulder to see who was following her.",
+      "ko": "그녀는 누가 따라오는지 어깨 너머로 흘끗 돌아보았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "glances",
+   "glanced",
+   "glancing"
+  ],
+  "picture": false
+ },
+ {
+  "word": "stumble",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To trip or almost fall while walking or running.",
+    "ko": "발을 헛디디다, 비틀거리다",
+    "ko_simple": "걷다가 발이 걸려 넘어질 뻔하다",
+    "examples": [
+     {
+      "en": "I stumbled over a tree root on the dark trail.",
+      "ko": "나는 어두운 산길에서 나무뿌리에 걸려 비틀거렸다."
+     },
+     {
+      "en": "The baby stumbled across the room toward his dad.",
+      "ko": "아기는 아빠를 향해 방을 비틀비틀 걸어갔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "stumbles",
+   "stumbled",
+   "stumbling"
+  ],
+  "picture": true
+ },
+ {
+  "word": "mutter",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To speak quietly and unclearly, often because you are grumpy.",
+    "ko": "중얼거리다, 투덜대다",
+    "ko_simple": "기분이 안 좋아서 작고 알아듣기 힘들게 말하다",
+    "examples": [
+     {
+      "en": "\"This is not fair,\" Liam muttered as he picked up his toys.",
+      "ko": "\"이건 불공평해.\" 리엄은 장난감을 치우며 투덜거렸다."
+     },
+     {
+      "en": "The old wizard muttered a spell under his breath.",
+      "ko": "늙은 마법사는 작은 소리로 주문을 중얼거렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "mutters",
+   "muttered",
+   "muttering"
+  ],
+  "picture": false
+ },
+ {
+  "word": "whisper",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To speak very softly, using your breath instead of your full voice.",
+    "ko": "속삭이다",
+    "ko_simple": "목소리를 아주 작게 해서 숨소리로 말하다",
+    "examples": [
+     {
+      "en": "Sara whispered a secret into my ear.",
+      "ko": "사라가 내 귀에 비밀을 속삭였다."
+     },
+     {
+      "en": "We whispered so we would not wake the baby.",
+      "ko": "우리는 아기가 깨지 않게 속삭였다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "whispers",
+   "whispered",
+   "whispering"
+  ],
+  "picture": false
+ },
+ {
+  "word": "scramble",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To move quickly and messily, often using your hands and feet, to get somewhere or get something.",
+    "ko": "허둥지둥 움직이다, 기어오르다",
+    "ko_simple": "급하게 손발을 써서 허겁지겁 움직이다",
+    "examples": [
+     {
+      "en": "The kids scrambled up the rocks to see the view.",
+      "ko": "아이들은 경치를 보려고 바위 위로 허겁지겁 기어올랐다."
+     },
+     {
+      "en": "We scrambled to grab the candy that fell out of the piñata.",
+      "ko": "우리는 피냐타에서 쏟아진 사탕을 줍느라 우르르 달려들었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "scrambles",
+   "scrambled",
+   "scrambling"
+  ],
+  "picture": false
+ },
+ {
+  "word": "peer",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To look closely at something, especially when it is hard to see.",
+    "ko": "자세히 들여다보다, 응시하다",
+    "ko_simple": "잘 안 보이는 것을 눈을 가늘게 뜨고 들여다보다",
+    "examples": [
+     {
+      "en": "I peered into the dark cave with my flashlight.",
+      "ko": "나는 손전등을 들고 어두운 동굴 안을 들여다보았다."
+     },
+     {
+      "en": "The owl peered down at us from the branch.",
+      "ko": "부엉이가 나뭇가지에서 우리를 내려다보았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "peers",
+   "peered",
+   "peering"
+  ],
+  "picture": false
+ },
+ {
+  "word": "wander",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To walk around slowly without a plan or a place to go.",
+    "ko": "거닐다, 돌아다니다, 헤매다",
+    "ko_simple": "정해진 곳 없이 이리저리 천천히 걷다",
+    "examples": [
+     {
+      "en": "We wandered through the fair, looking at all the animals.",
+      "ko": "우리는 동물들을 구경하며 박람회장을 이리저리 돌아다녔다."
+     },
+     {
+      "en": "Don't wander away from the group at the zoo.",
+      "ko": "동물원에서 무리에서 떨어져 돌아다니지 마라."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "wanders",
+   "wandered",
+   "wandering"
+  ],
+  "picture": false
+ },
+ {
+  "word": "grumble",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To complain in a low, unhappy voice.",
+    "ko": "투덜거리다, 불평하다",
+    "ko_simple": "기분 나쁘게 낮은 목소리로 불평하다",
+    "examples": [
+     {
+      "en": "My brother grumbled about having to take out the trash.",
+      "ko": "형은 쓰레기를 내다 버려야 한다고 투덜거렸다."
+     },
+     {
+      "en": "The campers grumbled when the rain started again.",
+      "ko": "비가 다시 내리기 시작하자 야영객들은 불평했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "grumbles",
+   "grumbled",
+   "grumbling"
+  ],
+  "picture": false
+ },
+ {
+  "word": "shiver",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To shake a little because you are cold or scared.",
+    "ko": "(추위·두려움으로) 떨다",
+    "ko_simple": "춥거나 무서워서 몸을 부르르 떨다",
+    "examples": [
+     {
+      "en": "We shivered at the bus stop on the icy morning.",
+      "ko": "얼음장 같은 아침에 우리는 버스 정류장에서 덜덜 떨었다."
+     },
+     {
+      "en": "The spooky story made me shiver.",
+      "ko": "으스스한 이야기에 나는 몸서리가 쳐졌다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "shivers",
+   "shivered",
+   "shivering"
+  ],
+  "picture": false
+ },
+ {
+  "word": "sprint",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To run as fast as you can for a short way.",
+    "ko": "전력 질주하다",
+    "ko_simple": "짧은 거리를 있는 힘껏 빨리 달리다",
+    "examples": [
+     {
+      "en": "I sprinted to the finish line and won the race.",
+      "ko": "나는 결승선까지 전력 질주해서 경주에서 이겼다."
+     },
+     {
+      "en": "We sprinted to the car when it started to pour.",
+      "ko": "비가 쏟아지기 시작하자 우리는 차까지 냅다 뛰었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "sprints",
+   "sprinted",
+   "sprinting"
+  ],
+  "picture": false
+ },
+ {
+  "word": "clutch",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To hold something tightly, often because you are scared or don't want to lose it.",
+    "ko": "꽉 움켜쥐다",
+    "ko_simple": "무섭거나 놓치기 싫어서 꽉 붙잡다",
+    "examples": [
+     {
+      "en": "The little girl clutched her teddy bear during the storm.",
+      "ko": "어린 소녀는 폭풍이 치는 동안 곰 인형을 꽉 껴안았다."
+     },
+     {
+      "en": "He clutched his ticket so it would not blow away.",
+      "ko": "그는 표가 날아가지 않게 꽉 움켜쥐었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "clutches",
+   "clutched",
+   "clutching"
+  ],
+  "picture": false
+ },
+ {
+  "word": "stagger",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To walk in an unsteady way, as if you might fall.",
+    "ko": "비틀거리다, 휘청거리다",
+    "ko_simple": "넘어질 것처럼 휘청휘청 걷다",
+    "examples": [
+     {
+      "en": "Dad staggered into the kitchen carrying ten grocery bags.",
+      "ko": "아빠는 장바구니 열 개를 들고 휘청거리며 부엌으로 들어오셨다."
+     },
+     {
+      "en": "After spinning around, we staggered across the grass laughing.",
+      "ko": "빙글빙글 돈 뒤 우리는 웃으며 잔디밭을 비틀비틀 걸었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "staggers",
+   "staggered",
+   "staggering"
+  ],
+  "picture": true
+ },
+ {
+  "word": "tiptoe",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To walk quietly on the front part of your feet.",
+    "ko": "발끝으로 살금살금 걷다",
+    "ko_simple": "소리가 나지 않게 발끝으로 걷다",
+    "examples": [
+     {
+      "en": "I tiptoed past my parents' room to get a midnight snack.",
+      "ko": "나는 한밤중에 간식을 먹으려고 부모님 방 앞을 살금살금 지나갔다."
+     },
+     {
+      "en": "We tiptoed into the library so we would not bother anyone.",
+      "ko": "우리는 아무도 방해하지 않으려고 도서관에 발끝으로 들어갔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "tiptoes",
+   "tiptoed",
+   "tiptoeing"
+  ],
+  "picture": true
+ },
+ {
+  "word": "creep",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To move slowly and quietly so no one will notice you.",
+    "ko": "살금살금 움직이다, 기다",
+    "ko_simple": "남이 모르게 천천히 조용히 움직이다",
+    "examples": [
+     {
+      "en": "The cat crept toward the bird in the grass.",
+      "ko": "고양이는 풀숲의 새를 향해 살금살금 다가갔다."
+     },
+     {
+      "en": "Fog crept over the hills in the early morning.",
+      "ko": "이른 아침 안개가 언덕 위로 슬금슬금 밀려왔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "creeps",
+   "crept",
+   "creeping"
+  ],
+  "picture": false
+ },
+ {
+  "word": "dash",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To run or go somewhere very quickly.",
+    "ko": "돌진하다, 급히 달려가다",
+    "ko_simple": "어딘가로 아주 빨리 뛰어가다",
+    "examples": [
+     {
+      "en": "I dashed out the door when I heard the ice cream truck.",
+      "ko": "아이스크림 트럭 소리를 듣고 나는 문밖으로 쏜살같이 뛰어나갔다."
+     },
+     {
+      "en": "The rabbit dashed into its hole.",
+      "ko": "토끼가 굴속으로 쏜살같이 들어갔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "dashes",
+   "dashed",
+   "dashing"
+  ],
+  "picture": false
+ },
+ {
+  "word": "dart",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To move suddenly and quickly in one direction.",
+    "ko": "쏜살같이 움직이다",
+    "ko_simple": "갑자기 한쪽으로 휙 움직이다",
+    "examples": [
+     {
+      "en": "A little fish darted under a rock.",
+      "ko": "작은 물고기가 바위 밑으로 휙 들어갔다."
+     },
+     {
+      "en": "The squirrel darted across the road.",
+      "ko": "다람쥐가 길을 휙 가로질러 달려갔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "darts",
+   "darted",
+   "darting"
+  ],
+  "picture": false
+ },
+ {
+  "word": "lunge",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To move forward suddenly with a lot of force, often to grab or hit something.",
+    "ko": "달려들다, 덤벼들다",
+    "ko_simple": "무엇을 잡으려고 갑자기 확 앞으로 몸을 던지다",
+    "examples": [
+     {
+      "en": "The goalie lunged for the ball and caught it.",
+      "ko": "골키퍼는 공을 향해 몸을 날려 잡아냈다."
+     },
+     {
+      "en": "The dog lunged at the sandwich on the table.",
+      "ko": "개가 식탁 위 샌드위치에 덤벼들었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "lunges",
+   "lunged",
+   "lunging"
+  ],
+  "picture": false
+ },
+ {
+  "word": "pounce",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To jump on something suddenly to catch it.",
+    "ko": "와락 덮치다, 달려들다",
+    "ko_simple": "잡으려고 갑자기 확 뛰어올라 덮치다",
+    "examples": [
+     {
+      "en": "The kitten pounced on the yarn ball.",
+      "ko": "새끼 고양이가 털실 뭉치를 와락 덮쳤다."
+     },
+     {
+      "en": "The fox pounced on a mouse in the snow.",
+      "ko": "여우가 눈 속의 쥐를 덮쳤다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "pounces",
+   "pounced",
+   "pouncing"
+  ],
+  "picture": true
+ },
+ {
+  "word": "crouch",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To bend your knees and lower your body close to the ground.",
+    "ko": "쭈그리고 앉다, 웅크리다",
+    "ko_simple": "무릎을 굽혀 몸을 땅 가까이 낮추다",
+    "examples": [
+     {
+      "en": "We crouched behind the bushes during hide-and-seek.",
+      "ko": "우리는 숨바꼭질할 때 덤불 뒤에 쭈그리고 앉았다."
+     },
+     {
+      "en": "The runners crouched at the starting line.",
+      "ko": "달리기 선수들이 출발선에서 몸을 웅크렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "crouches",
+   "crouched",
+   "crouching"
+  ],
+  "picture": true
+ },
+ {
+  "word": "sprawl",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To lie or sit with your arms and legs spread out in a lazy way.",
+    "ko": "팔다리를 쭉 뻗고 눕다",
+    "ko_simple": "팔다리를 아무렇게나 쭉 펴고 늘어지게 눕다",
+    "examples": [
+     {
+      "en": "After the race, we sprawled on the grass.",
+      "ko": "경주가 끝난 뒤 우리는 잔디밭에 대자로 뻗었다."
+     },
+     {
+      "en": "The dog sprawled across the whole couch.",
+      "ko": "개가 소파 전체를 차지하고 축 늘어져 누웠다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "sprawls",
+   "sprawled",
+   "sprawling"
+  ],
+  "picture": true
+ },
+ {
+  "word": "slump",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To sit or fall down heavily because you are tired or sad.",
+    "ko": "털썩 주저앉다, 푹 쓰러지다",
+    "ko_simple": "지치거나 슬퍼서 힘없이 털썩 앉다",
+    "examples": [
+     {
+      "en": "Ethan slumped in his chair when he saw all the homework.",
+      "ko": "이선은 숙제가 잔뜩 있는 걸 보고 의자에 털썩 주저앉았다."
+     },
+     {
+      "en": "The tired players slumped on the bench.",
+      "ko": "지친 선수들이 벤치에 푹 쓰러지듯 앉았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "slumps",
+   "slumped",
+   "slumping"
+  ],
+  "picture": false
+ },
+ {
+  "word": "squint",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To look at something with your eyes partly closed, because the light is bright or it is hard to see.",
+    "ko": "눈을 가늘게 뜨다, 찡그리고 보다",
+    "ko_simple": "눈이 부시거나 잘 안 보여서 눈을 가늘게 뜨고 보다",
+    "examples": [
+     {
+      "en": "We squinted in the bright sunshine at the beach.",
+      "ko": "우리는 바닷가의 눈부신 햇빛에 눈을 가늘게 떴다."
+     },
+     {
+      "en": "Grandpa squinted at the tiny words on the medicine bottle.",
+      "ko": "할아버지는 약병의 작은 글씨를 눈을 찡그리고 보셨다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "squints",
+   "squinted",
+   "squinting"
+  ],
+  "picture": true
+ },
+ {
+  "word": "glare",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To look at someone in an angry way.",
+    "ko": "노려보다",
+    "ko_simple": "화가 나서 사람을 무섭게 쳐다보다",
+    "examples": [
+     {
+      "en": "My sister glared at me when I ate her cookie.",
+      "ko": "내가 쿠키를 먹자 언니가 나를 노려보았다."
+     },
+     {
+      "en": "The cat glared at the dog from the top of the fridge.",
+      "ko": "고양이가 냉장고 위에서 개를 노려보았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "glares",
+   "glared",
+   "glaring"
+  ],
+  "picture": false
+ },
+ {
+  "word": "gaze",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To look at something for a long time, often because you like it or are thinking.",
+    "ko": "응시하다, 바라보다",
+    "ko_simple": "오랫동안 가만히 바라보다",
+    "examples": [
+     {
+      "en": "We lay on the grass and gazed at the stars.",
+      "ko": "우리는 잔디밭에 누워 별을 바라보았다."
+     },
+     {
+      "en": "She gazed out the window, dreaming about summer.",
+      "ko": "그녀는 여름을 꿈꾸며 창밖을 바라보았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "gazes",
+   "gazed",
+   "gazing"
+  ],
+  "picture": false
+ },
+ {
+  "word": "wince",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To make a quick face because something hurts or is unpleasant.",
+    "ko": "움찔하다, 얼굴을 찡그리다",
+    "ko_simple": "아프거나 싫어서 얼굴을 살짝 찡그리다",
+    "examples": [
+     {
+      "en": "I winced when the nurse gave me a shot.",
+      "ko": "간호사가 주사를 놓자 나는 얼굴을 찡그렸다."
+     },
+     {
+      "en": "Dad winced as he stepped on a toy block.",
+      "ko": "아빠는 장난감 블록을 밟고 움찔하셨다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "winces",
+   "winced",
+   "wincing"
+  ],
+  "picture": false
+ },
+ {
+  "word": "flinch",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To move back quickly because you are scared or expect pain.",
+    "ko": "움찔하다, 주춤하다",
+    "ko_simple": "무섭거나 아플 것 같아서 몸을 움찔 뒤로 빼다",
+    "examples": [
+     {
+      "en": "I flinched when the ball flew toward my face.",
+      "ko": "공이 내 얼굴로 날아오자 나는 움찔했다."
+     },
+     {
+      "en": "The horse flinched at the loud thunder.",
+      "ko": "말이 큰 천둥소리에 움찔했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "flinches",
+   "flinched",
+   "flinching"
+  ],
+  "picture": false
+ },
+ {
+  "word": "sigh",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To let out a long, deep breath because you are sad, tired, or relieved.",
+    "ko": "한숨 쉬다",
+    "ko_simple": "슬프거나 지치거나 안심해서 길게 숨을 내쉬다",
+    "examples": [
+     {
+      "en": "Mom sighed when she saw the mud on the carpet.",
+      "ko": "엄마는 카펫에 묻은 진흙을 보고 한숨을 쉬셨다."
+     },
+     {
+      "en": "I sighed with relief when I found my lost shoe.",
+      "ko": "잃어버린 신발을 찾고 나는 안도의 한숨을 쉬었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "sighs",
+   "sighed",
+   "sighing"
+  ],
+  "picture": false
+ },
+ {
+  "word": "sob",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To cry loudly, taking short, shaky breaths.",
+    "ko": "흐느끼다, 흐느껴 울다",
+    "ko_simple": "어깨를 들썩이며 소리 내어 울다",
+    "examples": [
+     {
+      "en": "The little boy sobbed when his ice cream fell on the ground.",
+      "ko": "어린 소년은 아이스크림이 땅에 떨어지자 엉엉 울었다."
+     },
+     {
+      "en": "She sobbed into her pillow after the sad movie.",
+      "ko": "그녀는 슬픈 영화를 보고 베개에 얼굴을 묻고 흐느꼈다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "sobs",
+   "sobbed",
+   "sobbing"
+  ],
+  "picture": false
+ },
+ {
+  "word": "wail",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To cry out with a long, loud, high sound.",
+    "ko": "울부짖다, 통곡하다",
+    "ko_simple": "길고 크고 높은 소리로 울다",
+    "examples": [
+     {
+      "en": "The baby wailed until she got her bottle.",
+      "ko": "아기는 젖병을 받을 때까지 울어 댔다."
+     },
+     {
+      "en": "The wind wailed around the old house all night.",
+      "ko": "밤새도록 바람이 낡은 집 주위에서 울부짖었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "wails",
+   "wailed",
+   "wailing"
+  ],
+  "picture": false
+ },
+ {
+  "word": "shriek",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To make a short, loud, high scream.",
+    "ko": "비명을 지르다, 꺅 소리 지르다",
+    "ko_simple": "짧고 크고 높게 소리 지르다",
+    "examples": [
+     {
+      "en": "We shrieked when the roller coaster dropped.",
+      "ko": "롤러코스터가 뚝 떨어지자 우리는 꺅 비명을 질렀다."
+     },
+     {
+      "en": "My sister shrieked when she saw a spider in the bathtub.",
+      "ko": "언니는 욕조에서 거미를 보고 비명을 질렀다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "shrieks",
+   "shrieked",
+   "shrieking"
+  ],
+  "picture": false
+ },
+ {
+  "word": "yelp",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To give a short, sharp cry, often from pain or surprise.",
+    "ko": "깨갱 하고 울다, 꽥 소리 지르다",
+    "ko_simple": "아프거나 놀라서 짧고 날카롭게 소리 내다",
+    "examples": [
+     {
+      "en": "The puppy yelped when I stepped on its tail by accident.",
+      "ko": "실수로 꼬리를 밟자 강아지가 깨갱 하고 울었다."
+     },
+     {
+      "en": "I yelped when the cold water hit my back.",
+      "ko": "차가운 물이 등에 닿자 나는 꽥 소리를 질렀다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "yelps",
+   "yelped",
+   "yelping"
+  ],
+  "picture": false
+ },
+ {
+  "word": "bellow",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To shout in a very loud, deep voice.",
+    "ko": "고함치다, 우렁차게 외치다",
+    "ko_simple": "아주 크고 굵은 목소리로 소리치다",
+    "examples": [
+     {
+      "en": "The coach bellowed, \"Run faster!\" across the field.",
+      "ko": "코치님은 운동장 저편에서 \"더 빨리 뛰어!\" 하고 고함을 치셨다."
+     },
+     {
+      "en": "The giant bellowed so loudly that the trees shook.",
+      "ko": "거인이 너무 크게 고함을 질러서 나무들이 흔들렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "bellows",
+   "bellowed",
+   "bellowing"
+  ],
+  "picture": false
+ },
+ {
+  "word": "stammer",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To speak with pauses and repeat sounds because you are nervous or upset.",
+    "ko": "말을 더듬다",
+    "ko_simple": "긴장해서 말을 자꾸 끊고 더듬다",
+    "examples": [
+     {
+      "en": "\"I-I-I didn't do it,\" he stammered.",
+      "ko": "\"나, 나, 난 안 했어.\" 그가 말을 더듬었다."
+     },
+     {
+      "en": "She stammered when the principal asked her a question.",
+      "ko": "교장 선생님이 질문하자 그녀는 말을 더듬었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "stammers",
+   "stammered",
+   "stammering"
+  ],
+  "picture": false
+ },
+ {
+  "word": "snicker",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To laugh quietly in a mean or sneaky way, often trying to hide it.",
+    "ko": "낄낄거리다, 킥킥 웃다",
+    "ko_simple": "몰래 비웃듯이 작게 웃다",
+    "examples": [
+     {
+      "en": "The boys snickered when the teacher's chair squeaked.",
+      "ko": "선생님 의자가 끽 소리를 내자 남자아이들이 킥킥거렸다."
+     },
+     {
+      "en": "Stop snickering and help me clean up this spill.",
+      "ko": "낄낄거리지 말고 이 흘린 것 치우는 것 좀 도와줘."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "snickers",
+   "snickered",
+   "snickering"
+  ],
+  "picture": false
+ },
+ {
+  "word": "chuckle",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To laugh quietly, often to yourself.",
+    "ko": "싱긋 웃다, 킬킬 웃다",
+    "ko_simple": "혼자 조용히 웃다",
+    "examples": [
+     {
+      "en": "Grandpa chuckled as he read the funny pages.",
+      "ko": "할아버지는 만화란을 읽으며 껄껄 웃으셨다."
+     },
+     {
+      "en": "I chuckled when my dog sneezed and looked surprised.",
+      "ko": "우리 개가 재채기를 하고 놀란 표정을 짓자 나는 킬킬 웃었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "chuckles",
+   "chuckled",
+   "chuckling"
+  ],
+  "picture": false
+ },
+ {
+  "word": "scowl",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To make an angry face by pulling your eyebrows down.",
+    "ko": "얼굴을 찌푸리다, 쏘아보다",
+    "ko_simple": "눈썹을 찡그리며 화난 얼굴을 하다",
+    "examples": [
+     {
+      "en": "The grumpy shopkeeper scowled at the noisy kids.",
+      "ko": "심술궂은 가게 주인이 시끄러운 아이들에게 얼굴을 찌푸렸다."
+     },
+     {
+      "en": "Ben scowled when he lost the coin toss.",
+      "ko": "벤은 동전 던지기에서 지자 얼굴을 잔뜩 찌푸렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "scowls",
+   "scowled",
+   "scowling"
+  ],
+  "picture": true
+ },
+ {
+  "word": "nudge",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To push someone gently, often with your elbow, to get their attention.",
+    "ko": "살짝 찌르다, 슬쩍 밀다",
+    "ko_simple": "팔꿈치 등으로 슬쩍 밀어 알려 주다",
+    "examples": [
+     {
+      "en": "My friend nudged me when the teacher called my name.",
+      "ko": "선생님이 내 이름을 부르자 친구가 나를 살짝 찔렀다."
+     },
+     {
+      "en": "The horse nudged my hand to ask for another carrot.",
+      "ko": "말이 당근을 하나 더 달라고 내 손을 코로 툭 밀었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "nudges",
+   "nudged",
+   "nudging"
+  ],
+  "picture": false
+ },
+ {
+  "word": "shove",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To push someone or something hard and roughly.",
+    "ko": "거칠게 밀치다, 떠밀다",
+    "ko_simple": "세게 확 밀다",
+    "examples": [
+     {
+      "en": "Please don't shove in the lunch line.",
+      "ko": "점심 줄에서 밀치지 마세요."
+     },
+     {
+      "en": "I shoved all my clothes into the drawer to clean my room fast.",
+      "ko": "방을 빨리 치우려고 옷을 서랍에 몽땅 쑤셔 넣었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "shoves",
+   "shoved",
+   "shoving"
+  ],
+  "picture": false
+ },
+ {
+  "word": "yank",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To pull something suddenly and hard.",
+    "ko": "홱 잡아당기다",
+    "ko_simple": "갑자기 세게 확 당기다",
+    "examples": [
+     {
+      "en": "My sister yanked the blanket off me to wake me up.",
+      "ko": "언니가 나를 깨우려고 이불을 홱 잡아당겼다."
+     },
+     {
+      "en": "The dentist yanked out the loose tooth.",
+      "ko": "치과 의사가 흔들리는 이를 홱 뽑았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "yanks",
+   "yanked",
+   "yanking"
+  ],
+  "picture": false
+ },
+ {
+  "word": "tug",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To pull something with a quick, small pull, sometimes again and again.",
+    "ko": "잡아당기다",
+    "ko_simple": "짧게 여러 번 끌어당기다",
+    "examples": [
+     {
+      "en": "My little brother tugged on my sleeve to get my attention.",
+      "ko": "남동생이 나를 부르려고 내 소매를 잡아당겼다."
+     },
+     {
+      "en": "The dog tugged at the end of the rope toy.",
+      "ko": "개가 밧줄 장난감 끝을 물고 잡아당겼다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "tugs",
+   "tugged",
+   "tugging"
+  ],
+  "picture": false
+ },
+ {
+  "word": "grasp",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To take hold of something firmly with your hand.",
+    "ko": "꽉 잡다, 움켜잡다",
+    "ko_simple": "손으로 단단히 붙잡다",
+    "examples": [
+     {
+      "en": "Grasp the rope tightly and climb up.",
+      "ko": "밧줄을 단단히 잡고 올라가."
+     },
+     {
+      "en": "The baby grasped my finger with her tiny hand.",
+      "ko": "아기가 작은 손으로 내 손가락을 꽉 잡았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "grasps",
+   "grasped",
+   "grasping"
+  ],
+  "picture": false
+ },
+ {
+  "word": "fling",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To throw something hard and carelessly.",
+    "ko": "내던지다, 휙 던지다",
+    "ko_simple": "아무렇게나 힘껏 던지다",
+    "examples": [
+     {
+      "en": "Max flung his backpack on the floor and ran outside.",
+      "ko": "맥스는 책가방을 바닥에 휙 던지고 밖으로 뛰어나갔다."
+     },
+     {
+      "en": "The wind flung the door open.",
+      "ko": "바람이 문을 확 열어젖혔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "flings",
+   "flung",
+   "flinging"
+  ],
+  "picture": false
+ },
+ {
+  "word": "hurl",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To throw something with a lot of force.",
+    "ko": "세게 던지다",
+    "ko_simple": "아주 힘껏 던지다",
+    "examples": [
+     {
+      "en": "The pitcher hurled the ball across home plate.",
+      "ko": "투수가 홈 플레이트로 공을 힘껏 던졌다."
+     },
+     {
+      "en": "The angry giant hurled a boulder into the lake.",
+      "ko": "화난 거인이 큰 바위를 호수로 던졌다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "hurls",
+   "hurled",
+   "hurling"
+  ],
+  "picture": false
+ },
+ {
+  "word": "snatch",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To grab something quickly and suddenly.",
+    "ko": "낚아채다, 잡아채다",
+    "ko_simple": "재빨리 휙 잡아채다",
+    "examples": [
+     {
+      "en": "A seagull snatched the french fry right out of my hand.",
+      "ko": "갈매기가 내 손에서 감자튀김을 낚아채 갔다."
+     },
+     {
+      "en": "She snatched her diary away before I could read it.",
+      "ko": "내가 읽기 전에 그녀가 일기장을 홱 낚아챘다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "snatches",
+   "snatched",
+   "snatching"
+  ],
+  "picture": false
+ },
+ {
+  "word": "cling",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To hold on tightly to something or someone.",
+    "ko": "매달리다, 꼭 붙잡다",
+    "ko_simple": "떨어지지 않게 꼭 붙잡고 있다",
+    "examples": [
+     {
+      "en": "The baby koala clung to its mother's back.",
+      "ko": "아기 코알라가 엄마 등에 꼭 매달려 있었다."
+     },
+     {
+      "en": "Wet sand clung to our feet.",
+      "ko": "젖은 모래가 우리 발에 달라붙었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "clings",
+   "clung",
+   "clinging"
+  ],
+  "picture": true
+ },
+ {
+  "word": "dangle",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To hang down and swing loosely.",
+    "ko": "매달려 흔들리다, 대롱대롱 매달리다",
+    "ko_simple": "아래로 늘어져서 흔들흔들하다",
+    "examples": [
+     {
+      "en": "My legs dangled over the edge of the dock.",
+      "ko": "내 다리가 부두 끝에 걸쳐 대롱대롱 흔들렸다."
+     },
+     {
+      "en": "A spider dangled from a thin thread.",
+      "ko": "거미 한 마리가 가는 줄에 매달려 흔들렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "dangles",
+   "dangled",
+   "dangling"
+  ],
+  "picture": true
+ },
+ {
+  "word": "sway",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To move slowly from side to side.",
+    "ko": "흔들리다, 흔들다",
+    "ko_simple": "좌우로 천천히 흔들흔들 움직이다",
+    "examples": [
+     {
+      "en": "The tall grass swayed in the wind.",
+      "ko": "키 큰 풀이 바람에 흔들렸다."
+     },
+     {
+      "en": "We swayed to the music at the wedding.",
+      "ko": "우리는 결혼식에서 음악에 맞춰 몸을 흔들었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "sways",
+   "swayed",
+   "swaying"
+  ],
+  "picture": false
+ },
+ {
+  "word": "wobble",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To shake or move unsteadily from side to side.",
+    "ko": "흔들리다, 뒤뚱거리다",
+    "ko_simple": "불안하게 이리저리 흔들거리다",
+    "examples": [
+     {
+      "en": "The table wobbled because one leg was too short.",
+      "ko": "다리 하나가 짧아서 탁자가 흔들거렸다."
+     },
+     {
+      "en": "I wobbled on my new skates.",
+      "ko": "나는 새 스케이트를 타고 뒤뚱거렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "wobbles",
+   "wobbled",
+   "wobbling",
+   "wobbly"
+  ],
+  "picture": false
+ },
+ {
+  "word": "topple",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To fall over, or to make something fall over.",
+    "ko": "넘어지다, 쓰러뜨리다",
+    "ko_simple": "위에서부터 무너지듯 넘어지다",
+    "examples": [
+     {
+      "en": "The tower of blocks toppled when the cat walked by.",
+      "ko": "고양이가 지나가자 블록 탑이 와르르 넘어졌다."
+     },
+     {
+      "en": "A strong wind toppled the old tree.",
+      "ko": "강한 바람이 오래된 나무를 쓰러뜨렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "topples",
+   "toppled",
+   "toppling"
+  ],
+  "picture": false
+ },
+ {
+  "word": "tumble",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To fall and roll over and over.",
+    "ko": "굴러떨어지다, 넘어지다",
+    "ko_simple": "넘어져서 데굴데굴 구르다",
+    "examples": [
+     {
+      "en": "Jack fell down and Jill came tumbling after.",
+      "ko": "잭이 넘어지자 질도 뒤따라 데굴데굴 굴러떨어졌다."
+     },
+     {
+      "en": "Apples tumbled out of the bag and rolled across the floor.",
+      "ko": "사과가 봉지에서 쏟아져 바닥을 굴러갔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "tumbles",
+   "tumbled",
+   "tumbling"
+  ],
+  "picture": false
+ },
+ {
+  "word": "plunge",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To jump, dive, or fall suddenly into something.",
+    "ko": "뛰어들다, 곤두박질치다",
+    "ko_simple": "무엇 속으로 갑자기 뛰어들거나 떨어지다",
+    "examples": [
+     {
+      "en": "We plunged into the cold lake on a hot day.",
+      "ko": "더운 날 우리는 차가운 호수로 풍덩 뛰어들었다."
+     },
+     {
+      "en": "The roller coaster plunged down the big hill.",
+      "ko": "롤러코스터가 큰 언덕 아래로 곤두박질쳤다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "plunges",
+   "plunged",
+   "plunging"
+  ],
+  "picture": false
+ },
+ {
+  "word": "soar",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To fly high in the sky, often without flapping wings much.",
+    "ko": "높이 날다, 치솟다",
+    "ko_simple": "하늘 높이 훨훨 날다",
+    "examples": [
+     {
+      "en": "An eagle soared over the mountains.",
+      "ko": "독수리 한 마리가 산 위를 높이 날았다."
+     },
+     {
+      "en": "My kite soared above the trees.",
+      "ko": "내 연이 나무 위로 높이 날아올랐다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "soars",
+   "soared",
+   "soaring"
+  ],
+  "picture": false
+ },
+ {
+  "word": "hover",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To stay in one place in the air.",
+    "ko": "맴돌다, 공중에 떠 있다",
+    "ko_simple": "공중의 한곳에 가만히 떠 있다",
+    "examples": [
+     {
+      "en": "The hummingbird hovered in front of the flower.",
+      "ko": "벌새가 꽃 앞에서 공중에 멈춰 떠 있었다."
+     },
+     {
+      "en": "A helicopter hovered over the beach.",
+      "ko": "헬리콥터 한 대가 해변 위에 떠 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "hovers",
+   "hovered",
+   "hovering"
+  ],
+  "picture": false
+ },
+ {
+  "word": "drift",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To move slowly, carried by wind or water.",
+    "ko": "떠다니다, 표류하다",
+    "ko_simple": "바람이나 물결에 실려 천천히 흘러가다",
+    "examples": [
+     {
+      "en": "Our raft drifted down the lazy river.",
+      "ko": "우리 뗏목은 잔잔한 강을 따라 천천히 떠내려갔다."
+     },
+     {
+      "en": "Snowflakes drifted past the window.",
+      "ko": "눈송이가 창밖으로 흩날려 지나갔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "drifts",
+   "drifted",
+   "drifting"
+  ],
+  "picture": false
+ },
+ {
+  "word": "trudge",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To walk slowly and heavily because you are tired or the way is hard.",
+    "ko": "터벅터벅 걷다",
+    "ko_simple": "지쳐서 무겁게 천천히 걷다",
+    "examples": [
+     {
+      "en": "We trudged home through the deep snow.",
+      "ko": "우리는 깊은 눈을 헤치고 터벅터벅 집으로 걸어갔다."
+     },
+     {
+      "en": "The tired hikers trudged up the last hill.",
+      "ko": "지친 등산객들이 마지막 언덕을 터벅터벅 올라갔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "trudges",
+   "trudged",
+   "trudging"
+  ],
+  "picture": false
+ },
+ {
+  "word": "stroll",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To walk slowly and calmly, just for fun.",
+    "ko": "산책하다, 한가롭게 거닐다",
+    "ko_simple": "즐기면서 천천히 걷다",
+    "examples": [
+     {
+      "en": "We strolled along the beach after dinner.",
+      "ko": "우리는 저녁을 먹고 해변을 거닐었다."
+     },
+     {
+      "en": "My grandparents stroll through the park every morning.",
+      "ko": "우리 조부모님은 매일 아침 공원을 산책하신다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "strolls",
+   "strolled",
+   "strolling"
+  ],
+  "picture": false
+ },
+ {
+  "word": "hobble",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To walk with difficulty because your leg or foot hurts.",
+    "ko": "절뚝거리다",
+    "ko_simple": "다리나 발이 아파서 힘들게 걷다",
+    "examples": [
+     {
+      "en": "After I twisted my ankle, I hobbled to the nurse's office.",
+      "ko": "발목을 삔 뒤 나는 절뚝거리며 보건실로 갔다."
+     },
+     {
+      "en": "The old dog hobbled over to greet us.",
+      "ko": "늙은 개가 절뚝거리며 우리를 맞으러 왔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "hobbles",
+   "hobbled",
+   "hobbling"
+  ],
+  "picture": false
+ },
+ {
+  "word": "limp",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To walk unevenly because one leg or foot is hurt.",
+    "ko": "다리를 절다",
+    "ko_simple": "한쪽 다리가 다쳐서 절룩거리며 걷다",
+    "examples": [
+     {
+      "en": "The soccer player limped off the field.",
+      "ko": "축구 선수가 다리를 절며 경기장을 나갔다."
+     },
+     {
+      "en": "My cat limped for a day after jumping off the roof.",
+      "ko": "우리 고양이는 지붕에서 뛰어내린 뒤 하루 동안 다리를 절었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "limps",
+   "limped",
+   "limping"
+  ],
+  "picture": false
+ },
+ {
+  "word": "scurry",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To move quickly with small, short steps.",
+    "ko": "종종걸음으로 달리다, 허둥지둥 가다",
+    "ko_simple": "작은 걸음으로 재빨리 움직이다",
+    "examples": [
+     {
+      "en": "A mouse scurried across the kitchen floor.",
+      "ko": "쥐 한 마리가 부엌 바닥을 쪼르르 가로질러 갔다."
+     },
+     {
+      "en": "The students scurried to their seats when the bell rang.",
+      "ko": "종이 울리자 학생들은 서둘러 자리로 갔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "scurries",
+   "scurried",
+   "scurrying"
+  ],
+  "picture": false
+ },
+ {
+  "word": "scamper",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To run with quick, light steps, often playfully.",
+    "ko": "날쌔게 뛰어다니다, 까불며 뛰다",
+    "ko_simple": "가볍고 빠르게 깡충깡충 뛰어다니다",
+    "examples": [
+     {
+      "en": "The puppies scampered around the yard.",
+      "ko": "강아지들이 마당을 깡충깡충 뛰어다녔다."
+     },
+     {
+      "en": "A chipmunk scampered up the tree with a nut.",
+      "ko": "다람쥐가 도토리를 물고 나무 위로 쪼르르 올라갔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "scampers",
+   "scampered",
+   "scampering"
+  ],
+  "picture": false
+ },
+ {
+  "word": "bolt",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To run away suddenly and very fast.",
+    "ko": "갑자기 달아나다, 뛰어나가다",
+    "ko_simple": "갑자기 아주 빠르게 도망치다",
+    "examples": [
+     {
+      "en": "The horse bolted when it heard the fireworks.",
+      "ko": "말이 불꽃놀이 소리를 듣고 갑자기 뛰쳐나갔다."
+     },
+     {
+      "en": "I bolted out of bed when I saw the snow.",
+      "ko": "눈이 온 걸 보고 나는 침대에서 벌떡 뛰쳐나갔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "bolts",
+   "bolted",
+   "bolting"
+  ],
+  "picture": false
+ },
+ {
+  "word": "flee",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To run away from danger.",
+    "ko": "달아나다, 도망치다",
+    "ko_simple": "위험을 피해 도망가다",
+    "examples": [
+     {
+      "en": "The deer fled into the woods when they heard the dogs.",
+      "ko": "사슴들은 개 소리를 듣고 숲으로 달아났다."
+     },
+     {
+      "en": "People fled the beach when the storm came.",
+      "ko": "폭풍이 오자 사람들이 해변에서 피신했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "flees",
+   "fled",
+   "fleeing"
+  ],
+  "picture": false
+ },
+ {
+  "word": "lurk",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To wait or hide somewhere secretly, often to do something bad.",
+    "ko": "숨어 있다, 잠복하다",
+    "ko_simple": "나쁜 일을 하려고 몰래 숨어 기다리다",
+    "examples": [
+     {
+      "en": "A crocodile lurked under the muddy water.",
+      "ko": "악어 한 마리가 흙탕물 아래 숨어 있었다."
+     },
+     {
+      "en": "In the story, a troll lurked under the bridge.",
+      "ko": "이야기 속에서 트롤이 다리 밑에 숨어 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "lurks",
+   "lurked",
+   "lurking"
+  ],
+  "picture": false
+ },
+ {
+  "word": "linger",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To stay somewhere longer than usual, or to stay around for a long time.",
+    "ko": "머무르다, 남아 있다",
+    "ko_simple": "떠나지 않고 오래 머무르다",
+    "examples": [
+     {
+      "en": "We lingered at the playground until the sun went down.",
+      "ko": "우리는 해가 질 때까지 놀이터에 남아 있었다."
+     },
+     {
+      "en": "The smell of popcorn lingered in the house all evening.",
+      "ko": "팝콘 냄새가 저녁 내내 집 안에 남아 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "lingers",
+   "lingered",
+   "lingering"
+  ],
+  "picture": false
+ },
+ {
+  "word": "hesitate",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To stop or wait for a moment before you do something because you are not sure.",
+    "ko": "망설이다, 주저하다",
+    "ko_simple": "확신이 없어서 잠깐 머뭇거리다",
+    "examples": [
+     {
+      "en": "I hesitated before I jumped off the high dive.",
+      "ko": "나는 높은 다이빙대에서 뛰어내리기 전에 잠깐 망설였다."
+     },
+     {
+      "en": "If you need help, don't hesitate to ask.",
+      "ko": "도움이 필요하면 망설이지 말고 물어봐."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "hesitates",
+   "hesitated",
+   "hesitating",
+   "hesitation"
+  ],
+  "picture": false
+ },
+ {
+  "word": "plead",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To ask for something in a very serious, emotional way.",
+    "ko": "간청하다, 애원하다",
+    "ko_simple": "아주 간절하게 부탁하다",
+    "examples": [
+     {
+      "en": "\"Please let me stay up late,\" I pleaded.",
+      "ko": "\"제발 늦게까지 안 자게 해 주세요.\" 나는 애원했다."
+     },
+     {
+      "en": "The puppy's eyes seemed to plead for a bite of my sandwich.",
+      "ko": "강아지 눈빛이 샌드위치 한 입만 달라고 애원하는 것 같았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "pleads",
+   "pleaded",
+   "pleading"
+  ],
+  "picture": false
+ },
+ {
+  "word": "insist",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To say firmly that something must happen or is true, and not give up.",
+    "ko": "우기다, 고집하다, 주장하다",
+    "ko_simple": "꼭 그래야 한다고 끝까지 말하다",
+    "examples": [
+     {
+      "en": "Mom insisted that I wear a helmet when I ride my bike.",
+      "ko": "엄마는 내가 자전거를 탈 때 꼭 헬멧을 써야 한다고 하셨다."
+     },
+     {
+      "en": "My brother insists that he saw a UFO.",
+      "ko": "형은 UFO를 봤다고 우긴다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "insists",
+   "insisted",
+   "insisting"
+  ],
+  "picture": false
+ },
+ {
+  "word": "boast",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To talk proudly about yourself or what you have, in a way that annoys others.",
+    "ko": "자랑하다, 뽐내다",
+    "ko_simple": "자기를 지나치게 자랑하다",
+    "examples": [
+     {
+      "en": "He boasted that he could eat ten hot dogs.",
+      "ko": "그는 핫도그 열 개를 먹을 수 있다고 큰소리쳤다."
+     },
+     {
+      "en": "Stop boasting about your new phone!",
+      "ko": "새 휴대폰 자랑 좀 그만해!"
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "boasts",
+   "boasted",
+   "boasting"
+  ],
+  "picture": false
+ },
+ {
+  "word": "scold",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To speak angrily to someone because they did something wrong.",
+    "ko": "꾸짖다, 야단치다",
+    "ko_simple": "잘못한 사람에게 화내며 말하다",
+    "examples": [
+     {
+      "en": "The teacher scolded us for running in the hallway.",
+      "ko": "선생님은 복도에서 뛰었다고 우리를 꾸짖으셨다."
+     },
+     {
+      "en": "Mom scolded the dog for digging up her flowers.",
+      "ko": "엄마는 꽃을 파헤친 개를 야단치셨다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "scolds",
+   "scolded",
+   "scolding"
+  ],
+  "picture": false
+ },
+ {
+  "word": "tease",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To make fun of someone, sometimes in a playful way and sometimes in a mean way.",
+    "ko": "놀리다, 장난치다",
+    "ko_simple": "장난으로 혹은 짓궂게 남을 놀리다",
+    "examples": [
+     {
+      "en": "My big sister teases me about my curly hair.",
+      "ko": "언니는 내 곱슬머리를 가지고 놀린다."
+     },
+     {
+      "en": "It is not nice to tease someone who is upset.",
+      "ko": "속상한 사람을 놀리는 것은 좋지 않다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "teases",
+   "teased",
+   "teasing"
+  ],
+  "picture": false
+ },
+ {
+  "word": "sneer",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To smile or speak in a way that shows you think someone is not good enough.",
+    "ko": "비웃다, 냉소하다",
+    "ko_simple": "남을 깔보듯 입꼬리를 올리며 웃다",
+    "examples": [
+     {
+      "en": "The bully sneered at my homemade costume.",
+      "ko": "불량배 아이가 내가 만든 의상을 보고 비웃었다."
+     },
+     {
+      "en": "\"You'll never win,\" the villain sneered.",
+      "ko": "\"넌 절대 못 이겨.\" 악당이 비웃었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "sneers",
+   "sneered",
+   "sneering"
+  ],
+  "picture": false
+ },
+ {
+  "word": "gulp",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To swallow something quickly in big mouthfuls.",
+    "ko": "꿀꺽 삼키다, 벌컥벌컥 마시다",
+    "ko_simple": "크게 한입에 꿀꺽 삼키다",
+    "examples": [
+     {
+      "en": "I gulped down my milk and ran to catch the bus.",
+      "ko": "나는 우유를 벌컥벌컥 마시고 버스를 타러 뛰어갔다."
+     },
+     {
+      "en": "Ben gulped nervously before he walked on stage.",
+      "ko": "벤은 무대에 오르기 전 긴장해서 침을 꿀꺽 삼켰다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "gulps",
+   "gulped",
+   "gulping"
+  ],
+  "picture": false
+ },
+ {
+  "word": "nibble",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To eat something by taking very small bites.",
+    "ko": "조금씩 갉아먹다, 오물오물 먹다",
+    "ko_simple": "아주 작게 조금씩 베어 먹다",
+    "examples": [
+     {
+      "en": "The rabbit nibbled on a carrot.",
+      "ko": "토끼가 당근을 오물오물 갉아먹었다."
+     },
+     {
+      "en": "I nibbled my cookie to make it last longer.",
+      "ko": "나는 쿠키를 오래 먹으려고 조금씩 베어 먹었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "nibbles",
+   "nibbled",
+   "nibbling"
+  ],
+  "picture": false
+ },
+ {
+  "word": "devour",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To eat something very quickly because you are very hungry.",
+    "ko": "게걸스럽게 먹다, 먹어 치우다",
+    "ko_simple": "배가 몹시 고파서 허겁지겁 먹어 치우다",
+    "examples": [
+     {
+      "en": "The hungry kids devoured the whole pizza in five minutes.",
+      "ko": "배고픈 아이들은 5분 만에 피자 한 판을 다 먹어 치웠다."
+     },
+     {
+      "en": "I devoured the new book in one night.",
+      "ko": "나는 새 책을 하룻밤 만에 다 읽어 치웠다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "devours",
+   "devoured",
+   "devouring"
+  ],
+  "picture": false
+ },
+ {
+  "word": "gobble",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To eat food very fast and noisily.",
+    "ko": "게걸스럽게 먹다",
+    "ko_simple": "음식을 아주 빨리 소리 내며 먹다",
+    "examples": [
+     {
+      "en": "The dog gobbled up its dinner in ten seconds.",
+      "ko": "개는 저녁밥을 10초 만에 먹어 치웠다."
+     },
+     {
+      "en": "Don't gobble your food or you'll get a stomachache.",
+      "ko": "음식을 허겁지겁 먹지 마. 배 아플라."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "gobbles",
+   "gobbled",
+   "gobbling"
+  ],
+  "picture": false
+ },
+ {
+  "word": "slurp",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To eat or drink something noisily by sucking it in.",
+    "ko": "후루룩 마시다, 소리 내어 먹다",
+    "ko_simple": "소리를 내며 빨아들이듯 먹거나 마시다",
+    "examples": [
+     {
+      "en": "My little brother slurped his noodles loudly.",
+      "ko": "남동생은 국수를 후루룩 소리 내며 먹었다."
+     },
+     {
+      "en": "The cat slurped up the spilled milk.",
+      "ko": "고양이가 쏟아진 우유를 할짝할짝 핥아 먹었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "slurps",
+   "slurped",
+   "slurping"
+  ],
+  "picture": false
+ },
+ {
+  "word": "sniff",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To breathe in quickly through your nose, often to smell something.",
+    "ko": "코를 킁킁거리다, 냄새를 맡다",
+    "ko_simple": "코로 짧게 숨을 들이마셔 냄새를 맡다",
+    "examples": [
+     {
+      "en": "The dog sniffed every bush on our walk.",
+      "ko": "개는 산책하는 동안 덤불마다 킁킁 냄새를 맡았다."
+     },
+     {
+      "en": "I sniffed the air and smelled cookies baking.",
+      "ko": "공기를 킁킁 맡아 보니 쿠키 굽는 냄새가 났다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "sniffs",
+   "sniffed",
+   "sniffing"
+  ],
+  "picture": false
+ },
+ {
+  "word": "fidget",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To keep moving your hands or body because you are nervous or bored.",
+    "ko": "꼼지락거리다, 안절부절못하다",
+    "ko_simple": "지루하거나 긴장해서 몸을 가만두지 못하다",
+    "examples": [
+     {
+      "en": "I fidgeted with my pencil during the long test.",
+      "ko": "나는 긴 시험 시간 동안 연필을 만지작거렸다."
+     },
+     {
+      "en": "Stop fidgeting and sit still for the photo.",
+      "ko": "꼼지락거리지 말고 사진 찍게 가만히 앉아 있어."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "fidgets",
+   "fidgeted",
+   "fidgeting",
+   "fidgety"
+  ],
+  "picture": false
+ },
+ {
+  "word": "rummage",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To search for something by moving things around in a messy way.",
+    "ko": "뒤지다, 샅샅이 찾다",
+    "ko_simple": "물건을 이리저리 헤집으며 찾다",
+    "examples": [
+     {
+      "en": "I rummaged through my backpack looking for my lunch money.",
+      "ko": "나는 점심값을 찾으려고 책가방을 뒤졌다."
+     },
+     {
+      "en": "A raccoon rummaged through our trash can.",
+      "ko": "너구리가 우리 쓰레기통을 뒤졌다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "rummages",
+   "rummaged",
+   "rummaging"
+  ],
+  "picture": false
+ },
+ {
+  "word": "inspect",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To look at something very carefully to check it.",
+    "ko": "점검하다, 자세히 살펴보다",
+    "ko_simple": "잘못된 데가 없는지 꼼꼼히 들여다보다",
+    "examples": [
+     {
+      "en": "Mom inspected my room to make sure I really cleaned it.",
+      "ko": "엄마는 내가 정말 방을 치웠는지 꼼꼼히 살펴보셨다."
+     },
+     {
+      "en": "The detective inspected the footprints with a magnifying glass.",
+      "ko": "탐정은 돋보기로 발자국을 자세히 살펴보았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "inspects",
+   "inspected",
+   "inspecting",
+   "inspection"
+  ],
+  "picture": false
+ },
+ {
+  "word": "shudder",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To shake suddenly because you are scared, cold, or disgusted.",
+    "ko": "몸서리치다, 부르르 떨다",
+    "ko_simple": "무섭거나 징그러워서 몸을 부르르 떨다",
+    "examples": [
+     {
+      "en": "I shudder when I think about the giant spider in the garage.",
+      "ko": "차고에 있던 커다란 거미를 생각하면 몸서리가 쳐진다."
+     },
+     {
+      "en": "The old bus shuddered and then stopped.",
+      "ko": "낡은 버스가 덜덜 떨더니 멈춰 섰다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "shudders",
+   "shuddered",
+   "shuddering"
+  ],
+  "picture": false
+ },
+ {
+  "word": "tremble",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To shake a little because you are scared, cold, or excited.",
+    "ko": "떨다, 떨리다",
+    "ko_simple": "무섭거나 춥거나 들떠서 몸이 가늘게 떨리다",
+    "examples": [
+     {
+      "en": "My hands trembled as I opened the envelope with my test score.",
+      "ko": "시험 점수가 든 봉투를 열 때 손이 떨렸다."
+     },
+     {
+      "en": "The ground trembled as the train rushed by.",
+      "ko": "기차가 지나가자 땅이 흔들렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "trembles",
+   "trembled",
+   "trembling"
+  ],
+  "picture": false
+ },
+ {
+  "word": "quiver",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To shake with small, fast movements.",
+    "ko": "떨다, 파르르 떨리다",
+    "ko_simple": "작고 빠르게 파르르 떨리다",
+    "examples": [
+     {
+      "en": "The bunny's nose quivered as it sniffed the lettuce.",
+      "ko": "토끼 코가 상추 냄새를 맡으며 실룩거렸다."
+     },
+     {
+      "en": "Her lip quivered as she tried not to cry.",
+      "ko": "그녀는 울지 않으려고 애쓰며 입술을 떨었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "quivers",
+   "quivered",
+   "quivering"
+  ],
+  "picture": false
+ },
+ {
+  "word": "collapse",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To fall down suddenly, often because you are very weak or tired, or because something breaks.",
+    "ko": "무너지다, 쓰러지다",
+    "ko_simple": "힘이 빠지거나 부서져서 갑자기 무너지다",
+    "examples": [
+     {
+      "en": "Our sand castle collapsed when the wave hit it.",
+      "ko": "파도가 덮치자 우리 모래성이 무너졌다."
+     },
+     {
+      "en": "After the marathon, the runner collapsed on the grass.",
+      "ko": "마라톤이 끝난 뒤 그 선수는 잔디밭에 쓰러졌다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "collapses",
+   "collapsed",
+   "collapsing"
+  ],
+  "picture": false
+ },
+ {
+  "word": "crumple",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To crush something like paper into a messy, wrinkled shape.",
+    "ko": "구기다, 구겨지다",
+    "ko_simple": "종이 등을 꾸깃꾸깃 뭉치다",
+    "examples": [
+     {
+      "en": "I crumpled up my drawing and started again.",
+      "ko": "나는 그림을 구겨 버리고 다시 그리기 시작했다."
+     },
+     {
+      "en": "The empty can crumpled when I stepped on it.",
+      "ko": "빈 캔을 밟았더니 찌그러졌다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "crumples",
+   "crumpled",
+   "crumpling"
+  ],
+  "picture": false
+ },
+ {
+  "word": "shatter",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To break suddenly into many small pieces.",
+    "ko": "산산조각 나다, 박살 나다",
+    "ko_simple": "갑자기 여러 조각으로 깨지다",
+    "examples": [
+     {
+      "en": "The glass shattered when it hit the floor.",
+      "ko": "유리컵이 바닥에 떨어져 산산조각이 났다."
+     },
+     {
+      "en": "The baseball shattered the garage window.",
+      "ko": "야구공이 차고 창문을 박살 냈다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "shatters",
+   "shattered",
+   "shattering"
+  ],
+  "picture": false
+ },
+ {
+  "word": "crumble",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To break into tiny pieces, like dry bread or old stone.",
+    "ko": "부서지다, 바스러지다",
+    "ko_simple": "마른 빵이나 오래된 돌처럼 잘게 부서지다",
+    "examples": [
+     {
+      "en": "The dry cookie crumbled in my hand.",
+      "ko": "마른 쿠키가 손안에서 바스러졌다."
+     },
+     {
+      "en": "The walls of the old castle had crumbled over hundreds of years.",
+      "ko": "오래된 성벽은 수백 년에 걸쳐 허물어져 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "crumbles",
+   "crumbled",
+   "crumbling"
+  ],
+  "picture": false
+ },
+ {
+  "word": "glisten",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To shine because something is wet or oily.",
+    "ko": "반짝이다, 번들거리다",
+    "ko_simple": "젖어 있어서 반짝반짝 빛나다",
+    "examples": [
+     {
+      "en": "The grass glistened with morning dew.",
+      "ko": "풀잎이 아침 이슬에 반짝였다."
+     },
+     {
+      "en": "His forehead glistened with sweat after the race.",
+      "ko": "경주 후 그의 이마는 땀으로 번들거렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "glistens",
+   "glistened",
+   "glistening"
+  ],
+  "picture": false
+ },
+ {
+  "word": "flicker",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To shine on and off in a quick, unsteady way.",
+    "ko": "깜박거리다, 가물거리다",
+    "ko_simple": "불빛이 켜졌다 꺼졌다 하며 흔들리다",
+    "examples": [
+     {
+      "en": "The candle flickered in the breeze.",
+      "ko": "촛불이 산들바람에 가물거렸다."
+     },
+     {
+      "en": "The lights flickered during the thunderstorm.",
+      "ko": "천둥번개가 치는 동안 전등이 깜박거렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "flickers",
+   "flickered",
+   "flickering"
+  ],
+  "picture": false
+ },
+ {
+  "word": "rustle",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To make a soft, crackling sound, like dry leaves or paper moving.",
+    "ko": "바스락거리다",
+    "ko_simple": "마른 잎이나 종이가 움직이며 사각사각 소리를 내다",
+    "examples": [
+     {
+      "en": "Leaves rustled under our feet in the fall.",
+      "ko": "가을에 낙엽이 발밑에서 바스락거렸다."
+     },
+     {
+      "en": "Something rustled in the bushes, and we froze.",
+      "ko": "덤불 속에서 무언가 바스락거려서 우리는 얼어붙었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "rustles",
+   "rustled",
+   "rustling"
+  ],
+  "picture": false
+ },
+ {
+  "word": "creak",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To make a long, high, squeaky sound, like an old door or floor.",
+    "ko": "삐걱거리다",
+    "ko_simple": "낡은 문이나 마루처럼 끼익 소리를 내다",
+    "examples": [
+     {
+      "en": "The old stairs creaked as I walked up.",
+      "ko": "내가 올라가자 낡은 계단이 삐걱거렸다."
+     },
+     {
+      "en": "The attic door creaked open by itself.",
+      "ko": "다락방 문이 저절로 끼익 열렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "creaks",
+   "creaked",
+   "creaking",
+   "creaky"
+  ],
+  "picture": false
+ },
+ {
+  "word": "clatter",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To make a loud noise as hard things hit each other.",
+    "ko": "달그락거리다, 덜거덕거리다",
+    "ko_simple": "단단한 물건끼리 부딪히며 요란한 소리를 내다",
+    "examples": [
+     {
+      "en": "The pots clattered to the floor.",
+      "ko": "냄비들이 바닥에 와장창 떨어졌다."
+     },
+     {
+      "en": "The horse's hooves clattered on the stone street.",
+      "ko": "말발굽이 돌길 위에서 따각따각 소리를 냈다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "clatters",
+   "clattered",
+   "clattering"
+  ],
+  "picture": false
+ },
+ {
+  "word": "murmur",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To say something in a soft, low voice that is hard to hear.",
+    "ko": "중얼거리다, 소곤거리다",
+    "ko_simple": "작고 낮은 목소리로 웅얼거리다",
+    "examples": [
+     {
+      "en": "\"Good night,\" Mom murmured as she turned off the light.",
+      "ko": "엄마는 불을 끄며 \"잘 자.\" 하고 나지막이 말씀하셨다."
+     },
+     {
+      "en": "The audience murmured when the curtain didn't open.",
+      "ko": "막이 열리지 않자 관객들이 웅성거렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "murmurs",
+   "murmured",
+   "murmuring"
+  ],
+  "picture": false
+ }
+]

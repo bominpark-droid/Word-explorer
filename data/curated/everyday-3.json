@@ -1,0 +1,2516 @@
+[
+ {
+  "word": "enormous",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Very, very big.",
+    "ko": "거대한, 막대한",
+    "ko_simple": "아주아주 큰",
+    "examples": [
+     {
+      "en": "An enormous whale swam right under our boat.",
+      "ko": "거대한 고래가 우리 배 바로 밑으로 헤엄쳐 갔다."
+     },
+     {
+      "en": "I ate an enormous plate of spaghetti and could not move.",
+      "ko": "나는 스파게티를 엄청 큰 접시로 먹고 꼼짝도 할 수 없었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "enormously"
+  ],
+  "picture": false
+ },
+ {
+  "word": "ancient",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Very, very old; from a time long, long ago.",
+    "ko": "고대의, 아주 오래된",
+    "ko_simple": "아주아주 오래전의",
+    "examples": [
+     {
+      "en": "We saw ancient bones of dinosaurs at the museum.",
+      "ko": "우리는 박물관에서 아주 오래된 공룡 뼈를 보았다."
+     },
+     {
+      "en": "Grandpa jokes that his car is ancient.",
+      "ko": "할아버지는 당신 차가 고물이라고 농담하신다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "fragile",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Easy to break or hurt.",
+    "ko": "깨지기 쉬운, 연약한",
+    "ko_simple": "쉽게 깨지거나 다치는",
+    "examples": [
+     {
+      "en": "Be careful with that box; the dishes inside are fragile.",
+      "ko": "그 상자 조심해. 안에 든 접시가 깨지기 쉬워."
+     },
+     {
+      "en": "A bird's egg is very fragile.",
+      "ko": "새알은 아주 깨지기 쉽다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "gloomy",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Dark and sad-feeling, or feeling sad and without hope.",
+    "ko": "우울한, 어둑어둑한",
+    "ko_simple": "어둡고 침침하거나 마음이 울적한",
+    "examples": [
+     {
+      "en": "It was a gloomy, rainy day, so we stayed inside.",
+      "ko": "어둡고 비 오는 날이라 우리는 집 안에 있었다."
+     },
+     {
+      "en": "Eli felt gloomy after his best friend moved away.",
+      "ko": "엘리는 가장 친한 친구가 이사 간 뒤 우울했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "gloomier",
+   "gloomiest",
+   "gloom"
+  ],
+  "picture": false
+ },
+ {
+  "word": "vivid",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Very bright and clear, or so real that you can easily picture it.",
+    "ko": "생생한, 선명한",
+    "ko_simple": "색이 아주 밝거나, 눈에 보이는 듯 또렷한",
+    "examples": [
+     {
+      "en": "The parrot had vivid red and blue feathers.",
+      "ko": "앵무새는 선명한 빨간색과 파란색 깃털을 가지고 있었다."
+     },
+     {
+      "en": "I had a vivid dream that I could fly.",
+      "ko": "나는 하늘을 나는 생생한 꿈을 꾸었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "vividly"
+  ],
+  "picture": false
+ },
+ {
+  "word": "rugged",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Rough, rocky, and hard to travel over; or strong and tough.",
+    "ko": "울퉁불퉁한, 험한, 튼튼한",
+    "ko_simple": "바위가 많고 거칠어 다니기 힘든, 또는 튼튼하고 강인한",
+    "examples": [
+     {
+      "en": "We hiked along the rugged coast covered in sharp rocks.",
+      "ko": "우리는 날카로운 바위로 뒤덮인 험한 해안을 따라 걸었다."
+     },
+     {
+      "en": "These rugged boots can handle mud and snow.",
+      "ko": "이 튼튼한 부츠는 진흙과 눈도 거뜬하다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "ordinary",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Normal and usual; not special.",
+    "ko": "평범한, 보통의",
+    "ko_simple": "특별하지 않고 흔한",
+    "examples": [
+     {
+      "en": "It looked like an ordinary rock, but it was really a fossil.",
+      "ko": "그것은 평범한 돌처럼 보였지만 사실은 화석이었다."
+     },
+     {
+      "en": "It was just an ordinary Tuesday until the fire drill.",
+      "ko": "소방 훈련 전까지는 그냥 평범한 화요일이었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "ordinarily"
+  ],
+  "picture": false
+ },
+ {
+  "word": "peculiar",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Strange or unusual in a way that surprises you.",
+    "ko": "이상한, 독특한",
+    "ko_simple": "흔하지 않아서 좀 이상한",
+    "examples": [
+     {
+      "en": "There was a peculiar smell coming from my brother's gym bag.",
+      "ko": "형의 운동 가방에서 이상한 냄새가 났다."
+     },
+     {
+      "en": "The cat made a peculiar sound, like a tiny sneeze.",
+      "ko": "고양이가 작은 재채기 같은 이상한 소리를 냈다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "peculiarly"
+  ],
+  "picture": false
+ },
+ {
+  "word": "gigantic",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Extremely large, like a giant.",
+    "ko": "거대한",
+    "ko_simple": "거인처럼 엄청나게 큰",
+    "examples": [
+     {
+      "en": "A gigantic wave crashed onto the beach.",
+      "ko": "거대한 파도가 해변에 부서졌다."
+     },
+     {
+      "en": "We built a gigantic snowman taller than Dad.",
+      "ko": "우리는 아빠보다 키가 큰 거대한 눈사람을 만들었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "immense",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Extremely large in size or amount.",
+    "ko": "엄청난, 어마어마한",
+    "ko_simple": "크기나 양이 엄청나게 큰",
+    "examples": [
+     {
+      "en": "The Pacific Ocean is immense.",
+      "ko": "태평양은 어마어마하게 넓다."
+     },
+     {
+      "en": "Climbing the mountain took an immense amount of energy.",
+      "ko": "산을 오르는 데 엄청난 힘이 들었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "immensely"
+  ],
+  "picture": false
+ },
+ {
+  "word": "tremendous",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Very great in size, amount, or power; also, wonderful.",
+    "ko": "엄청난, 굉장한",
+    "ko_simple": "아주 크거나 힘이 세거나, 아주 멋진",
+    "examples": [
+     {
+      "en": "The tree fell with a tremendous crash.",
+      "ko": "나무가 엄청난 굉음을 내며 쓰러졌다."
+     },
+     {
+      "en": "You did a tremendous job on your poster!",
+      "ko": "포스터 정말 굉장하게 잘 만들었구나!"
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "tremendously"
+  ],
+  "picture": false
+ },
+ {
+  "word": "massive",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Very large, heavy, and solid.",
+    "ko": "거대한, 육중한",
+    "ko_simple": "아주 크고 무겁고 단단한",
+    "examples": [
+     {
+      "en": "A massive rock blocked the trail.",
+      "ko": "거대한 바위가 산길을 막고 있었다."
+     },
+     {
+      "en": "The elephant had massive feet.",
+      "ko": "코끼리는 커다랗고 육중한 발을 가지고 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "narrow",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Not wide; with not much space from one side to the other.",
+    "ko": "좁은",
+    "ko_simple": "폭이 좁은",
+    "examples": [
+     {
+      "en": "We walked single file on the narrow path.",
+      "ko": "우리는 좁은 길에서 한 줄로 걸었다."
+     },
+     {
+      "en": "The cat squeezed through the narrow gap in the fence.",
+      "ko": "고양이가 울타리의 좁은 틈으로 비집고 나갔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "narrower",
+   "narrowest"
+  ],
+  "picture": true
+ },
+ {
+  "word": "steep",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Going up or down very sharply, so it is hard to climb.",
+    "ko": "가파른, 비탈진",
+    "ko_simple": "경사가 심해서 오르기 힘든",
+    "examples": [
+     {
+      "en": "We pushed our bikes up the steep hill.",
+      "ko": "우리는 가파른 언덕 위로 자전거를 밀고 올라갔다."
+     },
+     {
+      "en": "The steep slide made everyone scream.",
+      "ko": "가파른 미끄럼틀에 모두 소리를 질렀다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "steeper",
+   "steepest"
+  ],
+  "picture": true
+ },
+ {
+  "word": "shallow",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Not deep; with only a little distance from the top to the bottom.",
+    "ko": "얕은",
+    "ko_simple": "깊지 않은",
+    "examples": [
+     {
+      "en": "Little kids should play in the shallow end of the pool.",
+      "ko": "어린아이들은 수영장의 얕은 쪽에서 놀아야 한다."
+     },
+     {
+      "en": "The creek was so shallow that we could walk across.",
+      "ko": "개울이 얕아서 걸어서 건널 수 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "shallower",
+   "shallowest"
+  ],
+  "picture": true
+ },
+ {
+  "word": "dense",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Thick and packed closely together.",
+    "ko": "빽빽한, 짙은",
+    "ko_simple": "사이가 없을 만큼 꽉 들어찬",
+    "examples": [
+     {
+      "en": "The forest was so dense that sunlight could not get through.",
+      "ko": "숲이 너무 빽빽해서 햇빛이 들어오지 않았다."
+     },
+     {
+      "en": "A dense fog covered the road.",
+      "ko": "짙은 안개가 길을 덮었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "denser",
+   "densest"
+  ],
+  "picture": false
+ },
+ {
+  "word": "barren",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Empty and dry, with almost no plants growing.",
+    "ko": "척박한, 황량한",
+    "ko_simple": "풀이나 나무가 거의 자라지 않는 메마른",
+    "examples": [
+     {
+      "en": "The barren desert stretched for miles.",
+      "ko": "황량한 사막이 수 킬로미터 펼쳐져 있었다."
+     },
+     {
+      "en": "After the fire, the hill looked barren and black.",
+      "ko": "불이 난 뒤 언덕은 시커멓고 황량해 보였다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "lush",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Green and full of healthy plants.",
+    "ko": "푸르게 우거진, 무성한",
+    "ko_simple": "식물이 싱싱하게 많이 자란",
+    "examples": [
+     {
+      "en": "The lush rainforest was full of giant leaves.",
+      "ko": "우거진 열대 우림은 커다란 잎으로 가득했다."
+     },
+     {
+      "en": "After the rain, the lawn looked lush and green.",
+      "ko": "비가 온 뒤 잔디밭은 무성하고 푸르러 보였다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "lusher",
+   "lushest"
+  ],
+  "picture": true
+ },
+ {
+  "word": "damp",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "A little wet.",
+    "ko": "축축한, 눅눅한",
+    "ko_simple": "조금 젖은",
+    "examples": [
+     {
+      "en": "My socks were still damp from the rain.",
+      "ko": "내 양말은 비 때문에 아직도 축축했다."
+     },
+     {
+      "en": "Wipe the table with a damp cloth.",
+      "ko": "축축한 행주로 식탁을 닦아라."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "damper",
+   "dampest"
+  ],
+  "picture": false
+ },
+ {
+  "word": "soggy",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Very wet and soft.",
+    "ko": "흠뻑 젖은, 질척한",
+    "ko_simple": "물에 젖어서 축 늘어지고 물렁한",
+    "examples": [
+     {
+      "en": "My cereal got soggy because I waited too long.",
+      "ko": "너무 오래 두었더니 시리얼이 눅눅하게 불었다."
+     },
+     {
+      "en": "The soggy field squished under our cleats.",
+      "ko": "질척한 운동장이 축구화 밑에서 철벅거렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "soggier",
+   "soggiest"
+  ],
+  "picture": false
+ },
+ {
+  "word": "drenched",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Completely wet.",
+    "ko": "흠뻑 젖은",
+    "ko_simple": "완전히 다 젖은",
+    "examples": [
+     {
+      "en": "We got drenched in the water balloon fight.",
+      "ko": "물풍선 싸움에서 우리는 흠뻑 젖었다."
+     },
+     {
+      "en": "The dog came in drenched and shook water all over the kitchen.",
+      "ko": "흠뻑 젖은 개가 들어와 부엌 여기저기에 물을 털었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "drench"
+  ],
+  "picture": false
+ },
+ {
+  "word": "parched",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Very dry, or very thirsty.",
+    "ko": "바싹 마른, 목이 몹시 마른",
+    "ko_simple": "물기가 하나도 없거나 목이 아주 마른",
+    "examples": [
+     {
+      "en": "After the long hike, I was parched.",
+      "ko": "긴 산행 끝에 나는 목이 바싹 말랐다."
+     },
+     {
+      "en": "The parched ground cracked in the summer sun.",
+      "ko": "여름 햇볕에 바싹 마른 땅이 쩍쩍 갈라졌다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "scorching",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Extremely hot.",
+    "ko": "타는 듯이 더운, 몹시 뜨거운",
+    "ko_simple": "불에 데일 것처럼 아주 뜨거운",
+    "examples": [
+     {
+      "en": "The sand was scorching, so we ran to the water.",
+      "ko": "모래가 너무 뜨거워서 우리는 물로 뛰어갔다."
+     },
+     {
+      "en": "It was a scorching day, and the ice cream melted fast.",
+      "ko": "타는 듯이 더운 날이라 아이스크림이 빨리 녹았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "scorch"
+  ],
+  "picture": false
+ },
+ {
+  "word": "frigid",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Very, very cold.",
+    "ko": "몹시 추운, 얼어붙을 듯한",
+    "ko_simple": "아주아주 차가운",
+    "examples": [
+     {
+      "en": "The lake water was frigid, even in June.",
+      "ko": "호수 물은 6월인데도 얼음장처럼 차가웠다."
+     },
+     {
+      "en": "We wore three layers in the frigid wind.",
+      "ko": "얼어붙을 듯한 바람 속에서 우리는 옷을 세 겹이나 입었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "chilly",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Cool enough that you feel a little cold.",
+    "ko": "쌀쌀한, 서늘한",
+    "ko_simple": "조금 추운",
+    "examples": [
+     {
+      "en": "Bring a jacket; it gets chilly at night.",
+      "ko": "재킷을 챙겨. 밤에는 쌀쌀해져."
+     },
+     {
+      "en": "The basement is always chilly.",
+      "ko": "지하실은 늘 서늘하다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "chillier",
+   "chilliest"
+  ],
+  "picture": false
+ },
+ {
+  "word": "crisp",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Firm and making a pleasant crunch when you bite it; or cool, fresh, and dry, like fall air.",
+    "ko": "바삭바삭한, 상쾌한",
+    "ko_simple": "씹으면 아삭아삭 소리가 나거나, 공기가 서늘하고 상쾌한",
+    "examples": [
+     {
+      "en": "I love biting into a crisp, cold apple.",
+      "ko": "나는 아삭하고 차가운 사과를 한입 베어 무는 게 좋다."
+     },
+     {
+      "en": "We went for a walk in the crisp autumn air.",
+      "ko": "우리는 상쾌한 가을 공기 속을 산책했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "crisper",
+   "crispest",
+   "crispy"
+  ],
+  "picture": false
+ },
+ {
+  "word": "stale",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "No longer fresh; old and dry.",
+    "ko": "오래된, 신선하지 않은",
+    "ko_simple": "만든 지 오래되어 딱딱하거나 맛이 없는",
+    "examples": [
+     {
+      "en": "The bread was stale, so we fed it to the ducks.",
+      "ko": "빵이 딱딱하게 굳어서 우리는 오리에게 주었다."
+     },
+     {
+      "en": "The air in the closed-up room smelled stale.",
+      "ko": "닫혀 있던 방의 공기에서 퀴퀴한 냄새가 났다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "staler",
+   "stalest"
+  ],
+  "picture": false
+ },
+ {
+  "word": "coarse",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Rough and bumpy to touch, not smooth.",
+    "ko": "거친, 굵은",
+    "ko_simple": "만졌을 때 매끄럽지 않고 까칠까칠한",
+    "examples": [
+     {
+      "en": "The horse's mane felt coarse in my hand.",
+      "ko": "말갈기가 손에 거칠게 느껴졌다."
+     },
+     {
+      "en": "We used coarse sandpaper to smooth the wood.",
+      "ko": "우리는 나무를 매끈하게 하려고 거친 사포를 썼다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "coarser",
+   "coarsest"
+  ],
+  "picture": false
+ },
+ {
+  "word": "jagged",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Having sharp, uneven points or edges.",
+    "ko": "들쭉날쭉한, 삐죽삐죽한",
+    "ko_simple": "가장자리가 날카롭고 울퉁불퉁한",
+    "examples": [
+     {
+      "en": "Watch out for the jagged edge of the broken glass.",
+      "ko": "깨진 유리의 삐죽삐죽한 가장자리를 조심해."
+     },
+     {
+      "en": "The mountains had jagged peaks.",
+      "ko": "그 산들은 봉우리가 들쭉날쭉했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "sleek",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Smooth, shiny, and neat-looking.",
+    "ko": "매끈한, 윤기 나는",
+    "ko_simple": "반질반질하고 매끄러운",
+    "examples": [
+     {
+      "en": "The seal had sleek, wet fur.",
+      "ko": "물개는 매끈하게 젖은 털을 가지고 있었다."
+     },
+     {
+      "en": "My uncle drives a sleek black car.",
+      "ko": "삼촌은 날렵한 검은색 차를 몰고 다니신다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "sleeker",
+   "sleekest"
+  ],
+  "picture": true
+ },
+ {
+  "word": "shabby",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Old and worn out from lots of use.",
+    "ko": "낡은, 허름한",
+    "ko_simple": "오래 써서 낡고 볼품없는",
+    "examples": [
+     {
+      "en": "He wore a shabby coat with holes in the elbows.",
+      "ko": "그는 팔꿈치에 구멍 난 허름한 코트를 입고 있었다."
+     },
+     {
+      "en": "We fixed up the shabby old treehouse.",
+      "ko": "우리는 낡고 허름한 나무 위 오두막을 수리했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "shabbier",
+   "shabbiest"
+  ],
+  "picture": true
+ },
+ {
+  "word": "tattered",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Old and torn into pieces at the edges.",
+    "ko": "너덜너덜한, 해진",
+    "ko_simple": "낡아서 가장자리가 찢어지고 해진",
+    "examples": [
+     {
+      "en": "The pirate's flag was tattered from the wind.",
+      "ko": "해적 깃발은 바람에 너덜너덜해져 있었다."
+     },
+     {
+      "en": "I still sleep with my tattered baby blanket.",
+      "ko": "나는 아직도 너덜너덜한 아기 때 담요를 덮고 잔다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "filthy",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Very dirty.",
+    "ko": "아주 더러운, 불결한",
+    "ko_simple": "몹시 지저분한",
+    "examples": [
+     {
+      "en": "Our soccer uniforms were filthy after the muddy game.",
+      "ko": "진흙탕 경기를 하고 나니 축구 유니폼이 엉망으로 더러워졌다."
+     },
+     {
+      "en": "Wash your filthy hands before dinner!",
+      "ko": "저녁 먹기 전에 그 더러운 손 좀 씻어!"
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "filthier",
+   "filthiest",
+   "filth"
+  ],
+  "picture": false
+ },
+ {
+  "word": "spotless",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Completely clean, with no dirt at all.",
+    "ko": "티끌 하나 없는, 아주 깨끗한",
+    "ko_simple": "얼룩 하나 없이 깨끗한",
+    "examples": [
+     {
+      "en": "The kitchen was spotless after we cleaned it.",
+      "ko": "우리가 청소한 뒤 부엌은 티끌 하나 없이 깨끗했다."
+     },
+     {
+      "en": "He wore a spotless white shirt to the wedding.",
+      "ko": "그는 결혼식에 새하얗고 깨끗한 셔츠를 입고 갔다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "tidy",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Neat, with everything in its place.",
+    "ko": "깔끔한, 잘 정돈된",
+    "ko_simple": "물건이 제자리에 있어 가지런한",
+    "examples": [
+     {
+      "en": "Keep your desk tidy so you can find your pencils.",
+      "ko": "연필을 찾을 수 있게 책상을 깔끔하게 정리해 둬."
+     },
+     {
+      "en": "My sister's room is always tidy, but mine is a mess.",
+      "ko": "언니 방은 늘 깔끔한데 내 방은 엉망이다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "tidier",
+   "tidiest"
+  ],
+  "picture": false
+ },
+ {
+  "word": "cluttered",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Messy and full of too many things.",
+    "ko": "어수선한, 잡동사니가 널린",
+    "ko_simple": "물건이 너무 많이 어지럽게 널린",
+    "examples": [
+     {
+      "en": "The garage was so cluttered that the car didn't fit.",
+      "ko": "차고가 너무 어수선해서 차가 들어가지 않았다."
+     },
+     {
+      "en": "I could not find my homework on my cluttered desk.",
+      "ko": "어질러진 책상 위에서 숙제를 찾을 수가 없었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "clutter"
+  ],
+  "picture": false
+ },
+ {
+  "word": "cozy",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Warm, comfortable, and safe-feeling.",
+    "ko": "아늑한, 포근한",
+    "ko_simple": "따뜻하고 편안한",
+    "examples": [
+     {
+      "en": "We sat by the fire in our cozy cabin.",
+      "ko": "우리는 아늑한 오두막에서 난롯가에 앉았다."
+     },
+     {
+      "en": "The kitten made a cozy bed in the laundry basket.",
+      "ko": "새끼 고양이는 빨래 바구니 안에 포근한 잠자리를 만들었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "cozier",
+   "coziest"
+  ],
+  "picture": false
+ },
+ {
+  "word": "spacious",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Having lots of room inside.",
+    "ko": "넓은, 널찍한",
+    "ko_simple": "안에 공간이 많은",
+    "examples": [
+     {
+      "en": "The new classroom was bright and spacious.",
+      "ko": "새 교실은 밝고 널찍했다."
+     },
+     {
+      "en": "Our tent was spacious enough for four kids and a dog.",
+      "ko": "우리 텐트는 아이 넷과 개 한 마리가 들어갈 만큼 넓었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "cramped",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Too small, with not enough room to move.",
+    "ko": "비좁은, 갑갑한",
+    "ko_simple": "너무 좁아서 움직이기 힘든",
+    "examples": [
+     {
+      "en": "Five of us sat in the cramped back seat.",
+      "ko": "우리 다섯 명이 비좁은 뒷자리에 앉았다."
+     },
+     {
+      "en": "The tiny apartment felt cramped with all the boxes.",
+      "ko": "작은 아파트는 상자들 때문에 비좁게 느껴졌다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "eerie",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Strange and scary in a quiet, creepy way.",
+    "ko": "으스스한, 기분 나쁜",
+    "ko_simple": "조용하고 이상해서 소름 끼치는",
+    "examples": [
+     {
+      "en": "The empty school felt eerie at night.",
+      "ko": "밤의 텅 빈 학교는 으스스했다."
+     },
+     {
+      "en": "We heard an eerie howl in the woods.",
+      "ko": "숲속에서 으스스한 울음소리가 들렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "eerier",
+   "eeriest",
+   "eerily"
+  ],
+  "picture": false
+ },
+ {
+  "word": "mysterious",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Strange and hard to understand or explain.",
+    "ko": "신비한, 수수께끼 같은",
+    "ko_simple": "알 수 없어서 궁금하고 이상한",
+    "examples": [
+     {
+      "en": "A mysterious package with no name showed up on our porch.",
+      "ko": "이름 없는 수상한 소포가 우리 집 현관에 놓여 있었다."
+     },
+     {
+      "en": "The mysterious lights in the sky turned out to be drones.",
+      "ko": "하늘의 정체 모를 불빛은 알고 보니 드론이었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "mystery",
+   "mysteriously"
+  ],
+  "picture": false
+ },
+ {
+  "word": "magnificent",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Very beautiful, grand, and impressive.",
+    "ko": "장엄한, 훌륭한, 웅장한",
+    "ko_simple": "크고 아름다워서 감탄이 나오는",
+    "examples": [
+     {
+      "en": "We watched a magnificent sunset over the ocean.",
+      "ko": "우리는 바다 위로 지는 웅장한 노을을 바라보았다."
+     },
+     {
+      "en": "The peacock spread its magnificent tail.",
+      "ko": "공작이 화려하고 멋진 꼬리를 활짝 폈다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "magnificently"
+  ],
+  "picture": false
+ },
+ {
+  "word": "splendid",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Very good, beautiful, or grand.",
+    "ko": "멋진, 훌륭한, 화려한",
+    "ko_simple": "아주 멋지고 훌륭한",
+    "examples": [
+     {
+      "en": "We had a splendid time at the birthday party.",
+      "ko": "우리는 생일 파티에서 아주 멋진 시간을 보냈다."
+     },
+     {
+      "en": "The queen wore a splendid gown covered in jewels.",
+      "ko": "여왕은 보석이 박힌 화려한 드레스를 입었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "elegant",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Beautiful in a graceful, stylish way.",
+    "ko": "우아한, 품위 있는",
+    "ko_simple": "멋스럽고 고상하게 아름다운",
+    "examples": [
+     {
+      "en": "The swan looked elegant as it glided across the pond.",
+      "ko": "백조가 연못 위를 미끄러지듯 가는 모습이 우아해 보였다."
+     },
+     {
+      "en": "Mom wore an elegant dress to the concert.",
+      "ko": "엄마는 음악회에 우아한 드레스를 입고 가셨다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "elegance",
+   "elegantly"
+  ],
+  "picture": false
+ },
+ {
+  "word": "hideous",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Very ugly.",
+    "ko": "흉측한, 끔찍하게 못생긴",
+    "ko_simple": "보기 싫을 만큼 아주 못생긴",
+    "examples": [
+     {
+      "en": "The troll had a hideous face with warts all over it.",
+      "ko": "트롤은 사마귀가 잔뜩 난 흉측한 얼굴을 하고 있었다."
+     },
+     {
+      "en": "My aunt gave me a hideous sweater with a giant turkey on it.",
+      "ko": "이모가 커다란 칠면조가 그려진 끔찍한 스웨터를 주셨다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "dreadful",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Very bad or unpleasant.",
+    "ko": "끔찍한, 지독한",
+    "ko_simple": "아주 나쁘고 싫은",
+    "examples": [
+     {
+      "en": "The medicine tasted dreadful.",
+      "ko": "약이 지독하게 맛이 없었다."
+     },
+     {
+      "en": "We had a dreadful storm that knocked out the power.",
+      "ko": "정전이 될 만큼 끔찍한 폭풍이 왔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "dread",
+   "dreadfully"
+  ],
+  "picture": false
+ },
+ {
+  "word": "ghastly",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Very scary, shocking, or awful.",
+    "ko": "섬뜩한, 무시무시한, 끔찍한",
+    "ko_simple": "무섭거나 아주 끔찍한",
+    "examples": [
+     {
+      "en": "The haunted house had a ghastly green glow.",
+      "ko": "유령의 집에서는 섬뜩한 초록빛이 났다."
+     },
+     {
+      "en": "You look ghastly; are you feeling sick?",
+      "ko": "얼굴이 몹시 안 좋아 보여. 어디 아프니?"
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "marvelous",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Wonderful and amazing.",
+    "ko": "놀라운, 아주 멋진",
+    "ko_simple": "감탄할 만큼 훌륭한",
+    "examples": [
+     {
+      "en": "The circus was full of marvelous tricks.",
+      "ko": "서커스는 놀라운 묘기로 가득했다."
+     },
+     {
+      "en": "What a marvelous idea to have a picnic!",
+      "ko": "소풍을 가자니 정말 멋진 생각이야!"
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "marvel"
+  ],
+  "picture": false
+ },
+ {
+  "word": "extraordinary",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Very unusual and much better or greater than normal.",
+    "ko": "비범한, 놀라운, 특별한",
+    "ko_simple": "보통과 다르게 아주 뛰어나거나 놀라운",
+    "examples": [
+     {
+      "en": "The dog had an extraordinary talent for finding lost toys.",
+      "ko": "그 개는 잃어버린 장난감을 찾는 데 놀라운 재주가 있었다."
+     },
+     {
+      "en": "It was an extraordinary day when it snowed in July.",
+      "ko": "7월에 눈이 오다니 정말 특별한 날이었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "remarkable",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Unusual or special in a way that makes people notice.",
+    "ko": "주목할 만한, 놀라운",
+    "ko_simple": "남들 눈에 띌 만큼 특별한",
+    "examples": [
+     {
+      "en": "She has a remarkable memory and knows every state capital.",
+      "ko": "그녀는 기억력이 놀라워서 모든 주의 주도를 다 안다."
+     },
+     {
+      "en": "The tiny frog could make a remarkable jump.",
+      "ko": "작은 개구리가 놀랍도록 높이 뛰었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "remarkably"
+  ],
+  "picture": false
+ },
+ {
+  "word": "unusual",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Not common; different from what normally happens.",
+    "ko": "특이한, 흔치 않은",
+    "ko_simple": "보통 때와 다른",
+    "examples": [
+     {
+      "en": "It is unusual for our teacher to be late.",
+      "ko": "우리 선생님이 늦으시는 건 흔치 않은 일이다."
+     },
+     {
+      "en": "He has an unusual pet: a hedgehog.",
+      "ko": "그는 특이한 애완동물, 고슴도치를 키운다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "unusually"
+  ],
+  "picture": false
+ },
+ {
+  "word": "bizarre",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Very strange and weird.",
+    "ko": "기이한, 괴상한",
+    "ko_simple": "아주 이상하고 엉뚱한",
+    "examples": [
+     {
+      "en": "I had a bizarre dream about a talking sandwich.",
+      "ko": "나는 말하는 샌드위치가 나오는 괴상한 꿈을 꿨다."
+     },
+     {
+      "en": "The museum had a bizarre fish with a light on its head.",
+      "ko": "박물관에는 머리에 불빛이 달린 기이한 물고기가 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "bizarrely"
+  ],
+  "picture": false
+ },
+ {
+  "word": "familiar",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Known to you because you have seen or heard it before.",
+    "ko": "익숙한, 낯익은",
+    "ko_simple": "전에 보거나 들어서 잘 아는",
+    "examples": [
+     {
+      "en": "I heard a familiar voice and turned to see my old friend.",
+      "ko": "낯익은 목소리가 들려서 돌아보니 옛 친구였다."
+     },
+     {
+      "en": "The song sounded familiar, but I couldn't remember the name.",
+      "ko": "그 노래는 익숙했지만 제목이 생각나지 않았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "familiarity"
+  ],
+  "picture": false
+ },
+ {
+  "word": "rare",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Not found or seen very often.",
+    "ko": "드문, 희귀한",
+    "ko_simple": "흔하지 않고 보기 힘든",
+    "examples": [
+     {
+      "en": "A four-leaf clover is rare.",
+      "ko": "네 잎 클로버는 드물다."
+     },
+     {
+      "en": "It is rare to see a snowy owl in our town.",
+      "ko": "우리 동네에서 흰올빼미를 보는 일은 드물다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "rarer",
+   "rarest",
+   "rarely"
+  ],
+  "picture": false
+ },
+ {
+  "word": "precious",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Worth a lot of money, or very special and loved.",
+    "ko": "귀중한, 소중한",
+    "ko_simple": "값이 아주 비싸거나 아주 아끼는",
+    "examples": [
+     {
+      "en": "Diamonds and rubies are precious stones.",
+      "ko": "다이아몬드와 루비는 귀한 보석이다."
+     },
+     {
+      "en": "This old photo of Grandma is precious to me.",
+      "ko": "할머니의 이 옛날 사진은 나에게 아주 소중하다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "valuable",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Worth a lot of money, or very useful or important.",
+    "ko": "값비싼, 귀중한",
+    "ko_simple": "돈으로 값어치가 크거나 아주 쓸모 있는",
+    "examples": [
+     {
+      "en": "The old baseball card turned out to be valuable.",
+      "ko": "그 오래된 야구 카드는 알고 보니 값비싼 것이었다."
+     },
+     {
+      "en": "My coach gave me valuable advice about kicking.",
+      "ko": "코치님은 나에게 공 차기에 대한 귀중한 조언을 해 주셨다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "value"
+  ],
+  "picture": false
+ },
+ {
+  "word": "worthless",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Having no value or use.",
+    "ko": "가치 없는, 쓸모없는",
+    "ko_simple": "값어치나 쓸모가 없는",
+    "examples": [
+     {
+      "en": "The pirate's map turned out to be worthless.",
+      "ko": "해적의 지도는 쓸모없는 것으로 밝혀졌다."
+     },
+     {
+      "en": "A broken umbrella is worthless in a storm.",
+      "ko": "폭풍 속에서 부서진 우산은 아무 쓸모가 없다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "sturdy",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Strong and not easy to break or knock over.",
+    "ko": "튼튼한, 견고한",
+    "ko_simple": "쉽게 부서지거나 넘어지지 않는",
+    "examples": [
+     {
+      "en": "We built a sturdy fort out of thick branches.",
+      "ko": "우리는 굵은 나뭇가지로 튼튼한 요새를 지었다."
+     },
+     {
+      "en": "Wear sturdy shoes for the hike.",
+      "ko": "등산할 때는 튼튼한 신발을 신어라."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "sturdier",
+   "sturdiest"
+  ],
+  "picture": false
+ },
+ {
+  "word": "flimsy",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Thin and weak, so it breaks easily.",
+    "ko": "얇고 약한, 엉성한",
+    "ko_simple": "얇고 약해서 쉽게 망가지는",
+    "examples": [
+     {
+      "en": "The flimsy umbrella turned inside out in the wind.",
+      "ko": "엉성한 우산이 바람에 뒤집혔다."
+     },
+     {
+      "en": "Don't stand on that flimsy chair!",
+      "ko": "그 약한 의자 위에 올라서지 마!"
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "flimsier",
+   "flimsiest"
+  ],
+  "picture": false
+ },
+ {
+  "word": "brittle",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Hard but easy to break or snap.",
+    "ko": "부서지기 쉬운, 잘 깨지는",
+    "ko_simple": "딱딱하지만 툭 하면 부러지는",
+    "examples": [
+     {
+      "en": "Dry autumn leaves are brittle and crunch when you step on them.",
+      "ko": "마른 가을 낙엽은 바스러지기 쉬워서 밟으면 바삭 소리가 난다."
+     },
+     {
+      "en": "Old rubber bands get brittle and snap.",
+      "ko": "오래된 고무줄은 딱딱해져서 툭 끊어진다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "delicate",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Fine, thin, and easy to damage, so you must be gentle.",
+    "ko": "섬세한, 연약한",
+    "ko_simple": "가늘고 약해서 살살 다뤄야 하는",
+    "examples": [
+     {
+      "en": "The butterfly has delicate wings.",
+      "ko": "나비는 연약한 날개를 가지고 있다."
+     },
+     {
+      "en": "Grandma's teacups are delicate, so wash them by hand.",
+      "ko": "할머니의 찻잔은 섬세하니까 손으로 씻어라."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "delicately"
+  ],
+  "picture": false
+ },
+ {
+  "word": "hollow",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Empty on the inside.",
+    "ko": "속이 빈",
+    "ko_simple": "안이 텅 빈",
+    "examples": [
+     {
+      "en": "An owl lived in the hollow tree.",
+      "ko": "부엉이가 속이 빈 나무에 살았다."
+     },
+     {
+      "en": "A chocolate bunny is often hollow inside.",
+      "ko": "토끼 모양 초콜릿은 속이 비어 있는 경우가 많다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "vast",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Very large and wide; spreading out very far.",
+    "ko": "광대한, 어마어마한",
+    "ko_simple": "끝이 안 보일 만큼 넓은",
+    "examples": [
+     {
+      "en": "The vast ocean stretched all the way to the sky.",
+      "ko": "광대한 바다가 하늘 끝까지 펼쳐져 있었다."
+     },
+     {
+      "en": "The library has a vast collection of books.",
+      "ko": "그 도서관에는 엄청나게 많은 책이 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "vastly"
+  ],
+  "picture": false
+ },
+ {
+  "word": "distant",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Far away.",
+    "ko": "먼, 멀리 떨어진",
+    "ko_simple": "멀리 있는",
+    "examples": [
+     {
+      "en": "We could see a distant lighthouse across the water.",
+      "ko": "물 건너 멀리 등대가 보였다."
+     },
+     {
+      "en": "The dog barked at a distant sound.",
+      "ko": "개가 멀리서 들리는 소리에 짖었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "distance"
+  ],
+  "picture": false
+ },
+ {
+  "word": "remote",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Far away from cities and other people.",
+    "ko": "외딴, 멀리 떨어진",
+    "ko_simple": "사람 사는 곳에서 멀리 떨어진",
+    "examples": [
+     {
+      "en": "They lived on a remote farm with no neighbors for miles.",
+      "ko": "그들은 몇 킬로미터 안에 이웃이 하나도 없는 외딴 농장에 살았다."
+     },
+     {
+      "en": "The remote island could only be reached by boat.",
+      "ko": "그 외딴섬은 배로만 갈 수 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "remotely"
+  ],
+  "picture": false
+ },
+ {
+  "word": "deserted",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Empty, with no people around.",
+    "ko": "사람이 없는, 버려진",
+    "ko_simple": "사람이 아무도 없는",
+    "examples": [
+     {
+      "en": "The beach was deserted on the rainy morning.",
+      "ko": "비 오는 아침 해변에는 사람이 아무도 없었다."
+     },
+     {
+      "en": "We found a deserted bird's nest in the tree.",
+      "ko": "우리는 나무에서 새가 떠난 빈 둥지를 발견했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "desert"
+  ],
+  "picture": false
+ },
+ {
+  "word": "abandoned",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Left behind and no longer used or cared for.",
+    "ko": "버려진, 버림받은",
+    "ko_simple": "버리고 떠나서 아무도 돌보지 않는",
+    "examples": [
+     {
+      "en": "The kids were scared of the abandoned house at the end of the street.",
+      "ko": "아이들은 길 끝의 버려진 집을 무서워했다."
+     },
+     {
+      "en": "We took in an abandoned kitten from the shelter.",
+      "ko": "우리는 보호소에서 버려진 새끼 고양이를 데려왔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "abandon"
+  ],
+  "picture": true
+ },
+ {
+  "word": "bustling",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Full of busy people moving around.",
+    "ko": "북적거리는, 붐비는",
+    "ko_simple": "바쁜 사람들로 활기차고 붐비는",
+    "examples": [
+     {
+      "en": "The market was bustling with shoppers on Saturday.",
+      "ko": "토요일 시장은 손님들로 북적거렸다."
+     },
+     {
+      "en": "New York City is a bustling place.",
+      "ko": "뉴욕시는 북적거리는 곳이다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "bustle"
+  ],
+  "picture": false
+ },
+ {
+  "word": "tranquil",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Calm, quiet, and peaceful.",
+    "ko": "고요한, 평온한",
+    "ko_simple": "조용하고 평화로운",
+    "examples": [
+     {
+      "en": "We fished on a tranquil lake at sunrise.",
+      "ko": "우리는 해 뜰 무렵 고요한 호수에서 낚시를 했다."
+     },
+     {
+      "en": "The garden felt tranquil after the noisy party.",
+      "ko": "시끄러운 파티 후에 정원은 평온하게 느껴졌다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "hectic",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Very busy and full of rushing around.",
+    "ko": "정신없이 바쁜",
+    "ko_simple": "할 일이 많아서 정신이 하나도 없는",
+    "examples": [
+     {
+      "en": "Mornings at our house are hectic when everyone is late.",
+      "ko": "모두가 늦는 날이면 우리 집 아침은 정신없이 바쁘다."
+     },
+     {
+      "en": "The last week of school was hectic.",
+      "ko": "학기 마지막 주는 정신없이 바빴다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "chaotic",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Very messy and confused, with no order.",
+    "ko": "혼돈의, 무질서한",
+    "ko_simple": "엉망진창으로 어수선한",
+    "examples": [
+     {
+      "en": "The birthday party got chaotic when the dog grabbed the cake.",
+      "ko": "개가 케이크를 물어 가자 생일 파티는 난장판이 되었다."
+     },
+     {
+      "en": "The lunchroom is chaotic on pizza day.",
+      "ko": "피자 나오는 날 급식실은 아수라장이다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "chaos"
+  ],
+  "picture": false
+ },
+ {
+  "word": "dim",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Not bright; with only a little light.",
+    "ko": "어둑한, 흐릿한",
+    "ko_simple": "빛이 약해서 어둑어둑한",
+    "examples": [
+     {
+      "en": "We read by the dim light of a flashlight.",
+      "ko": "우리는 손전등의 희미한 불빛으로 책을 읽었다."
+     },
+     {
+      "en": "The hallway was dim and quiet.",
+      "ko": "복도는 어둑하고 조용했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "dimmer",
+   "dimmest"
+  ],
+  "picture": false
+ },
+ {
+  "word": "radiant",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Shining brightly, or glowing with happiness.",
+    "ko": "빛나는, 환한",
+    "ko_simple": "밝게 빛나거나 기뻐서 얼굴이 환한",
+    "examples": [
+     {
+      "en": "The bride had a radiant smile.",
+      "ko": "신부는 환하게 빛나는 미소를 지었다."
+     },
+     {
+      "en": "The radiant sun warmed the beach.",
+      "ko": "환히 빛나는 해가 해변을 따뜻하게 했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "dazzling",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "So bright or amazing that it is hard to look at.",
+    "ko": "눈부신, 현란한",
+    "ko_simple": "너무 밝거나 멋져서 눈이 부신",
+    "examples": [
+     {
+      "en": "The fireworks were dazzling.",
+      "ko": "불꽃놀이가 눈부셨다."
+     },
+     {
+      "en": "Snow on a sunny day is dazzling.",
+      "ko": "맑은 날의 눈은 눈부시다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "dazzle"
+  ],
+  "picture": false
+ },
+ {
+  "word": "murky",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Dark and dirty, so it is hard to see through.",
+    "ko": "탁한, 어두컴컴한",
+    "ko_simple": "더럽고 흐려서 속이 잘 안 보이는",
+    "examples": [
+     {
+      "en": "We could not see the bottom of the murky pond.",
+      "ko": "탁한 연못은 바닥이 보이지 않았다."
+     },
+     {
+      "en": "Something moved in the murky water.",
+      "ko": "흙탕물 속에서 무언가가 움직였다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "murkier",
+   "murkiest"
+  ],
+  "picture": false
+ },
+ {
+  "word": "misty",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Filled with a thin fog or tiny water drops in the air.",
+    "ko": "안개 낀, 뿌연",
+    "ko_simple": "옅은 안개가 끼어 뿌연",
+    "examples": [
+     {
+      "en": "The mountains looked misty in the early morning.",
+      "ko": "이른 아침 산이 안개로 뿌옇게 보였다."
+     },
+     {
+      "en": "Her eyes got misty during the sad part of the movie.",
+      "ko": "영화의 슬픈 장면에서 그녀의 눈이 촉촉해졌다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "mist"
+  ],
+  "picture": false
+ },
+ {
+  "word": "dreary",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Dull, dark, and boring, making you feel a little sad.",
+    "ko": "따분한, 음울한",
+    "ko_simple": "어둡고 지루해서 기분이 가라앉는",
+    "examples": [
+     {
+      "en": "It was a dreary, gray winter afternoon.",
+      "ko": "칙칙하고 흐린 겨울 오후였다."
+     },
+     {
+      "en": "The dreary waiting room had nothing to do.",
+      "ko": "음울한 대기실에는 할 거리가 하나도 없었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "drearier",
+   "dreariest"
+  ],
+  "picture": false
+ },
+ {
+  "word": "bleak",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Cold, empty, and without hope or comfort.",
+    "ko": "황량한, 암울한",
+    "ko_simple": "춥고 텅 비어 희망이 없어 보이는",
+    "examples": [
+     {
+      "en": "The bleak hills had no trees at all.",
+      "ko": "황량한 언덕에는 나무가 하나도 없었다."
+     },
+     {
+      "en": "Our chances of winning looked bleak at halftime.",
+      "ko": "전반전이 끝났을 때 우리가 이길 가능성은 암울해 보였다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "bleaker",
+   "bleakest"
+  ],
+  "picture": false
+ },
+ {
+  "word": "plain",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Simple, with nothing extra added.",
+    "ko": "평범한, 꾸밈없는, 무늬 없는",
+    "ko_simple": "아무것도 더하지 않고 단순한",
+    "examples": [
+     {
+      "en": "I like plain cheese pizza best.",
+      "ko": "나는 아무것도 안 올린 치즈 피자가 제일 좋다."
+     },
+     {
+      "en": "She wore a plain white T-shirt.",
+      "ko": "그녀는 무늬 없는 흰 티셔츠를 입었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "plainer",
+   "plainest",
+   "plainly"
+  ],
+  "picture": false
+ },
+ {
+  "word": "humid",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Warm and damp, with lots of water in the air.",
+    "ko": "습한, 후덥지근한",
+    "ko_simple": "공기에 물기가 많아서 끈적끈적한",
+    "examples": [
+     {
+      "en": "It was so humid that my hair got frizzy.",
+      "ko": "너무 습해서 머리카락이 부스스해졌다."
+     },
+     {
+      "en": "Florida summers are hot and humid.",
+      "ko": "플로리다의 여름은 덥고 습하다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "humidity"
+  ],
+  "picture": false
+ },
+ {
+  "word": "ferocious",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Very fierce, wild, and dangerous.",
+    "ko": "사나운, 흉포한",
+    "ko_simple": "아주 사납고 위험한",
+    "examples": [
+     {
+      "en": "The ferocious tiger showed its huge teeth.",
+      "ko": "사나운 호랑이가 커다란 이빨을 드러냈다."
+     },
+     {
+      "en": "A ferocious storm knocked down trees all over town.",
+      "ko": "맹렬한 폭풍이 온 동네의 나무를 쓰러뜨렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "ferociously"
+  ],
+  "picture": false
+ },
+ {
+  "word": "invisible",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Not able to be seen.",
+    "ko": "보이지 않는, 투명한",
+    "ko_simple": "눈에 보이지 않는",
+    "examples": [
+     {
+      "en": "In the story, the boy wore a cloak that made him invisible.",
+      "ko": "이야기에서 소년은 자신을 보이지 않게 해 주는 망토를 입었다."
+     },
+     {
+      "en": "Air is invisible, but you can feel the wind.",
+      "ko": "공기는 보이지 않지만 바람은 느낄 수 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "invisibly"
+  ],
+  "picture": false
+ },
+ {
+  "word": "enchanted",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Under a magic spell, or filled with magic.",
+    "ko": "마법에 걸린, 매혹된",
+    "ko_simple": "마법에 걸려 있거나 마법 같은",
+    "examples": [
+     {
+      "en": "The princess slept in an enchanted castle.",
+      "ko": "공주는 마법에 걸린 성에서 잠들어 있었다."
+     },
+     {
+      "en": "We walked through the forest as if it were enchanted.",
+      "ko": "우리는 마법의 숲을 걷는 듯한 기분으로 숲을 걸었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "enchant",
+   "enchanting"
+  ],
+  "picture": false
+ },
+ {
+  "word": "legendary",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Very famous, or told about in old stories.",
+    "ko": "전설적인, 아주 유명한",
+    "ko_simple": "아주 유명하거나 옛이야기에 나오는",
+    "examples": [
+     {
+      "en": "Babe Ruth was a legendary baseball player.",
+      "ko": "베이브 루스는 전설적인 야구 선수였다."
+     },
+     {
+      "en": "My grandma's apple pie is legendary in our family.",
+      "ko": "우리 할머니의 사과 파이는 우리 가족 사이에서 전설적이다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "legend"
+  ],
+  "picture": false
+ },
+ {
+  "word": "nimble",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Able to move quickly and easily.",
+    "ko": "민첩한, 날렵한",
+    "ko_simple": "빠르고 가볍게 잘 움직이는",
+    "examples": [
+     {
+      "en": "The nimble goat climbed up the rocky cliff.",
+      "ko": "날렵한 염소가 바위 절벽을 기어올랐다."
+     },
+     {
+      "en": "A piano player needs nimble fingers.",
+      "ko": "피아니스트는 민첩한 손가락이 필요하다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "nimbler",
+   "nimblest"
+  ],
+  "picture": false
+ },
+ {
+  "word": "sluggish",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Moving slowly, with little energy.",
+    "ko": "느릿느릿한, 굼뜬",
+    "ko_simple": "기운이 없어서 느리게 움직이는",
+    "examples": [
+     {
+      "en": "I feel sluggish after eating a huge lunch.",
+      "ko": "점심을 잔뜩 먹고 나면 몸이 축 처진다."
+     },
+     {
+      "en": "The old computer was sluggish and took forever to start.",
+      "ko": "오래된 컴퓨터는 느려 터져서 켜지는 데 한참 걸렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "swift",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Moving or happening very fast.",
+    "ko": "빠른, 신속한",
+    "ko_simple": "아주 빠른",
+    "examples": [
+     {
+      "en": "The swift horse won the race.",
+      "ko": "날쌘 말이 경주에서 이겼다."
+     },
+     {
+      "en": "We got a swift answer to our letter.",
+      "ko": "우리 편지에 대한 답장이 금방 왔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "swifter",
+   "swiftest",
+   "swiftly"
+  ],
+  "picture": false
+ },
+ {
+  "word": "deafening",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "So loud that you can hardly hear anything else.",
+    "ko": "귀청이 터질 듯한",
+    "ko_simple": "너무 시끄러워서 귀가 먹먹한",
+    "examples": [
+     {
+      "en": "The crowd's cheer was deafening when we scored.",
+      "ko": "우리가 골을 넣자 관중의 함성이 귀청이 터질 듯했다."
+     },
+     {
+      "en": "The thunder was deafening.",
+      "ko": "천둥소리가 귀가 먹먹할 만큼 컸다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "deafen"
+  ],
+  "picture": false
+ },
+ {
+  "word": "faint",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Weak and hard to see, hear, or smell.",
+    "ko": "희미한, 어렴풋한",
+    "ko_simple": "약해서 잘 보이거나 들리지 않는",
+    "examples": [
+     {
+      "en": "We heard a faint meow coming from the bushes.",
+      "ko": "덤불 속에서 희미한 야옹 소리가 들렸다."
+     },
+     {
+      "en": "There was a faint smell of smoke in the air.",
+      "ko": "공기 중에 희미한 연기 냄새가 났다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "fainter",
+   "faintest",
+   "faintly"
+  ],
+  "picture": false
+ },
+ {
+  "word": "muffled",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Quiet and unclear because something is covering the sound.",
+    "ko": "소리가 죽은, 둔탁한",
+    "ko_simple": "무언가에 막혀서 소리가 작고 흐릿한",
+    "examples": [
+     {
+      "en": "We heard muffled voices through the wall.",
+      "ko": "벽 너머로 웅얼거리는 목소리가 들렸다."
+     },
+     {
+      "en": "The snow made every sound muffled.",
+      "ko": "눈 때문에 모든 소리가 먹먹하게 들렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "muffle"
+  ],
+  "picture": false
+ },
+ {
+  "word": "shrill",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Very high and loud, in a way that hurts your ears.",
+    "ko": "날카로운, 새된",
+    "ko_simple": "귀가 아플 만큼 높고 날카로운",
+    "examples": [
+     {
+      "en": "The coach blew a shrill whistle.",
+      "ko": "코치님이 날카로운 호루라기를 불었다."
+     },
+     {
+      "en": "The bird gave a shrill cry.",
+      "ko": "새가 날카롭게 울었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "shriller",
+   "shrillest"
+  ],
+  "picture": false
+ },
+ {
+  "word": "hoarse",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Sounding rough and scratchy, often from yelling or a sore throat.",
+    "ko": "목이 쉰, 쉰 목소리의",
+    "ko_simple": "소리를 많이 지르거나 목이 아파서 목소리가 갈라진",
+    "examples": [
+     {
+      "en": "After cheering at the game, my voice was hoarse.",
+      "ko": "경기에서 응원하고 나니 목이 쉬었다."
+     },
+     {
+      "en": "He had a cold and spoke in a hoarse whisper.",
+      "ko": "그는 감기에 걸려 쉰 목소리로 속삭였다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "hoarser",
+   "hoarsest"
+  ],
+  "picture": false
+ },
+ {
+  "word": "fragrant",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Having a sweet, pleasant smell.",
+    "ko": "향기로운",
+    "ko_simple": "좋은 냄새가 나는",
+    "examples": [
+     {
+      "en": "The fragrant roses filled the garden with a sweet smell.",
+      "ko": "향기로운 장미가 정원을 달콤한 냄새로 가득 채웠다."
+     },
+     {
+      "en": "Mom lit a fragrant candle that smelled like vanilla.",
+      "ko": "엄마가 바닐라 향이 나는 향초를 켜셨다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "fragrance"
+  ],
+  "picture": false
+ },
+ {
+  "word": "foul",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Very dirty or smelling very bad.",
+    "ko": "더러운, 역겨운",
+    "ko_simple": "아주 더럽거나 냄새가 고약한",
+    "examples": [
+     {
+      "en": "A foul smell came from the garbage can.",
+      "ko": "쓰레기통에서 고약한 냄새가 났다."
+     },
+     {
+      "en": "The pond water was foul and green.",
+      "ko": "연못물은 초록색으로 더럽게 썩어 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "fouler",
+   "foulest"
+  ],
+  "picture": false
+ },
+ {
+  "word": "gorgeous",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Very beautiful.",
+    "ko": "아주 아름다운, 멋진",
+    "ko_simple": "아주아주 예쁜",
+    "examples": [
+     {
+      "en": "What a gorgeous day for a picnic!",
+      "ko": "소풍 가기에 정말 멋진 날이야!"
+     },
+     {
+      "en": "The peacock's feathers were gorgeous.",
+      "ko": "공작의 깃털은 아주 아름다웠다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "grimy",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Covered with dirt that has built up over time.",
+    "ko": "때가 낀, 꾀죄죄한",
+    "ko_simple": "오랫동안 때가 끼어 더러운",
+    "examples": [
+     {
+      "en": "The grimy windows hardly let in any light.",
+      "ko": "때 낀 창문으로 햇빛이 거의 들어오지 않았다."
+     },
+     {
+      "en": "His hands were grimy after fixing the bike.",
+      "ko": "자전거를 고치고 나니 그의 손은 기름때투성이였다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "grimier",
+   "grimiest",
+   "grime"
+  ],
+  "picture": false
+ },
+ {
+  "word": "rickety",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Old and shaky, as if it might fall apart.",
+    "ko": "곧 무너질 듯한, 흔들거리는",
+    "ko_simple": "낡고 흔들거려서 금방 부서질 것 같은",
+    "examples": [
+     {
+      "en": "We crossed a rickety old bridge over the creek.",
+      "ko": "우리는 개울 위의 곧 무너질 듯한 낡은 다리를 건넜다."
+     },
+     {
+      "en": "The rickety ladder wobbled under my feet.",
+      "ko": "흔들거리는 사다리가 발밑에서 휘청거렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ }
+]

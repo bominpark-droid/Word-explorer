@@ -1,0 +1,2428 @@
+[
+ {
+  "word": "rock",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A hard, solid piece of the ground. It is made of one or more minerals.",
+    "ko": "암석, 바위, 돌",
+    "ko_simple": "땅을 이루는 단단한 덩어리로, 한 가지 이상의 광물로 이루어져 있다",
+    "examples": [
+     {
+      "en": "I found a shiny rock by the river and put it in my pocket.",
+      "ko": "나는 강가에서 반짝이는 돌을 찾아 주머니에 넣었다."
+     },
+     {
+      "en": "Our class sorted rocks into piles by color and size.",
+      "ko": "우리 반은 돌을 색깔과 크기별로 나누어 쌓았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "rocks"
+  ],
+  "picture": true
+ },
+ {
+  "word": "mineral",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A natural solid material found in the earth that was never alive. Rocks are made of these, like quartz or salt.",
+    "ko": "광물",
+    "ko_simple": "땅속에서 자연적으로 만들어진, 살아 있지 않은 고체 물질. 암석은 광물로 이루어져 있다",
+    "examples": [
+     {
+      "en": "Salt is a mineral that you can sprinkle on your fries.",
+      "ko": "소금은 감자튀김에 뿌려 먹을 수 있는 광물이다."
+     },
+     {
+      "en": "We tested each mineral by scratching it with a nail.",
+      "ko": "우리는 못으로 긁어서 광물을 하나씩 시험해 보았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "minerals"
+  ],
+  "picture": true
+ },
+ {
+  "word": "igneous rock",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Rock that forms when very hot melted rock cools down and becomes hard.",
+    "ko": "화성암",
+    "ko_simple": "뜨겁게 녹은 암석(마그마나 용암)이 식어서 굳어 생긴 암석",
+    "examples": [
+     {
+      "en": "Granite is an igneous rock that formed from melted rock deep underground.",
+      "ko": "화강암은 땅속 깊은 곳에서 녹은 암석이 식어 생긴 화성암이다."
+     },
+     {
+      "en": "Hawaii is covered with dark igneous rock from its volcanoes.",
+      "ko": "하와이는 화산에서 나온 검은 화성암으로 덮여 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "igneous rocks"
+  ],
+  "picture": true
+ },
+ {
+  "word": "sedimentary rock",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Rock made when tiny bits of sand, mud, and shells pile up in layers and get pressed together over a very long time.",
+    "ko": "퇴적암",
+    "ko_simple": "모래, 진흙, 조개껍데기 같은 작은 조각들이 층층이 쌓이고 오랫동안 눌려서 굳어진 암석",
+    "examples": [
+     {
+      "en": "The striped walls of the canyon are made of sedimentary rock.",
+      "ko": "협곡의 줄무늬 벽은 퇴적암으로 이루어져 있다."
+     },
+     {
+      "en": "Fossils are often found inside sedimentary rock.",
+      "ko": "화석은 퇴적암 속에서 자주 발견된다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "sedimentary rocks"
+  ],
+  "picture": true
+ },
+ {
+  "word": "metamorphic rock",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Rock that has been changed into a new kind of rock by great heat and pressing deep inside the earth.",
+    "ko": "변성암",
+    "ko_simple": "땅속 깊은 곳의 높은 열과 압력 때문에 성질이 바뀌어 새로 생긴 암석",
+    "examples": [
+     {
+      "en": "Marble is a metamorphic rock that starts out as limestone.",
+      "ko": "대리암은 원래 석회암이었던 변성암이다."
+     },
+     {
+      "en": "Heat and squeezing turned the old rock into metamorphic rock.",
+      "ko": "열과 압력이 오래된 암석을 변성암으로 바꾸었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "metamorphic rocks"
+  ],
+  "picture": true
+ },
+ {
+  "word": "magma",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Very hot, melted rock that is under the ground.",
+    "ko": "마그마",
+    "ko_simple": "땅속에 있는 아주 뜨겁게 녹은 암석",
+    "examples": [
+     {
+      "en": "Magma pushes up from deep inside the earth before a volcano blows.",
+      "ko": "화산이 터지기 전에 마그마가 땅속 깊은 곳에서 밀고 올라온다."
+     },
+     {
+      "en": "When magma cools slowly underground, it can make big crystals.",
+      "ko": "마그마가 땅속에서 천천히 식으면 큰 결정이 생길 수 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "lava",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Very hot, melted rock that comes out of a volcano onto the ground. It also means the rock it makes when it cools.",
+    "ko": "용암",
+    "ko_simple": "화산에서 땅 위로 흘러나온 뜨겁게 녹은 암석. 식어서 굳은 돌을 가리키기도 한다",
+    "examples": [
+     {
+      "en": "Glowing orange lava slid down the side of the volcano.",
+      "ko": "빛나는 주황색 용암이 화산 옆으로 미끄러져 내려왔다."
+     },
+     {
+      "en": "We played 'the floor is lava' and jumped from couch to chair.",
+      "ko": "우리는 '바닥은 용암' 놀이를 하며 소파에서 의자로 뛰어다녔다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "crystal",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A solid with flat sides and a shape that repeats in a neat pattern. Salt, sugar, and many minerals form these.",
+    "ko": "결정, 수정",
+    "ko_simple": "평평한 면과 규칙적인 모양을 가진 고체. 소금, 설탕, 많은 광물이 이런 모양을 이룬다",
+    "examples": [
+     {
+      "en": "Under the magnifying glass, each grain of salt looked like a tiny cube crystal.",
+      "ko": "돋보기로 보니 소금 알갱이 하나하나가 작은 정육면체 결정처럼 보였다."
+     },
+     {
+      "en": "We grew sugar crystals on a string in a jar.",
+      "ko": "우리는 병 속 실에 설탕 결정을 키웠다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "crystals"
+  ],
+  "picture": true
+ },
+ {
+  "word": "fossil",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "What is left of a plant or animal that lived long ago, kept in rock. It can be bones, shells, or prints.",
+    "ko": "화석",
+    "ko_simple": "아주 오래전에 살았던 동식물의 뼈, 껍데기, 자국 등이 돌 속에 남은 것",
+    "examples": [
+     {
+      "en": "We saw a dinosaur fossil as tall as a house at the museum.",
+      "ko": "우리는 박물관에서 집만큼 큰 공룡 화석을 보았다."
+     },
+     {
+      "en": "A leaf fossil shows the shape of a plant from millions of years ago.",
+      "ko": "나뭇잎 화석은 수백만 년 전 식물의 모양을 보여 준다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "fossils"
+  ],
+  "picture": true
+ },
+ {
+  "word": "sediment",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Small bits of rock, sand, mud, and shells that are moved by water, wind, or ice and then settle down.",
+    "ko": "퇴적물, 침전물",
+    "ko_simple": "물, 바람, 얼음에 의해 옮겨졌다가 가라앉아 쌓인 작은 돌, 모래, 진흙 조각들",
+    "examples": [
+     {
+      "en": "After the flood, a layer of brown sediment covered the yard.",
+      "ko": "홍수가 지난 뒤 마당은 갈색 퇴적물로 덮였다."
+     },
+     {
+      "en": "Shake the jar of muddy water and watch the sediment sink to the bottom.",
+      "ko": "흙탕물 병을 흔든 뒤 퇴적물이 바닥으로 가라앉는 것을 지켜봐라."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "soil",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The top layer of the ground where plants grow. It is a mix of tiny rock bits, dead plants, water, and air.",
+    "ko": "흙, 토양",
+    "ko_simple": "식물이 자라는 땅의 맨 윗부분. 작은 돌 조각, 썩은 식물, 물, 공기가 섞여 있다",
+    "examples": [
+     {
+      "en": "We planted the bean seeds in dark, wet soil.",
+      "ko": "우리는 검고 촉촉한 흙에 콩 씨앗을 심었다."
+     },
+     {
+      "en": "Earthworms help keep the soil healthy for plants.",
+      "ko": "지렁이는 식물을 위해 흙을 건강하게 지켜 준다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "soils"
+  ],
+  "picture": true
+ },
+ {
+  "word": "humus",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The dark part of soil made from dead leaves and plants that have rotted. It helps plants grow.",
+    "ko": "부식토, 부엽토",
+    "ko_simple": "죽은 잎과 식물이 썩어서 생긴 흙 속의 검은 부분. 식물이 잘 자라게 돕는다",
+    "examples": [
+     {
+      "en": "Old leaves on the forest floor slowly turn into humus.",
+      "ko": "숲 바닥의 오래된 낙엽은 천천히 부엽토로 변한다."
+     },
+     {
+      "en": "Soil with lots of humus is great for a vegetable garden.",
+      "ko": "부엽토가 많은 흙은 채소밭에 아주 좋다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "clay",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A kind of soil made of very tiny bits that is sticky when wet and hard when dry.",
+    "ko": "점토, 찰흙",
+    "ko_simple": "아주 작은 알갱이로 된 흙으로, 젖으면 끈적하고 마르면 단단해진다",
+    "examples": [
+     {
+      "en": "I made a bowl out of clay in art class.",
+      "ko": "나는 미술 시간에 찰흙으로 그릇을 만들었다."
+     },
+     {
+      "en": "Water does not drain fast through clay soil.",
+      "ko": "점토 흙에서는 물이 빨리 빠지지 않는다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "silt",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Very fine bits of rock and soil, smaller than sand but bigger than clay. Rivers carry it and drop it.",
+    "ko": "미사, 실트(고운 흙)",
+    "ko_simple": "모래보다 작고 점토보다 큰 아주 고운 흙 알갱이. 강물이 실어 나르고 쌓아 놓는다",
+    "examples": [
+     {
+      "en": "The river water looked brown because it was full of silt.",
+      "ko": "강물이 고운 흙으로 가득해서 갈색으로 보였다."
+     },
+     {
+      "en": "Farmers like the silt a river leaves behind because crops grow well in it.",
+      "ko": "농부들은 강이 남기고 간 고운 흙을 좋아한다. 거기서 농작물이 잘 자라기 때문이다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "gravel",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A mix of many small stones. People use it to cover paths and roads.",
+    "ko": "자갈",
+    "ko_simple": "작은 돌이 많이 섞인 것. 길이나 도로를 덮는 데 쓴다",
+    "examples": [
+     {
+      "en": "The gravel crunched under our bike tires.",
+      "ko": "자갈이 자전거 바퀴 밑에서 바스락 소리를 냈다."
+     },
+     {
+      "en": "Put gravel at the bottom of the fish tank before adding water.",
+      "ko": "물을 넣기 전에 어항 바닥에 자갈을 깔아라."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "pebble",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A small, smooth, round stone, often found near water.",
+    "ko": "조약돌, 자갈",
+    "ko_simple": "주로 물가에서 볼 수 있는 작고 매끈하고 둥근 돌",
+    "examples": [
+     {
+      "en": "I skipped a flat pebble across the lake three times.",
+      "ko": "나는 납작한 조약돌로 호수 위에서 물수제비를 세 번 떴다."
+     },
+     {
+      "en": "Moving water rubs rocks until they become smooth pebbles.",
+      "ko": "흐르는 물이 돌을 문질러 매끈한 조약돌로 만든다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "pebbles"
+  ],
+  "picture": true
+ },
+ {
+  "word": "boulder",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A very large rock, often too big for a person to lift.",
+    "ko": "큰 바위, 둥근 돌덩이",
+    "ko_simple": "사람이 들 수 없을 만큼 아주 큰 바위",
+    "examples": [
+     {
+      "en": "We climbed on top of a boulder as big as a car.",
+      "ko": "우리는 자동차만큼 큰 바위 위에 올라갔다."
+     },
+     {
+      "en": "Glaciers can carry huge boulders far from where they started.",
+      "ko": "빙하는 거대한 바위를 원래 있던 곳에서 멀리 옮길 수 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "boulders"
+  ],
+  "picture": true
+ },
+ {
+  "word": "bedrock",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The solid rock that lies under the soil and loose stones on the ground.",
+    "ko": "기반암, 암반",
+    "ko_simple": "흙과 돌 아래에 있는 단단하고 큰 암석층",
+    "examples": [
+     {
+      "en": "The workers dug through the soil until they hit bedrock.",
+      "ko": "일꾼들은 암반이 나올 때까지 흙을 팠다."
+     },
+     {
+      "en": "Tall buildings are often built on top of strong bedrock.",
+      "ko": "높은 건물은 흔히 단단한 암반 위에 지어진다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "granite",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A very hard, speckled rock that forms when melted rock cools slowly deep underground.",
+    "ko": "화강암",
+    "ko_simple": "땅속 깊은 곳에서 녹은 암석이 천천히 식어 생긴, 얼룩덜룩하고 아주 단단한 암석",
+    "examples": [
+     {
+      "en": "Our kitchen counter is made of shiny granite with black and pink spots.",
+      "ko": "우리 집 부엌 조리대는 검고 분홍색 점이 있는 반짝이는 화강암으로 되어 있다."
+     },
+     {
+      "en": "The faces on Mount Rushmore are carved into granite.",
+      "ko": "러시모어산의 얼굴들은 화강암에 조각되어 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "basalt",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A dark, heavy rock that forms when lava cools quickly.",
+    "ko": "현무암",
+    "ko_simple": "용암이 빨리 식어서 생긴 검고 무거운 암석",
+    "examples": [
+     {
+      "en": "The black beach sand in Hawaii comes from broken basalt.",
+      "ko": "하와이의 검은 모래 해변은 부서진 현무암에서 생긴 것이다."
+     },
+     {
+      "en": "Jeju Island is famous for its holey basalt rocks.",
+      "ko": "제주도는 구멍이 송송 난 현무암으로 유명하다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "limestone",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A light-colored rock made mostly from old shells and sea animal parts pressed together.",
+    "ko": "석회암",
+    "ko_simple": "주로 오래된 조개껍데기와 바다 동물의 뼈가 눌려 굳어진 밝은 색 암석",
+    "examples": [
+     {
+      "en": "Many caves form when water slowly melts away limestone.",
+      "ko": "많은 동굴은 물이 석회암을 천천히 녹여 없애면서 생긴다."
+     },
+     {
+      "en": "If you look closely at limestone, you might see tiny shells.",
+      "ko": "석회암을 자세히 보면 작은 조개껍데기가 보일지도 모른다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "sandstone",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A rock made of grains of sand pressed and stuck together.",
+    "ko": "사암",
+    "ko_simple": "모래알이 눌려서 붙어 굳어진 암석",
+    "examples": [
+     {
+      "en": "If you rub sandstone, a little sand comes off on your fingers.",
+      "ko": "사암을 문지르면 손가락에 모래가 조금 묻어난다."
+     },
+     {
+      "en": "The red cliffs in Utah are made of sandstone.",
+      "ko": "유타주의 붉은 절벽은 사암으로 되어 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "marble",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A smooth, often white rock that forms when limestone is changed by heat and pressing. People use it for statues and floors.",
+    "ko": "대리암, 대리석",
+    "ko_simple": "석회암이 열과 압력을 받아 변한 매끈하고 흔히 하얀 암석. 조각상이나 바닥에 쓴다",
+    "examples": [
+     {
+      "en": "The Lincoln Memorial statue is carved from white marble.",
+      "ko": "링컨 기념관의 조각상은 하얀 대리석으로 조각되었다."
+     },
+     {
+      "en": "The marble floor in the bank was cold under my bare feet.",
+      "ko": "은행의 대리석 바닥은 맨발에 차가웠다."
+     }
+    ]
+   },
+   {
+    "pos": "noun",
+    "simple": "A small, hard glass ball used in games.",
+    "ko": "구슬",
+    "ko_simple": "놀이할 때 쓰는 작고 단단한 유리 공",
+    "examples": [
+     {
+      "en": "My little brother rolled a blue marble across the floor.",
+      "ko": "내 남동생이 파란 구슬을 바닥에 굴렸다."
+     },
+     {
+      "en": "We built a marble run out of paper towel tubes.",
+      "ko": "우리는 키친타월 심으로 구슬 굴리기 길을 만들었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "marbles"
+  ],
+  "picture": true
+ },
+ {
+  "word": "quartz",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A very common, hard mineral that is often clear or white. Most sand is made of it.",
+    "ko": "석영",
+    "ko_simple": "아주 흔하고 단단한 광물로, 흔히 투명하거나 하얗다. 모래의 대부분이 이것으로 되어 있다",
+    "examples": [
+     {
+      "en": "The clear quartz crystal sparkled like ice in the sun.",
+      "ko": "투명한 석영 결정이 햇빛에 얼음처럼 반짝였다."
+     },
+     {
+      "en": "Quartz is hard enough to scratch glass.",
+      "ko": "석영은 유리를 긁을 수 있을 만큼 단단하다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "obsidian",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A shiny, black rock that looks like glass. It forms when lava cools very fast.",
+    "ko": "흑요석",
+    "ko_simple": "용암이 아주 빨리 식어서 생긴, 유리처럼 반짝이는 검은 돌",
+    "examples": [
+     {
+      "en": "Long ago, people chipped obsidian to make sharp arrowheads.",
+      "ko": "오래전 사람들은 흑요석을 깨서 날카로운 화살촉을 만들었다."
+     },
+     {
+      "en": "The obsidian looked like a piece of black glass.",
+      "ko": "흑요석은 검은 유리 조각처럼 보였다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "luster",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The way a mineral's surface shines in light, like metal, glass, or dull dirt.",
+    "ko": "광택",
+    "ko_simple": "광물 표면이 빛을 받아 반짝이는 모습. 금속처럼, 유리처럼, 또는 흙처럼 흐릿하게 보일 수 있다",
+    "examples": [
+     {
+      "en": "Gold has a bright, metal luster.",
+      "ko": "금은 밝은 금속 광택이 있다."
+     },
+     {
+      "en": "We wrote 'shiny' or 'dull' to describe each mineral's luster.",
+      "ko": "우리는 광물마다 광택을 '반짝임' 또는 '흐릿함'으로 적었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "streak",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The color of the powder a mineral leaves when you rub it on a rough white tile.",
+    "ko": "조흔색",
+    "ko_simple": "광물을 거친 흰 판에 문질렀을 때 남는 가루의 색",
+    "examples": [
+     {
+      "en": "Fool's gold looks yellow, but its streak is greenish-black.",
+      "ko": "'바보의 금'(황철석)은 노랗게 보이지만 조흔색은 초록빛 검은색이다."
+     },
+     {
+      "en": "The streak test helps scientists tell minerals apart.",
+      "ko": "조흔색 검사는 과학자들이 광물을 구별하는 데 도움이 된다."
+     }
+    ]
+   },
+   {
+    "pos": "noun",
+    "simple": "A long, thin line or mark.",
+    "ko": "줄, 줄무늬",
+    "ko_simple": "길고 가는 줄이나 자국",
+    "examples": [
+     {
+      "en": "A streak of lightning lit up the sky.",
+      "ko": "한 줄기 번개가 하늘을 밝혔다."
+     },
+     {
+      "en": "There was a streak of paint on my shirt.",
+      "ko": "내 셔츠에 물감 줄이 묻어 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "streaks"
+  ],
+  "picture": true
+ },
+ {
+  "word": "hardness",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "How well a mineral can keep from being scratched. A diamond is the hardest mineral.",
+    "ko": "굳기, 경도",
+    "ko_simple": "광물이 긁히지 않고 버티는 정도. 다이아몬드가 가장 단단한 광물이다",
+    "examples": [
+     {
+      "en": "We tested hardness by scratching each mineral with a penny.",
+      "ko": "우리는 동전으로 광물을 하나씩 긁어 굳기를 시험했다."
+     },
+     {
+      "en": "Talc has such low hardness that you can scratch it with a fingernail.",
+      "ko": "활석은 굳기가 아주 낮아서 손톱으로도 긁힌다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "gem",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A beautiful stone that is cut and polished to make jewelry, like a ruby or diamond.",
+    "ko": "보석",
+    "ko_simple": "깎고 다듬어서 장신구로 쓰는 아름다운 돌. 루비나 다이아몬드 같은 것",
+    "examples": [
+     {
+      "en": "The queen's crown was covered with red and green gems.",
+      "ko": "여왕의 왕관은 빨갛고 초록빛 보석으로 덮여 있었다."
+     },
+     {
+      "en": "We dug in the dirt at the gem mine and found a tiny purple stone.",
+      "ko": "우리는 보석 광산의 흙을 파서 작은 보라색 돌을 찾았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "gems"
+  ],
+  "picture": true
+ },
+ {
+  "word": "ore",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Rock that has a useful metal in it, like iron or copper, that people dig up.",
+    "ko": "광석",
+    "ko_simple": "철이나 구리 같은 쓸모 있는 금속이 들어 있어 사람들이 캐내는 돌",
+    "examples": [
+     {
+      "en": "Miners dig iron ore out of the ground to make steel.",
+      "ko": "광부들은 강철을 만들기 위해 땅에서 철광석을 캐낸다."
+     },
+     {
+      "en": "The ore is heated until the metal melts out.",
+      "ko": "광석을 뜨겁게 달구면 금속이 녹아 나온다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "ores"
+  ],
+  "picture": true
+ },
+ {
+  "word": "geologist",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A scientist who studies rocks, the ground, and how the earth changes.",
+    "ko": "지질학자",
+    "ko_simple": "암석, 땅, 그리고 지구가 어떻게 변하는지 연구하는 과학자",
+    "examples": [
+     {
+      "en": "The geologist tapped the rock with a small hammer to see inside.",
+      "ko": "지질학자는 속을 보려고 작은 망치로 돌을 두드렸다."
+     },
+     {
+      "en": "I want to be a geologist and explore volcanoes.",
+      "ko": "나는 지질학자가 되어 화산을 탐험하고 싶다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "geologists"
+  ],
+  "picture": true
+ },
+ {
+  "word": "layer",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "One flat sheet of something that lies on top of or under another, like the stripes in a cliff.",
+    "ko": "층, 지층",
+    "ko_simple": "다른 것 위나 아래에 겹쳐 있는 한 겹. 절벽의 줄무늬 같은 것",
+    "examples": [
+     {
+      "en": "The cake had three layers, and so did the rock wall!",
+      "ko": "케이크는 세 층이었는데 바위 벽도 그랬다!"
+     },
+     {
+      "en": "The oldest rock layers are usually at the bottom.",
+      "ko": "가장 오래된 지층은 보통 맨 아래에 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "layers"
+  ],
+  "picture": true
+ },
+ {
+  "word": "rock cycle",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The slow, never-ending way rocks change from one kind into another over a very long time.",
+    "ko": "암석의 순환",
+    "ko_simple": "아주 오랜 시간에 걸쳐 암석이 한 종류에서 다른 종류로 계속 바뀌는 과정",
+    "examples": [
+     {
+      "en": "In the rock cycle, lava can cool into rock that later wears down into sand.",
+      "ko": "암석의 순환에서 용암은 식어 암석이 되고, 나중에 닳아 모래가 될 수 있다."
+     },
+     {
+      "en": "We drew arrows to show each step of the rock cycle.",
+      "ko": "우리는 화살표를 그려 암석의 순환 단계를 하나씩 나타냈다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "weathering",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The slow breaking of rock into smaller pieces by water, ice, wind, plants, or air.",
+    "ko": "풍화, 풍화 작용",
+    "ko_simple": "물, 얼음, 바람, 식물, 공기 때문에 암석이 천천히 작은 조각으로 부서지는 것",
+    "examples": [
+     {
+      "en": "Weathering made the old gravestone's letters hard to read.",
+      "ko": "풍화 작용 때문에 오래된 묘비의 글자를 읽기 힘들었다."
+     },
+     {
+      "en": "Tree roots growing in cracks cause weathering of rocks.",
+      "ko": "틈에서 자라는 나무뿌리가 암석의 풍화를 일으킨다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "weathered"
+  ],
+  "picture": true
+ },
+ {
+  "word": "erosion",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The carrying away of soil and bits of rock by water, wind, or ice.",
+    "ko": "침식",
+    "ko_simple": "물, 바람, 얼음이 흙과 돌 조각을 다른 곳으로 실어 가는 것",
+    "examples": [
+     {
+      "en": "Heavy rain caused erosion, and the hill lost a lot of dirt.",
+      "ko": "큰비로 침식이 일어나 언덕의 흙이 많이 쓸려 갔다."
+     },
+     {
+      "en": "Planting grass helps stop erosion on the riverbank.",
+      "ko": "풀을 심으면 강둑의 침식을 막는 데 도움이 된다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "erode",
+   "erodes",
+   "eroded"
+  ],
+  "picture": true
+ },
+ {
+  "word": "deposition",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The dropping of sand, soil, and rock bits in a new place by water, wind, or ice.",
+    "ko": "퇴적, 퇴적 작용",
+    "ko_simple": "물, 바람, 얼음이 옮겨 온 모래, 흙, 돌 조각을 새로운 곳에 내려놓아 쌓는 것",
+    "examples": [
+     {
+      "en": "Deposition at the end of the river made a new sandy beach.",
+      "ko": "강 끝에서 일어난 퇴적 작용으로 새로운 모래 해변이 생겼다."
+     },
+     {
+      "en": "Sand dunes form by deposition when the wind slows down.",
+      "ko": "바람이 약해질 때 퇴적이 일어나 모래 언덕이 생긴다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "deposit",
+   "deposits",
+   "deposited"
+  ],
+  "picture": true
+ },
+ {
+  "word": "abrasion",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The wearing away of rock when sand or stones rub and scrape against it.",
+    "ko": "마모, 마식",
+    "ko_simple": "모래나 돌이 부딪치고 긁으면서 암석이 닳는 것",
+    "examples": [
+     {
+      "en": "Wind blowing sand caused abrasion and carved strange shapes in the rocks.",
+      "ko": "모래를 실은 바람이 바위를 깎아 이상한 모양을 만들었다."
+     },
+     {
+      "en": "Rocks tumbling in a river become round because of abrasion.",
+      "ko": "강물에 굴러다니는 돌은 마모 때문에 둥글어진다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "landform",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A natural shape of the land, like a mountain, valley, hill, or island.",
+    "ko": "지형",
+    "ko_simple": "산, 골짜기, 언덕, 섬처럼 자연이 만든 땅의 모양",
+    "examples": [
+     {
+      "en": "A mountain is the tallest landform we studied.",
+      "ko": "산은 우리가 공부한 지형 중 가장 높다."
+     },
+     {
+      "en": "We made landforms out of play dough for our project.",
+      "ko": "우리는 과제로 찰흙 반죽을 이용해 여러 지형을 만들었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "landforms"
+  ],
+  "picture": true
+ },
+ {
+  "word": "canyon",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A deep, narrow valley with steep rock walls, usually cut by a river over a very long time.",
+    "ko": "협곡",
+    "ko_simple": "보통 강물이 아주 오랫동안 깎아 만든, 가파른 바위 벽이 있는 깊고 좁은 골짜기",
+    "examples": [
+     {
+      "en": "The Colorado River carved the Grand Canyon.",
+      "ko": "콜로라도강이 그랜드 캐니언을 깎아 만들었다."
+     },
+     {
+      "en": "When I yelled into the canyon, my voice bounced back.",
+      "ko": "협곡에 대고 소리치자 내 목소리가 메아리쳐 돌아왔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "canyons"
+  ],
+  "picture": true
+ },
+ {
+  "word": "delta",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Flat land shaped a bit like a triangle that forms where a river drops mud and sand as it flows into a sea or lake.",
+    "ko": "삼각주",
+    "ko_simple": "강이 바다나 호수로 흘러 들어가는 곳에 진흙과 모래가 쌓여 생긴, 세모 모양의 평평한 땅",
+    "examples": [
+     {
+      "en": "The Mississippi River makes a huge delta in Louisiana.",
+      "ko": "미시시피강은 루이지애나주에 거대한 삼각주를 만든다."
+     },
+     {
+      "en": "From the airplane, the delta looked like the branches of a tree.",
+      "ko": "비행기에서 보니 삼각주는 나뭇가지처럼 보였다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "deltas"
+  ],
+  "picture": true
+ },
+ {
+  "word": "glacier",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A huge, thick sheet of ice that moves very slowly over land.",
+    "ko": "빙하",
+    "ko_simple": "땅 위를 아주 천천히 움직이는 거대하고 두꺼운 얼음 덩어리",
+    "examples": [
+     {
+      "en": "The glacier moved only a few inches a day, slower than a snail.",
+      "ko": "빙하는 하루에 몇 센티미터밖에 움직이지 않아 달팽이보다 느렸다."
+     },
+     {
+      "en": "Long ago, glaciers carved the Great Lakes.",
+      "ko": "오래전 빙하가 오대호를 깎아 만들었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "glaciers"
+  ],
+  "picture": true
+ },
+ {
+  "word": "volcano",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A mountain or opening in the ground where hot melted rock, gas, and ash come out from deep inside the earth.",
+    "ko": "화산",
+    "ko_simple": "땅속 깊은 곳에서 뜨겁게 녹은 암석, 가스, 재가 뿜어져 나오는 산이나 구멍",
+    "examples": [
+     {
+      "en": "For the science fair, we made a volcano that erupted baking soda foam.",
+      "ko": "과학 박람회에서 우리는 베이킹소다 거품이 분출하는 화산을 만들었다."
+     },
+     {
+      "en": "Mount St. Helens is a volcano in Washington State.",
+      "ko": "세인트헬렌스산은 워싱턴주에 있는 화산이다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "volcanoes",
+   "volcanic"
+  ],
+  "picture": true
+ },
+ {
+  "word": "erupt",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To burst out suddenly. A volcano does this when lava, ash, and gas shoot out.",
+    "ko": "분출하다, 폭발하다",
+    "ko_simple": "갑자기 터져 나오다. 화산에서 용암, 재, 가스가 뿜어져 나오는 것",
+    "examples": [
+     {
+      "en": "The volcano erupted and sent ash high into the sky.",
+      "ko": "화산이 분출해서 재가 하늘 높이 솟아올랐다."
+     },
+     {
+      "en": "When our team scored, the crowd erupted in cheers.",
+      "ko": "우리 팀이 득점하자 관중이 환호성을 터뜨렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "erupts",
+   "erupted",
+   "erupting",
+   "eruption"
+  ],
+  "picture": true
+ },
+ {
+  "word": "crater",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A bowl-shaped hole in the ground, made by a volcano or by a space rock crashing into a planet or moon.",
+    "ko": "분화구, 크레이터, 운석 구덩이",
+    "ko_simple": "화산이나 우주에서 떨어진 돌이 부딪쳐 생긴 그릇 모양의 구덩이",
+    "examples": [
+     {
+      "en": "The moon is covered with craters from space rocks.",
+      "ko": "달은 우주 암석이 부딪쳐 생긴 구덩이로 덮여 있다."
+     },
+     {
+      "en": "We dropped marbles into flour to make tiny craters.",
+      "ko": "우리는 밀가루에 구슬을 떨어뜨려 작은 구덩이를 만들었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "craters"
+  ],
+  "picture": true
+ },
+ {
+  "word": "earthquake",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A sudden shaking of the ground caused by huge pieces of rock under the earth moving.",
+    "ko": "지진",
+    "ko_simple": "땅속의 거대한 암석 판이 움직여서 땅이 갑자기 흔들리는 것",
+    "examples": [
+     {
+      "en": "During the earthquake, the dishes rattled in the cupboard.",
+      "ko": "지진이 나는 동안 찬장 속 그릇들이 덜컹거렸다."
+     },
+     {
+      "en": "In an earthquake drill, we hide under our desks.",
+      "ko": "지진 대피 훈련 때 우리는 책상 밑으로 숨는다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "earthquakes"
+  ],
+  "picture": true
+ },
+ {
+  "word": "fault",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A long crack in the earth's rock where the two sides can slide past each other. Earthquakes happen along them.",
+    "ko": "단층",
+    "ko_simple": "땅속 암석이 길게 갈라진 곳으로, 양쪽이 서로 미끄러져 움직일 수 있다. 지진이 이곳을 따라 일어난다",
+    "examples": [
+     {
+      "en": "The San Andreas Fault runs through California.",
+      "ko": "샌앤드레이어스 단층은 캘리포니아를 가로지른다."
+     },
+     {
+      "en": "When rocks along a fault slip, the ground shakes.",
+      "ko": "단층을 따라 암석이 미끄러지면 땅이 흔들린다."
+     }
+    ]
+   },
+   {
+    "pos": "noun",
+    "simple": "The blame for something that went wrong.",
+    "ko": "잘못, 책임",
+    "ko_simple": "일이 잘못된 것에 대한 책임",
+    "examples": [
+     {
+      "en": "It's not my fault the dog ate my homework!",
+      "ko": "개가 내 숙제를 먹은 건 내 잘못이 아니야!"
+     },
+     {
+      "en": "She said the broken vase was her fault.",
+      "ko": "그녀는 꽃병이 깨진 것이 자기 잘못이라고 말했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "faults"
+  ],
+  "picture": true
+ },
+ {
+  "word": "tectonic plate",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "One of the giant pieces of rock that make up the earth's outer shell. They move very slowly, like puzzle pieces floating.",
+    "ko": "판, 지각판",
+    "ko_simple": "지구 겉껍질을 이루는 거대한 암석 조각. 퍼즐 조각처럼 아주 천천히 움직인다",
+    "examples": [
+     {
+      "en": "Tectonic plates move about as fast as your fingernails grow.",
+      "ko": "지각판은 손톱이 자라는 속도 정도로 움직인다."
+     },
+     {
+      "en": "When two tectonic plates push together, mountains can form.",
+      "ko": "두 지각판이 서로 밀면 산이 생길 수 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "tectonic plates",
+   "plate",
+   "plates"
+  ],
+  "picture": true
+ },
+ {
+  "word": "crust",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The thin, rocky outside layer of the earth that we live on.",
+    "ko": "지각",
+    "ko_simple": "우리가 사는, 지구의 얇고 단단한 바깥층",
+    "examples": [
+     {
+      "en": "The earth's crust is thin, like the skin of an apple.",
+      "ko": "지구의 지각은 사과 껍질처럼 얇다."
+     },
+     {
+      "en": "Oceans and continents sit on the crust.",
+      "ko": "바다와 대륙은 지각 위에 있다."
+     }
+    ]
+   },
+   {
+    "pos": "noun",
+    "simple": "The hard outside part of bread or a pie.",
+    "ko": "빵 껍질, 파이 껍질",
+    "ko_simple": "빵이나 파이의 딱딱한 겉부분",
+    "examples": [
+     {
+      "en": "My sister always cuts the crust off her sandwich.",
+      "ko": "내 여동생은 항상 샌드위치 껍질을 잘라 낸다."
+     },
+     {
+      "en": "The pizza crust was crispy.",
+      "ko": "피자 끝부분이 바삭했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "crusts"
+  ],
+  "picture": true
+ },
+ {
+  "word": "mantle",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The thick, very hot layer of the earth under the crust. Its rock is solid but moves very slowly.",
+    "ko": "맨틀",
+    "ko_simple": "지각 아래에 있는 두껍고 아주 뜨거운 지구의 층. 암석이 고체이지만 아주 천천히 움직인다",
+    "examples": [
+     {
+      "en": "The mantle is the biggest layer inside the earth.",
+      "ko": "맨틀은 지구 안에서 가장 큰 층이다."
+     },
+     {
+      "en": "Heat in the mantle helps move the plates above it.",
+      "ko": "맨틀의 열은 그 위의 판을 움직이는 데 도움을 준다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "core",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The center of the earth. It is made mostly of iron and is the hottest part.",
+    "ko": "핵, 중심",
+    "ko_simple": "지구의 한가운데. 주로 철로 되어 있고 가장 뜨거운 부분이다",
+    "examples": [
+     {
+      "en": "The earth's core is about as hot as the surface of the sun.",
+      "ko": "지구의 핵은 태양 표면만큼 뜨겁다."
+     },
+     {
+      "en": "If the earth were a peach, the pit would be the core.",
+      "ko": "지구가 복숭아라면 씨앗이 핵일 것이다."
+     }
+    ]
+   },
+   {
+    "pos": "noun",
+    "simple": "The hard middle part of an apple or pear where the seeds are.",
+    "ko": "(사과 등의) 속, 심",
+    "ko_simple": "사과나 배의 씨가 있는 딱딱한 가운데 부분",
+    "examples": [
+     {
+      "en": "I ate the apple all the way down to the core.",
+      "ko": "나는 사과를 속까지 다 먹었다."
+     },
+     {
+      "en": "Throw the apple core in the compost bin.",
+      "ko": "사과 속은 퇴비통에 버려라."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "cores"
+  ],
+  "picture": true
+ },
+ {
+  "word": "epicenter",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The spot on the ground right above where an earthquake starts. The shaking is usually strongest there.",
+    "ko": "진앙",
+    "ko_simple": "지진이 시작된 곳의 바로 위 땅 표면. 보통 여기서 가장 세게 흔들린다",
+    "examples": [
+     {
+      "en": "Houses near the epicenter shook the hardest.",
+      "ko": "진앙 근처의 집들이 가장 심하게 흔들렸다."
+     },
+     {
+      "en": "Scientists found the epicenter was under the ocean.",
+      "ko": "과학자들은 진앙이 바다 밑이라는 것을 알아냈다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "seismograph",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A machine that measures and records how much the ground shakes.",
+    "ko": "지진계",
+    "ko_simple": "땅이 얼마나 흔들리는지 재고 기록하는 기계",
+    "examples": [
+     {
+      "en": "The seismograph drew wild zigzag lines during the earthquake.",
+      "ko": "지진이 일어나자 지진계가 마구 지그재그 선을 그렸다."
+     },
+     {
+      "en": "A seismograph can feel earthquakes on the other side of the world.",
+      "ko": "지진계는 지구 반대편의 지진도 감지할 수 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "seismographs"
+  ],
+  "picture": true
+ },
+ {
+  "word": "magnitude",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A number that tells how strong an earthquake is. A bigger number means a much stronger quake.",
+    "ko": "규모",
+    "ko_simple": "지진이 얼마나 강한지 나타내는 숫자. 숫자가 클수록 훨씬 강한 지진이다",
+    "examples": [
+     {
+      "en": "The news said the earthquake had a magnitude of 6.",
+      "ko": "뉴스에서 지진 규모가 6이라고 했다."
+     },
+     {
+      "en": "A magnitude 2 quake is so small most people don't feel it.",
+      "ko": "규모 2 지진은 너무 작아서 대부분 사람은 느끼지 못한다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "aftershock",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A smaller shaking of the ground that comes after a big earthquake.",
+    "ko": "여진",
+    "ko_simple": "큰 지진이 지나간 뒤에 이어서 오는 작은 흔들림",
+    "examples": [
+     {
+      "en": "We felt three small aftershocks the night after the earthquake.",
+      "ko": "지진이 난 날 밤 우리는 작은 여진을 세 번 느꼈다."
+     },
+     {
+      "en": "Stay safe, because aftershocks can knock down weak walls.",
+      "ko": "여진이 약한 벽을 무너뜨릴 수 있으니 조심해야 한다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "aftershocks"
+  ],
+  "picture": false
+ },
+ {
+  "word": "tsunami",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A series of giant ocean waves, usually caused by an earthquake under the sea.",
+    "ko": "지진해일, 쓰나미",
+    "ko_simple": "주로 바다 밑 지진 때문에 생기는 거대한 파도들",
+    "examples": [
+     {
+      "en": "When the tsunami warning sounded, families ran to high ground.",
+      "ko": "지진해일 경보가 울리자 가족들은 높은 곳으로 달려갔다."
+     },
+     {
+      "en": "A tsunami can travel across an ocean as fast as a jet plane.",
+      "ko": "지진해일은 제트기만큼 빠르게 바다를 건너갈 수 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "tsunamis"
+  ],
+  "picture": true
+ },
+ {
+  "word": "landslide",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "When a lot of dirt and rocks suddenly slide down a hill or mountain.",
+    "ko": "산사태",
+    "ko_simple": "많은 흙과 돌이 갑자기 언덕이나 산에서 미끄러져 내려오는 것",
+    "examples": [
+     {
+      "en": "After a week of rain, a landslide covered the mountain road.",
+      "ko": "일주일 동안 비가 온 뒤 산사태가 산길을 덮었다."
+     },
+     {
+      "en": "Tree roots hold soil in place and help prevent landslides.",
+      "ko": "나무뿌리는 흙을 붙잡아 산사태를 막는 데 도움을 준다."
+     }
+    ]
+   },
+   {
+    "pos": "noun",
+    "simple": "A win in an election by a very large number of votes.",
+    "ko": "압도적 승리",
+    "ko_simple": "선거에서 아주 많은 표 차이로 이기는 것",
+    "examples": [
+     {
+      "en": "Maya won the class election in a landslide.",
+      "ko": "마야는 반장 선거에서 압도적으로 이겼다."
+     },
+     {
+      "en": "The vote for pizza day was a landslide.",
+      "ko": "피자 데이 투표는 압도적이었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "landslides"
+  ],
+  "picture": true
+ },
+ {
+  "word": "sinkhole",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A hole that suddenly opens in the ground when water washes away the rock or soil underneath.",
+    "ko": "싱크홀, 땅꺼짐",
+    "ko_simple": "땅 밑의 돌이나 흙이 물에 씻겨 나가서 갑자기 생기는 구멍",
+    "examples": [
+     {
+      "en": "A sinkhole opened in the parking lot and swallowed a car.",
+      "ko": "주차장에 싱크홀이 생겨 자동차 한 대를 삼켰다."
+     },
+     {
+      "en": "Florida has many sinkholes because of its limestone ground.",
+      "ko": "플로리다는 석회암 땅 때문에 싱크홀이 많다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "sinkholes"
+  ],
+  "picture": true
+ },
+ {
+  "word": "mountain range",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A long line of tall, connected peaks.",
+    "ko": "산맥",
+    "ko_simple": "길게 이어져 늘어선 산들",
+    "examples": [
+     {
+      "en": "The Rocky Mountains are a mountain range in the western United States.",
+      "ko": "로키산맥은 미국 서부에 있는 산맥이다."
+     },
+     {
+      "en": "From the plane, the mountain range looked like a dragon's back.",
+      "ko": "비행기에서 보니 산맥이 용의 등처럼 보였다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "mountain ranges"
+  ],
+  "picture": true
+ },
+ {
+  "word": "summit",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The very top of a mountain.",
+    "ko": "정상, 꼭대기",
+    "ko_simple": "산의 맨 꼭대기",
+    "examples": [
+     {
+      "en": "We ate our sandwiches at the summit and looked at the clouds below us.",
+      "ko": "우리는 정상에서 샌드위치를 먹으며 발아래 구름을 보았다."
+     },
+     {
+      "en": "It took four hours to hike to the summit.",
+      "ko": "정상까지 걸어 올라가는 데 네 시간이 걸렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "summits"
+  ],
+  "picture": true
+ },
+ {
+  "word": "plateau",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A large, flat area of land that is higher than the land around it.",
+    "ko": "고원",
+    "ko_simple": "주변 땅보다 높이 솟아 있는 넓고 평평한 땅",
+    "examples": [
+     {
+      "en": "The plateau was flat on top, like a giant table.",
+      "ko": "고원은 거대한 탁자처럼 위가 평평했다."
+     },
+     {
+      "en": "Farmers grow wheat on the high plateau.",
+      "ko": "농부들은 높은 고원에서 밀을 기른다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "plateaus"
+  ],
+  "picture": true
+ },
+ {
+  "word": "mesa",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A hill with a flat top and steep sides, found in dry places like the American Southwest. It is smaller than a plateau.",
+    "ko": "메사, 탁상지",
+    "ko_simple": "미국 남서부 같은 건조한 곳에 있는, 위가 평평하고 옆이 가파른 언덕. 고원보다 작다",
+    "examples": [
+     {
+      "en": "The red mesa looked like a giant birthday cake in the desert.",
+      "ko": "붉은 메사는 사막 속의 거대한 생일 케이크처럼 보였다."
+     },
+     {
+      "en": "Hopi villages have been built on top of mesas for hundreds of years.",
+      "ko": "호피족 마을은 수백 년 동안 메사 꼭대기에 지어져 왔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "mesas"
+  ],
+  "picture": true
+ },
+ {
+  "word": "butte",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A tall, narrow hill with steep sides and a flat top. It is smaller than a mesa.",
+    "ko": "뷰트(작은 탁상 언덕)",
+    "ko_simple": "옆이 가파르고 위가 평평한, 높고 좁은 언덕. 메사보다 작다",
+    "examples": [
+     {
+      "en": "In Monument Valley, buttes stand up like giant towers.",
+      "ko": "모뉴먼트 밸리에는 뷰트가 거대한 탑처럼 서 있다."
+     },
+     {
+      "en": "Over time, wind and water wore the mesa down into a butte.",
+      "ko": "오랜 시간 바람과 물이 메사를 깎아 뷰트로 만들었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "buttes"
+  ],
+  "picture": true
+ },
+ {
+  "word": "valley",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A low, long stretch of land between hills or mountains. A river often runs through it.",
+    "ko": "골짜기, 계곡",
+    "ko_simple": "산과 산 사이에 길고 낮게 들어간 땅",
+    "examples": [
+     {
+      "en": "We hiked down into the green valley and splashed in the river.",
+      "ko": "우리는 초록빛 골짜기로 걸어 내려가 강물에서 물장구를 쳤다."
+     },
+     {
+      "en": "Fog filled the valley like milk in a bowl.",
+      "ko": "안개가 그릇에 담긴 우유처럼 골짜기를 가득 채웠다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "valleys"
+  ],
+  "picture": true
+ },
+ {
+  "word": "plain",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A large area of flat land with few trees.",
+    "ko": "평야, 평원",
+    "ko_simple": "나무가 별로 없는 넓고 평평한 땅",
+    "examples": [
+     {
+      "en": "Herds of bison once roamed the Great Plains.",
+      "ko": "한때 들소 떼가 대평원을 돌아다녔다."
+     },
+     {
+      "en": "On the plain, you could see a storm coming from miles away.",
+      "ko": "평원에서는 몇 킬로미터 밖에서 폭풍이 오는 것이 보였다."
+     }
+    ]
+   },
+   {
+    "pos": "adjective",
+    "simple": "Simple, with nothing extra added.",
+    "ko": "평범한, 꾸밈없는",
+    "ko_simple": "아무것도 더하지 않은, 단순한",
+    "examples": [
+     {
+      "en": "I like my bagel plain, with no cream cheese.",
+      "ko": "나는 크림치즈 없이 그냥 베이글을 좋아한다."
+     },
+     {
+      "en": "She wore a plain white T-shirt.",
+      "ko": "그녀는 무늬 없는 흰 티셔츠를 입었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "plains"
+  ],
+  "picture": true
+ },
+ {
+  "word": "sand dune",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A hill of sand piled up by the wind, found in deserts and on beaches.",
+    "ko": "모래 언덕, 사구",
+    "ko_simple": "바람에 날려 쌓인 모래 언덕. 사막이나 바닷가에서 볼 수 있다",
+    "examples": [
+     {
+      "en": "We rolled down the giant sand dune and got sand in our ears.",
+      "ko": "우리는 커다란 모래 언덕을 굴러 내려가서 귀에 모래가 들어갔다."
+     },
+     {
+      "en": "Wind slowly moves sand dunes across the desert.",
+      "ko": "바람이 모래 언덕을 사막 위로 천천히 옮긴다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "sand dunes",
+   "dune",
+   "dunes"
+  ],
+  "picture": true
+ },
+ {
+  "word": "cave",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A large, natural hole under the ground or in the side of a hill or cliff.",
+    "ko": "동굴",
+    "ko_simple": "땅속이나 언덕, 절벽 옆에 자연적으로 생긴 큰 구멍",
+    "examples": [
+     {
+      "en": "Bats hung upside down from the ceiling of the dark cave.",
+      "ko": "박쥐들이 어두운 동굴 천장에 거꾸로 매달려 있었다."
+     },
+     {
+      "en": "Mammoth Cave in Kentucky is the longest cave in the world.",
+      "ko": "켄터키주의 매머드 동굴은 세계에서 가장 긴 동굴이다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "caves"
+  ],
+  "picture": true
+ },
+ {
+  "word": "stalactite",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A rock shape like an icicle that hangs down from the ceiling of a cave. It forms from dripping water.",
+    "ko": "종유석",
+    "ko_simple": "동굴 천장에 고드름처럼 매달린 돌. 떨어지는 물방울 때문에 생긴다",
+    "examples": [
+     {
+      "en": "A long stalactite hung from the cave ceiling like a stone icicle.",
+      "ko": "긴 종유석이 돌 고드름처럼 동굴 천장에 매달려 있었다."
+     },
+     {
+      "en": "Tip: stalactites hold on 'tight' to the ceiling.",
+      "ko": "기억법: 종유석(stalactite)은 천장에 '꽉(tight)' 붙어 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "stalactites"
+  ],
+  "picture": true
+ },
+ {
+  "word": "stalagmite",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A rock shape that grows up from the floor of a cave, like a cone, from water dripping down on it.",
+    "ko": "석순",
+    "ko_simple": "동굴 바닥에서 떨어지는 물방울 때문에 원뿔처럼 위로 자라 올라온 돌",
+    "examples": [
+     {
+      "en": "A stalagmite rose from the floor right under a stalactite.",
+      "ko": "종유석 바로 아래 바닥에서 석순이 솟아 있었다."
+     },
+     {
+      "en": "It takes hundreds of years for a stalagmite to grow one foot.",
+      "ko": "석순이 30센티미터 자라는 데는 수백 년이 걸린다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "stalagmites"
+  ],
+  "picture": true
+ },
+ {
+  "word": "floodplain",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Flat land next to a river that gets covered with water when the river overflows.",
+    "ko": "범람원",
+    "ko_simple": "강물이 넘칠 때 물에 잠기는 강 옆의 평평한 땅",
+    "examples": [
+     {
+      "en": "The farm is on a floodplain, so the fields get wet every spring.",
+      "ko": "그 농장은 범람원에 있어서 봄마다 밭이 물에 잠긴다."
+     },
+     {
+      "en": "Floodplain soil is rich because the river leaves mud behind.",
+      "ko": "강이 진흙을 남기기 때문에 범람원의 흙은 기름지다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "floodplains"
+  ],
+  "picture": true
+ },
+ {
+  "word": "meander",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A big curve or loop in a river.",
+    "ko": "곡류, 사행(구불구불한 물굽이)",
+    "ko_simple": "강이 크게 구부러지거나 돌아 흐르는 부분",
+    "examples": [
+     {
+      "en": "From the hilltop, we saw the river's meanders twisting like a snake.",
+      "ko": "언덕 꼭대기에서 강의 굽이들이 뱀처럼 구불구불한 것이 보였다."
+     },
+     {
+      "en": "Water flows faster on the outside of a meander.",
+      "ko": "물굽이의 바깥쪽에서 물이 더 빨리 흐른다."
+     }
+    ]
+   },
+   {
+    "pos": "verb",
+    "simple": "To wander or curve slowly, with no straight path.",
+    "ko": "구불구불 흐르다, 거닐다",
+    "ko_simple": "곧게 가지 않고 천천히 구불구불 움직이다",
+    "examples": [
+     {
+      "en": "The stream meandered through the meadow.",
+      "ko": "시냇물이 풀밭 사이로 구불구불 흘렀다."
+     },
+     {
+      "en": "We meandered through the park looking for squirrels.",
+      "ko": "우리는 다람쥐를 찾으며 공원을 어슬렁거렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "meanders",
+   "meandered",
+   "meandering"
+  ],
+  "picture": true
+ },
+ {
+  "word": "tributary",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A smaller river or stream that flows into a bigger river.",
+    "ko": "지류",
+    "ko_simple": "더 큰 강으로 흘러 들어가는 작은 강이나 시내",
+    "examples": [
+     {
+      "en": "The Missouri River is a tributary of the Mississippi River.",
+      "ko": "미주리강은 미시시피강의 지류이다."
+     },
+     {
+      "en": "The little creek behind our school is a tributary of the big river.",
+      "ko": "우리 학교 뒤의 작은 개울은 큰 강의 지류이다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "tributaries"
+  ],
+  "picture": true
+ },
+ {
+  "word": "peninsula",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A piece of land with water on three sides.",
+    "ko": "반도",
+    "ko_simple": "세 면이 물로 둘러싸인 땅",
+    "examples": [
+     {
+      "en": "Florida is a peninsula, so you can reach the beach from many sides.",
+      "ko": "플로리다는 반도라서 여러 방향에서 바닷가에 갈 수 있다."
+     },
+     {
+      "en": "Korea is on a peninsula in East Asia.",
+      "ko": "한국은 동아시아의 반도에 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "peninsulas"
+  ],
+  "picture": true
+ },
+ {
+  "word": "island",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A piece of land with water all around it.",
+    "ko": "섬",
+    "ko_simple": "사방이 물로 둘러싸인 땅",
+    "examples": [
+     {
+      "en": "We took a ferry to a tiny island with only one store.",
+      "ko": "우리는 가게가 하나뿐인 작은 섬으로 배를 타고 갔다."
+     },
+     {
+      "en": "The Hawaiian Islands were made by volcanoes.",
+      "ko": "하와이 섬들은 화산이 만들었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "islands"
+  ],
+  "picture": true
+ },
+ {
+  "word": "coast",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The land along the edge of an ocean or sea.",
+    "ko": "해안",
+    "ko_simple": "바다와 맞닿은 가장자리 땅",
+    "examples": [
+     {
+      "en": "We drove along the coast and watched the waves crash.",
+      "ko": "우리는 해안을 따라 운전하며 파도가 부서지는 것을 보았다."
+     },
+     {
+      "en": "Many lighthouses stand on the rocky coast of Maine.",
+      "ko": "메인주의 바위 해안에는 등대가 많이 서 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "coasts",
+   "coastal"
+  ],
+  "picture": true
+ },
+ {
+  "word": "cliff",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A very steep, high wall of rock, often by the sea.",
+    "ko": "절벽",
+    "ko_simple": "흔히 바닷가에 있는, 아주 가파르고 높은 바위 벽",
+    "examples": [
+     {
+      "en": "Seagulls built nests on the side of the cliff.",
+      "ko": "갈매기들이 절벽 옆에 둥지를 지었다."
+     },
+     {
+      "en": "Stay away from the edge of the cliff!",
+      "ko": "절벽 끝에서 떨어져 있어!"
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "cliffs"
+  ],
+  "picture": true
+ },
+ {
+  "word": "waterfall",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A place where a river or stream drops over a high edge of rock.",
+    "ko": "폭포",
+    "ko_simple": "강이나 시냇물이 높은 바위 끝에서 아래로 떨어지는 곳",
+    "examples": [
+     {
+      "en": "The waterfall was so loud we had to shout.",
+      "ko": "폭포 소리가 너무 커서 우리는 소리쳐야 했다."
+     },
+     {
+      "en": "Niagara Falls is a famous waterfall between the U.S. and Canada.",
+      "ko": "나이아가라 폭포는 미국과 캐나다 사이에 있는 유명한 폭포이다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "waterfalls"
+  ],
+  "picture": true
+ },
+ {
+  "word": "geyser",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A hole in the ground that shoots hot water and steam into the air from time to time.",
+    "ko": "간헐천",
+    "ko_simple": "땅에서 뜨거운 물과 수증기가 때때로 하늘로 뿜어져 나오는 구멍",
+    "examples": [
+     {
+      "en": "Old Faithful is a geyser in Yellowstone that shoots water about every 90 minutes.",
+      "ko": "올드 페이스풀은 옐로스톤에 있는 간헐천으로, 약 90분마다 물을 뿜는다."
+     },
+     {
+      "en": "The geyser whooshed so high that people gasped.",
+      "ko": "간헐천이 너무 높이 솟구쳐서 사람들이 놀라 숨을 삼켰다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "geysers"
+  ],
+  "picture": true
+ },
+ {
+  "word": "hot spring",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A place where warm water comes up naturally from under the ground, heated by hot rock below.",
+    "ko": "온천",
+    "ko_simple": "땅속 뜨거운 암석에 데워진 따뜻한 물이 자연적으로 솟아나는 곳",
+    "examples": [
+     {
+      "en": "Monkeys in Japan sit in hot springs to stay warm in winter.",
+      "ko": "일본의 원숭이들은 겨울에 따뜻하게 지내려고 온천에 앉아 있다."
+     },
+     {
+      "en": "The hot spring smelled a little like rotten eggs.",
+      "ko": "온천에서 썩은 달걀 같은 냄새가 조금 났다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "hot springs"
+  ],
+  "picture": true
+ },
+ {
+  "word": "continent",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "One of the seven very large areas of land on Earth, like Asia, Africa, or North America.",
+    "ko": "대륙",
+    "ko_simple": "아시아, 아프리카, 북아메리카처럼 지구에 있는 일곱 개의 아주 큰 땅덩어리 중 하나",
+    "examples": [
+     {
+      "en": "Antarctica is the coldest continent.",
+      "ko": "남극 대륙은 가장 추운 대륙이다."
+     },
+     {
+      "en": "My grandma has visited five continents!",
+      "ko": "우리 할머니는 다섯 개 대륙을 가 보셨다!"
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "continents"
+  ],
+  "picture": true
+ },
+ {
+  "word": "iceberg",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A huge piece of ice floating in the sea. It broke off a glacier, and most of it is hidden under the water.",
+    "ko": "빙산",
+    "ko_simple": "빙하에서 떨어져 나와 바다에 떠다니는 거대한 얼음 덩어리. 대부분이 물속에 숨어 있다",
+    "examples": [
+     {
+      "en": "The Titanic sank after it hit an iceberg.",
+      "ko": "타이타닉호는 빙산에 부딪힌 뒤 가라앉았다."
+     },
+     {
+      "en": "An ice cube in your glass floats like a tiny iceberg.",
+      "ko": "컵 속 얼음은 작은 빙산처럼 뜬다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "icebergs"
+  ],
+  "picture": true
+ },
+ {
+  "word": "moraine",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A long pile of rocks, sand, and dirt left behind by a glacier.",
+    "ko": "빙퇴석, 모레인",
+    "ko_simple": "빙하가 남기고 간 돌, 모래, 흙의 긴 더미",
+    "examples": [
+     {
+      "en": "Long Island in New York was partly made by a glacier's moraine.",
+      "ko": "뉴욕의 롱아일랜드는 일부가 빙하의 빙퇴석으로 만들어졌다."
+     },
+     {
+      "en": "The hikers walked along a rocky moraine near the melting glacier.",
+      "ko": "등산객들은 녹고 있는 빙하 근처의 돌투성이 빙퇴석을 따라 걸었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "moraines"
+  ],
+  "picture": true
+ },
+ {
+  "word": "topsoil",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The top layer of soil. It is dark and rich, and most plants grow their roots in it.",
+    "ko": "표토, 겉흙",
+    "ko_simple": "흙의 맨 윗층. 검고 기름져서 대부분의 식물이 여기에 뿌리를 내린다",
+    "examples": [
+     {
+      "en": "We added new topsoil to the garden before planting tomatoes.",
+      "ko": "우리는 토마토를 심기 전에 텃밭에 새 겉흙을 깔았다."
+     },
+     {
+      "en": "Strong winds blew away the dry topsoil.",
+      "ko": "강한 바람이 마른 겉흙을 날려 버렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "slope",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Ground that goes up or down at an angle, like the side of a hill.",
+    "ko": "경사, 비탈",
+    "ko_simple": "언덕 옆면처럼 비스듬히 올라가거나 내려가는 땅",
+    "examples": [
+     {
+      "en": "We raced our sleds down the snowy slope.",
+      "ko": "우리는 눈 덮인 비탈에서 썰매 경주를 했다."
+     },
+     {
+      "en": "Water runs faster down a steep slope.",
+      "ko": "물은 가파른 경사에서 더 빨리 흘러내린다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "slopes"
+  ],
+  "picture": true
+ },
+ {
+  "word": "gorge",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A narrow valley with steep, rocky walls, usually with a river at the bottom.",
+    "ko": "협곡",
+    "ko_simple": "보통 바닥에 강이 흐르는, 가파른 바위 벽 사이의 좁은 골짜기",
+    "examples": [
+     {
+      "en": "We crossed a swinging bridge high above the gorge.",
+      "ko": "우리는 협곡 높은 곳에 걸린 흔들다리를 건넜다."
+     },
+     {
+      "en": "The river cut a deep gorge through the mountains.",
+      "ko": "강이 산 사이에 깊은 협곡을 깎았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "gorges"
+  ],
+  "picture": true
+ },
+ {
+  "word": "volcanic ash",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Tiny bits of rock and glass that shoot out of a volcano. It looks like gray powder.",
+    "ko": "화산재",
+    "ko_simple": "화산에서 뿜어져 나오는 아주 작은 돌과 유리 조각. 회색 가루처럼 보인다",
+    "examples": [
+     {
+      "en": "Volcanic ash covered the cars like gray snow.",
+      "ko": "화산재가 회색 눈처럼 자동차를 덮었다."
+     },
+     {
+      "en": "Airplanes can't fly through thick volcanic ash.",
+      "ko": "비행기는 짙은 화산재 속을 날 수 없다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "dormant",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Not active right now, but able to wake up and become active again, like a sleeping volcano.",
+    "ko": "휴면 중인, 활동을 멈춘(휴화산의)",
+    "ko_simple": "지금은 활동하지 않지만 다시 깨어날 수 있는. 잠자는 화산 같은",
+    "examples": [
+     {
+      "en": "The volcano has been dormant for 200 years, but it could erupt again.",
+      "ko": "그 화산은 200년 동안 잠잠했지만 다시 분출할 수도 있다."
+     },
+     {
+      "en": "Seeds stay dormant in winter and sprout in spring.",
+      "ko": "씨앗은 겨울 동안 잠들어 있다가 봄에 싹을 틔운다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "basin",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A low area of land shaped like a bowl, or all the land that drains water into one river.",
+    "ko": "분지, 유역",
+    "ko_simple": "그릇처럼 둥글게 낮은 땅, 또는 물이 한 강으로 모이는 모든 땅",
+    "examples": [
+     {
+      "en": "The town sits in a basin with mountains all around it.",
+      "ko": "그 마을은 사방이 산으로 둘러싸인 분지에 있다."
+     },
+     {
+      "en": "The Amazon River basin is full of rainforest.",
+      "ko": "아마존강 유역은 열대우림으로 가득하다."
+     }
+    ]
+   },
+   {
+    "pos": "noun",
+    "simple": "A large bowl for holding water.",
+    "ko": "대야, 세면대",
+    "ko_simple": "물을 담는 큰 그릇",
+    "examples": [
+     {
+      "en": "Grandpa washed his face in a basin of cold water.",
+      "ko": "할아버지는 찬물이 담긴 대야에 세수를 하셨다."
+     },
+     {
+      "en": "Fill the basin and soak your muddy socks.",
+      "ko": "대야에 물을 받아 진흙 묻은 양말을 담가라."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "basins"
+  ],
+  "picture": true
+ },
+ {
+  "word": "paleontologist",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A scientist who studies fossils to learn about plants and animals that lived long ago, like dinosaurs.",
+    "ko": "고생물학자",
+    "ko_simple": "화석을 연구해서 공룡처럼 아주 오래전에 살았던 동식물을 알아내는 과학자",
+    "examples": [
+     {
+      "en": "The paleontologist brushed dirt off a giant dinosaur bone.",
+      "ko": "고생물학자가 거대한 공룡 뼈에서 흙을 털어 냈다."
+     },
+     {
+      "en": "I want to be a paleontologist and find a new kind of dinosaur.",
+      "ko": "나는 고생물학자가 되어 새로운 종류의 공룡을 찾고 싶다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "paleontologists"
+  ],
+  "picture": true
+ },
+ {
+  "word": "mountain",
+  "topic": "earth-space",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A very high, large hill of land and rock with steep sides.",
+    "ko": "산",
+    "ko_simple": "옆이 가파르고 아주 높고 큰 땅과 바위",
+    "examples": [
+     {
+      "en": "Snow stays on top of the tall mountain all summer.",
+      "ko": "높은 산꼭대기에는 여름 내내 눈이 남아 있다."
+     },
+     {
+      "en": "Mount Everest is the tallest mountain in the world.",
+      "ko": "에베레스트산은 세계에서 가장 높은 산이다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "mountains",
+   "mountainous"
+  ],
+  "picture": true
+ }
+]

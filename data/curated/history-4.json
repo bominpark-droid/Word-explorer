@@ -1,0 +1,1596 @@
+[
+ {
+  "word": "Industrial Revolution",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The time, starting in the late 1700s, when people began using machines and factories to make goods instead of making them by hand.",
+    "ko": "산업 혁명",
+    "ko_simple": "1700년대 후반부터 사람들이 손 대신 기계와 공장으로 물건을 만들기 시작한 시기",
+    "examples": [
+     {
+      "en": "The Industrial Revolution started in Britain and spread to America.",
+      "ko": "산업 혁명은 영국에서 시작해 미국으로 퍼졌다."
+     },
+     {
+      "en": "During the Industrial Revolution, many families moved from farms to cities.",
+      "ko": "산업 혁명 동안 많은 가족이 농장을 떠나 도시로 이사했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "factory",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A building where people and machines make large amounts of goods.",
+    "ko": "공장",
+    "ko_simple": "사람과 기계가 물건을 많이 만들어 내는 건물",
+    "examples": [
+     {
+      "en": "The factory made thousands of shoes every day.",
+      "ko": "그 공장은 날마다 신발을 수천 켤레씩 만들었다."
+     },
+     {
+      "en": "We took a field trip to a crayon factory.",
+      "ko": "우리는 크레용 공장으로 현장 학습을 갔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "factories"
+  ],
+  "picture": true
+ },
+ {
+  "word": "textile",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Cloth or fabric, especially cloth made in a factory.",
+    "ko": "직물, 섬유",
+    "ko_simple": "천이나 옷감, 특히 공장에서 만든 천",
+    "examples": [
+     {
+      "en": "Textile mills in New England turned cotton into cloth.",
+      "ko": "뉴잉글랜드의 직물 공장은 목화를 천으로 만들었다."
+     },
+     {
+      "en": "My aunt designs textiles with bright flower patterns.",
+      "ko": "이모는 화려한 꽃무늬 옷감을 디자인한다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "textiles"
+  ],
+  "picture": true
+ },
+ {
+  "word": "mill",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A building with machines for making things like flour, cloth, or paper.",
+    "ko": "공장, 방앗간, 제분소",
+    "ko_simple": "밀가루, 천, 종이 같은 것을 만드는 기계가 있는 건물",
+    "examples": [
+     {
+      "en": "Young women worked 12 hours a day in the cotton mill.",
+      "ko": "젊은 여성들은 면직 공장에서 하루 12시간씩 일했다."
+     },
+     {
+      "en": "The old mill by the river is now a pizza restaurant.",
+      "ko": "강가의 옛 방앗간은 지금 피자 가게가 되었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "mills"
+  ],
+  "picture": true
+ },
+ {
+  "word": "assembly line",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A line of workers and machines in a factory where a product moves from person to person, and each one adds one part.",
+    "ko": "조립 라인",
+    "ko_simple": "공장에서 제품이 사람에서 사람으로 옮겨 가며 각자 한 부분씩 더하는 일꾼과 기계의 줄",
+    "examples": [
+     {
+      "en": "Henry Ford's assembly line made cars much faster.",
+      "ko": "헨리 포드의 조립 라인은 자동차를 훨씬 빨리 만들었다."
+     },
+     {
+      "en": "We made sandwiches on an assembly line: bread, cheese, then ham.",
+      "ko": "우리는 조립 라인처럼 샌드위치를 만들었다. 빵, 치즈, 그다음은 햄."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "assembly lines"
+  ],
+  "picture": true
+ },
+ {
+  "word": "Henry Ford",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A businessman who used the moving assembly line to build cars cheaply, so many families could buy one.",
+    "ko": "헨리 포드",
+    "ko_simple": "움직이는 조립 라인으로 자동차를 싸게 만들어 많은 가족이 차를 살 수 있게 한 사업가",
+    "examples": [
+     {
+      "en": "Henry Ford's Model T came in \"any color, so long as it is black.\"",
+      "ko": "헨리 포드는 모델 T를 \"검은색이기만 하면 어떤 색이든\" 고를 수 있다고 했다."
+     },
+     {
+      "en": "Henry Ford paid his workers more so they could buy cars too.",
+      "ko": "헨리 포드는 노동자들도 차를 살 수 있도록 임금을 더 주었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Model T",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A cheap, simple car made by Henry Ford from 1908 to 1927. It was the first car many families could afford.",
+    "ko": "모델 T",
+    "ko_simple": "헨리 포드가 1908년부터 1927년까지 만든 싸고 단순한 자동차. 많은 가족이 처음으로 살 수 있었던 차였다.",
+    "examples": [
+     {
+      "en": "The Model T was nicknamed the \"Tin Lizzie.\"",
+      "ko": "모델 T의 별명은 '틴 리지'였다."
+     },
+     {
+      "en": "More than 15 million Model T cars were made.",
+      "ko": "모델 T는 1,500만 대 넘게 만들어졌다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "child labor",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Making children work long hours at hard jobs, often in factories, mines, or fields.",
+    "ko": "아동 노동",
+    "ko_simple": "아이들에게 흔히 공장, 광산, 밭에서 오랜 시간 힘든 일을 시키는 것",
+    "examples": [
+     {
+      "en": "In 1900, child labor was common in mills and coal mines.",
+      "ko": "1900년에는 공장과 탄광에서 아동 노동이 흔했다."
+     },
+     {
+      "en": "Laws against child labor helped kids go to school instead.",
+      "ko": "아동 노동을 막는 법 덕분에 아이들은 대신 학교에 갈 수 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "labor union",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A group of workers who join together to ask for fair pay and safer working conditions.",
+    "ko": "노동조합",
+    "ko_simple": "공정한 임금과 더 안전한 일터를 요구하려고 함께 모인 노동자들의 단체",
+    "examples": [
+     {
+      "en": "The labor union asked for an eight-hour workday.",
+      "ko": "노동조합은 하루 8시간 근무를 요구했다."
+     },
+     {
+      "en": "Because they were in a labor union, the workers spoke up together.",
+      "ko": "노동조합에 속해 있어서 노동자들은 함께 목소리를 냈다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "labor unions"
+  ],
+  "picture": false
+ },
+ {
+  "word": "strike",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "When workers stop working on purpose to get better pay or working conditions.",
+    "ko": "파업",
+    "ko_simple": "노동자들이 더 나은 임금이나 근무 조건을 얻으려고 일부러 일을 멈추는 것",
+    "examples": [
+     {
+      "en": "The workers went on strike until the owners raised their pay.",
+      "ko": "노동자들은 주인이 임금을 올릴 때까지 파업을 했다."
+     },
+     {
+      "en": "During the bus drivers' strike, we walked to school.",
+      "ko": "버스 기사 파업 동안 우리는 걸어서 학교에 갔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "strikes",
+   "struck",
+   "striking"
+  ],
+  "picture": false
+ },
+ {
+  "word": "invention",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A new thing or way of doing something that someone made for the first time.",
+    "ko": "발명(품)",
+    "ko_simple": "누군가 처음으로 만든 새로운 물건이나 방법",
+    "examples": [
+     {
+      "en": "The telephone was an amazing invention.",
+      "ko": "전화는 놀라운 발명품이었다."
+     },
+     {
+      "en": "My invention is a spoon that never drops cereal.",
+      "ko": "내 발명품은 시리얼을 절대 흘리지 않는 숟가락이다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "inventions"
+  ],
+  "picture": false
+ },
+ {
+  "word": "inventor",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A person who makes something new that did not exist before.",
+    "ko": "발명가",
+    "ko_simple": "전에 없던 새로운 것을 만드는 사람",
+    "examples": [
+     {
+      "en": "The inventor worked in his garage for years.",
+      "ko": "그 발명가는 몇 년 동안 차고에서 일했다."
+     },
+     {
+      "en": "Madam C.J. Walker was an inventor and businesswoman.",
+      "ko": "마담 C. J. 워커는 발명가이자 사업가였다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "inventors"
+  ],
+  "picture": false
+ },
+ {
+  "word": "patent",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "An official paper from the government that says only the inventor can make or sell an invention for a number of years.",
+    "ko": "특허",
+    "ko_simple": "정해진 기간 동안 발명한 사람만 그 발명품을 만들거나 팔 수 있다고 정부가 인정하는 공식 문서",
+    "examples": [
+     {
+      "en": "Thomas Edison got more than 1,000 patents.",
+      "ko": "토머스 에디슨은 1,000개가 넘는 특허를 받았다."
+     },
+     {
+      "en": "You need a patent so no one copies your idea.",
+      "ko": "아무도 아이디어를 베끼지 못하게 하려면 특허가 필요하다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "patents"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Thomas Edison",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "An American inventor who made a long-lasting light bulb, the phonograph, and many other inventions.",
+    "ko": "토머스 에디슨",
+    "ko_simple": "오래가는 전구, 축음기 등 많은 것을 발명한 미국의 발명가",
+    "examples": [
+     {
+      "en": "Thomas Edison tried thousands of materials to make his light bulb work.",
+      "ko": "토머스 에디슨은 전구가 켜지도록 수천 가지 재료를 시험했다."
+     },
+     {
+      "en": "Thomas Edison's lab in Menlo Park was called an \"invention factory.\"",
+      "ko": "멘로파크에 있던 토머스 에디슨의 연구소는 '발명 공장'이라고 불렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "phonograph",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "An early machine, invented by Thomas Edison in 1877, that recorded sound and played it back.",
+    "ko": "축음기",
+    "ko_simple": "1877년 토머스 에디슨이 발명한, 소리를 녹음하고 다시 들려주는 초기 기계",
+    "examples": [
+     {
+      "en": "The first words Edison recorded on the phonograph were \"Mary had a little lamb.\"",
+      "ko": "에디슨이 축음기에 처음 녹음한 말은 '메리에게는 어린 양이 있었네'였다."
+     },
+     {
+      "en": "Grandpa's phonograph played music from big black records.",
+      "ko": "할아버지의 축음기는 크고 까만 음반으로 음악을 들려주었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "phonographs"
+  ],
+  "picture": true
+ },
+ {
+  "word": "Alexander Graham Bell",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The inventor who got the first patent for the telephone in 1876.",
+    "ko": "알렉산더 그레이엄 벨",
+    "ko_simple": "1876년 처음으로 전화기 특허를 받은 발명가",
+    "examples": [
+     {
+      "en": "Alexander Graham Bell's first phone call was to his helper, Mr. Watson.",
+      "ko": "알렉산더 그레이엄 벨의 첫 전화는 조수 왓슨 씨에게 건 것이었다."
+     },
+     {
+      "en": "Alexander Graham Bell also taught deaf students.",
+      "ko": "알렉산더 그레이엄 벨은 청각 장애 학생들도 가르쳤다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Samuel Morse",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "An inventor and painter who helped build the telegraph and created Morse code.",
+    "ko": "새뮤얼 모스",
+    "ko_simple": "전신기를 만드는 데 힘쓰고 모스 부호를 만든 발명가이자 화가",
+    "examples": [
+     {
+      "en": "Samuel Morse sent the first long telegraph message in 1844.",
+      "ko": "새뮤얼 모스는 1844년에 처음으로 먼 거리 전신을 보냈다."
+     },
+     {
+      "en": "Samuel Morse was a painter before he was an inventor.",
+      "ko": "새뮤얼 모스는 발명가가 되기 전에 화가였다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Morse code",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A way of sending messages using short and long signals, called dots and dashes, for each letter.",
+    "ko": "모스 부호",
+    "ko_simple": "글자마다 점과 선이라는 짧고 긴 신호를 써서 소식을 보내는 방법",
+    "examples": [
+     {
+      "en": "In Morse code, SOS is dot-dot-dot, dash-dash-dash, dot-dot-dot.",
+      "ko": "모스 부호로 SOS는 점 셋, 선 셋, 점 셋이다."
+     },
+     {
+      "en": "My friend and I tap Morse code on the wall between our rooms.",
+      "ko": "친구와 나는 방 사이 벽을 두드려 모스 부호를 주고받는다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Wright brothers",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "Orville and Wilbur Wright, two brothers who made the first powered airplane flight in 1903 at Kitty Hawk, North Carolina.",
+    "ko": "라이트 형제",
+    "ko_simple": "1903년 노스캐롤라이나의 키티호크에서 처음으로 동력 비행기를 날린 오빌 라이트와 윌버 라이트 형제",
+    "examples": [
+     {
+      "en": "The Wright brothers' first flight lasted only 12 seconds.",
+      "ko": "라이트 형제의 첫 비행은 12초밖에 안 되었다."
+     },
+     {
+      "en": "The Wright brothers ran a bicycle shop in Ohio.",
+      "ko": "라이트 형제는 오하이오에서 자전거 가게를 했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "steam engine",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "An engine that uses the power of steam from boiling water to make machines move.",
+    "ko": "증기 기관",
+    "ko_simple": "물을 끓여 나온 증기의 힘으로 기계를 움직이는 엔진",
+    "examples": [
+     {
+      "en": "The steam engine powered trains, ships, and factories.",
+      "ko": "증기 기관은 기차, 배, 공장을 움직였다."
+     },
+     {
+      "en": "The old steam engine puffed white clouds into the sky.",
+      "ko": "낡은 증기 기관이 하늘로 하얀 구름을 뿜어 올렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "steam engines"
+  ],
+  "picture": true
+ },
+ {
+  "word": "locomotive",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The engine car at the front of a train that pulls the other cars.",
+    "ko": "기관차",
+    "ko_simple": "기차 맨 앞에서 다른 칸들을 끄는 엔진 칸",
+    "examples": [
+     {
+      "en": "The locomotive blew its whistle as it came into town.",
+      "ko": "기관차가 마을로 들어서며 기적을 울렸다."
+     },
+     {
+      "en": "My little brother wants to drive a locomotive when he grows up.",
+      "ko": "내 동생은 커서 기관차를 몰고 싶어 한다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "locomotives"
+  ],
+  "picture": true
+ },
+ {
+  "word": "skyscraper",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A very tall building in a city.",
+    "ko": "고층 건물, 마천루",
+    "ko_simple": "도시에 있는 아주 높은 건물",
+    "examples": [
+     {
+      "en": "Steel made it possible to build skyscrapers.",
+      "ko": "강철 덕분에 고층 건물을 지을 수 있게 되었다."
+     },
+     {
+      "en": "From the top of the skyscraper, the cars looked like ants.",
+      "ko": "고층 건물 꼭대기에서 보니 자동차가 개미처럼 보였다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "skyscrapers"
+  ],
+  "picture": true
+ },
+ {
+  "word": "Madam C.J. Walker",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Black businesswoman who made hair care products in the early 1900s and became one of the first women in America to become a millionaire by herself.",
+    "ko": "마담 C. J. 워커",
+    "ko_simple": "1900년대 초 머리 손질 제품을 만들어 미국에서 스스로 백만장자가 된 첫 여성 가운데 한 명이 된 흑인 사업가",
+    "examples": [
+     {
+      "en": "Madam C.J. Walker was born to parents who had been enslaved.",
+      "ko": "마담 C. J. 워커는 노예였던 부모에게서 태어났다."
+     },
+     {
+      "en": "Madam C.J. Walker hired thousands of women to sell her products.",
+      "ko": "마담 C. J. 워커는 제품을 팔 여성 수천 명을 고용했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "suffrage",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The right to vote in elections.",
+    "ko": "참정권, 투표권",
+    "ko_simple": "선거에서 투표할 권리",
+    "examples": [
+     {
+      "en": "Women fought for suffrage for more than 70 years.",
+      "ko": "여성들은 70년 넘게 참정권을 얻으려고 싸웠다."
+     },
+     {
+      "en": "Suffrage means your voice counts on election day.",
+      "ko": "참정권은 선거 날 내 목소리가 중요하게 여겨진다는 뜻이다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "suffragist",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A person who worked to win the right to vote for women.",
+    "ko": "여성 참정권 운동가",
+    "ko_simple": "여성의 투표권을 얻으려고 힘쓴 사람",
+    "examples": [
+     {
+      "en": "The suffragists marched with signs that said \"Votes for Women.\"",
+      "ko": "여성 참정권 운동가들은 '여성에게 투표권을'이라고 쓴 팻말을 들고 행진했다."
+     },
+     {
+      "en": "Some suffragists were sent to jail for protesting.",
+      "ko": "어떤 여성 참정권 운동가들은 시위를 했다는 이유로 감옥에 갔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "suffragists"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Susan B. Anthony",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A leader who fought for women's right to vote and against slavery in the 1800s.",
+    "ko": "수전 B. 앤서니",
+    "ko_simple": "1800년대에 여성의 투표권을 위해, 그리고 노예제에 반대해 싸운 지도자",
+    "examples": [
+     {
+      "en": "Susan B. Anthony was arrested for voting in 1872.",
+      "ko": "수전 B. 앤서니는 1872년에 투표했다는 이유로 체포되었다."
+     },
+     {
+      "en": "Susan B. Anthony's face was put on a one-dollar coin.",
+      "ko": "수전 B. 앤서니의 얼굴은 1달러 동전에 새겨졌다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Nineteenth Amendment",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The change to the US Constitution in 1920 that gave women the right to vote.",
+    "ko": "수정 헌법 제19조",
+    "ko_simple": "1920년 여성에게 투표권을 준 미국 헌법의 수정 조항",
+    "examples": [
+     {
+      "en": "After the Nineteenth Amendment, my great-great-grandma voted for the first time.",
+      "ko": "수정 헌법 제19조가 생긴 뒤 우리 고조할머니는 처음으로 투표하셨다."
+     },
+     {
+      "en": "The Nineteenth Amendment passed by just one vote in Tennessee.",
+      "ko": "수정 헌법 제19조는 테네시주에서 단 한 표 차이로 통과되었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Great Depression",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A hard time in the 1930s when many banks and businesses closed and millions of people lost their jobs and money.",
+    "ko": "대공황",
+    "ko_simple": "1930년대에 많은 은행과 회사가 문을 닫고 수백만 명이 일자리와 돈을 잃은 어려운 시기",
+    "examples": [
+     {
+      "en": "During the Great Depression, people stood in long lines for free soup and bread.",
+      "ko": "대공황 때 사람들은 공짜 수프와 빵을 받으려고 길게 줄을 섰다."
+     },
+     {
+      "en": "My great-grandpa saved string and tin foil because he grew up in the Great Depression.",
+      "ko": "증조할아버지는 대공황 때 자라서 끈과 은박지를 모아 두셨다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Dust Bowl",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "An area of the Great Plains in the 1930s where years of no rain and poor farming let strong winds blow the dry soil away in huge dust storms.",
+    "ko": "더스트 볼(먼지 폭풍 지대)",
+    "ko_simple": "1930년대 대평원 지역으로, 여러 해 비가 오지 않고 농사를 잘못 지어서 거센 바람에 마른 흙이 거대한 먼지 폭풍이 되어 날아갔다.",
+    "examples": [
+     {
+      "en": "In the Dust Bowl, dust piled up against doors like snow.",
+      "ko": "더스트 볼에서는 먼지가 눈처럼 문 앞에 쌓였다."
+     },
+     {
+      "en": "Families in the Dust Bowl hung wet sheets over windows to keep dust out.",
+      "ko": "더스트 볼의 가족들은 먼지를 막으려고 창문에 젖은 이불보를 걸었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Franklin D. Roosevelt",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The 32nd US President, who led the country through the Great Depression and most of World War II. He was elected four times.",
+    "ko": "프랭클린 D. 루스벨트",
+    "ko_simple": "대공황과 제2차 세계 대전 대부분의 기간 동안 나라를 이끈 미국의 32번째 대통령. 네 번 당선되었다.",
+    "examples": [
+     {
+      "en": "Franklin D. Roosevelt talked to Americans on the radio in \"fireside chats.\"",
+      "ko": "프랭클린 D. 루스벨트는 '노변담화'라는 라디오 방송으로 국민에게 이야기했다."
+     },
+     {
+      "en": "Franklin D. Roosevelt used a wheelchair after he got polio.",
+      "ko": "프랭클린 D. 루스벨트는 소아마비에 걸린 뒤 휠체어를 썼다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "World War II",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A huge war from 1939 to 1945 that involved most of the world. The United States joined after Japan attacked Pearl Harbor in 1941.",
+    "ko": "제2차 세계 대전",
+    "ko_simple": "1939년부터 1945년까지 세계 대부분이 휘말린 큰 전쟁. 미국은 1941년 일본이 진주만을 공격한 뒤 참전했다.",
+    "examples": [
+     {
+      "en": "World War II ended in 1945.",
+      "ko": "제2차 세계 대전은 1945년에 끝났다."
+     },
+     {
+      "en": "When World War II ended, Korea became free from Japanese rule.",
+      "ko": "제2차 세계 대전이 끝나면서 한국은 일본의 지배에서 벗어났다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Pearl Harbor",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A US Navy base in Hawaii that Japan attacked by surprise on December 7, 1941, bringing the United States into World War II.",
+    "ko": "진주만",
+    "ko_simple": "1941년 12월 7일 일본이 기습 공격해서 미국이 제2차 세계 대전에 뛰어들게 된 하와이의 미국 해군 기지",
+    "examples": [
+     {
+      "en": "The attack on Pearl Harbor happened on a Sunday morning.",
+      "ko": "진주만 공격은 일요일 아침에 일어났다."
+     },
+     {
+      "en": "You can visit a memorial at Pearl Harbor that sits over a sunken ship.",
+      "ko": "진주만에 가면 가라앉은 배 위에 세운 기념관을 볼 수 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Rosie the Riveter",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A make-believe character on posters during World War II who stood for the women who worked in factories building planes, ships, and weapons.",
+    "ko": "리벳공 로지",
+    "ko_simple": "제2차 세계 대전 때 비행기, 배, 무기를 만드는 공장에서 일한 여성들을 상징하는 포스터 속 인물",
+    "examples": [
+     {
+      "en": "Rosie the Riveter wore a red bandana and flexed her arm.",
+      "ko": "리벳공 로지는 빨간 두건을 쓰고 팔 근육을 자랑했다."
+     },
+     {
+      "en": "The Rosie the Riveter poster says, \"We Can Do It!\"",
+      "ko": "리벳공 로지 포스터에는 \"우리는 할 수 있다!\"라고 적혀 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "Amelia Earhart",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A pilot who was the first woman to fly alone across the Atlantic Ocean, in 1932. She disappeared over the Pacific Ocean in 1937.",
+    "ko": "어밀리아 에어하트",
+    "ko_simple": "1932년 여성으로는 처음으로 혼자 대서양을 비행기로 건넌 비행사. 1937년 태평양 위에서 실종되었다.",
+    "examples": [
+     {
+      "en": "Amelia Earhart's plane was bright red.",
+      "ko": "어밀리아 에어하트의 비행기는 새빨간 색이었다."
+     },
+     {
+      "en": "No one knows for sure what happened to Amelia Earhart.",
+      "ko": "어밀리아 에어하트에게 무슨 일이 일어났는지는 아무도 확실히 모른다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Jackie Robinson",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A baseball player who in 1947 became the first Black player in modern Major League Baseball, playing for the Brooklyn Dodgers.",
+    "ko": "재키 로빈슨",
+    "ko_simple": "1947년 브루클린 다저스에서 뛰며 현대 메이저리그 야구의 첫 흑인 선수가 된 야구 선수",
+    "examples": [
+     {
+      "en": "Jackie Robinson stayed calm even when fans yelled mean things.",
+      "ko": "재키 로빈슨은 관중이 못된 말을 외쳐도 침착함을 잃지 않았다."
+     },
+     {
+      "en": "Every player wears number 42 on Jackie Robinson Day.",
+      "ko": "재키 로빈슨의 날에는 모든 선수가 42번을 단다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Neil Armstrong",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "An American astronaut who became the first person to walk on the Moon, on July 20, 1969.",
+    "ko": "닐 암스트롱",
+    "ko_simple": "1969년 7월 20일 처음으로 달 위를 걸은 미국 우주 비행사",
+    "examples": [
+     {
+      "en": "Neil Armstrong said, \"That's one small step for man, one giant leap for mankind.\"",
+      "ko": "닐 암스트롱은 \"이것은 한 인간에게는 작은 한 걸음이지만 인류에게는 거대한 도약이다\"라고 말했다."
+     },
+     {
+      "en": "Neil Armstrong's footprints are probably still on the Moon.",
+      "ko": "닐 암스트롱의 발자국은 아마 지금도 달에 남아 있을 것이다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "civil rights",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The rights that every citizen should have, like the right to vote and to be treated fairly no matter their race.",
+    "ko": "시민권, 민권",
+    "ko_simple": "투표할 권리나 인종에 상관없이 공평하게 대우받을 권리처럼 모든 시민이 누려야 할 권리",
+    "examples": [
+     {
+      "en": "Martin Luther King Jr. fought for civil rights.",
+      "ko": "마틴 루서 킹 주니어는 민권을 위해 싸웠다."
+     },
+     {
+      "en": "Treating everyone fairly at school is part of respecting civil rights.",
+      "ko": "학교에서 모두를 공평하게 대하는 것은 민권을 존중하는 일이다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Civil Rights Movement",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The struggle in the 1950s and 1960s by Black Americans and their allies to end segregation and win equal rights.",
+    "ko": "민권 운동",
+    "ko_simple": "1950~1960년대에 흑인 미국인과 그들을 도운 사람들이 인종 분리를 끝내고 평등한 권리를 얻으려고 벌인 투쟁",
+    "examples": [
+     {
+      "en": "Many young students marched in the Civil Rights Movement.",
+      "ko": "많은 어린 학생들이 민권 운동에 참여해 행진했다."
+     },
+     {
+      "en": "Songs like \"We Shall Overcome\" gave hope during the Civil Rights Movement.",
+      "ko": "'우리 승리하리라' 같은 노래는 민권 운동 동안 희망을 주었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "segregation",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Keeping people apart because of their race, such as having separate schools, buses, or water fountains.",
+    "ko": "인종 분리, 차별 격리",
+    "ko_simple": "학교, 버스, 식수대를 따로 쓰게 하는 것처럼 인종 때문에 사람들을 갈라놓는 것",
+    "examples": [
+     {
+      "en": "Segregation meant Black and white children could not go to the same school.",
+      "ko": "인종 분리 때문에 흑인 아이와 백인 아이는 같은 학교에 다닐 수 없었다."
+     },
+     {
+      "en": "The sign said \"Whites Only,\" which was a rule of segregation.",
+      "ko": "표지판에는 '백인 전용'이라고 쓰여 있었는데, 이것이 인종 분리 규칙이었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "segregated",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "adjective",
+    "simple": "Kept separate by race.",
+    "ko": "(인종별로) 분리된",
+    "ko_simple": "인종에 따라 따로 나뉜",
+    "examples": [
+     {
+      "en": "Rosa Parks rode a segregated bus in Montgomery.",
+      "ko": "로자 파크스는 몽고메리에서 인종 분리된 버스를 탔다."
+     },
+     {
+      "en": "The segregated school for Black children had old, torn books.",
+      "ko": "흑인 아이들을 위한 분리 학교에는 낡고 찢어진 책밖에 없었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "integration",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Bringing people of different races together in the same schools, buses, and other places.",
+    "ko": "인종 통합",
+    "ko_simple": "서로 다른 인종의 사람들이 같은 학교, 버스 등을 함께 쓰게 하는 것",
+    "examples": [
+     {
+      "en": "Ruby Bridges helped bring integration to schools in New Orleans.",
+      "ko": "루비 브리지스는 뉴올리언스 학교의 인종 통합을 이끄는 데 도움을 주었다."
+     },
+     {
+      "en": "After integration, kids of all races sat in the same classroom.",
+      "ko": "인종 통합 뒤에는 모든 인종의 아이들이 같은 교실에 앉았다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "discrimination",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Treating a person or group unfairly because of their race, religion, gender, or other differences.",
+    "ko": "차별",
+    "ko_simple": "인종, 종교, 성별 같은 차이 때문에 사람이나 집단을 불공평하게 대하는 것",
+    "examples": [
+     {
+      "en": "Not hiring someone because of their skin color is discrimination.",
+      "ko": "피부색 때문에 누군가를 고용하지 않는 것은 차별이다."
+     },
+     {
+      "en": "The new law made discrimination in restaurants illegal.",
+      "ko": "새 법은 식당에서의 차별을 불법으로 만들었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "prejudice",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "An unfair opinion about a person or group formed without knowing them, often because of their race or background.",
+    "ko": "편견",
+    "ko_simple": "흔히 인종이나 출신 때문에, 잘 알지도 못하면서 사람이나 집단에 대해 갖는 불공평한 생각",
+    "examples": [
+     {
+      "en": "Prejudice can make people say unkind things about others.",
+      "ko": "편견 때문에 사람들은 남에게 못된 말을 하기도 한다."
+     },
+     {
+      "en": "Getting to know new friends is a good way to fight prejudice.",
+      "ko": "새 친구를 사귀어 알아 가는 것은 편견을 이기는 좋은 방법이다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "prejudices"
+  ],
+  "picture": false
+ },
+ {
+  "word": "equality",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Being treated the same and having the same rights as everyone else.",
+    "ko": "평등",
+    "ko_simple": "다른 모든 사람과 똑같이 대우받고 똑같은 권리를 가지는 것",
+    "examples": [
+     {
+      "en": "Dr. King dreamed of equality for all people.",
+      "ko": "킹 목사는 모든 사람의 평등을 꿈꾸었다."
+     },
+     {
+      "en": "Equality means every kid gets a fair turn on the swings.",
+      "ko": "평등은 모든 아이가 그네를 공평하게 탄다는 뜻이다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Jim Crow laws",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "Unfair laws, mostly in the South from the late 1800s to the 1960s, that kept Black and white people apart and took away Black people's rights.",
+    "ko": "짐 크로법",
+    "ko_simple": "1800년대 후반부터 1960년대까지 주로 남부에서 흑인과 백인을 갈라놓고 흑인의 권리를 빼앗은 불공평한 법",
+    "examples": [
+     {
+      "en": "Jim Crow laws made Black people sit in the back of the bus.",
+      "ko": "짐 크로법은 흑인을 버스 뒷자리에 앉게 했다."
+     },
+     {
+      "en": "Jim Crow laws made it very hard for Black citizens to vote.",
+      "ko": "짐 크로법 때문에 흑인 시민들은 투표하기가 매우 어려웠다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Martin Luther King Jr.",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A minister and leader of the Civil Rights Movement who used peaceful protest to fight for equal rights. He gave the \"I Have a Dream\" speech in 1963.",
+    "ko": "마틴 루서 킹 주니어",
+    "ko_simple": "평화적인 시위로 평등한 권리를 위해 싸운 목사이자 민권 운동 지도자. 1963년 '나에게는 꿈이 있습니다' 연설을 했다.",
+    "examples": [
+     {
+      "en": "Martin Luther King Jr. won the Nobel Peace Prize in 1964.",
+      "ko": "마틴 루서 킹 주니어는 1964년 노벨 평화상을 받았다."
+     },
+     {
+      "en": "We have no school on Martin Luther King Jr. Day in January.",
+      "ko": "1월의 마틴 루서 킹 주니어의 날에는 학교에 가지 않는다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "I Have a Dream",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A famous speech by Martin Luther King Jr. at the March on Washington in 1963, about his dream that all people would be treated equally.",
+    "ko": "나에게는 꿈이 있습니다",
+    "ko_simple": "1963년 워싱턴 행진에서 마틴 루서 킹 주니어가 한, 모든 사람이 평등하게 대우받는 꿈에 대한 유명한 연설",
+    "examples": [
+     {
+      "en": "In \"I Have a Dream,\" Dr. King hoped his children would be judged by their character, not their skin color.",
+      "ko": "'나에게는 꿈이 있습니다'에서 킹 목사는 자기 아이들이 피부색이 아니라 인격으로 평가받기를 바랐다."
+     },
+     {
+      "en": "Our class read \"I Have a Dream\" out loud together.",
+      "ko": "우리 반은 '나에게는 꿈이 있습니다'를 함께 소리 내어 읽었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "March on Washington",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A huge peaceful march in Washington, D.C., in August 1963, where about 250,000 people asked for jobs and freedom for Black Americans.",
+    "ko": "워싱턴 행진",
+    "ko_simple": "1963년 8월 워싱턴 D.C.에서 약 25만 명이 흑인 미국인의 일자리와 자유를 요구한 거대한 평화 행진",
+    "examples": [
+     {
+      "en": "The March on Washington ended at the Lincoln Memorial.",
+      "ko": "워싱턴 행진은 링컨 기념관에서 끝났다."
+     },
+     {
+      "en": "People came to the March on Washington by bus, train, and even on foot.",
+      "ko": "사람들은 버스, 기차, 심지어 걸어서 워싱턴 행진에 왔다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "nonviolence",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The idea of working for change through peaceful actions, without hitting or hurting anyone.",
+    "ko": "비폭력",
+    "ko_simple": "누구도 때리거나 다치게 하지 않고 평화로운 행동으로 변화를 이루려는 생각",
+    "examples": [
+     {
+      "en": "Dr. King learned about nonviolence from the ideas of Gandhi, a leader in India.",
+      "ko": "킹 목사는 인도의 지도자 간디의 생각에서 비폭력을 배웠다."
+     },
+     {
+      "en": "Nonviolence takes a lot of courage when people are being mean to you.",
+      "ko": "사람들이 나에게 못되게 굴 때 비폭력을 지키려면 큰 용기가 필요하다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Rosa Parks",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Black woman who, on December 1, 1955, refused to give up her bus seat to a white man in Montgomery, Alabama. Her arrest started the Montgomery Bus Boycott.",
+    "ko": "로자 파크스",
+    "ko_simple": "1955년 12월 1일 앨라배마주 몽고메리에서 버스 자리를 백인 남자에게 내주지 않은 흑인 여성. 그녀가 체포되면서 몽고메리 버스 보이콧이 시작되었다.",
+    "examples": [
+     {
+      "en": "Rosa Parks said she was not tired in her body, but tired of giving in.",
+      "ko": "로자 파크스는 몸이 피곤한 게 아니라 굴복하는 것에 지쳤다고 말했다."
+     },
+     {
+      "en": "Rosa Parks is called \"the mother of the civil rights movement.\"",
+      "ko": "로자 파크스는 '민권 운동의 어머니'라고 불린다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "Montgomery Bus Boycott",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A protest in Montgomery, Alabama, from 1955 to 1956, when Black citizens refused to ride city buses for 381 days until the buses were no longer segregated.",
+    "ko": "몽고메리 버스 보이콧",
+    "ko_simple": "1955~1956년 앨라배마주 몽고메리에서 흑인 시민들이 버스의 인종 분리가 없어질 때까지 381일 동안 시내버스를 타지 않은 시위",
+    "examples": [
+     {
+      "en": "During the Montgomery Bus Boycott, people shared rides or walked miles to work.",
+      "ko": "몽고메리 버스 보이콧 동안 사람들은 차를 같이 타거나 몇 킬로미터를 걸어서 출근했다."
+     },
+     {
+      "en": "The Montgomery Bus Boycott made Martin Luther King Jr. a national leader.",
+      "ko": "몽고메리 버스 보이콧으로 마틴 루서 킹 주니어는 전국적인 지도자가 되었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "sit-in",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A protest where people sit in a place and refuse to leave, to show they want a change.",
+    "ko": "연좌 농성",
+    "ko_simple": "사람들이 어떤 곳에 앉아서 떠나지 않으며 변화를 원한다는 것을 보여 주는 시위",
+    "examples": [
+     {
+      "en": "In 1960, four college students held a sit-in at a lunch counter in Greensboro.",
+      "ko": "1960년 대학생 네 명이 그린즈버러의 간이식당에서 연좌 농성을 했다."
+     },
+     {
+      "en": "At the sit-in, the students sat quietly even when people poured drinks on them.",
+      "ko": "연좌 농성 때 학생들은 사람들이 음료를 쏟아부어도 조용히 앉아 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "sit-ins"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Ruby Bridges",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A six-year-old girl who in 1960 became the first Black child to attend an all-white elementary school in New Orleans.",
+    "ko": "루비 브리지스",
+    "ko_simple": "1960년 여섯 살의 나이로 뉴올리언스의 백인만 다니던 초등학교에 처음 다닌 흑인 아이",
+    "examples": [
+     {
+      "en": "Ruby Bridges walked to school with US marshals protecting her.",
+      "ko": "루비 브리지스는 연방 보안관들의 보호를 받으며 학교에 걸어갔다."
+     },
+     {
+      "en": "For most of first grade, Ruby Bridges was the only student in her class.",
+      "ko": "1학년 대부분 동안 루비 브리지스는 반에서 유일한 학생이었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "Brown v. Board of Education",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Supreme Court case in 1954 that decided that separate schools for Black and white children were against the Constitution.",
+    "ko": "브라운 대 교육위원회 사건",
+    "ko_simple": "1954년 흑인과 백인 아이를 위한 학교를 따로 두는 것이 헌법에 어긋난다고 판결한 대법원 사건",
+    "examples": [
+     {
+      "en": "Brown v. Board of Education started with a girl named Linda Brown in Kansas.",
+      "ko": "브라운 대 교육위원회 사건은 캔자스의 린다 브라운이라는 소녀에게서 시작되었다."
+     },
+     {
+      "en": "After Brown v. Board of Education, schools were supposed to let all children in.",
+      "ko": "브라운 대 교육위원회 판결 뒤 학교들은 모든 아이를 받아들여야 했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Thurgood Marshall",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A lawyer who won the Brown v. Board of Education case and later became the first Black justice on the US Supreme Court.",
+    "ko": "서굿 마셜",
+    "ko_simple": "브라운 대 교육위원회 사건을 이긴 변호사로, 나중에 미국 대법원 최초의 흑인 대법관이 되었다.",
+    "examples": [
+     {
+      "en": "Thurgood Marshall argued that separate schools could never be equal.",
+      "ko": "서굿 마셜은 분리된 학교는 결코 평등할 수 없다고 주장했다."
+     },
+     {
+      "en": "Thurgood Marshall joined the Supreme Court in 1967.",
+      "ko": "서굿 마셜은 1967년에 대법관이 되었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Little Rock Nine",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "Nine Black students who in 1957 bravely started going to Central High School, an all-white school in Little Rock, Arkansas.",
+    "ko": "리틀록 나인",
+    "ko_simple": "1957년 아칸소주 리틀록의 백인만 다니던 센트럴 고등학교에 용감하게 다니기 시작한 흑인 학생 아홉 명",
+    "examples": [
+     {
+      "en": "Soldiers walked the Little Rock Nine into school to keep them safe.",
+      "ko": "군인들이 리틀록 나인을 안전하게 학교까지 데려갔다."
+     },
+     {
+      "en": "The Little Rock Nine faced angry crowds every day.",
+      "ko": "리틀록 나인은 날마다 성난 군중과 마주쳐야 했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Freedom Riders",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "Black and white people who rode buses together through the South in 1961 to protest segregated bus stations.",
+    "ko": "프리덤 라이더스(자유의 기수들)",
+    "ko_simple": "1961년 인종 분리된 버스 정류장에 항의하려고 흑인과 백인이 함께 버스를 타고 남부를 다닌 사람들",
+    "examples": [
+     {
+      "en": "The Freedom Riders were attacked, but they kept riding.",
+      "ko": "자유의 기수들은 공격을 받았지만 계속 버스를 탔다."
+     },
+     {
+      "en": "Many Freedom Riders were college students.",
+      "ko": "자유의 기수들 가운데 많은 사람이 대학생이었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "John Lewis",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A civil rights leader who marched with Dr. King, was beaten on the bridge in Selma in 1965, and later served in Congress for more than 30 years.",
+    "ko": "존 루이스",
+    "ko_simple": "킹 목사와 함께 행진했고 1965년 셀마의 다리에서 폭행을 당했으며, 나중에 30년 넘게 의회 의원을 지낸 민권 운동 지도자",
+    "examples": [
+     {
+      "en": "John Lewis talked about getting into \"good trouble.\"",
+      "ko": "존 루이스는 '좋은 말썽'을 일으키자고 말했다."
+     },
+     {
+      "en": "As a boy, John Lewis practiced preaching to his family's chickens.",
+      "ko": "어린 시절 존 루이스는 집에서 키우던 닭들에게 설교 연습을 했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Selma",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A city in Alabama where in 1965 people marched for voting rights, which helped lead to the Voting Rights Act.",
+    "ko": "셀마",
+    "ko_simple": "1965년 사람들이 투표권을 요구하며 행진해 투표권법이 만들어지는 데 도움을 준 앨라배마주의 도시",
+    "examples": [
+     {
+      "en": "The march from Selma to Montgomery was 54 miles long.",
+      "ko": "셀마에서 몽고메리까지의 행진은 87km나 되었다."
+     },
+     {
+      "en": "Police attacked the marchers in Selma on a day called Bloody Sunday.",
+      "ko": "'피의 일요일'이라 불리는 날 셀마에서 경찰이 행진하는 사람들을 공격했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Civil Rights Act",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A law passed in 1964 that made segregation in public places and unfair treatment because of race, religion, or sex against the law.",
+    "ko": "민권법",
+    "ko_simple": "1964년에 만든 법으로, 공공장소의 인종 분리와 인종·종교·성별에 따른 차별을 불법으로 정했다.",
+    "examples": [
+     {
+      "en": "After the Civil Rights Act, restaurants had to serve everyone.",
+      "ko": "민권법이 생긴 뒤 식당들은 모든 사람에게 음식을 팔아야 했다."
+     },
+     {
+      "en": "President Lyndon Johnson signed the Civil Rights Act.",
+      "ko": "린든 존슨 대통령이 민권법에 서명했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Voting Rights Act",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A law passed in 1965 that stopped unfair tests and rules that kept Black citizens from voting.",
+    "ko": "투표권법",
+    "ko_simple": "1965년에 만든 법으로, 흑인 시민의 투표를 막던 불공평한 시험과 규칙을 없앴다.",
+    "examples": [
+     {
+      "en": "After the Voting Rights Act, many more Black citizens could vote.",
+      "ko": "투표권법이 생긴 뒤 훨씬 많은 흑인 시민이 투표할 수 있게 되었다."
+     },
+     {
+      "en": "The Voting Rights Act was passed after the marches in Selma.",
+      "ko": "투표권법은 셀마 행진이 있은 뒤 통과되었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Cesar Chavez",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Mexican American leader who worked peacefully for fair pay and better treatment for farm workers.",
+    "ko": "세사르 차베스",
+    "ko_simple": "농장 노동자들의 공정한 임금과 더 나은 대우를 위해 평화적으로 일한 멕시코계 미국인 지도자",
+    "examples": [
+     {
+      "en": "Cesar Chavez led a boycott of grapes so farm workers would be treated fairly.",
+      "ko": "세사르 차베스는 농장 노동자들이 공정한 대우를 받도록 포도 불매 운동을 이끌었다."
+     },
+     {
+      "en": "Cesar Chavez picked crops in the fields when he was a boy.",
+      "ko": "세사르 차베스는 어렸을 때 밭에서 작물을 땄다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Dolores Huerta",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A leader who worked with Cesar Chavez to start a union for farm workers. She made the saying \"Sí, se puede,\" which means \"Yes, we can.\"",
+    "ko": "돌로레스 우에르타",
+    "ko_simple": "세사르 차베스와 함께 농장 노동자 조합을 만든 지도자. '시, 세 푸에데(그래, 우리는 할 수 있어)'라는 구호를 만들었다.",
+    "examples": [
+     {
+      "en": "Dolores Huerta was a teacher before she became a leader.",
+      "ko": "돌로레스 우에르타는 지도자가 되기 전에 선생님이었다."
+     },
+     {
+      "en": "Dolores Huerta saw that her students came to school hungry, so she decided to help farm workers.",
+      "ko": "돌로레스 우에르타는 학생들이 배고픈 채로 학교에 오는 것을 보고 농장 노동자들을 돕기로 했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "racism",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The unfair belief that one race is better than another, and the unfair treatment that comes from it.",
+    "ko": "인종 차별(주의)",
+    "ko_simple": "한 인종이 다른 인종보다 낫다는 불공평한 생각과 그로 인한 불공평한 대우",
+    "examples": [
+     {
+      "en": "Racism made life very hard for Black families in the Jim Crow South.",
+      "ko": "인종 차별 때문에 짐 크로 시대의 남부에서 흑인 가족들은 무척 힘들게 살았다."
+     },
+     {
+      "en": "Our school talked about how to stand up to racism.",
+      "ko": "우리 학교는 인종 차별에 맞서는 방법을 이야기했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "justice",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Fair treatment for everyone, especially by the law.",
+    "ko": "정의, 공정",
+    "ko_simple": "특히 법에 따라 모든 사람을 공평하게 대하는 것",
+    "examples": [
+     {
+      "en": "The marchers sang songs about freedom and justice.",
+      "ko": "행진하는 사람들은 자유와 정의에 관한 노래를 불렀다."
+     },
+     {
+      "en": "Dr. King said, \"Injustice anywhere is a threat to justice everywhere.\"",
+      "ko": "킹 목사는 \"어느 곳의 불의든 모든 곳의 정의를 위협한다\"고 말했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ }
+]

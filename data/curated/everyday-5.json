@@ -1,0 +1,2674 @@
+[
+ {
+  "word": "ceremony",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A special, formal event held to mark something important, like a wedding or a graduation.",
+    "ko": "의식, 식",
+    "ko_simple": "결혼식이나 졸업식처럼 중요한 일을 기념하는 정식 행사",
+    "examples": [
+     {
+      "en": "My cousin wore a cap and gown at her graduation ceremony.",
+      "ko": "사촌 언니는 졸업식에서 학사모와 가운을 입었다."
+     },
+     {
+      "en": "The award ceremony was in the school gym.",
+      "ko": "시상식은 학교 체육관에서 열렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "ceremonies"
+  ],
+  "picture": true
+ },
+ {
+  "word": "festival",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A special time of celebration, often with music, food, games, and lots of people.",
+    "ko": "축제",
+    "ko_simple": "음악, 음식, 놀이가 있는 즐거운 잔치",
+    "examples": [
+     {
+      "en": "We ate kettle corn and watched dancers at the fall festival.",
+      "ko": "우리는 가을 축제에서 달콤한 팝콘을 먹고 춤 공연을 봤다."
+     },
+     {
+      "en": "The town holds a kite festival every spring.",
+      "ko": "그 마을은 봄마다 연 축제를 연다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "festivals"
+  ],
+  "picture": true
+ },
+ {
+  "word": "journey",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A trip from one place to another, often a long one.",
+    "ko": "여행, 여정",
+    "ko_simple": "한 곳에서 다른 곳으로 가는 긴 길",
+    "examples": [
+     {
+      "en": "The journey to Grandma's house takes six hours by car.",
+      "ko": "할머니 댁까지는 차로 여섯 시간이 걸린다."
+     },
+     {
+      "en": "In the book, the hobbit goes on a long journey.",
+      "ko": "책에서 호빗은 긴 여정을 떠난다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "journeys"
+  ],
+  "picture": false
+ },
+ {
+  "word": "mansion",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A very large, fancy house.",
+    "ko": "대저택",
+    "ko_simple": "아주 크고 화려한 집",
+    "examples": [
+     {
+      "en": "The rich family lived in a mansion with forty rooms.",
+      "ko": "그 부자 가족은 방이 마흔 개나 되는 대저택에 살았다."
+     },
+     {
+      "en": "We toured an old mansion that people say is haunted.",
+      "ko": "우리는 유령이 나온다는 오래된 저택을 구경했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "mansions"
+  ],
+  "picture": true
+ },
+ {
+  "word": "cellar",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A room under a house, below the ground, often used for storing things.",
+    "ko": "지하 저장고, 지하실",
+    "ko_simple": "집 아래 땅속에 있는 방, 물건을 보관하는 곳",
+    "examples": [
+     {
+      "en": "Grandpa keeps jars of pickles in the cool cellar.",
+      "ko": "할아버지는 서늘한 지하 저장고에 피클 병을 보관하신다."
+     },
+     {
+      "en": "We hid in the cellar during the tornado warning.",
+      "ko": "토네이도 경보가 울리는 동안 우리는 지하실에 숨었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "cellars"
+  ],
+  "picture": true
+ },
+ {
+  "word": "attic",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The room or space right under the roof of a house.",
+    "ko": "다락방",
+    "ko_simple": "집 지붕 바로 밑에 있는 방",
+    "examples": [
+     {
+      "en": "We found a box of old toys in the attic.",
+      "ko": "우리는 다락방에서 옛날 장난감이 든 상자를 찾았다."
+     },
+     {
+      "en": "The attic was dusty and full of spider webs.",
+      "ko": "다락방은 먼지투성이에 거미줄이 가득했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "attics"
+  ],
+  "picture": true
+ },
+ {
+  "word": "lantern",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A light inside a case with a handle, so you can carry it.",
+    "ko": "랜턴, 등불, 초롱",
+    "ko_simple": "손잡이가 달려 들고 다닐 수 있는 등",
+    "examples": [
+     {
+      "en": "We hung a lantern in our tent when we went camping.",
+      "ko": "캠핑 갔을 때 우리는 텐트 안에 랜턴을 걸었다."
+     },
+     {
+      "en": "Paper lanterns floated up into the night sky.",
+      "ko": "종이 등이 밤하늘로 떠올랐다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "lanterns"
+  ],
+  "picture": true
+ },
+ {
+  "word": "pebble",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A small, smooth, round stone.",
+    "ko": "조약돌, 자갈",
+    "ko_simple": "작고 매끄럽고 둥근 돌",
+    "examples": [
+     {
+      "en": "I skipped a flat pebble across the lake.",
+      "ko": "나는 납작한 조약돌로 호수에서 물수제비를 떴다."
+     },
+     {
+      "en": "There was a pebble in my shoe the whole hike.",
+      "ko": "등산하는 내내 신발 속에 작은 돌이 들어 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "pebbles"
+  ],
+  "picture": true
+ },
+ {
+  "word": "meadow",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A field of grass and wildflowers.",
+    "ko": "초원, 풀밭",
+    "ko_simple": "풀과 들꽃이 가득한 넓은 들",
+    "examples": [
+     {
+      "en": "Cows were eating grass in the meadow.",
+      "ko": "소들이 초원에서 풀을 뜯고 있었다."
+     },
+     {
+      "en": "We had a picnic in a meadow full of yellow flowers.",
+      "ko": "우리는 노란 꽃이 가득한 풀밭에서 소풍을 했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "meadows"
+  ],
+  "picture": true
+ },
+ {
+  "word": "orchard",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A piece of land where many fruit trees are grown.",
+    "ko": "과수원",
+    "ko_simple": "과일나무를 많이 심어 기르는 땅",
+    "examples": [
+     {
+      "en": "We picked apples at the orchard in October.",
+      "ko": "우리는 10월에 과수원에서 사과를 땄다."
+     },
+     {
+      "en": "The peach orchard smelled sweet in the summer.",
+      "ko": "여름에 복숭아 과수원은 달콤한 냄새가 났다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "orchards"
+  ],
+  "picture": true
+ },
+ {
+  "word": "cottage",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A small, cozy house, often in the country.",
+    "ko": "오두막, 작은 시골집",
+    "ko_simple": "시골에 있는 작고 아늑한 집",
+    "examples": [
+     {
+      "en": "The old woman lived in a cottage at the edge of the woods.",
+      "ko": "할머니는 숲 가장자리의 작은 오두막에 살았다."
+     },
+     {
+      "en": "We rented a little cottage by the lake for a week.",
+      "ko": "우리는 일주일 동안 호숫가의 작은 별장을 빌렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "cottages"
+  ],
+  "picture": true
+ },
+ {
+  "word": "cabin",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A small, simple house made of wood, often in the woods; also a room on a ship or plane.",
+    "ko": "오두막, 선실, 객실",
+    "ko_simple": "숲속의 작은 통나무집, 또는 배나 비행기 안의 방",
+    "examples": [
+     {
+      "en": "We stayed in a log cabin in the mountains.",
+      "ko": "우리는 산속 통나무 오두막에 묵었다."
+     },
+     {
+      "en": "The pilot spoke to everyone in the cabin.",
+      "ko": "조종사가 객실에 있는 모든 사람에게 방송을 했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "cabins"
+  ],
+  "picture": true
+ },
+ {
+  "word": "dungeon",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A dark prison room under a castle.",
+    "ko": "지하 감옥",
+    "ko_simple": "성 아래에 있는 어두운 감옥",
+    "examples": [
+     {
+      "en": "The wicked king locked the prince in the dungeon.",
+      "ko": "사악한 왕이 왕자를 지하 감옥에 가두었다."
+     },
+     {
+      "en": "In the video game, you must escape from the dungeon.",
+      "ko": "그 비디오 게임에서는 지하 감옥에서 탈출해야 한다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "dungeons"
+  ],
+  "picture": true
+ },
+ {
+  "word": "chamber",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A room, especially a private or special one in a big building or castle.",
+    "ko": "방, 실",
+    "ko_simple": "큰 건물이나 성 안의 방",
+    "examples": [
+     {
+      "en": "The queen rested in her royal chamber.",
+      "ko": "여왕은 자신의 침실에서 쉬었다."
+     },
+     {
+      "en": "The explorers found a secret chamber inside the pyramid.",
+      "ko": "탐험가들은 피라미드 안에서 비밀의 방을 발견했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "chambers"
+  ],
+  "picture": false
+ },
+ {
+  "word": "corridor",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A long, narrow hall with doors to rooms along it.",
+    "ko": "복도, 통로",
+    "ko_simple": "양옆에 방문이 있는 길고 좁은 통로",
+    "examples": [
+     {
+      "en": "Our classroom is at the end of the corridor.",
+      "ko": "우리 교실은 복도 끝에 있다."
+     },
+     {
+      "en": "The hotel corridor seemed to go on forever.",
+      "ko": "호텔 복도는 끝없이 이어지는 것 같았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "corridors"
+  ],
+  "picture": true
+ },
+ {
+  "word": "staircase",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A set of stairs inside a building, often with a rail.",
+    "ko": "계단",
+    "ko_simple": "건물 안에 난간과 함께 있는 층계",
+    "examples": [
+     {
+      "en": "The princess ran down the grand staircase.",
+      "ko": "공주는 웅장한 계단을 뛰어 내려갔다."
+     },
+     {
+      "en": "A spiral staircase led up to the top of the lighthouse.",
+      "ko": "나선형 계단이 등대 꼭대기까지 이어져 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "staircases"
+  ],
+  "picture": true
+ },
+ {
+  "word": "balcony",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A small floor with a railing that sticks out from the outside wall of a building, above the ground.",
+    "ko": "발코니",
+    "ko_simple": "건물 바깥 벽에 붙어 튀어나온 난간 있는 곳",
+    "examples": [
+     {
+      "en": "We watched the parade from our hotel balcony.",
+      "ko": "우리는 호텔 발코니에서 퍼레이드를 구경했다."
+     },
+     {
+      "en": "Mom grows tomatoes on the apartment balcony.",
+      "ko": "엄마는 아파트 발코니에서 토마토를 키우신다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "balconies"
+  ],
+  "picture": true
+ },
+ {
+  "word": "porch",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A covered area at the front or back door of a house.",
+    "ko": "현관, 베란다",
+    "ko_simple": "집 앞문이나 뒷문 앞의 지붕 있는 공간",
+    "examples": [
+     {
+      "en": "Grandpa sits on the front porch in his rocking chair.",
+      "ko": "할아버지는 앞 현관에서 흔들의자에 앉아 계신다."
+     },
+     {
+      "en": "The package was left on our porch.",
+      "ko": "소포가 우리 집 현관 앞에 놓여 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "porches"
+  ],
+  "picture": true
+ },
+ {
+  "word": "chimney",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A tall pipe or tower that lets smoke from a fireplace go up out of a house.",
+    "ko": "굴뚝",
+    "ko_simple": "벽난로 연기가 밖으로 나가도록 지붕 위로 솟은 통로",
+    "examples": [
+     {
+      "en": "Smoke curled out of the chimney on the cold night.",
+      "ko": "추운 밤 굴뚝에서 연기가 모락모락 피어올랐다."
+     },
+     {
+      "en": "In stories, Santa comes down the chimney.",
+      "ko": "이야기에서 산타는 굴뚝으로 내려온다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "chimneys"
+  ],
+  "picture": true
+ },
+ {
+  "word": "hearth",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The floor of a fireplace or the area in front of it.",
+    "ko": "난로 바닥, 난롯가",
+    "ko_simple": "벽난로의 바닥이나 그 앞자리",
+    "examples": [
+     {
+      "en": "The cat curled up by the warm hearth.",
+      "ko": "고양이는 따뜻한 난롯가에서 몸을 웅크렸다."
+     },
+     {
+      "en": "We hung our stockings above the hearth.",
+      "ko": "우리는 벽난로 위에 양말을 걸었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "hearths"
+  ],
+  "picture": true
+ },
+ {
+  "word": "quilt",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A warm blanket made of two layers of cloth with soft stuffing, often sewn from many colorful pieces.",
+    "ko": "퀼트 이불, 누비이불",
+    "ko_simple": "여러 조각 천을 이어 속을 넣고 꿰맨 따뜻한 이불",
+    "examples": [
+     {
+      "en": "Grandma made me a quilt with patches from my baby clothes.",
+      "ko": "할머니는 내 아기 때 옷 조각으로 퀼트 이불을 만들어 주셨다."
+     },
+     {
+      "en": "I hid under my quilt during the thunderstorm.",
+      "ko": "천둥번개가 칠 때 나는 누비이불 속에 숨었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "quilts"
+  ],
+  "picture": true
+ },
+ {
+  "word": "cupboard",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A cabinet with shelves and doors, often in a kitchen.",
+    "ko": "찬장, 벽장",
+    "ko_simple": "부엌 등에 있는, 선반과 문이 달린 수납장",
+    "examples": [
+     {
+      "en": "The cups are in the cupboard above the sink.",
+      "ko": "컵은 싱크대 위 찬장에 있다."
+     },
+     {
+      "en": "I found a bag of chips hidden in the back of the cupboard.",
+      "ko": "찬장 안쪽 깊숙이 숨겨진 과자 한 봉지를 찾았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "cupboards"
+  ],
+  "picture": true
+ },
+ {
+  "word": "pantry",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A small room or closet where food is kept.",
+    "ko": "식료품 저장실",
+    "ko_simple": "음식을 보관하는 작은 방이나 벽장",
+    "examples": [
+     {
+      "en": "We keep cereal and canned soup in the pantry.",
+      "ko": "우리는 시리얼과 통조림 수프를 식료품 저장실에 둔다."
+     },
+     {
+      "en": "The mouse sneaked into the pantry for crackers.",
+      "ko": "생쥐가 크래커를 먹으려고 식료품실에 몰래 들어갔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "pantries"
+  ],
+  "picture": true
+ },
+ {
+  "word": "trunk",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A big, strong box for storing or carrying things; also the back storage space of a car.",
+    "ko": "트렁크, 큰 상자",
+    "ko_simple": "물건을 넣어 두는 크고 튼튼한 상자, 또는 자동차 뒤 짐칸",
+    "examples": [
+     {
+      "en": "We found old letters in a trunk in the attic.",
+      "ko": "우리는 다락방의 큰 상자 안에서 옛날 편지를 찾았다."
+     },
+     {
+      "en": "Put the suitcases in the trunk of the car.",
+      "ko": "여행 가방은 자동차 트렁크에 넣어라."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "trunks"
+  ],
+  "picture": true
+ },
+ {
+  "word": "satchel",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A bag with a long strap that goes over your shoulder.",
+    "ko": "가방, 책가방",
+    "ko_simple": "긴 끈을 어깨에 메는 가방",
+    "examples": [
+     {
+      "en": "The mail carrier carried letters in a leather satchel.",
+      "ko": "집배원은 가죽 가방에 편지를 넣어 다녔다."
+     },
+     {
+      "en": "She packed her lunch and a book in her satchel.",
+      "ko": "그녀는 점심과 책 한 권을 숄더백에 챙겼다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "satchels"
+  ],
+  "picture": true
+ },
+ {
+  "word": "bonfire",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A large outdoor fire, often made for a party or celebration.",
+    "ko": "모닥불, 화톳불",
+    "ko_simple": "잔치 때 밖에서 크게 피우는 불",
+    "examples": [
+     {
+      "en": "We roasted marshmallows over the bonfire at the beach.",
+      "ko": "우리는 해변에서 모닥불에 마시멜로를 구웠다."
+     },
+     {
+      "en": "The whole town gathered around the bonfire.",
+      "ko": "온 마을 사람들이 큰 모닥불 주위에 모였다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "bonfires"
+  ],
+  "picture": true
+ },
+ {
+  "word": "puddle",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A small pool of water on the ground, usually after rain.",
+    "ko": "물웅덩이",
+    "ko_simple": "비가 온 뒤 땅에 고인 작은 물",
+    "examples": [
+     {
+      "en": "My little brother jumped in every puddle on the way home.",
+      "ko": "남동생은 집에 오는 길에 물웅덩이마다 뛰어들었다."
+     },
+     {
+      "en": "The car splashed a puddle all over my pants.",
+      "ko": "차가 지나가면서 웅덩이 물을 내 바지에 튀겼다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "puddles"
+  ],
+  "picture": true
+ },
+ {
+  "word": "creek",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A small, narrow stream of water.",
+    "ko": "개울, 시내",
+    "ko_simple": "작고 좁은 물줄기",
+    "examples": [
+     {
+      "en": "We caught tadpoles in the creek behind our house.",
+      "ko": "우리는 집 뒤 개울에서 올챙이를 잡았다."
+     },
+     {
+      "en": "The creek was so cold that our toes went numb.",
+      "ko": "개울물이 너무 차가워서 발가락이 얼얼했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "creeks"
+  ],
+  "picture": true
+ },
+ {
+  "word": "banquet",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A big, fancy meal for many people, often to celebrate something.",
+    "ko": "연회, 만찬",
+    "ko_simple": "무언가를 축하하려고 많은 사람이 함께하는 큰 잔치 식사",
+    "examples": [
+     {
+      "en": "The team had a banquet at the end of the season.",
+      "ko": "팀은 시즌이 끝나고 축하 만찬을 열었다."
+     },
+     {
+      "en": "The king held a banquet with roast turkey and pies.",
+      "ko": "왕은 구운 칠면조와 파이가 나오는 연회를 열었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "banquets"
+  ],
+  "picture": true
+ },
+ {
+  "word": "feast",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A large, special meal with lots of good food.",
+    "ko": "잔치, 진수성찬",
+    "ko_simple": "맛있는 음식이 아주 많은 특별한 식사",
+    "examples": [
+     {
+      "en": "We had a Thanksgiving feast with the whole family.",
+      "ko": "우리는 온 가족과 함께 추수감사절 잔치 음식을 먹었다."
+     },
+     {
+      "en": "The ants had a feast on the dropped ice cream.",
+      "ko": "개미들이 떨어진 아이스크림으로 잔치를 벌였다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "feasts"
+  ],
+  "picture": false
+ },
+ {
+  "word": "parade",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A line of people, bands, and floats moving down a street to celebrate something.",
+    "ko": "퍼레이드, 행진",
+    "ko_simple": "축하하려고 사람들과 악대가 줄지어 거리를 지나가는 것",
+    "examples": [
+     {
+      "en": "We waved flags at the Fourth of July parade.",
+      "ko": "우리는 독립기념일 퍼레이드에서 깃발을 흔들었다."
+     },
+     {
+      "en": "Giant balloons floated over the parade.",
+      "ko": "거대한 풍선들이 퍼레이드 위로 둥둥 떠다녔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "parades"
+  ],
+  "picture": true
+ },
+ {
+  "word": "carnival",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A fun outdoor event with rides, games, and snacks.",
+    "ko": "카니발, 축제",
+    "ko_simple": "놀이 기구와 게임, 간식이 있는 야외 축제",
+    "examples": [
+     {
+      "en": "I won a stuffed bear at the school carnival.",
+      "ko": "나는 학교 축제에서 곰 인형을 탔다."
+     },
+     {
+      "en": "We rode the Ferris wheel at the carnival.",
+      "ko": "우리는 축제에서 대관람차를 탔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "carnivals"
+  ],
+  "picture": true
+ },
+ {
+  "word": "tradition",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Something a family or group has done the same way for a long time.",
+    "ko": "전통, 관습",
+    "ko_simple": "가족이나 사람들이 오랫동안 같은 방식으로 해 온 것",
+    "examples": [
+     {
+      "en": "It is our family tradition to eat tteokguk on New Year's Day.",
+      "ko": "설날에 떡국을 먹는 것은 우리 가족의 전통이다."
+     },
+     {
+      "en": "Carving pumpkins is a fall tradition in many homes.",
+      "ko": "호박 조각하기는 많은 가정의 가을 전통이다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "traditions",
+   "traditional"
+  ],
+  "picture": false
+ },
+ {
+  "word": "legend",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "An old story that many people tell, which may or may not be true.",
+    "ko": "전설",
+    "ko_simple": "사람들 사이에 오래 전해 오는, 사실인지 모를 이야기",
+    "examples": [
+     {
+      "en": "The legend says a dragon lives under the mountain.",
+      "ko": "전설에 따르면 산 아래에 용이 산다고 한다."
+     },
+     {
+      "en": "My uncle is a legend at the bowling alley.",
+      "ko": "우리 삼촌은 볼링장에서 전설적인 인물이다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "legends"
+  ],
+  "picture": false
+ },
+ {
+  "word": "riddle",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A tricky question or puzzle that you have to think about to answer.",
+    "ko": "수수께끼",
+    "ko_simple": "머리를 써서 맞혀야 하는 재미있는 질문",
+    "examples": [
+     {
+      "en": "Here's a riddle: what has hands but can't clap? A clock!",
+      "ko": "수수께끼 하나: 손이 있는데 박수를 못 치는 것은? 시계!"
+     },
+     {
+      "en": "The troll would only let us cross if we solved his riddle.",
+      "ko": "트롤은 우리가 수수께끼를 풀어야만 다리를 건너게 해 주겠다고 했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "riddles"
+  ],
+  "picture": false
+ },
+ {
+  "word": "rumor",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A story that people pass around that may not be true.",
+    "ko": "소문, 풍문",
+    "ko_simple": "사실인지 모르면서 사람들 사이에 퍼지는 말",
+    "examples": [
+     {
+      "en": "There's a rumor that we get a day off next week.",
+      "ko": "다음 주에 하루 쉰다는 소문이 있다."
+     },
+     {
+      "en": "Don't spread rumors about your classmates.",
+      "ko": "반 친구들에 대한 소문을 퍼뜨리지 마라."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "rumors"
+  ],
+  "picture": false
+ },
+ {
+  "word": "clue",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A piece of information that helps you solve a mystery or figure something out.",
+    "ko": "단서, 실마리",
+    "ko_simple": "문제를 풀거나 비밀을 밝히는 데 도움이 되는 것",
+    "examples": [
+     {
+      "en": "The muddy paw prints were a clue that the dog had been on the couch.",
+      "ko": "진흙 묻은 발자국은 개가 소파에 올라갔었다는 단서였다."
+     },
+     {
+      "en": "The detective searched the room for clues.",
+      "ko": "탐정은 단서를 찾으려고 방을 뒤졌다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "clues"
+  ],
+  "picture": false
+ },
+ {
+  "word": "adventure",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "An exciting experience, often with some danger or surprises.",
+    "ko": "모험",
+    "ko_simple": "신나고 조금 위험하기도 한 특별한 경험",
+    "examples": [
+     {
+      "en": "Our camping trip turned into an adventure when a bear showed up.",
+      "ko": "곰이 나타나면서 캠핑 여행은 모험이 되었다."
+     },
+     {
+      "en": "I love books about pirate adventures.",
+      "ko": "나는 해적 모험 이야기 책을 좋아한다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "adventures",
+   "adventurous"
+  ],
+  "picture": false
+ },
+ {
+  "word": "quest",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A long search for something important, often in a story.",
+    "ko": "탐색, 탐구, 모험의 여정",
+    "ko_simple": "중요한 것을 찾아 떠나는 긴 여행",
+    "examples": [
+     {
+      "en": "The knight went on a quest to find the magic sword.",
+      "ko": "기사는 마법의 칼을 찾아 머나먼 여정을 떠났다."
+     },
+     {
+      "en": "My quest for the perfect pancake recipe continues!",
+      "ko": "완벽한 팬케이크 요리법을 찾는 내 여정은 계속된다!"
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "quests"
+  ],
+  "picture": false
+ },
+ {
+  "word": "voyage",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A long trip, especially by ship or into space.",
+    "ko": "항해, 여행",
+    "ko_simple": "배를 타거나 우주로 가는 긴 여행",
+    "examples": [
+     {
+      "en": "The ship's voyage across the ocean took two weeks.",
+      "ko": "배가 바다를 건너는 항해는 2주가 걸렸다."
+     },
+     {
+      "en": "The astronauts got ready for their voyage to the moon.",
+      "ko": "우주 비행사들은 달까지의 여행을 준비했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "voyages"
+  ],
+  "picture": false
+ },
+ {
+  "word": "treasure",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Gold, jewels, or other things that are worth a lot; also anything very special to you.",
+    "ko": "보물",
+    "ko_simple": "금이나 보석처럼 값진 것, 또는 아주 소중한 것",
+    "examples": [
+     {
+      "en": "The pirates buried their treasure on the island.",
+      "ko": "해적들은 섬에 보물을 묻었다."
+     },
+     {
+      "en": "My grandma's old ring is my greatest treasure.",
+      "ko": "할머니의 오래된 반지는 내 가장 큰 보물이다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "treasures"
+  ],
+  "picture": true
+ },
+ {
+  "word": "jewel",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A beautiful, valuable stone, like a diamond or ruby.",
+    "ko": "보석",
+    "ko_simple": "다이아몬드나 루비처럼 아름답고 값비싼 돌",
+    "examples": [
+     {
+      "en": "The crown was covered in shining jewels.",
+      "ko": "왕관은 반짝이는 보석으로 뒤덮여 있었다."
+     },
+     {
+      "en": "The thief tried to steal the jewel from the museum.",
+      "ko": "도둑이 박물관에서 보석을 훔치려 했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "jewels",
+   "jewelry"
+  ],
+  "picture": true
+ },
+ {
+  "word": "fortune",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A very large amount of money; also luck.",
+    "ko": "큰돈, 재산, 운",
+    "ko_simple": "아주 많은 돈, 또는 운수",
+    "examples": [
+     {
+      "en": "The man made a fortune selling his invention.",
+      "ko": "그 남자는 발명품을 팔아서 큰돈을 벌었다."
+     },
+     {
+      "en": "By good fortune, we found a parking spot right away.",
+      "ko": "운 좋게도 우리는 바로 주차 자리를 찾았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "fortunes"
+  ],
+  "picture": false
+ },
+ {
+  "word": "potion",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A drink that is said to have magic or medicine in it.",
+    "ko": "물약, 묘약",
+    "ko_simple": "마법이나 약효가 있다고 하는 마시는 것",
+    "examples": [
+     {
+      "en": "The witch stirred a bubbly green potion.",
+      "ko": "마녀가 부글거리는 초록색 물약을 저었다."
+     },
+     {
+      "en": "In the story, one sip of the potion made him tiny.",
+      "ko": "이야기 속에서 그는 물약 한 모금을 마시고 작아졌다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "potions"
+  ],
+  "picture": true
+ },
+ {
+  "word": "wizard",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A man in stories who has magic powers.",
+    "ko": "마법사",
+    "ko_simple": "이야기 속의 마법을 부리는 남자",
+    "examples": [
+     {
+      "en": "The wizard waved his wand and the frog turned into a prince.",
+      "ko": "마법사가 지팡이를 휘두르자 개구리가 왕자로 변했다."
+     },
+     {
+      "en": "My dad is a wizard at fixing bikes.",
+      "ko": "우리 아빠는 자전거 고치는 데 귀신같은 솜씨가 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "wizards"
+  ],
+  "picture": true
+ },
+ {
+  "word": "creature",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Any living thing that can move, like an animal; or a strange made-up being.",
+    "ko": "생물, 동물",
+    "ko_simple": "살아서 움직이는 동물이나 이상한 존재",
+    "examples": [
+     {
+      "en": "Tiny creatures live in the tide pools.",
+      "ko": "조수 웅덩이에는 작은 생물들이 산다."
+     },
+     {
+      "en": "A furry creature with three eyes appeared in my dream.",
+      "ko": "꿈에 눈이 세 개 달린 털복숭이 괴물이 나타났다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "creatures"
+  ],
+  "picture": true
+ },
+ {
+  "word": "stranger",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A person you do not know.",
+    "ko": "낯선 사람",
+    "ko_simple": "모르는 사람",
+    "examples": [
+     {
+      "en": "Never get in a car with a stranger.",
+      "ko": "절대 낯선 사람의 차에 타지 마라."
+     },
+     {
+      "en": "A kind stranger helped us carry our groceries.",
+      "ko": "친절한 낯선 사람이 우리 장바구니를 들어 주었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "strangers"
+  ],
+  "picture": false
+ },
+ {
+  "word": "villain",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The bad character in a story, movie, or play.",
+    "ko": "악당, 악역",
+    "ko_simple": "이야기나 영화에 나오는 나쁜 인물",
+    "examples": [
+     {
+      "en": "The villain tried to steal all the city's power.",
+      "ko": "악당은 도시의 전기를 몽땅 훔치려 했다."
+     },
+     {
+      "en": "Everyone booed when the villain came on stage.",
+      "ko": "악당이 무대에 나오자 모두가 야유했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "villains"
+  ],
+  "picture": false
+ },
+ {
+  "word": "companion",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A person or animal you spend time with or travel with.",
+    "ko": "동반자, 친구, 동료",
+    "ko_simple": "함께 시간을 보내거나 같이 다니는 사람이나 동물",
+    "examples": [
+     {
+      "en": "My dog is my best companion on long walks.",
+      "ko": "우리 개는 긴 산책길의 가장 좋은 동반자이다."
+     },
+     {
+      "en": "The hero and her companions crossed the mountains together.",
+      "ko": "주인공과 동료들은 함께 산을 넘었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "companions"
+  ],
+  "picture": false
+ },
+ {
+  "word": "rival",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Someone you are trying to beat in a game, contest, or race.",
+    "ko": "경쟁자, 라이벌",
+    "ko_simple": "시합이나 대회에서 이기려고 겨루는 상대",
+    "examples": [
+     {
+      "en": "Our team beat our biggest rival in the final game.",
+      "ko": "우리 팀은 결승전에서 가장 큰 라이벌을 이겼다."
+     },
+     {
+      "en": "The two chefs were friendly rivals.",
+      "ko": "두 요리사는 사이좋은 라이벌이었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "rivals"
+  ],
+  "picture": false
+ },
+ {
+  "word": "orphan",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A child whose parents have died.",
+    "ko": "고아",
+    "ko_simple": "부모님이 돌아가신 아이",
+    "examples": [
+     {
+      "en": "In the story, the orphan lived with her kind aunt.",
+      "ko": "이야기 속에서 그 고아 소녀는 친절한 이모와 함께 살았다."
+     },
+     {
+      "en": "Annie is a famous orphan from a musical.",
+      "ko": "애니는 뮤지컬에 나오는 유명한 고아이다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "orphans"
+  ],
+  "picture": false
+ },
+ {
+  "word": "chore",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A small job you do regularly at home, like washing dishes or feeding the pet.",
+    "ko": "집안일, 허드렛일",
+    "ko_simple": "설거지나 애완동물 먹이 주기처럼 집에서 늘 하는 일",
+    "examples": [
+     {
+      "en": "My chore is to take out the trash every Tuesday.",
+      "ko": "내 집안일은 매주 화요일에 쓰레기를 내다 버리는 것이다."
+     },
+     {
+      "en": "We finished our chores so we could go to the pool.",
+      "ko": "우리는 수영장에 가려고 집안일을 끝냈다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "chores"
+  ],
+  "picture": false
+ },
+ {
+  "word": "errand",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A short trip to do a job, like buying something at a store.",
+    "ko": "심부름, 볼일",
+    "ko_simple": "가게에 다녀오는 것처럼 잠깐 나가서 하는 일",
+    "examples": [
+     {
+      "en": "Mom asked me to run an errand to the corner store.",
+      "ko": "엄마는 나에게 모퉁이 가게에 심부름을 다녀오라고 하셨다."
+     },
+     {
+      "en": "Dad has a lot of errands to do on Saturday.",
+      "ko": "아빠는 토요일에 볼일이 많으시다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "errands"
+  ],
+  "picture": false
+ },
+ {
+  "word": "allowance",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Money that parents give a child regularly, often for doing chores.",
+    "ko": "용돈",
+    "ko_simple": "부모님이 아이에게 정기적으로 주는 돈",
+    "examples": [
+     {
+      "en": "I save my allowance to buy a new video game.",
+      "ko": "나는 새 비디오 게임을 사려고 용돈을 모은다."
+     },
+     {
+      "en": "My weekly allowance is five dollars.",
+      "ko": "내 일주일 용돈은 5달러이다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "allowances"
+  ],
+  "picture": false
+ },
+ {
+  "word": "hobby",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Something you like to do in your free time for fun.",
+    "ko": "취미",
+    "ko_simple": "쉬는 시간에 재미로 하는 일",
+    "examples": [
+     {
+      "en": "My hobby is collecting rocks.",
+      "ko": "내 취미는 돌 모으기이다."
+     },
+     {
+      "en": "Grandpa's hobby is building model trains.",
+      "ko": "할아버지의 취미는 기차 모형 만들기이다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "hobbies"
+  ],
+  "picture": false
+ },
+ {
+  "word": "talent",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A natural ability to do something well.",
+    "ko": "재능, 소질",
+    "ko_simple": "태어날 때부터 무언가를 잘하는 능력",
+    "examples": [
+     {
+      "en": "Mina has a talent for drawing animals.",
+      "ko": "미나는 동물을 그리는 재능이 있다."
+     },
+     {
+      "en": "The school talent show had singers, dancers, and a juggler.",
+      "ko": "학교 장기 자랑에는 가수, 무용수, 저글링하는 사람이 나왔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "talents",
+   "talented"
+  ],
+  "picture": false
+ },
+ {
+  "word": "habit",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Something you do so often that you do it without thinking.",
+    "ko": "습관, 버릇",
+    "ko_simple": "생각하지 않아도 저절로 늘 하게 되는 것",
+    "examples": [
+     {
+      "en": "Brushing your teeth before bed is a good habit.",
+      "ko": "자기 전에 이를 닦는 것은 좋은 습관이다."
+     },
+     {
+      "en": "My brother has a habit of biting his nails.",
+      "ko": "형은 손톱을 물어뜯는 버릇이 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "habits"
+  ],
+  "picture": false
+ },
+ {
+  "word": "manners",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Polite ways of acting, like saying \"please\" and \"thank you.\"",
+    "ko": "예절, 예의범절",
+    "ko_simple": "'부탁해요', '고마워요'처럼 예의 바르게 행동하는 방법",
+    "examples": [
+     {
+      "en": "Good manners mean not talking with your mouth full.",
+      "ko": "좋은 예절이란 입에 음식을 넣고 말하지 않는 것이다."
+     },
+     {
+      "en": "Grandma always notices when we forget our manners.",
+      "ko": "우리가 예의를 잊으면 할머니는 늘 알아차리신다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "excuse",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A reason you give to explain why you did something wrong or did not do something.",
+    "ko": "변명, 핑계",
+    "ko_simple": "잘못하거나 하지 않은 일에 대해 대는 이유",
+    "examples": [
+     {
+      "en": "\"My dog ate my homework\" is a very old excuse.",
+      "ko": "\"개가 숙제를 먹었어요\"는 아주 오래된 핑계다."
+     },
+     {
+      "en": "He always has an excuse for being late.",
+      "ko": "그는 늦을 때마다 늘 핑계를 댄다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "excuses"
+  ],
+  "picture": false
+ },
+ {
+  "word": "permission",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "When someone says it is okay for you to do something.",
+    "ko": "허락, 허가",
+    "ko_simple": "어떤 일을 해도 된다고 허락받는 것",
+    "examples": [
+     {
+      "en": "You need your parents' permission to go on the field trip.",
+      "ko": "현장 학습을 가려면 부모님의 허락이 필요하다."
+     },
+     {
+      "en": "I asked permission before I took a cookie.",
+      "ko": "나는 쿠키를 먹기 전에 허락을 구했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "reward",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Something good you get for doing something well or helping.",
+    "ko": "보상, 상",
+    "ko_simple": "잘하거나 도와준 일에 대해 받는 좋은 것",
+    "examples": [
+     {
+      "en": "The reward for finding the lost dog was fifty dollars.",
+      "ko": "잃어버린 개를 찾아 준 보상금은 50달러였다."
+     },
+     {
+      "en": "We got extra recess as a reward for good behavior.",
+      "ko": "우리는 행동을 잘한 상으로 쉬는 시간을 더 받았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "rewards"
+  ],
+  "picture": false
+ },
+ {
+  "word": "trophy",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A prize, often a metal cup or statue, given to a winner.",
+    "ko": "트로피, 우승컵",
+    "ko_simple": "우승한 사람에게 주는 컵이나 조각상 모양의 상",
+    "examples": [
+     {
+      "en": "Our team won a shiny gold trophy.",
+      "ko": "우리 팀은 반짝이는 금색 트로피를 받았다."
+     },
+     {
+      "en": "He keeps his spelling bee trophy on his shelf.",
+      "ko": "그는 철자 대회 트로피를 선반 위에 둔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "trophies"
+  ],
+  "picture": true
+ },
+ {
+  "word": "silhouette",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The dark shape of something seen against a bright background.",
+    "ko": "실루엣, 윤곽",
+    "ko_simple": "밝은 배경 앞에서 까맣게 보이는 모양",
+    "examples": [
+     {
+      "en": "We saw the silhouette of a cat on the windowsill.",
+      "ko": "창턱 위에 고양이 실루엣이 보였다."
+     },
+     {
+      "en": "The mountains made a dark silhouette against the sunset.",
+      "ko": "산들이 노을을 배경으로 검은 윤곽을 이루었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "silhouettes"
+  ],
+  "picture": true
+ },
+ {
+  "word": "glimpse",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A very quick look at something.",
+    "ko": "힐끗 봄, 언뜻 봄",
+    "ko_simple": "아주 잠깐 보는 것",
+    "examples": [
+     {
+      "en": "We caught a glimpse of a whale's tail before it dove down.",
+      "ko": "고래가 잠수하기 전에 꼬리를 언뜻 보았다."
+     },
+     {
+      "en": "I got a glimpse of my birthday present in the closet.",
+      "ko": "나는 옷장 속 생일 선물을 슬쩍 보았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "glimpses"
+  ],
+  "picture": false
+ },
+ {
+  "word": "gust",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A sudden, strong rush of wind.",
+    "ko": "돌풍, 세찬 바람",
+    "ko_simple": "갑자기 세게 부는 바람",
+    "examples": [
+     {
+      "en": "A gust of wind blew my hat off.",
+      "ko": "돌풍이 불어 내 모자가 날아갔다."
+     },
+     {
+      "en": "Strong gusts shook the windows all night.",
+      "ko": "세찬 바람이 밤새 창문을 흔들었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "gusts"
+  ],
+  "picture": false
+ },
+ {
+  "word": "breeze",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A light, gentle wind.",
+    "ko": "산들바람, 미풍",
+    "ko_simple": "살랑살랑 부는 약한 바람",
+    "examples": [
+     {
+      "en": "A cool breeze came off the ocean.",
+      "ko": "바다에서 시원한 산들바람이 불어왔다."
+     },
+     {
+      "en": "The curtains moved in the breeze.",
+      "ko": "커튼이 산들바람에 살랑거렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "breezes",
+   "breezy"
+  ],
+  "picture": false
+ },
+ {
+  "word": "dusk",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The time of evening when it is getting dark, just after the sun goes down.",
+    "ko": "해 질 녘, 땅거미",
+    "ko_simple": "해가 진 직후 어둑어둑해지는 때",
+    "examples": [
+     {
+      "en": "The streetlights turn on at dusk.",
+      "ko": "해 질 녘이 되면 가로등이 켜진다."
+     },
+     {
+      "en": "Bats come out to hunt at dusk.",
+      "ko": "박쥐는 해 질 무렵 사냥하러 나온다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "dawn",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The time early in the morning when the sky starts to get light.",
+    "ko": "새벽, 동틀 녘",
+    "ko_simple": "아침에 하늘이 밝아지기 시작하는 때",
+    "examples": [
+     {
+      "en": "The rooster crowed at dawn.",
+      "ko": "수탉이 새벽에 울었다."
+     },
+     {
+      "en": "We woke up at dawn to go fishing.",
+      "ko": "우리는 낚시를 가려고 새벽에 일어났다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "twilight",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The soft, dim light in the sky just after the sun goes down.",
+    "ko": "황혼, 땅거미",
+    "ko_simple": "해가 진 직후 하늘에 남은 희미한 빛",
+    "examples": [
+     {
+      "en": "Fireflies blinked in the twilight.",
+      "ko": "황혼 녘에 반딧불이가 반짝였다."
+     },
+     {
+      "en": "We played tag in the backyard until twilight.",
+      "ko": "우리는 해가 저물 때까지 뒷마당에서 술래잡기를 했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "wreck",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Something that has been badly broken or destroyed, like a crashed car or ship; also a big mess.",
+    "ko": "잔해, 난파선, 엉망",
+    "ko_simple": "부서진 차나 배, 또는 아주 엉망인 것",
+    "examples": [
+     {
+      "en": "Divers explored the wreck of an old ship.",
+      "ko": "잠수부들이 오래된 난파선을 탐사했다."
+     },
+     {
+      "en": "After the sleepover, my room was a total wreck.",
+      "ko": "파자마 파티 뒤 내 방은 완전히 엉망이었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "wrecks"
+  ],
+  "picture": true
+ },
+ {
+  "word": "rubble",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Broken pieces of stone and brick from a building that fell down.",
+    "ko": "잔해, 돌무더기",
+    "ko_simple": "무너진 건물에서 나온 돌과 벽돌 조각",
+    "examples": [
+     {
+      "en": "Workers cleared the rubble after the old building was torn down.",
+      "ko": "낡은 건물이 철거된 뒤 일꾼들이 잔해를 치웠다."
+     },
+     {
+      "en": "The dog sniffed through the rubble.",
+      "ko": "개가 돌무더기 사이를 킁킁거리며 뒤졌다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "stable",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A building where horses are kept.",
+    "ko": "마구간",
+    "ko_simple": "말을 기르는 건물",
+    "examples": [
+     {
+      "en": "We brushed the horses in the stable.",
+      "ko": "우리는 마구간에서 말들을 빗질했다."
+     },
+     {
+      "en": "The pony trotted back into its stable.",
+      "ko": "조랑말이 터벅터벅 마구간으로 돌아갔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "stables"
+  ],
+  "picture": true
+ },
+ {
+  "word": "pasture",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A field of grass where farm animals eat.",
+    "ko": "목초지, 방목장",
+    "ko_simple": "가축이 풀을 뜯어 먹는 들판",
+    "examples": [
+     {
+      "en": "The sheep grazed in the green pasture.",
+      "ko": "양들이 푸른 목초지에서 풀을 뜯었다."
+     },
+     {
+      "en": "The farmer opened the gate to let the cows into the pasture.",
+      "ko": "농부가 문을 열어 소들을 방목장으로 내보냈다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "pastures"
+  ],
+  "picture": true
+ },
+ {
+  "word": "scarecrow",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A figure dressed in old clothes and put in a field to scare birds away from the crops.",
+    "ko": "허수아비",
+    "ko_simple": "밭에서 새를 쫓으려고 헌 옷을 입혀 세워 둔 인형",
+    "examples": [
+     {
+      "en": "The scarecrow wore a straw hat and a plaid shirt.",
+      "ko": "허수아비는 밀짚모자와 체크무늬 셔츠를 입고 있었다."
+     },
+     {
+      "en": "A crow sat right on the scarecrow's head.",
+      "ko": "까마귀 한 마리가 허수아비 머리 위에 떡하니 앉았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "scarecrows"
+  ],
+  "picture": true
+ },
+ {
+  "word": "wheelbarrow",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A small cart with one wheel in front and two handles, used for carrying things like dirt.",
+    "ko": "외바퀴 손수레",
+    "ko_simple": "바퀴 하나와 손잡이 두 개로 흙 등을 나르는 수레",
+    "examples": [
+     {
+      "en": "We hauled dirt to the garden in a wheelbarrow.",
+      "ko": "우리는 외바퀴 수레로 흙을 정원까지 날랐다."
+     },
+     {
+      "en": "Dad gave me a ride in the wheelbarrow.",
+      "ko": "아빠가 나를 손수레에 태워 주셨다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "wheelbarrows"
+  ],
+  "picture": true
+ },
+ {
+  "word": "kettle",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A metal pot with a spout and handle, used for boiling water.",
+    "ko": "주전자",
+    "ko_simple": "물을 끓이는, 주둥이와 손잡이가 달린 그릇",
+    "examples": [
+     {
+      "en": "The kettle whistled when the water was ready for tea.",
+      "ko": "찻물이 끓자 주전자가 삐 소리를 냈다."
+     },
+     {
+      "en": "Grandma filled the kettle and put it on the stove.",
+      "ko": "할머니는 주전자에 물을 채워 가스레인지에 올리셨다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "kettles"
+  ],
+  "picture": true
+ },
+ {
+  "word": "cauldron",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A very large, round metal pot for cooking over a fire.",
+    "ko": "가마솥, 큰 솥",
+    "ko_simple": "불 위에 걸어 요리하는 크고 둥근 쇠솥",
+    "examples": [
+     {
+      "en": "The witch stirred her bubbling cauldron.",
+      "ko": "마녀가 부글부글 끓는 가마솥을 저었다."
+     },
+     {
+      "en": "At camp, they cooked chili in a huge cauldron.",
+      "ko": "캠프에서 그들은 거대한 솥에 칠리를 끓였다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "cauldrons"
+  ],
+  "picture": true
+ },
+ {
+  "word": "wreath",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A ring of leaves or flowers, often hung on a door as decoration.",
+    "ko": "화환, 리스",
+    "ko_simple": "잎이나 꽃을 둥글게 엮어 문 등에 거는 장식",
+    "examples": [
+     {
+      "en": "We hung a pine wreath on our front door in December.",
+      "ko": "우리는 12월에 현관문에 솔잎 리스를 걸었다."
+     },
+     {
+      "en": "She wore a wreath of daisies on her head.",
+      "ko": "그녀는 머리에 데이지꽃 화관을 썼다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "wreaths"
+  ],
+  "picture": true
+ },
+ {
+  "word": "bouquet",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A bunch of flowers tied or arranged together.",
+    "ko": "꽃다발",
+    "ko_simple": "여러 송이를 모아 묶은 꽃",
+    "examples": [
+     {
+      "en": "I gave Mom a bouquet of tulips for Mother's Day.",
+      "ko": "어머니의 날에 엄마께 튤립 꽃다발을 드렸다."
+     },
+     {
+      "en": "The bride tossed her bouquet into the crowd.",
+      "ko": "신부가 사람들 쪽으로 꽃다발을 던졌다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "bouquets"
+  ],
+  "picture": true
+ },
+ {
+  "word": "blossom",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A flower, especially on a fruit tree.",
+    "ko": "꽃, 꽃송이",
+    "ko_simple": "특히 과일나무에 피는 꽃",
+    "examples": [
+     {
+      "en": "The cherry trees were covered in pink blossoms.",
+      "ko": "벚나무가 분홍색 꽃으로 뒤덮였다."
+     },
+     {
+      "en": "Bees buzzed around the apple blossoms.",
+      "ko": "벌들이 사과꽃 주위에서 윙윙거렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "blossoms"
+  ],
+  "picture": true
+ },
+ {
+  "word": "thorn",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A sharp, pointed part on the stem of a plant, like a rose.",
+    "ko": "가시",
+    "ko_simple": "장미 같은 식물 줄기에 난 뾰족한 것",
+    "examples": [
+     {
+      "en": "I pricked my finger on a rose thorn.",
+      "ko": "장미 가시에 손가락을 찔렸다."
+     },
+     {
+      "en": "The blackberry bush was full of thorns.",
+      "ko": "블랙베리 덤불에는 가시가 가득했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "thorns",
+   "thorny"
+  ],
+  "picture": true
+ },
+ {
+  "word": "vine",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A plant with a long, thin stem that climbs up walls or trees or spreads along the ground.",
+    "ko": "덩굴",
+    "ko_simple": "벽이나 나무를 타고 오르거나 땅을 기는 긴 줄기 식물",
+    "examples": [
+     {
+      "en": "Grapes grow on vines.",
+      "ko": "포도는 덩굴에서 열린다."
+     },
+     {
+      "en": "Tarzan swung through the jungle on a vine.",
+      "ko": "타잔은 덩굴을 타고 정글을 누볐다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "vines"
+  ],
+  "picture": true
+ },
+ {
+  "word": "acorn",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The nut of an oak tree, with a little cap on top.",
+    "ko": "도토리",
+    "ko_simple": "참나무 열매로 위에 작은 모자가 달린 것",
+    "examples": [
+     {
+      "en": "The squirrel buried an acorn in our yard.",
+      "ko": "다람쥐가 우리 마당에 도토리를 묻었다."
+     },
+     {
+      "en": "We collected acorns on our nature walk.",
+      "ko": "우리는 자연 산책길에서 도토리를 주웠다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "acorns"
+  ],
+  "picture": true
+ },
+ {
+  "word": "kennel",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A small shelter for a dog, or a place where dogs are cared for while their owners are away.",
+    "ko": "개집, 개 보호소",
+    "ko_simple": "개가 사는 작은 집, 또는 주인이 없는 동안 개를 맡아 돌보는 곳",
+    "examples": [
+     {
+      "en": "Our dog stayed at a kennel while we were on vacation.",
+      "ko": "우리가 휴가를 간 동안 개는 애견 호텔에 머물렀다."
+     },
+     {
+      "en": "He built a wooden kennel in the backyard.",
+      "ko": "그는 뒷마당에 나무로 개집을 만들었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "kennels"
+  ],
+  "picture": true
+ },
+ {
+  "word": "leash",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A long strap or rope tied to a dog's collar so you can walk it.",
+    "ko": "목줄, 개줄",
+    "ko_simple": "개 목걸이에 연결해 산책시키는 긴 줄",
+    "examples": [
+     {
+      "en": "Keep your dog on a leash in the park.",
+      "ko": "공원에서는 개에게 목줄을 해라."
+     },
+     {
+      "en": "The puppy chewed through its leash.",
+      "ko": "강아지가 목줄을 물어뜯어 끊었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "leashes"
+  ],
+  "picture": true
+ },
+ {
+  "word": "saddle",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A leather seat that you put on a horse's back to ride it.",
+    "ko": "안장",
+    "ko_simple": "말 등에 얹어 타는 가죽 자리",
+    "examples": [
+     {
+      "en": "The cowboy put the saddle on his horse.",
+      "ko": "카우보이가 말에 안장을 얹었다."
+     },
+     {
+      "en": "I held on to the saddle as the pony trotted.",
+      "ko": "조랑말이 종종걸음을 칠 때 나는 안장을 꽉 잡았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "saddles"
+  ],
+  "picture": true
+ },
+ {
+  "word": "carriage",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A vehicle with wheels pulled by horses.",
+    "ko": "마차",
+    "ko_simple": "말이 끄는 바퀴 달린 탈것",
+    "examples": [
+     {
+      "en": "Cinderella rode to the ball in a golden carriage.",
+      "ko": "신데렐라는 황금 마차를 타고 무도회에 갔다."
+     },
+     {
+      "en": "We took a carriage ride through the park.",
+      "ko": "우리는 마차를 타고 공원을 한 바퀴 돌았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "carriages"
+  ],
+  "picture": true
+ },
+ {
+  "word": "sled",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A small vehicle with smooth bottom runners for sliding over snow.",
+    "ko": "썰매",
+    "ko_simple": "눈 위를 미끄러져 가는 탈것",
+    "examples": [
+     {
+      "en": "We raced our sleds down the snowy hill.",
+      "ko": "우리는 눈 덮인 언덕에서 썰매 경주를 했다."
+     },
+     {
+      "en": "The dogs pulled the sled across the ice.",
+      "ko": "개들이 얼음 위로 썰매를 끌었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "sleds",
+   "sledding"
+  ],
+  "picture": true
+ },
+ {
+  "word": "raft",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A flat boat, often made of logs tied together or a blow-up tube.",
+    "ko": "뗏목, 고무보트",
+    "ko_simple": "통나무를 묶거나 바람을 넣어 만든 납작한 배",
+    "examples": [
+     {
+      "en": "Huck Finn floated down the river on a raft.",
+      "ko": "허클베리 핀은 뗏목을 타고 강을 따라 내려갔다."
+     },
+     {
+      "en": "We rode a rubber raft through the rapids.",
+      "ko": "우리는 고무보트를 타고 급류를 지나갔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "rafts"
+  ],
+  "picture": true
+ },
+ {
+  "word": "lighthouse",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A tall tower near the sea with a bright light on top to warn ships of danger.",
+    "ko": "등대",
+    "ko_simple": "배에 위험을 알리려고 바닷가에 세운, 꼭대기에 불빛이 있는 탑",
+    "examples": [
+     {
+      "en": "The lighthouse light flashed across the dark water.",
+      "ko": "등대 불빛이 어두운 바다 위를 비추었다."
+     },
+     {
+      "en": "We climbed 200 steps to the top of the lighthouse.",
+      "ko": "우리는 계단 200개를 올라 등대 꼭대기에 갔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "lighthouses"
+  ],
+  "picture": true
+ },
+ {
+  "word": "alley",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A narrow street or path between buildings.",
+    "ko": "골목, 골목길",
+    "ko_simple": "건물 사이에 난 좁은 길",
+    "examples": [
+     {
+      "en": "A cat ran down the alley behind the bakery.",
+      "ko": "고양이 한 마리가 빵집 뒤 골목으로 달려갔다."
+     },
+     {
+      "en": "We took a shortcut through the alley.",
+      "ko": "우리는 골목길로 지름길을 택했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "alleys"
+  ],
+  "picture": true
+ },
+ {
+  "word": "fountain",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A place where water shoots up into the air, often for decoration or drinking.",
+    "ko": "분수, 음수대",
+    "ko_simple": "물이 위로 솟아오르게 만든 장식이나 마시는 곳",
+    "examples": [
+     {
+      "en": "We tossed coins into the fountain and made wishes.",
+      "ko": "우리는 분수에 동전을 던지며 소원을 빌었다."
+     },
+     {
+      "en": "I got a drink from the water fountain after recess.",
+      "ko": "쉬는 시간이 끝나고 나는 음수대에서 물을 마셨다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "fountains"
+  ],
+  "picture": true
+ },
+ {
+  "word": "statue",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A figure of a person or animal made from stone, metal, or wood.",
+    "ko": "조각상, 동상",
+    "ko_simple": "돌이나 쇠, 나무로 만든 사람이나 동물 모양",
+    "examples": [
+     {
+      "en": "A pigeon sat on the statue's head.",
+      "ko": "비둘기 한 마리가 동상 머리 위에 앉아 있었다."
+     },
+     {
+      "en": "We froze like statues when the music stopped.",
+      "ko": "음악이 멈추자 우리는 동상처럼 꼼짝 않고 멈췄다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "statues"
+  ],
+  "picture": true
+ },
+ {
+  "word": "audience",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The people who watch or listen to a show, movie, game, or speech.",
+    "ko": "관객, 청중",
+    "ko_simple": "공연이나 연설을 보고 듣는 사람들",
+    "examples": [
+     {
+      "en": "The audience clapped loudly at the end of the play.",
+      "ko": "연극이 끝나자 관객들이 크게 박수를 쳤다."
+     },
+     {
+      "en": "I waved to my parents in the audience.",
+      "ko": "나는 관객석에 계신 부모님께 손을 흔들었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "audiences"
+  ],
+  "picture": false
+ },
+ {
+  "word": "applause",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The sound of people clapping to show they liked something.",
+    "ko": "박수, 박수갈채",
+    "ko_simple": "좋았다는 뜻으로 사람들이 손뼉을 치는 소리",
+    "examples": [
+     {
+      "en": "The singer bowed as the applause filled the room.",
+      "ko": "박수 소리가 방 안을 가득 채우자 가수가 고개 숙여 인사했다."
+     },
+     {
+      "en": "Let's give a big round of applause for our helpers!",
+      "ko": "우리 도우미들에게 큰 박수를 보내 줍시다!"
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "applaud"
+  ],
+  "picture": false
+ },
+ {
+  "word": "rehearsal",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A practice of a play, concert, or show before the real one.",
+    "ko": "리허설, 예행연습",
+    "ko_simple": "진짜 공연 전에 미리 해 보는 연습",
+    "examples": [
+     {
+      "en": "We have a dress rehearsal for the play tomorrow.",
+      "ko": "내일 연극 의상 리허설이 있다."
+     },
+     {
+      "en": "I forgot my lines at rehearsal, but I remembered them at the show.",
+      "ko": "리허설 때는 대사를 잊었지만 공연 때는 기억했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "rehearsals",
+   "rehearse"
+  ],
+  "picture": false
+ },
+ {
+  "word": "costume",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Clothes you wear to look like someone or something else, as for a play or Halloween.",
+    "ko": "의상, 분장 옷",
+    "ko_simple": "연극이나 핼러윈 때 다른 사람처럼 보이려고 입는 옷",
+    "examples": [
+     {
+      "en": "My Halloween costume this year is a giant taco.",
+      "ko": "올해 내 핼러윈 의상은 거대한 타코이다."
+     },
+     {
+      "en": "The actors changed costumes between scenes.",
+      "ko": "배우들은 장면 사이사이에 의상을 갈아입었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "costumes"
+  ],
+  "picture": true
+ },
+ {
+  "word": "disguise",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Clothes or other things you wear so people will not know who you are.",
+    "ko": "변장, 위장",
+    "ko_simple": "남이 못 알아보게 꾸민 차림",
+    "examples": [
+     {
+      "en": "The spy wore a fake mustache as a disguise.",
+      "ko": "스파이는 변장으로 가짜 콧수염을 붙였다."
+     },
+     {
+      "en": "Nobody recognized Grandpa in his clown disguise.",
+      "ko": "광대로 변장한 할아버지를 아무도 알아보지 못했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "disguises"
+  ],
+  "picture": false
+ },
+ {
+  "word": "puppet",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A toy person or animal that you move with your hand, strings, or sticks.",
+    "ko": "인형, 꼭두각시",
+    "ko_simple": "손이나 줄, 막대로 움직이는 인형",
+    "examples": [
+     {
+      "en": "We made sock puppets and put on a show.",
+      "ko": "우리는 양말 인형을 만들어 인형극을 했다."
+     },
+     {
+      "en": "Pinocchio was a wooden puppet who wanted to be a real boy.",
+      "ko": "피노키오는 진짜 소년이 되고 싶어 한 나무 인형이었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "puppets"
+  ],
+  "picture": true
+ },
+ {
+  "word": "circus",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A traveling show with acrobats, clowns, and sometimes animals, often in a big tent.",
+    "ko": "서커스",
+    "ko_simple": "곡예사, 광대 등이 큰 천막에서 하는 공연",
+    "examples": [
+     {
+      "en": "At the circus, a clown juggled ten balls.",
+      "ko": "서커스에서 광대가 공 열 개로 저글링을 했다."
+     },
+     {
+      "en": "My house is a circus when all my cousins visit.",
+      "ko": "사촌들이 모두 놀러 오면 우리 집은 서커스장이 된다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "circuses"
+  ],
+  "picture": true
+ },
+ {
+  "word": "souvenir",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Something you buy or keep to help you remember a place or event.",
+    "ko": "기념품",
+    "ko_simple": "어떤 곳이나 일을 기억하려고 사거나 간직하는 물건",
+    "examples": [
+     {
+      "en": "I bought a snow globe as a souvenir from New York.",
+      "ko": "나는 뉴욕에서 기념품으로 스노볼을 샀다."
+     },
+     {
+      "en": "We kept the ticket stubs as souvenirs of the game.",
+      "ko": "우리는 경기 기념으로 입장권을 간직했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "souvenirs"
+  ],
+  "picture": true
+ },
+ {
+  "word": "luggage",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The bags and suitcases you take on a trip.",
+    "ko": "짐, 수하물",
+    "ko_simple": "여행 갈 때 가져가는 가방들",
+    "examples": [
+     {
+      "en": "We loaded all our luggage into the car.",
+      "ko": "우리는 짐을 전부 차에 실었다."
+     },
+     {
+      "en": "Our luggage got lost at the airport.",
+      "ko": "공항에서 우리 짐이 분실되었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "nightmare",
+  "topic": "everyday",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A scary, bad dream; or a very bad experience.",
+    "ko": "악몽",
+    "ko_simple": "무서운 꿈, 또는 아주 끔찍한 경험",
+    "examples": [
+     {
+      "en": "I had a nightmare that a giant spider chased me.",
+      "ko": "커다란 거미가 나를 쫓아오는 악몽을 꾸었다."
+     },
+     {
+      "en": "Getting stuck in traffic for five hours was a nightmare.",
+      "ko": "다섯 시간 동안 차가 막힌 건 악몽이었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "nightmares"
+  ],
+  "picture": false
+ }
+]

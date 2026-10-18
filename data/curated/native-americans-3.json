@@ -1,0 +1,2119 @@
+[
+ {
+  "word": "longhouse",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A long, narrow home with a wooden frame covered with sheets of tree bark. The Haudenosaunee (Iroquois) and some other Eastern Woodlands peoples lived in them. Several related families shared one house, each with its own space along the sides.",
+    "ko": "롱하우스 (긴 집)",
+    "ko_simple": "나무 뼈대에 나무껍질을 덮어 만든 길고 좁은 집. 하우데노쇼니(이로쿼이)와 다른 동부 삼림 지대 부족 일부가 살았다. 서로 친척인 여러 가족이 한 집에서 함께 살았고, 가족마다 양옆에 자기 공간이 있었다.",
+    "examples": [
+     {
+      "en": "A longhouse could be as long as a basketball court, with cooking fires down the middle.",
+      "ko": "롱하우스는 농구장만큼 길었고, 가운데를 따라 요리하는 불이 줄지어 있었다."
+     },
+     {
+      "en": "Smoke from the fires rose through holes in the longhouse roof.",
+      "ko": "불에서 나온 연기는 롱하우스 지붕의 구멍으로 빠져나갔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "longhouses"
+  ],
+  "picture": true
+ },
+ {
+  "word": "wigwam",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A round, dome-shaped home made by bending young trees into a frame and covering it with bark or woven mats. Peoples of the Northeast and Great Lakes, like the Wampanoag, Abenaki, and Ojibwe, built them.",
+    "ko": "위그왐",
+    "ko_simple": "어린 나무를 휘어 뼈대를 만들고 나무껍질이나 엮은 돗자리로 덮은 둥근 지붕 모양의 집. 왐파노아그, 아베나키, 오지브웨 같은 북동부와 오대호 지역 부족들이 지었다.",
+    "examples": [
+     {
+      "en": "Our class built a mini wigwam out of bent sticks and brown paper.",
+      "ko": "우리 반은 휜 막대기와 갈색 종이로 작은 위그왐을 만들었다."
+     },
+     {
+      "en": "A wigwam is shaped like a dome, but a tepee is shaped like a cone.",
+      "ko": "위그왐은 둥근 지붕 모양이지만 티피는 원뿔 모양이다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "wigwams"
+  ],
+  "picture": true
+ },
+ {
+  "word": "tepee",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A cone-shaped tent made of long wooden poles covered with buffalo hides, and later with canvas. Peoples of the Great Plains, like the Lakota and Cheyenne, used them because they could be taken down and moved quickly. Not all Native peoples lived in tepees.",
+    "ko": "티피",
+    "ko_simple": "긴 나무 막대에 들소 가죽을, 나중에는 천을 덮어 만든 원뿔 모양의 천막. 라코타, 샤이엔 같은 대평원 부족들이 빨리 걷어서 옮길 수 있어서 사용했다. 모든 원주민이 티피에서 산 것은 아니다.",
+    "examples": [
+     {
+      "en": "A Plains family could take down their tepee and be ready to travel in less than an hour.",
+      "ko": "대평원 가족은 한 시간도 안 걸려 티피를 걷고 길 떠날 준비를 할 수 있었다."
+     },
+     {
+      "en": "The word tepee comes from the Lakota word thípi, which means 'they live there.'",
+      "ko": "티피라는 말은 '그들이 거기 산다'는 뜻의 라코타 낱말 '티피'에서 왔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "tepees",
+   "tipi",
+   "tipis",
+   "teepee",
+   "teepees"
+  ],
+  "picture": true
+ },
+ {
+  "word": "adobe",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A building material made of mud mixed with straw or grass, often shaped into bricks and dried in the sun. Thick adobe walls stay cool in the day and warm at night, which is perfect for the hot, dry Southwest.",
+    "ko": "어도비, 흙벽돌",
+    "ko_simple": "진흙에 짚이나 풀을 섞어 만든 건축 재료로, 흔히 벽돌 모양으로 빚어 햇볕에 말린다. 두꺼운 흙벽돌 벽은 낮에는 시원하고 밤에는 따뜻해서 덥고 메마른 남서부에 딱 맞다.",
+    "examples": [
+     {
+      "en": "We mixed mud and straw in a bucket and pressed it into a mold to make our own adobe brick.",
+      "ko": "우리는 양동이에 진흙과 짚을 섞고 틀에 눌러 담아 흙벽돌을 직접 만들었다."
+     },
+     {
+      "en": "After a big rain, people put a fresh coat of mud on their adobe walls.",
+      "ko": "큰비가 온 뒤에 사람들은 흙벽돌 벽에 새 진흙을 덧발랐다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "hogan",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A traditional Navajo home, often round or with six or eight sides, made of logs and covered with earth. The door always faces east, toward the rising sun. Hogans are still used today for ceremonies.",
+    "ko": "호건 (나바호족 전통 집)",
+    "ko_simple": "통나무로 짓고 흙을 덮은 나바호족의 전통 집으로, 흔히 둥글거나 여섯 또는 여덟 면으로 되어 있다. 문은 늘 해가 뜨는 동쪽을 향한다. 지금도 의식에 쓰인다.",
+    "examples": [
+     {
+      "en": "Every morning, the family stepped out of the hogan's door to greet the rising sun.",
+      "ko": "가족은 아침마다 호건의 문밖으로 나가 떠오르는 해를 맞았다."
+     },
+     {
+      "en": "My Navajo classmate's grandmother still has a hogan behind her house.",
+      "ko": "나바호족 반 친구의 할머니는 지금도 집 뒤에 호건이 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "hogans"
+  ],
+  "picture": true
+ },
+ {
+  "word": "plank house",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A large, rectangle-shaped home made of wide boards split from cedar trees. Peoples of the Northwest Coast built them, and many families lived together inside. A totem pole often stood in front.",
+    "ko": "판자집 (북서 해안의 삼나무 집)",
+    "ko_simple": "삼나무를 쪼갠 넓은 판자로 지은 크고 네모난 집. 북서 해안 부족들이 지었고, 여러 가족이 함께 살았다. 앞에는 흔히 토템 기둥이 서 있었다.",
+    "examples": [
+     {
+      "en": "Some plank houses were big enough to hold a hundred people for a feast.",
+      "ko": "어떤 판자집은 잔치 때 백 명이 들어갈 만큼 컸다."
+     },
+     {
+      "en": "The front of the plank house was painted with a huge orca, the family's crest.",
+      "ko": "판자집 앞면에는 그 가족의 상징인 커다란 범고래가 그려져 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "plank houses"
+  ],
+  "picture": true
+ },
+ {
+  "word": "igloo",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A dome-shaped shelter built from blocks of hard snow. Some Inuit, especially in northern Canada, built them in winter while traveling and hunting. In the Inuit language, iglu means any kind of house.",
+    "ko": "이글루",
+    "ko_simple": "단단한 눈덩이 블록으로 쌓은 둥근 지붕 모양의 쉼터. 특히 캐나다 북부의 일부 이누이트가 겨울에 사냥하며 다닐 때 지었다. 이누이트 말로 '이글루'는 어떤 집이든 다 가리킨다.",
+    "examples": [
+     {
+      "en": "An expert builder could make a snug igloo in about an hour.",
+      "ko": "솜씨 좋은 사람은 한 시간쯤이면 아늑한 이글루를 지을 수 있었다."
+     },
+     {
+      "en": "Inside an igloo, a small oil lamp can make it warm enough to take off your mittens.",
+      "ko": "이글루 안에서는 작은 기름 등잔 하나로도 벙어리장갑을 벗을 만큼 따뜻해진다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "igloos",
+   "iglu"
+  ],
+  "picture": true
+ },
+ {
+  "word": "earth lodge",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A large, round home with a wooden frame covered with thick layers of earth and grass. Farming peoples of the Plains, like the Mandan, Hidatsa, and Pawnee, lived in them in villages near rivers.",
+    "ko": "흙집 (어스 로지)",
+    "ko_simple": "나무 뼈대 위에 흙과 풀을 두껍게 덮은 크고 둥근 집. 만단, 히다차, 포니 같은 대평원의 농사짓는 부족들이 강가 마을에서 살았다.",
+    "examples": [
+     {
+      "en": "Kids sometimes climbed onto the earth lodge roof to watch games and races.",
+      "ko": "아이들은 가끔 흙집 지붕에 올라가 경기와 경주를 구경했다."
+     },
+     {
+      "en": "An earth lodge stayed warm during the freezing Dakota winters.",
+      "ko": "흙집은 꽁꽁 어는 다코타의 겨울에도 따뜻했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "earth lodges",
+   "earthlodge"
+  ],
+  "picture": true
+ },
+ {
+  "word": "wickiup",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A small, dome-shaped hut made of a frame of branches covered with brush, grass, or mats. Apache and Great Basin peoples like the Paiute built them because they were quick to make.",
+    "ko": "위키업",
+    "ko_simple": "나뭇가지로 뼈대를 만들고 덤불, 풀, 돗자리를 덮은 작고 둥근 오두막. 아파치족과 파이우트족 같은 그레이트베이슨 부족들이 빨리 지을 수 있어서 만들었다.",
+    "examples": [
+     {
+      "en": "An Apache family could build a wickiup in just a few hours.",
+      "ko": "아파치 가족은 몇 시간 만에 위키업을 지을 수 있었다."
+     },
+     {
+      "en": "In the summer, the sides of the wickiup could be left open to let the breeze blow through.",
+      "ko": "여름에는 위키업 옆면을 열어 두어 바람이 통하게 할 수 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "wickiups"
+  ],
+  "picture": true
+ },
+ {
+  "word": "chickee",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A Seminole and Miccosukee house with a raised wooden floor, a roof of palm leaves, and no walls. It keeps people dry and lets cool breezes blow through in hot, swampy Florida.",
+    "ko": "치키 (세미놀족 집)",
+    "ko_simple": "바닥을 높게 띄우고 야자잎으로 지붕을 엮은 벽 없는 세미놀족과 미코수키족의 집. 덥고 늪이 많은 플로리다에서 비를 막고 시원한 바람이 통하게 해 준다.",
+    "examples": [
+     {
+      "en": "The raised floor of a chickee kept families safe from floods and snakes.",
+      "ko": "치키의 높은 바닥 덕분에 가족들은 홍수와 뱀을 피할 수 있었다."
+     },
+     {
+      "en": "Some Florida restaurants have tables under chickees built by Seminole workers.",
+      "ko": "플로리다의 어떤 식당에는 세미놀족 일꾼들이 지은 치키 아래에 식탁이 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "chickees"
+  ],
+  "picture": true
+ },
+ {
+  "word": "grass house",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A tall, round house shaped like a beehive, with a pole frame covered in thick bundles of grass. The Wichita and Caddo peoples built them.",
+    "ko": "풀집",
+    "ko_simple": "막대 뼈대에 두꺼운 풀 다발을 덮은, 벌집처럼 생긴 높고 둥근 집. 위치토족과 카도족이 지었다.",
+    "examples": [
+     {
+      "en": "A Wichita grass house could be taller than a two-story building.",
+      "ko": "위치토족의 풀집은 2층 건물보다 높을 수도 있었다."
+     },
+     {
+      "en": "From far away, a village of grass houses looked like giant haystacks.",
+      "ko": "멀리서 보면 풀집 마을은 거대한 건초 더미처럼 보였다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "grass houses"
+  ],
+  "picture": true
+ },
+ {
+  "word": "pit house",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A home dug partly into the ground, with a roof of wood and earth over the hole. Early Ancestral Puebloans and Plateau peoples built them because the earth kept them warm in winter and cool in summer.",
+    "ko": "움집, 수혈 주거",
+    "ko_simple": "땅을 일부 파고 그 구멍 위에 나무와 흙으로 지붕을 얹은 집. 초기 고대 푸에블로인과 고원 지역 부족들이 겨울엔 따뜻하고 여름엔 시원해서 지었다.",
+    "examples": [
+     {
+      "en": "People often entered a pit house by climbing down a ladder through the roof.",
+      "ko": "사람들은 흔히 지붕 구멍으로 사다리를 타고 내려가 움집에 들어갔다."
+     },
+     {
+      "en": "Archaeologists found a fire pit and corn cobs in the floor of an old pit house.",
+      "ko": "고고학자들은 오래된 움집 바닥에서 화덕과 옥수숫대를 찾아냈다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "pit houses",
+   "pithouse"
+  ],
+  "picture": true
+ },
+ {
+  "word": "cliff dwelling",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A home built of stone under a rock overhang on the side of a cliff. Ancestral Puebloans built many of them, like those at Mesa Verde, about 800 years ago.",
+    "ko": "절벽 주거, 절벽 집",
+    "ko_simple": "절벽 옆으로 튀어나온 바위 아래에 돌로 지은 집. 약 800년 전 고대 푸에블로인들이 메사버드처럼 이런 집을 많이 지었다.",
+    "examples": [
+     {
+      "en": "The cliff dwelling was tucked under the rock so the rain and snow could not reach it.",
+      "ko": "절벽 집은 바위 아래에 쏙 들어가 있어서 비와 눈이 닿지 않았다."
+     },
+     {
+      "en": "Kids living in a cliff dwelling had to be very careful not to fall!",
+      "ko": "절벽 집에 사는 아이들은 떨어지지 않게 아주 조심해야 했다!"
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "cliff dwellings"
+  ],
+  "picture": true
+ },
+ {
+  "word": "kiva",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A special room, usually round and partly underground, that Pueblo peoples use for ceremonies and meetings. People enter by climbing down a ladder through a hole in the roof.",
+    "ko": "키바 (의식용 방)",
+    "ko_simple": "푸에블로 사람들이 의식과 모임에 쓰는, 대개 둥글고 일부가 땅속에 있는 특별한 방. 지붕의 구멍으로 사다리를 타고 내려가 들어간다.",
+    "examples": [
+     {
+      "en": "At Mesa Verde, we looked down into a round kiva with no roof left on it.",
+      "ko": "메사버드에서 우리는 지붕이 사라진 둥근 키바를 내려다보았다."
+     },
+     {
+      "en": "Kivas are still important in Pueblo life today, so visitors must respect them.",
+      "ko": "키바는 지금도 푸에블로 생활에서 중요하므로 방문객은 존중해야 한다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "kivas"
+  ],
+  "picture": true
+ },
+ {
+  "word": "totem pole",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A tall post carved from a cedar tree with figures of animals, people, and spirit beings stacked on top of each other. Northwest Coast peoples carve them to show a family's history, tell stories, or honor someone. They are not worshipped.",
+    "ko": "토템 기둥, 토템 폴",
+    "ko_simple": "삼나무를 깎아 동물, 사람, 정령의 모습을 위아래로 겹쳐 새긴 높은 기둥. 북서 해안 부족들이 가족의 역사를 보여 주거나, 이야기를 전하거나, 누군가를 기리려고 만든다. 숭배하는 대상은 아니다.",
+    "examples": [
+     {
+      "en": "The totem pole outside the museum had a bear, a frog, and an eagle with wide wings.",
+      "ko": "박물관 밖의 토템 기둥에는 곰, 개구리, 날개를 활짝 편 독수리가 있었다."
+     },
+     {
+      "en": "When a new totem pole is raised, the family often holds a potlatch to celebrate.",
+      "ko": "새 토템 기둥을 세울 때 가족은 흔히 포틀래치를 열어 축하한다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "totem poles"
+  ],
+  "picture": true
+ },
+ {
+  "word": "canoe",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A long, narrow, light boat that is pointed at both ends and moved with paddles. Native peoples across North America made canoes from logs, tree bark, or animal skins. The word comes from the Taíno language.",
+    "ko": "카누",
+    "ko_simple": "양 끝이 뾰족하고 노로 젓는 길고 좁고 가벼운 배. 북아메리카 곳곳의 원주민이 통나무, 나무껍질, 동물 가죽으로 카누를 만들었다. 이 말은 타이노어에서 왔다.",
+    "examples": [
+     {
+      "en": "We paddled a canoe across the lake and saw a loon dive under the water.",
+      "ko": "우리는 카누를 저어 호수를 건너다가 아비새가 물속으로 잠수하는 것을 보았다."
+     },
+     {
+      "en": "Ojibwe families carried their light canoes on their shoulders between lakes.",
+      "ko": "오지브웨 가족들은 가벼운 카누를 어깨에 메고 호수와 호수 사이를 옮겼다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "canoes"
+  ],
+  "picture": true
+ },
+ {
+  "word": "dugout canoe",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A canoe made from one big log that has been hollowed out by burning and scraping. Peoples of the Southeast, the Eastern Woodlands, and the Northwest Coast made them.",
+    "ko": "통나무배, 마상이",
+    "ko_simple": "큰 통나무 하나를 불로 태우고 긁어내어 속을 파서 만든 카누. 남동부, 동부 삼림 지대, 북서 해안의 부족들이 만들었다.",
+    "examples": [
+     {
+      "en": "To make a dugout canoe, people burned the log a little, then scraped out the black part, again and again.",
+      "ko": "통나무배를 만들려고 사람들은 통나무를 조금 태우고 까맣게 탄 부분을 긁어내는 일을 몇 번이고 되풀이했다."
+     },
+     {
+      "en": "Archaeologists found a dugout canoe in a Florida lake that is thousands of years old.",
+      "ko": "고고학자들은 플로리다의 한 호수에서 수천 년 된 통나무배를 찾아냈다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "dugout canoes",
+   "dugout"
+  ],
+  "picture": true
+ },
+ {
+  "word": "birchbark canoe",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A very light canoe made of bark from birch trees stretched over a wooden frame, sewn with tree roots and sealed with sticky tree sap. Peoples of the Great Lakes and Northeast, like the Ojibwe and Abenaki, made them.",
+    "ko": "자작나무 껍질 카누",
+    "ko_simple": "나무 뼈대 위에 자작나무 껍질을 씌우고 나무뿌리로 꿰매어 끈적한 나무 진으로 틈을 막은 아주 가벼운 카누. 오지브웨, 아베나키 같은 오대호와 북동부 부족들이 만들었다.",
+    "examples": [
+     {
+      "en": "A birchbark canoe was so light that one person could carry it over a hill.",
+      "ko": "자작나무 껍질 카누는 아주 가벼워서 한 사람이 언덕 너머로 들고 갈 수 있었다."
+     },
+     {
+      "en": "French fur traders copied the birchbark canoe because it worked so well.",
+      "ko": "프랑스 모피 상인들은 자작나무 껍질 카누가 아주 쓸모 있어서 그대로 따라 만들었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "birchbark canoes",
+   "birch bark canoe"
+  ],
+  "picture": true
+ },
+ {
+  "word": "kayak",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A small, narrow boat for one or two people, with a covered top and a hole to sit in. The Inuit, Yupik, and Aleut first made kayaks by stretching seal skins over a frame of wood or bone to hunt in icy water.",
+    "ko": "카약",
+    "ko_simple": "위가 덮여 있고 앉는 구멍이 있는 한두 사람용 작고 좁은 배. 이누이트, 유피크, 알류트 사람들이 얼음물에서 사냥하려고 나무나 뼈 뼈대에 물개 가죽을 씌워 처음 만들었다.",
+    "examples": [
+     {
+      "en": "A kayak hunter could roll all the way over in the water and come back up.",
+      "ko": "카약 사냥꾼은 물속에서 한 바퀴 빙 돌았다가 다시 올라올 수 있었다."
+     },
+     {
+      "en": "At summer camp, I tried paddling a kayak and spun in circles!",
+      "ko": "여름 캠프에서 카약을 저어 봤는데 빙글빙글 돌기만 했다!"
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "kayaks"
+  ],
+  "picture": true
+ },
+ {
+  "word": "umiak",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A large, open boat made of walrus or seal skin over a wooden frame. Arctic peoples used it to carry families and supplies and to hunt whales.",
+    "ko": "우미악 (가죽 배)",
+    "ko_simple": "나무 뼈대에 바다코끼리나 물개 가죽을 씌운 크고 위가 트인 배. 북극 사람들이 가족과 짐을 나르고 고래를 사냥하는 데 썼다.",
+    "examples": [
+     {
+      "en": "A whole family and their dogs could ride in one umiak.",
+      "ko": "한 가족 전체와 개들까지 우미악 하나에 탈 수 있었다."
+     },
+     {
+      "en": "Whale hunters in Alaska still paddle umiaks out into the icy sea.",
+      "ko": "알래스카의 고래 사냥꾼들은 지금도 우미악을 저어 얼음 바다로 나간다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "umiaks",
+   "umiaq"
+  ],
+  "picture": true
+ },
+ {
+  "word": "travois",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A carrier made of two long poles tied in a V shape, with a net or platform between them. A dog or horse pulled it, dragging the ends along the ground. Plains peoples used it to move their belongings.",
+    "ko": "트라보이 (끌개 썰매)",
+    "ko_simple": "긴 막대 두 개를 V자 모양으로 묶고 그 사이에 그물이나 받침을 단 운반 도구. 개나 말이 끝을 땅에 끌면서 당겼다. 대평원 부족들이 살림살이를 옮기는 데 썼다.",
+    "examples": [
+     {
+      "en": "Before horses came, dogs pulled small travois loaded with food and tepee covers.",
+      "ko": "말이 들어오기 전에는 개들이 음식과 티피 덮개를 실은 작은 트라보이를 끌었다."
+     },
+     {
+      "en": "A horse could pull a much bigger travois, so families could carry more things.",
+      "ko": "말은 훨씬 큰 트라보이를 끌 수 있어서 가족들이 더 많은 물건을 옮길 수 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "travoises"
+  ],
+  "picture": true
+ },
+ {
+  "word": "wampum",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Small white and purple beads made from shells, used by Eastern Woodlands peoples like the Haudenosaunee and Wampanoag. Wampum was strung or woven into belts to record agreements, send messages, and mark ceremonies. Later, colonists used it like money.",
+    "ko": "왐펌 (조개 구슬)",
+    "ko_simple": "하우데노쇼니와 왐파노아그 같은 동부 삼림 지대 부족들이 쓴, 조개껍데기로 만든 작은 흰색과 보라색 구슬. 줄에 꿰거나 띠로 엮어서 약속을 기록하고, 메시지를 보내고, 의식을 치렀다. 나중에 식민지 주민들은 이것을 돈처럼 썼다.",
+    "examples": [
+     {
+      "en": "The purple wampum beads came from the inside of quahog clam shells.",
+      "ko": "보라색 왐펌 구슬은 대합 껍데기 안쪽에서 나왔다."
+     },
+     {
+      "en": "Making one wampum bead by hand took a long time, so each bead was valuable.",
+      "ko": "왐펌 구슬 하나를 손으로 만드는 데 오래 걸려서 구슬 하나하나가 귀했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "wampum belt",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A wide belt woven from wampum beads in a pattern that stands for an agreement, a law, or an important event. Leaders 'read' the pattern to remember what was promised.",
+    "ko": "왐펌 띠",
+    "ko_simple": "약속, 법, 중요한 일을 나타내는 무늬로 왐펌 구슬을 넓게 엮은 띠. 지도자들은 그 무늬를 '읽어서' 약속한 내용을 기억했다.",
+    "examples": [
+     {
+      "en": "The Two Row Wampum belt shows two purple paths side by side, meaning two peoples traveling together in peace.",
+      "ko": "투 로우 왐펌 띠에는 보라색 길 두 줄이 나란히 있는데, 두 민족이 평화롭게 함께 나아간다는 뜻이다."
+     },
+     {
+      "en": "A wampum belt was given to seal a treaty, the way people today sign their names.",
+      "ko": "오늘날 사람들이 이름을 서명하듯이, 조약을 맺을 때 왐펌 띠를 주고받았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "wampum belts"
+  ],
+  "picture": true
+ },
+ {
+  "word": "potlatch",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A big gathering held by Northwest Coast peoples to mark an important event, like a naming, a wedding, or raising a totem pole. The hosts serve a feast, share songs and dances, and give gifts to the guests. Canada once banned potlatches, but they are held proudly today.",
+    "ko": "포틀래치 (선물 잔치)",
+    "ko_simple": "북서 해안 부족들이 이름 짓기, 결혼, 토템 기둥 세우기 같은 중요한 일을 기념하려고 여는 큰 모임. 주인은 잔치 음식을 내고 노래와 춤을 나누며 손님들에게 선물을 준다. 캐나다는 한때 포틀래치를 금지했지만 오늘날 자랑스럽게 열린다.",
+    "examples": [
+     {
+      "en": "At a potlatch, the host family gives away gifts, and the more they give, the more they are honored.",
+      "ko": "포틀래치에서는 주인 가족이 선물을 나눠 주는데, 많이 줄수록 더 큰 존경을 받는다."
+     },
+     {
+      "en": "My friend's family held a potlatch to give her grandmother's name to her new baby cousin.",
+      "ko": "내 친구네 가족은 할머니의 이름을 새로 태어난 사촌 아기에게 물려주려고 포틀래치를 열었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "potlatches"
+  ],
+  "picture": true
+ },
+ {
+  "word": "moccasin",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A soft shoe made of deerskin or other leather, often decorated with beads or quills. Many Native peoples made them, and each nation had its own style. The word comes from an Algonquian language.",
+    "ko": "모카신",
+    "ko_simple": "사슴 가죽이나 다른 가죽으로 만든 부드러운 신발로, 흔히 구슬이나 호저 가시로 장식한다. 많은 원주민 부족이 만들었고 부족마다 모양이 달랐다. 이 말은 알곤킨어족 언어에서 왔다.",
+    "examples": [
+     {
+      "en": "In soft moccasins, a hunter could walk through the forest without snapping twigs.",
+      "ko": "부드러운 모카신을 신으면 사냥꾼은 나뭇가지를 부러뜨리지 않고 숲속을 걸을 수 있었다."
+     },
+     {
+      "en": "Grandma's beaded moccasins had tiny blue and red flowers on the top.",
+      "ko": "할머니의 구슬 모카신 윗부분에는 작은 파란 꽃과 빨간 꽃이 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "moccasins"
+  ],
+  "picture": true
+ },
+ {
+  "word": "dreamcatcher",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A small hoop with a web of string woven inside, often with beads and feathers hanging down. It comes from Ojibwe tradition, where it was hung over a baby's bed to catch bad dreams and let good ones through.",
+    "ko": "드림캐처",
+    "ko_simple": "작은 고리 안에 거미줄처럼 실을 엮고 흔히 구슬과 깃털을 매단 것. 오지브웨 전통에서 왔는데, 아기 잠자리 위에 걸어 나쁜 꿈은 걸러 내고 좋은 꿈은 통과시킨다고 여겼다.",
+    "examples": [
+     {
+      "en": "An Ojibwe story tells of Spider Woman, who wove webs to protect the children.",
+      "ko": "오지브웨 이야기에는 아이들을 지키려고 거미줄을 짠 '거미 여인'이 나온다."
+     },
+     {
+      "en": "My little brother hung a dreamcatcher by his bed because he had nightmares.",
+      "ko": "남동생은 악몽을 꿔서 침대 옆에 드림캐처를 걸었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "dreamcatchers",
+   "dream catcher"
+  ],
+  "picture": true
+ },
+ {
+  "word": "pemmican",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A food made of dried meat, usually buffalo, pounded into tiny bits and mixed with melted fat and sometimes berries. Plains and northern peoples made it because it was light to carry and stayed good for months.",
+    "ko": "페미컨",
+    "ko_simple": "말린 고기(주로 들소)를 잘게 빻아 녹인 기름과 섞고 때로는 열매를 넣어 만든 음식. 대평원과 북쪽 부족들이 가볍게 들고 다닐 수 있고 몇 달 동안 상하지 않아서 만들었다.",
+    "examples": [
+     {
+      "en": "A small bag of pemmican could feed a traveler for days.",
+      "ko": "작은 주머니 하나의 페미컨으로 여행자가 며칠을 버틸 수 있었다."
+     },
+     {
+      "en": "Pemmican is a lot like a high-energy snack bar from long ago.",
+      "ko": "페미컨은 옛날의 고열량 간식 바와 많이 비슷하다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "Three Sisters",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Corn, beans, and squash, planted together by many Native farmers. The corn stalk holds up the climbing beans, the beans help feed the soil, and the big squash leaves shade the ground to keep out weeds and hold in water.",
+    "ko": "세 자매 작물 (옥수수, 콩, 호박)",
+    "ko_simple": "많은 원주민 농부가 함께 심은 옥수수, 콩, 호박. 옥수숫대는 덩굴콩을 받쳐 주고, 콩은 흙에 영양을 주고, 커다란 호박잎은 땅에 그늘을 드리워 잡초를 막고 물기를 지켜 준다.",
+    "examples": [
+     {
+      "en": "Our school garden planted the Three Sisters in little hills, just like the Haudenosaunee do.",
+      "ko": "우리 학교 텃밭은 하우데노쇼니처럼 작은 흙더미에 세 자매 작물을 심었다."
+     },
+     {
+      "en": "The Three Sisters help each other grow, like sisters who look out for one another.",
+      "ko": "세 자매 작물은 서로 챙겨 주는 자매처럼 서로가 잘 자라도록 돕는다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "maize",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Another name for corn. Native peoples in what is now Mexico first grew it from a wild grass thousands of years ago, and it spread to farmers across the Americas.",
+    "ko": "옥수수",
+    "ko_simple": "옥수수의 다른 이름. 수천 년 전 지금의 멕시코에 살던 원주민들이 들풀을 길러 처음 만들었고, 아메리카 곳곳의 농부들에게 퍼졌다.",
+    "examples": [
+     {
+      "en": "Maize came in many colors, like blue, red, yellow, and even speckled.",
+      "ko": "옥수수에는 파랑, 빨강, 노랑, 그리고 점박이까지 여러 색이 있었다."
+     },
+     {
+      "en": "Without Native farmers, there would be no maize for popcorn at the movies!",
+      "ko": "원주민 농부들이 없었다면 영화관에서 먹는 팝콘용 옥수수도 없었을 것이다!"
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "squash",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A large vegetable with a hard or soft skin that grows on a vine, like a pumpkin or zucchini. It is one of the Three Sisters that Native farmers grew with corn and beans.",
+    "ko": "호박 (스쿼시)",
+    "ko_simple": "덩굴에서 자라는 껍질이 단단하거나 무른 커다란 채소로, 늙은 호박이나 애호박 같은 것. 원주민 농부들이 옥수수, 콩과 함께 기른 세 자매 작물 중 하나이다.",
+    "examples": [
+     {
+      "en": "The squash vines spread across the ground like a big green blanket.",
+      "ko": "호박 덩굴은 커다란 초록 담요처럼 땅 위로 퍼졌다."
+     },
+     {
+      "en": "People dried strips of squash in the sun to eat during the winter.",
+      "ko": "사람들은 호박을 길게 썰어 햇볕에 말려 겨울에 먹었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "squashes"
+  ],
+  "picture": true
+ },
+ {
+  "word": "succotash",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A dish of corn and beans cooked together. The name comes from a Narragansett word.",
+    "ko": "서코태시 (옥수수와 콩 요리)",
+    "ko_simple": "옥수수와 콩을 함께 익힌 요리. 이름은 내러갠섯 말에서 왔다.",
+    "examples": [
+     {
+      "en": "For our class feast, Mia's dad made a big pot of succotash.",
+      "ko": "우리 반 잔치 때 미아네 아빠가 서코태시를 큰 냄비 가득 만들어 오셨다."
+     },
+     {
+      "en": "Succotash is easy to make if you have the Three Sisters in your garden.",
+      "ko": "텃밭에 세 자매 작물이 있으면 서코태시는 만들기 쉽다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "wild rice",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A tall water grass that grows in shallow lakes around the Great Lakes, and its long dark seeds that people eat. Ojibwe and Menominee families harvest it from canoes by gently knocking the seeds into the boat with sticks.",
+    "ko": "야생 쌀, 줄풀 열매",
+    "ko_simple": "오대호 주변 얕은 호수에서 자라는 키 큰 물풀과 사람들이 먹는 그 길고 검은 씨앗. 오지브웨와 메노미니 가족들은 카누를 타고 막대기로 살살 두드려 씨앗을 배 안으로 떨어뜨려 거둔다.",
+    "examples": [
+     {
+      "en": "In Ojibwe, wild rice is called manoomin, which means 'good berry.'",
+      "ko": "오지브웨 말로 야생 쌀은 '좋은 열매'라는 뜻의 '마누민'이라고 한다."
+     },
+     {
+      "en": "One person poles the canoe while the other knocks the wild rice into the boat.",
+      "ko": "한 사람이 장대로 카누를 미는 동안 다른 사람이 야생 쌀을 배 안으로 털어 넣는다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "snowshoe",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A wide, flat frame strung with strips of rawhide that you tie to your boot. It spreads out your weight so you can walk on deep snow without sinking. Northern Native peoples invented them.",
+    "ko": "설피, 눈신",
+    "ko_simple": "넓고 납작한 틀에 생가죽 끈을 엮어 신발에 묶는 도구. 몸무게를 넓게 퍼뜨려 깊은 눈에 빠지지 않고 걸을 수 있게 해 준다. 북쪽 원주민들이 발명했다.",
+    "examples": [
+     {
+      "en": "With snowshoes on, I walked right over the snowdrift while my sister sank to her knees.",
+      "ko": "설피를 신은 나는 눈더미 위를 그냥 걸어갔는데, 언니는 무릎까지 빠졌다."
+     },
+     {
+      "en": "Snowshoes shaped like a beaver's tail are good for open, flat snow.",
+      "ko": "비버 꼬리 모양의 설피는 넓고 평평한 눈밭에 알맞다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "snowshoes"
+  ],
+  "picture": true
+ },
+ {
+  "word": "toboggan",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A long, flat sled with no runners and a front that curls up. Northern Native peoples used it to pull heavy loads over the snow. The word comes from the Mi'kmaq language.",
+    "ko": "터보건 (썰매)",
+    "ko_simple": "날이 없고 앞쪽이 위로 말려 올라간 길고 납작한 썰매. 북쪽 원주민들이 눈 위로 무거운 짐을 끄는 데 썼다. 이 말은 미크맥 말에서 왔다.",
+    "examples": [
+     {
+      "en": "Four of us squeezed onto the toboggan and zoomed down the hill.",
+      "ko": "우리 넷이 터보건에 꽉 끼어 앉아 언덕을 쌩 내려갔다."
+     },
+     {
+      "en": "Hunters pulled meat home on a toboggan made of thin wooden boards.",
+      "ko": "사냥꾼들은 얇은 나무판으로 만든 터보건에 고기를 싣고 집으로 끌고 왔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "toboggans"
+  ],
+  "picture": true
+ },
+ {
+  "word": "parka",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A warm coat with a hood, first made by Arctic peoples from caribou fur or sealskin. Some had a big pouch in the back where a mother could carry her baby.",
+    "ko": "파카",
+    "ko_simple": "모자가 달린 따뜻한 외투로, 북극 사람들이 순록 털이나 물개 가죽으로 처음 만들었다. 어떤 것은 등에 엄마가 아기를 넣고 다닐 수 있는 큰 주머니가 있었다.",
+    "examples": [
+     {
+      "en": "On the coldest day of winter, I zipped up my parka all the way to my nose.",
+      "ko": "한겨울 가장 추운 날, 나는 파카 지퍼를 코까지 올렸다."
+     },
+     {
+      "en": "An Inuit mother's parka, called an amauti, has a baby pouch in the hood.",
+      "ko": "아마우티라고 부르는 이누이트 엄마의 파카에는 모자 쪽에 아기 주머니가 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "parkas"
+  ],
+  "picture": true
+ },
+ {
+  "word": "harpoon",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A spear with a sharp point that comes off and stays stuck in an animal, tied to a long rope. Arctic and Northwest Coast peoples used harpoons to hunt seals, walruses, and whales.",
+    "ko": "작살",
+    "ko_simple": "끝이 날카롭고 동물에 박히면 빠져서 그대로 꽂혀 있으며 긴 밧줄이 매인 창. 북극과 북서 해안 사람들이 물개, 바다코끼리, 고래를 사냥할 때 썼다.",
+    "examples": [
+     {
+      "en": "The hunter waited by the hole in the ice with his harpoon ready.",
+      "ko": "사냥꾼은 작살을 들고 얼음 구멍 옆에서 기다렸다."
+     },
+     {
+      "en": "Makah whalers tied floats made of sealskin to their harpoon ropes.",
+      "ko": "마카족 고래잡이들은 작살 밧줄에 물개 가죽으로 만든 부표를 매달았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "harpoons"
+  ],
+  "picture": true
+ },
+ {
+  "word": "atlatl",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A spear-thrower: a stick with a hook at one end that holds the back of a spear. It works like a longer arm, so the spear flies faster and farther. People in the Americas used them long before bows and arrows.",
+    "ko": "아틀라틀 (투창기)",
+    "ko_simple": "창을 던지는 도구로, 한쪽 끝에 고리가 있어 창 뒤쪽을 걸 수 있는 막대. 팔을 길게 늘린 것처럼 작용해서 창이 더 빠르고 멀리 날아간다. 아메리카 사람들은 활과 화살보다 훨씬 전부터 이것을 썼다.",
+    "examples": [
+     {
+      "en": "At the museum, I threw a dart with an atlatl, and it flew all the way across the field!",
+      "ko": "박물관에서 아틀라틀로 창을 던졌더니 들판 끝까지 날아갔다!"
+     },
+     {
+      "en": "Ice Age hunters may have used an atlatl to hunt mammoths.",
+      "ko": "빙하기 사냥꾼들은 아틀라틀로 매머드를 사냥했을지도 모른다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "atlatls"
+  ],
+  "picture": true
+ },
+ {
+  "word": "arrowhead",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The sharp, pointed tip of an arrow. Native peoples chipped arrowheads from hard stones like flint and obsidian, and later also made them from metal.",
+    "ko": "화살촉",
+    "ko_simple": "화살의 날카롭고 뾰족한 끝. 원주민들은 부싯돌이나 흑요석 같은 단단한 돌을 쪼아 화살촉을 만들었고, 나중에는 쇠로도 만들었다.",
+    "examples": [
+     {
+      "en": "My grandpa found an old stone arrowhead while plowing his field.",
+      "ko": "할아버지는 밭을 갈다가 오래된 돌 화살촉을 찾으셨다."
+     },
+     {
+      "en": "If you find an arrowhead on public land, leave it there and tell a park ranger.",
+      "ko": "공공 토지에서 화살촉을 발견하면 그대로 두고 공원 관리인에게 알려야 한다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "arrowheads"
+  ],
+  "picture": true
+ },
+ {
+  "word": "tomahawk",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A small axe with a stone or metal head on a wooden handle, used as a tool for chopping and also as a weapon by Eastern Woodlands peoples. The word comes from the Powhatan language.",
+    "ko": "토마호크 (손도끼)",
+    "ko_simple": "나무 손잡이에 돌이나 쇠 머리를 단 작은 도끼로, 동부 삼림 지대 부족들이 장작을 패는 도구로도 쓰고 무기로도 썼다. 이 말은 포우하탄 말에서 왔다.",
+    "examples": [
+     {
+      "en": "After trade with Europeans began, many tomahawks were made with iron heads.",
+      "ko": "유럽인과 교역이 시작된 뒤로 많은 토마호크가 쇠 머리로 만들어졌다."
+     },
+     {
+      "en": "A tomahawk was handy for chopping firewood and clearing branches.",
+      "ko": "토마호크는 장작을 패고 나뭇가지를 치는 데 편리했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "tomahawks"
+  ],
+  "picture": true
+ },
+ {
+  "word": "lacrosse",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A team sport in which players use sticks with small nets on the end to catch, carry, and throw a ball into a goal. The Haudenosaunee and other Native nations invented it, and many call it 'the Creator's Game.'",
+    "ko": "라크로스",
+    "ko_simple": "끝에 작은 그물이 달린 막대로 공을 잡고, 나르고, 골대에 던져 넣는 단체 경기. 하우데노쇼니와 다른 원주민 부족들이 만들었고, 많은 사람이 '창조주의 경기'라고 부른다.",
+    "examples": [
+     {
+      "en": "Long ago, a lacrosse game could have hundreds of players and last for days.",
+      "ko": "옛날에는 라크로스 경기에 수백 명이 뛰고 며칠 동안 계속되기도 했다."
+     },
+     {
+      "en": "My sister scored two goals in her lacrosse game on Saturday.",
+      "ko": "언니는 토요일 라크로스 경기에서 두 골을 넣었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "stickball",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A fast, rough ball game played by Southeast nations like the Choctaw and Cherokee, using two small sticks with cups at the ends. It was sometimes played to settle arguments between towns.",
+    "ko": "스틱볼",
+    "ko_simple": "촉토, 체로키 같은 남동부 부족들이 끝에 작은 컵이 달린 막대 두 개로 하는 빠르고 거친 공놀이. 때로는 마을끼리 다툼을 해결하려고 이 경기를 했다.",
+    "examples": [
+     {
+      "en": "Stickball was so tough that it was called 'the little brother of war.'",
+      "ko": "스틱볼은 아주 거칠어서 '전쟁의 남동생'이라고 불렸다."
+     },
+     {
+      "en": "At the Choctaw Fair, we watched a stickball game played without any helmets.",
+      "ko": "촉토 축제에서 우리는 헬멧도 없이 하는 스틱볼 경기를 구경했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "cradleboard",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A flat board or frame with a soft wrap that holds a baby snugly. A mother could carry it on her back, lean it against a tree, or hang it from a saddle while she worked. Many Native nations used them.",
+    "ko": "요람판, 아기 업는 판",
+    "ko_simple": "아기를 포근하게 감싸서 고정하는 평평한 판이나 틀. 엄마는 일하는 동안 이것을 등에 업거나, 나무에 기대 두거나, 안장에 매달 수 있었다. 많은 원주민 부족이 썼다.",
+    "examples": [
+     {
+      "en": "From the cradleboard, the baby could watch everything her mother was doing.",
+      "ko": "아기는 요람판에 누워 엄마가 하는 일을 모두 지켜볼 수 있었다."
+     },
+     {
+      "en": "Some cradleboards have a hoop over the baby's face to protect it if the board falls.",
+      "ko": "어떤 요람판에는 판이 넘어져도 아기 얼굴을 보호하도록 위에 고리가 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "cradleboards"
+  ],
+  "picture": true
+ },
+ {
+  "word": "buckskin",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Soft, strong leather made from deer hide. Many Native peoples used it for clothing, moccasins, and bags.",
+    "ko": "사슴 가죽, 녹비",
+    "ko_simple": "사슴 가죽으로 만든 부드럽고 질긴 가죽. 많은 원주민이 옷, 모카신, 가방을 만드는 데 썼다.",
+    "examples": [
+     {
+      "en": "Her buckskin dress had long fringes that swayed when she danced.",
+      "ko": "그녀의 사슴 가죽 드레스에는 긴 술이 달려 있어서 춤출 때 흔들렸다."
+     },
+     {
+      "en": "It takes days of scraping, stretching, and smoking to turn a deer hide into soft buckskin.",
+      "ko": "사슴 가죽을 부드러운 녹비로 만들려면 며칠 동안 긁고 늘이고 연기에 쐬어야 한다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "rawhide",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Animal skin that has been cleaned and dried but not softened, so it becomes very hard and stiff. Plains peoples used buffalo rawhide to make drums, shields, ropes, and boxes.",
+    "ko": "생가죽",
+    "ko_simple": "깨끗이 손질해 말리기만 하고 부드럽게 무두질하지 않아서 아주 딱딱하고 뻣뻣해진 동물 가죽. 대평원 부족들은 들소 생가죽으로 북, 방패, 밧줄, 상자를 만들었다.",
+    "examples": [
+     {
+      "en": "A wet strip of rawhide shrinks as it dries and holds things together very tightly.",
+      "ko": "젖은 생가죽 끈은 마르면서 줄어들어 물건을 아주 단단하게 묶어 준다."
+     },
+     {
+      "en": "The drum's rawhide top made a deep BOOM when he hit it.",
+      "ko": "북의 생가죽 면을 치자 깊은 '둥' 소리가 났다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "parfleche",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A large, folded case made of rawhide and painted with bright designs. Plains peoples used parfleches to store and carry dried meat, clothing, and other things.",
+    "ko": "파플레시 (생가죽 가방)",
+    "ko_simple": "생가죽을 접어 만들고 화려한 무늬를 그린 큰 가방. 대평원 부족들이 말린 고기, 옷 같은 물건을 넣어 두고 나르는 데 썼다.",
+    "examples": [
+     {
+      "en": "A parfleche works like a giant envelope made of hard leather.",
+      "ko": "파플레시는 단단한 가죽으로 만든 커다란 봉투처럼 쓰인다."
+     },
+     {
+      "en": "The parfleche was painted with red and blue triangles.",
+      "ko": "파플레시에는 빨간색과 파란색 세모가 그려져 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "parfleches"
+  ],
+  "picture": true
+ },
+ {
+  "word": "quillwork",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Decoration made by flattening, dyeing, and sewing porcupine quills onto leather or birch bark. Many Native peoples of the Plains, Great Lakes, and Northeast did quillwork long before glass beads arrived.",
+    "ko": "호저 가시 공예, 퀼워크",
+    "ko_simple": "호저 가시를 납작하게 펴고 물들여 가죽이나 자작나무 껍질에 꿰매어 붙이는 장식. 대평원, 오대호, 북동부의 많은 원주민이 유리구슬이 들어오기 훨씬 전부터 이 공예를 했다.",
+    "examples": [
+     {
+      "en": "The artist softened the porcupine quills in her mouth before sewing them down.",
+      "ko": "그 예술가는 호저 가시를 꿰매기 전에 입에 물고 부드럽게 만들었다."
+     },
+     {
+      "en": "The quillwork on the box made a star in yellow, red, and black.",
+      "ko": "상자 위의 호저 가시 공예는 노랑, 빨강, 검정으로 별 모양을 이루었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "beadwork",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Decoration made by sewing many tiny glass beads onto clothing, moccasins, or bags in colorful patterns. After European traders brought glass beads, Native artists used them to create their own nation's designs.",
+    "ko": "구슬 공예, 비즈 공예",
+    "ko_simple": "아주 작은 유리구슬을 옷, 모카신, 가방에 알록달록한 무늬로 꿰매어 다는 장식. 유럽 상인이 유리구슬을 들여온 뒤 원주민 예술가들은 그것으로 자기 부족만의 무늬를 만들었다.",
+    "examples": [
+     {
+      "en": "Lakota beadwork often uses bold geometric shapes, while Ojibwe beadwork often shows flowers.",
+      "ko": "라코타 구슬 공예는 흔히 굵직한 기하학 무늬를 쓰고, 오지브웨 구슬 공예는 흔히 꽃을 보여 준다."
+     },
+     {
+      "en": "One pair of beaded moccasins can have thousands of beads sewn on by hand.",
+      "ko": "구슬 모카신 한 켤레에는 손으로 꿰맨 구슬이 수천 개나 될 수 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "war bonnet",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A headdress of eagle feathers worn by some Plains nations, like the Lakota. Each feather was earned through a brave or honorable act. It is sacred, so it should never be worn as a costume. Most Native nations did not wear them.",
+    "ko": "깃털 머리 장식, 전쟁 보닛",
+    "ko_simple": "라코타 같은 일부 대평원 부족이 쓰는 독수리 깃털 머리 장식. 깃털 하나하나는 용감하거나 명예로운 일을 해서 얻은 것이다. 신성한 물건이므로 절대 분장 의상으로 써서는 안 된다. 대부분의 원주민 부족은 이것을 쓰지 않았다.",
+    "examples": [
+     {
+      "en": "A war bonnet is a great honor, a bit like a soldier's medals.",
+      "ko": "깃털 머리 장식은 군인의 훈장처럼 큰 영예이다."
+     },
+     {
+      "en": "Our teacher explained why it is disrespectful to wear a fake war bonnet at a party.",
+      "ko": "선생님은 파티에서 가짜 깃털 머리 장식을 쓰는 것이 왜 무례한 일인지 설명해 주셨다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "war bonnets",
+   "headdress"
+  ],
+  "picture": true
+ },
+ {
+  "word": "regalia",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The special clothing and items a Native person wears for dances, powwows, and ceremonies. Regalia is often handmade by family members and has deep meaning, so it is not called a 'costume.'",
+    "ko": "전통 예복, 의례복",
+    "ko_simple": "원주민이 춤, 파우와우, 의식 때 입는 특별한 옷과 물건. 흔히 가족이 손수 만들고 깊은 의미가 있어서 '분장 의상'이라고 부르지 않는다.",
+    "examples": [
+     {
+      "en": "Her grandmother spent a whole year sewing her powwow regalia.",
+      "ko": "할머니는 그녀의 파우와우 예복을 꿰매는 데 꼬박 일 년을 들였다."
+     },
+     {
+      "en": "The dancer's regalia had ribbons, beads, and a shawl with long fringes.",
+      "ko": "그 춤꾼의 예복에는 리본, 구슬, 긴 술이 달린 숄이 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "jingle dress",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A dress covered with rows of small metal cones that make a jingling sound as the dancer moves. It began in Ojibwe communities about 100 years ago as a dress for a healing dance.",
+    "ko": "징글 드레스",
+    "ko_simple": "작은 금속 고깔을 여러 줄 달아서 춤출 때 짤랑짤랑 소리가 나는 드레스. 약 100년 전 오지브웨 공동체에서 치유의 춤을 위한 옷으로 시작되었다.",
+    "examples": [
+     {
+      "en": "When the jingle dress dancers stepped in, the whole room sounded like soft rain.",
+      "ko": "징글 드레스 춤꾼들이 들어서자 방 안 전체에 부드러운 빗소리 같은 소리가 났다."
+     },
+     {
+      "en": "Some jingle dresses have 365 cones, one for each day of the year.",
+      "ko": "어떤 징글 드레스에는 일 년의 날마다 하나씩, 고깔 365개가 달려 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "jingle dresses"
+  ],
+  "picture": true
+ },
+ {
+  "word": "katsina",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "In Hopi and other Pueblo beliefs, a spirit being who brings rain, helps crops grow, and teaches lessons. Hopi carvers make small katsina dolls from cottonwood root to teach children about the spirits.",
+    "ko": "카치나 (정령)",
+    "ko_simple": "호피족과 다른 푸에블로 사람들의 믿음에서 비를 내리고, 농작물이 자라게 돕고, 교훈을 가르치는 정령. 호피 조각가들은 미루나무 뿌리로 작은 카치나 인형을 깎아 아이들에게 정령에 대해 가르친다.",
+    "examples": [
+     {
+      "en": "Hopi girls receive katsina dolls during ceremonies so they can learn the spirits' names.",
+      "ko": "호피 소녀들은 의식 때 카치나 인형을 받아 정령의 이름을 익힌다."
+     },
+     {
+      "en": "A katsina doll is a teaching gift, not a toy for playing rough.",
+      "ko": "카치나 인형은 가르침을 주는 선물이지, 거칠게 가지고 노는 장난감이 아니다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "katsinas",
+   "kachina",
+   "kachinas",
+   "katsina doll",
+   "kachina doll"
+  ],
+  "picture": true
+ },
+ {
+  "word": "sandpainting",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A picture made by carefully pouring colored sand, crushed stone, and plant pollen onto the ground. Navajo healers make sandpaintings as part of healing ceremonies, and then the picture is wiped away.",
+    "ko": "모래 그림",
+    "ko_simple": "색깔 있는 모래, 빻은 돌, 꽃가루를 땅에 조심스럽게 뿌려 만든 그림. 나바호 치유자들이 치유 의식의 한 부분으로 만들고, 의식이 끝나면 그림을 지운다.",
+    "examples": [
+     {
+      "en": "The healer let the colored sand trickle between her fingers to draw a thin line.",
+      "ko": "치유자는 색모래를 손가락 사이로 조금씩 흘려 가는 선을 그렸다."
+     },
+     {
+      "en": "A sacred sandpainting is erased before the sun sets on the same day.",
+      "ko": "신성한 모래 그림은 같은 날 해가 지기 전에 지워진다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "sandpaintings",
+   "sand painting",
+   "dry painting"
+  ],
+  "picture": true
+ },
+ {
+  "word": "coil pot",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A pot made by rolling clay into long ropes and stacking them in circles, then smoothing the sides. Pueblo potters and many other Native artists have made pottery this way for centuries.",
+    "ko": "코일 그릇, 띠쌓기 토기",
+    "ko_simple": "찰흙을 길게 밧줄처럼 말아서 동그랗게 쌓아 올린 뒤 옆면을 매끄럽게 다듬어 만든 그릇. 푸에블로 도공들과 다른 많은 원주민 예술가들이 수백 년 동안 이렇게 도자기를 만들어 왔다.",
+    "examples": [
+     {
+      "en": "In art class, we rolled clay snakes and stacked them up to make coil pots.",
+      "ko": "미술 시간에 우리는 찰흙 뱀을 굴려 쌓아 올려 코일 그릇을 만들었다."
+     },
+     {
+      "en": "The potter smoothed the coil pot with a piece of gourd until no lines showed.",
+      "ko": "도공은 박 조각으로 코일 그릇을 문질러 줄무늬가 하나도 안 보이게 다듬었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "coil pots",
+   "coiling"
+  ],
+  "picture": true
+ },
+ {
+  "word": "basketry",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The art of weaving baskets from plants like willow, grass, reeds, pine needles, or roots. California peoples like the Pomo and Southwest peoples like the Tohono O'odham are famous for it.",
+    "ko": "바구니 공예",
+    "ko_simple": "버드나무, 풀, 갈대, 솔잎, 뿌리 같은 식물로 바구니를 엮는 기술. 포모족 같은 캘리포니아 부족과 토호노 오오덤족 같은 남서부 부족이 유명하다.",
+    "examples": [
+     {
+      "en": "Some California basketry was woven so tightly that people could cook soup in it with hot stones.",
+      "ko": "어떤 캘리포니아 바구니는 아주 촘촘해서 뜨거운 돌을 넣어 그 안에서 국을 끓일 수 있었다."
+     },
+     {
+      "en": "Learning basketry takes patience, because one basket can take months to finish.",
+      "ko": "바구니 하나를 다 짜는 데 몇 달이 걸릴 수 있어서 바구니 공예를 배우려면 참을성이 필요하다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "loom",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A frame used for weaving threads into cloth or rugs. Navajo weavers use a tall upright loom to make their famous wool rugs and blankets.",
+    "ko": "베틀, 직기",
+    "ko_simple": "실을 엮어 천이나 양탄자를 짜는 틀. 나바호 직조공들은 높이 세운 베틀로 유명한 양털 양탄자와 담요를 짠다.",
+    "examples": [
+     {
+      "en": "The Navajo weaver pushed each new row of yarn down tight on the loom.",
+      "ko": "나바호 직조공은 베틀 위에서 새 실 줄을 하나하나 꽉 눌러 내렸다."
+     },
+     {
+      "en": "We made tiny looms from cardboard and wove bookmarks in class.",
+      "ko": "우리는 수업 시간에 판지로 작은 베틀을 만들어 책갈피를 짰다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "looms"
+  ],
+  "picture": true
+ },
+ {
+  "word": "turquoise",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A blue-green stone found in the dry Southwest. Navajo, Zuni, and other Pueblo artists set it in silver to make beautiful jewelry.",
+    "ko": "터키석",
+    "ko_simple": "메마른 남서부에서 나는 청록색 돌. 나바호, 주니, 그리고 다른 푸에블로 예술가들이 은에 박아 아름다운 장신구를 만든다.",
+    "examples": [
+     {
+      "en": "My aunt wears a silver bracelet with a big turquoise stone in the middle.",
+      "ko": "이모는 가운데에 큰 터키석이 박힌 은팔찌를 하고 다닌다."
+     },
+     {
+      "en": "The color of turquoise reminds many people of the desert sky.",
+      "ko": "터키석의 색은 많은 사람에게 사막의 하늘을 떠올리게 한다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "Chilkat blanket",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A fancy robe woven by Tlingit weavers from mountain goat wool and cedar bark, with curved designs of animals and crests. One blanket can take a year or more to weave.",
+    "ko": "칠캣 담요",
+    "ko_simple": "틀링깃 직조공들이 산양 털과 삼나무 껍질로 짠 화려한 겉옷으로, 동물과 집안 상징을 곡선 무늬로 넣는다. 담요 하나를 짜는 데 일 년 넘게 걸리기도 한다.",
+    "examples": [
+     {
+      "en": "The long fringe on the Chilkat blanket swayed as the dancer turned.",
+      "ko": "춤꾼이 돌자 칠캣 담요의 긴 술이 흔들렸다."
+     },
+     {
+      "en": "Chilkat blanket weavers do not use a pattern on paper; they copy a painted board.",
+      "ko": "칠캣 담요 직조공들은 종이 도안 대신 그림이 그려진 판을 보고 짠다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Chilkat blankets"
+  ],
+  "picture": true
+ },
+ {
+  "word": "button blanket",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A dark wool blanket worn like a cape by Northwest Coast peoples, decorated with a red crest design and outlined with hundreds of shiny shell buttons.",
+    "ko": "단추 담요",
+    "ko_simple": "북서 해안 부족들이 망토처럼 두르는 짙은 색 양모 담요로, 빨간 집안 상징 무늬를 넣고 반짝이는 조개 단추 수백 개로 테두리를 둘렀다.",
+    "examples": [
+     {
+      "en": "When the dancers turned in the firelight, the buttons on their button blankets sparkled.",
+      "ko": "불빛 속에서 춤꾼들이 돌 때 단추 담요의 단추들이 반짝였다."
+     },
+     {
+      "en": "Her button blanket showed a killer whale, her family's crest.",
+      "ko": "그녀의 단추 담요에는 그 가족의 상징인 범고래가 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "button blankets"
+  ],
+  "picture": true
+ },
+ {
+  "word": "petroglyph",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A picture or symbol carved or scratched into a rock surface. Native peoples made petroglyphs of animals, people, and shapes long ago, and many can still be seen today.",
+    "ko": "암각화, 바위그림",
+    "ko_simple": "바위 표면에 새기거나 긁어서 만든 그림이나 기호. 원주민들은 오래전에 동물, 사람, 도형을 바위에 새겼고, 지금도 많이 볼 수 있다.",
+    "examples": [
+     {
+      "en": "On our hike, we spotted a petroglyph of a bighorn sheep on a dark rock.",
+      "ko": "하이킹을 하다가 우리는 검은 바위에 새겨진 큰뿔양 암각화를 발견했다."
+     },
+     {
+      "en": "Never touch or draw on a petroglyph, because it can be damaged forever.",
+      "ko": "암각화는 영원히 망가질 수 있으니 절대 만지거나 그 위에 낙서하면 안 된다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "petroglyphs"
+  ],
+  "picture": true
+ },
+ {
+  "word": "pictograph",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A picture or symbol painted on rock with natural colors made from minerals and plants. Unlike a petroglyph, which is carved, a pictograph is painted.",
+    "ko": "그림 문자, 암벽화",
+    "ko_simple": "광물과 식물로 만든 천연 물감으로 바위에 그린 그림이나 기호. 새겨서 만드는 암각화와 달리 물감으로 그린다.",
+    "examples": [
+     {
+      "en": "The red handprints on the cave wall are pictographs made long ago.",
+      "ko": "동굴 벽의 빨간 손바닥 자국은 오래전에 그린 암벽화이다."
+     },
+     {
+      "en": "To remember the difference: a pictograph is painted, and a petroglyph is pecked.",
+      "ko": "차이를 기억하는 방법: 암벽화는 그리고, 암각화는 쪼아서 새긴다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "pictographs"
+  ],
+  "picture": true
+ },
+ {
+  "word": "winter count",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A history calendar kept by Lakota and other Plains peoples, painted on a buffalo hide or cloth. Each year gets one picture showing the most important event, so people could remember their history.",
+    "ko": "윈터 카운트 (그림 연대기)",
+    "ko_simple": "라코타족과 다른 대평원 부족들이 들소 가죽이나 천에 그린 역사 달력. 해마다 가장 중요한 사건을 보여 주는 그림 하나를 그려서 사람들이 역사를 기억할 수 있게 했다.",
+    "examples": [
+     {
+      "en": "One winter count picture shows many stars falling, for the year of a huge meteor shower.",
+      "ko": "어떤 윈터 카운트 그림에는 큰 유성우가 내린 해를 나타내는 많은 별이 떨어지는 모습이 있다."
+     },
+     {
+      "en": "Our class made a winter count with one picture for each year of our lives.",
+      "ko": "우리 반은 우리가 살아온 해마다 그림 하나씩을 넣어 윈터 카운트를 만들었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "winter counts"
+  ],
+  "picture": true
+ },
+ {
+  "word": "sacred pipe",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A special pipe used in prayer and ceremonies by many Native nations. The smoke is believed to carry prayers upward. Settlers often called it a 'peace pipe' because it was smoked when making agreements.",
+    "ko": "신성한 담뱃대, 평화의 담뱃대",
+    "ko_simple": "많은 원주민 부족이 기도와 의식에 쓰는 특별한 담뱃대. 연기가 기도를 위로 실어 나른다고 여긴다. 약속을 맺을 때 피웠기 때문에 정착민들은 흔히 '평화의 담뱃대'라고 불렀다.",
+    "examples": [
+     {
+      "en": "The Lakota say the sacred pipe was brought to them by White Buffalo Calf Woman.",
+      "ko": "라코타족은 '흰 들소 송아지 여인'이 신성한 담뱃대를 가져다주었다고 말한다."
+     },
+     {
+      "en": "Leaders shared the sacred pipe to show they would keep their promises.",
+      "ko": "지도자들은 약속을 지키겠다는 뜻으로 신성한 담뱃대를 함께 피웠다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "peace pipe",
+   "calumet"
+  ],
+  "picture": true
+ },
+ {
+  "word": "sweat lodge",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A small, dome-shaped hut where water is poured on hot stones to make steam. Many Native nations use sweat lodges for prayer and to cleanse the body and spirit.",
+    "ko": "한증막, 스웨트 로지",
+    "ko_simple": "뜨거운 돌에 물을 부어 김을 내는 작고 둥근 오두막. 많은 원주민 부족이 기도하고 몸과 마음을 깨끗이 하려고 쓴다.",
+    "examples": [
+     {
+      "en": "Inside the sweat lodge, it was dark, hot, and full of steam.",
+      "ko": "스웨트 로지 안은 어둡고 뜨겁고 김이 가득했다."
+     },
+     {
+      "en": "A sweat lodge ceremony is sacred and is led by an experienced elder.",
+      "ko": "스웨트 로지 의식은 신성하며 경험 많은 어른이 이끈다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "sweat lodges"
+  ],
+  "picture": true
+ },
+ {
+  "word": "bison",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A huge, shaggy wild animal with short horns and a hump on its back, often called a buffalo. Tens of millions once roamed the Great Plains, and Plains peoples used every part of it for food, clothing, homes, and tools.",
+    "ko": "들소, 아메리카들소, 바이슨",
+    "ko_simple": "짧은 뿔과 등에 혹이 있는 털이 텁수룩한 커다란 야생 동물로, 흔히 버펄로라고 부른다. 한때 수천만 마리가 대평원을 누볐고, 대평원 부족들은 들소의 모든 부분을 음식, 옷, 집, 도구로 썼다.",
+    "examples": [
+     {
+      "en": "A bison can run about 35 miles per hour, as fast as a car on a city street.",
+      "ko": "들소는 시속 약 35마일로 달릴 수 있는데, 도시 도로를 달리는 자동차만큼 빠르다."
+     },
+     {
+      "en": "By the 1890s, hunters had killed so many bison that fewer than a thousand were left.",
+      "ko": "1890년대가 되자 사냥꾼들이 들소를 너무 많이 죽여서 천 마리도 남지 않았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "buffalo",
+   "buffaloes"
+  ],
+  "picture": true
+ },
+ {
+  "word": "buffalo jump",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A cliff where Plains hunters worked together to chase a herd of buffalo so they would run over the edge. People waited below to gather the meat and hides.",
+    "ko": "버펄로 점프 (들소 몰이 절벽)",
+    "ko_simple": "대평원 사냥꾼들이 힘을 합쳐 들소 떼를 몰아 가장자리 너머로 달려가게 한 절벽. 사람들이 아래에서 기다렸다가 고기와 가죽을 거두었다.",
+    "examples": [
+     {
+      "en": "At a buffalo jump, some hunters wore wolf skins to scare the herd toward the cliff.",
+      "ko": "버펄로 점프에서 어떤 사냥꾼들은 늑대 가죽을 쓰고 들소 떼를 절벽 쪽으로 겁주어 몰았다."
+     },
+     {
+      "en": "A famous buffalo jump in Canada was used by the Blackfoot for thousands of years.",
+      "ko": "캐나다의 유명한 버펄로 점프는 블랙풋족이 수천 년 동안 이용했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "buffalo jumps"
+  ],
+  "picture": true
+ },
+ {
+  "word": "salmon",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A large fish that is born in rivers, grows up in the ocean, and swims back up its home river to lay eggs. Salmon was the most important food for many Northwest Coast and Plateau peoples.",
+    "ko": "연어",
+    "ko_simple": "강에서 태어나 바다에서 자라고, 알을 낳으러 고향 강을 거슬러 올라오는 큰 물고기. 많은 북서 해안과 고원 부족에게 가장 중요한 음식이었다.",
+    "examples": [
+     {
+      "en": "We watched salmon leap up the waterfall like silver rockets.",
+      "ko": "우리는 연어들이 은빛 로켓처럼 폭포를 뛰어오르는 모습을 보았다."
+     },
+     {
+      "en": "Many nations hold a First Salmon Ceremony to give thanks when the salmon return.",
+      "ko": "많은 부족이 연어가 돌아올 때 감사하는 '첫 연어 의식'을 연다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "fish weir",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A fence of wooden stakes, woven branches, or stones built across a stream to trap fish. Many Native peoples built fish weirs to catch lots of fish at once.",
+    "ko": "어살, 물고기 덫",
+    "ko_simple": "물고기를 가두려고 개울을 가로질러 나무 말뚝, 엮은 나뭇가지, 돌로 만든 울타리. 많은 원주민이 한 번에 물고기를 많이 잡으려고 어살을 만들었다.",
+    "examples": [
+     {
+      "en": "The fish swam into the fish weir and could not find their way back out.",
+      "ko": "물고기들은 어살 안으로 헤엄쳐 들어가서 다시 나가는 길을 찾지 못했다."
+     },
+     {
+      "en": "Workers digging in Boston found pieces of a fish weir that was about 5,000 years old.",
+      "ko": "보스턴에서 땅을 파던 일꾼들이 약 5,000년 된 어살 조각을 찾아냈다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "fish weirs",
+   "weir"
+  ],
+  "picture": true
+ },
+ {
+  "word": "acorn",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The nut of an oak tree. Acorns taste bitter, so California peoples cracked them, ground them into flour, and washed the flour many times with water before cooking it into mush or bread.",
+    "ko": "도토리",
+    "ko_simple": "참나무의 열매. 도토리는 써서 캘리포니아 부족들은 껍질을 깨고 가루로 빻은 뒤 여러 번 물로 씻어 낸 다음 죽이나 빵으로 만들었다.",
+    "examples": [
+     {
+      "en": "Squirrels and people both gathered acorns in the fall.",
+      "ko": "가을이면 다람쥐와 사람 모두 도토리를 모았다."
+     },
+     {
+      "en": "My Korean grandma makes acorn jelly, and California Native peoples also cooked with acorns!",
+      "ko": "우리 한국 할머니는 도토리묵을 만드시는데, 캘리포니아 원주민들도 도토리로 요리했다!"
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "acorns"
+  ],
+  "picture": true
+ },
+ {
+  "word": "metate",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A large, flat stone used for grinding corn and seeds into flour. A person rubs a smaller hand stone, called a mano, back and forth on it. Peoples of the Southwest and Mexico used them.",
+    "ko": "메타테 (맷돌판)",
+    "ko_simple": "옥수수와 씨앗을 갈아 가루로 만드는 크고 평평한 돌. '마노'라고 부르는 작은 손 돌을 그 위에서 앞뒤로 문지른다. 남서부와 멕시코 사람들이 썼다.",
+    "examples": [
+     {
+      "en": "Pueblo women knelt at the metate and ground corn while they sang.",
+      "ko": "푸에블로 여성들은 메타테 앞에 무릎 꿇고 노래하며 옥수수를 갈았다."
+     },
+     {
+      "en": "After years of use, the middle of the metate was worn into a smooth dip.",
+      "ko": "여러 해 쓰고 나자 메타테 가운데가 매끄럽게 움푹 패었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "metates",
+   "mano"
+  ],
+  "picture": true
+ },
+ {
+  "word": "mortar and pestle",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A bowl (the mortar) and a heavy club-shaped tool (the pestle) used to pound or grind food. California peoples pounded acorns in stone mortars, sometimes in holes worn right into big rocks.",
+    "ko": "절구와 절굿공이",
+    "ko_simple": "음식을 찧거나 빻는 데 쓰는 그릇(절구)과 묵직한 방망이 모양의 도구(절굿공이). 캘리포니아 부족들은 돌절구에 도토리를 찧었고, 때로는 큰 바위에 패인 구멍을 그대로 썼다.",
+    "examples": [
+     {
+      "en": "In Yosemite, you can see holes in the rocks where people used a mortar and pestle for acorns.",
+      "ko": "요세미티에서는 사람들이 도토리를 찧던 바위 절구 구멍을 볼 수 있다."
+     },
+     {
+      "en": "Mom uses a small mortar and pestle to crush garlic and sesame seeds.",
+      "ko": "엄마는 작은 절구와 절굿공이로 마늘과 깨를 빻으신다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "mortar",
+   "pestle"
+  ],
+  "picture": true
+ },
+ {
+  "word": "cornhusk doll",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A doll made from the dried leaves that wrap around an ear of corn. Haudenosaunee cornhusk dolls traditionally have no face, and a story explains that this teaches children not to be vain.",
+    "ko": "옥수수 껍질 인형",
+    "ko_simple": "옥수수 이삭을 감싸는 마른 잎으로 만든 인형. 하우데노쇼니의 옥수수 껍질 인형은 전통적으로 얼굴이 없는데, 아이들에게 외모를 뽐내지 말라는 가르침을 주는 이야기가 전해진다.",
+    "examples": [
+     {
+      "en": "We soaked the cornhusks in warm water so they would bend without breaking for our cornhusk dolls.",
+      "ko": "우리는 옥수수 껍질 인형을 만들려고 껍질을 따뜻한 물에 담가 부러지지 않고 휘게 했다."
+     },
+     {
+      "en": "In the story, the cornhusk doll spent so much time admiring her reflection that she lost her face.",
+      "ko": "이야기 속에서 옥수수 껍질 인형은 물에 비친 자기 모습만 너무 오래 보다가 얼굴을 잃었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "cornhusk dolls",
+   "corn husk doll"
+  ],
+  "picture": true
+ },
+ {
+  "word": "maple sugar",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Sugar made by boiling the sap of maple trees until it gets thick and sweet. Native peoples of the Northeast and Great Lakes, like the Ojibwe and Abenaki, made it every spring long before Europeans arrived.",
+    "ko": "단풍당, 메이플 설탕",
+    "ko_simple": "단풍나무 수액을 진하고 달콤해질 때까지 끓여 만든 설탕. 오지브웨, 아베나키 같은 북동부와 오대호 지역 원주민들이 유럽인이 오기 훨씬 전부터 봄마다 만들었다.",
+    "examples": [
+     {
+      "en": "It takes about 40 buckets of sap to make one bucket of maple syrup.",
+      "ko": "메이플 시럽 한 양동이를 만들려면 수액이 약 40양동이 필요하다."
+     },
+     {
+      "en": "Families camped in the maple forest every spring to make maple sugar.",
+      "ko": "가족들은 해마다 봄이면 단풍나무 숲에서 야영하며 단풍당을 만들었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "maple syrup"
+  ],
+  "picture": true
+ },
+ {
+  "word": "dog sled",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A sled pulled by a team of dogs across snow and ice. Arctic peoples like the Inuit used dog sleds to travel and to carry home the animals they hunted.",
+    "ko": "개썰매",
+    "ko_simple": "개 여러 마리가 눈과 얼음 위로 끄는 썰매. 이누이트 같은 북극 사람들은 개썰매로 이동하고 사냥한 동물을 집으로 날랐다.",
+    "examples": [
+     {
+      "en": "The dog sled flew across the ice while the dogs barked with excitement.",
+      "ko": "개들이 신나서 짖는 동안 개썰매는 얼음 위를 쏜살같이 달렸다."
+     },
+     {
+      "en": "Inuit sled dogs can pull heavy loads even in a freezing blizzard.",
+      "ko": "이누이트 썰매 개들은 꽁꽁 언 눈보라 속에서도 무거운 짐을 끌 수 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "dog sleds",
+   "dogsled"
+  ],
+  "picture": true
+ },
+ {
+  "word": "snow goggles",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Eye covers carved from wood, bone, or antler with thin slits to see through. Arctic peoples wore them to protect their eyes from the bright sun shining on the snow.",
+    "ko": "눈 가리개, 설안경",
+    "ko_simple": "나무, 뼈, 뿔을 깎아 만들고 가느다란 틈으로 내다보는 눈 가리개. 북극 사람들이 눈에 반사되는 밝은 햇빛으로부터 눈을 보호하려고 썼다.",
+    "examples": [
+     {
+      "en": "Snow goggles were like the first sunglasses, invented thousands of years ago.",
+      "ko": "설안경은 수천 년 전에 발명된 최초의 선글라스 같은 것이었다."
+     },
+     {
+      "en": "Without snow goggles, the bright snow could make a hunter's eyes burn and go blind for a while.",
+      "ko": "설안경이 없으면 밝은 눈 때문에 사냥꾼의 눈이 따갑고 한동안 앞이 안 보일 수 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "inuksuk",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A figure made by stacking stones, built by the Inuit in the Arctic. Inuksuit can mark a path, a good fishing spot, or a place to remember. Some look like a person with arms spread out.",
+    "ko": "이눅숙 (돌무더기 표지)",
+    "ko_simple": "북극의 이누이트가 돌을 쌓아 만든 형상. 길, 좋은 낚시터, 기억할 장소를 표시한다. 어떤 것은 팔을 벌린 사람처럼 생겼다.",
+    "examples": [
+     {
+      "en": "Seeing an inuksuk on the hill told travelers they were on the right path.",
+      "ko": "언덕 위의 이눅숙을 보면 여행자들은 바른 길로 가고 있다는 것을 알았다."
+     },
+     {
+      "en": "An inuksuk appears on the flag of Nunavut, a territory in northern Canada.",
+      "ko": "캐나다 북부의 준주인 누나부트의 깃발에는 이눅숙이 그려져 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "inuksuit",
+   "inukshuk"
+  ],
+  "picture": true
+ },
+ {
+  "word": "blubber",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The thick layer of fat under the skin of whales, seals, and walruses that keeps them warm. Arctic peoples ate it for energy and burned its oil in lamps for light and heat.",
+    "ko": "고래 기름, 지방층",
+    "ko_simple": "고래, 물개, 바다코끼리의 피부 아래에 있어 몸을 따뜻하게 지켜 주는 두꺼운 지방층. 북극 사람들은 힘을 내려고 이것을 먹었고, 그 기름을 등잔에 태워 빛과 열을 얻었다.",
+    "examples": [
+     {
+      "en": "In science class, we put our hands in a bag of shortening to feel how blubber keeps animals warm.",
+      "ko": "과학 시간에 우리는 쇼트닝이 든 봉지에 손을 넣어 지방층이 동물을 얼마나 따뜻하게 하는지 느껴 보았다."
+     },
+     {
+      "en": "A stone lamp filled with seal blubber oil could light and warm a whole snow house.",
+      "ko": "물개 기름을 채운 돌 등잔 하나로 눈집 전체를 밝히고 데울 수 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "tule",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A tall, thick reed that grows in California marshes and lakes. Peoples like the Ohlone and Miwok tied bundles of tule together to make boats, houses, mats, and even duck decoys.",
+    "ko": "툴레 (갈대의 한 종류)",
+    "ko_simple": "캘리포니아 늪과 호수에서 자라는 키 크고 굵은 갈대. 올로니, 미워크 같은 부족들이 툴레 다발을 묶어 배, 집, 돗자리, 심지어 오리 미끼 인형까지 만들었다.",
+    "examples": [
+     {
+      "en": "A tule boat floats well because the reeds are full of tiny air pockets.",
+      "ko": "툴레 배는 갈대 속에 작은 공기 구멍이 가득해서 물에 잘 뜬다."
+     },
+     {
+      "en": "Hunters floated tule duck decoys on the water to bring real ducks close.",
+      "ko": "사냥꾼들은 진짜 오리를 가까이 오게 하려고 물 위에 툴레 오리 미끼를 띄웠다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "tules"
+  ],
+  "picture": true
+ },
+ {
+  "word": "cedar",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A tall evergreen tree with sweet-smelling wood that does not rot easily. Northwest Coast peoples call the red cedar the 'tree of life' because they used its wood for houses, canoes, and totem poles, and its bark for clothing and baskets.",
+    "ko": "삼나무, 향나무 (시더)",
+    "ko_simple": "나무에서 좋은 향이 나고 잘 썩지 않는 키 큰 상록수. 북서 해안 부족들은 붉은 삼나무를 '생명의 나무'라고 부르는데, 나무로는 집, 카누, 토템 기둥을 만들고 껍질로는 옷과 바구니를 만들었기 때문이다.",
+    "examples": [
+     {
+      "en": "Strips of soft cedar bark were woven into rain hats and capes.",
+      "ko": "부드러운 삼나무 껍질을 가늘게 찢어 비 모자와 망토를 엮었다."
+     },
+     {
+      "en": "My pencil box is made of cedar, and it smells amazing.",
+      "ko": "내 필통은 삼나무로 만들어서 향이 정말 좋다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "cedars"
+  ],
+  "picture": true
+ },
+ {
+  "word": "birch bark",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "The thin, papery, waterproof bark of the white birch tree. Great Lakes and Northeast peoples used it to make canoes, baskets, wigwam covers, and scrolls with drawings.",
+    "ko": "자작나무 껍질",
+    "ko_simple": "하얀 자작나무의 얇고 종이 같으며 물이 새지 않는 껍질. 오대호와 북동부 부족들이 카누, 바구니, 위그왐 덮개, 그림을 그린 두루마리를 만드는 데 썼다.",
+    "examples": [
+     {
+      "en": "Birch bark peels off in thin white sheets, a bit like paper.",
+      "ko": "자작나무 껍질은 종이처럼 얇고 하얀 장으로 벗겨진다."
+     },
+     {
+      "en": "Ojibwe healers recorded songs as pictures on birch bark scrolls.",
+      "ko": "오지브웨 치유자들은 자작나무 껍질 두루마리에 노래를 그림으로 기록했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "birchbark"
+  ],
+  "picture": true
+ },
+ {
+  "word": "sinew",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A strong, stringy cord in an animal's body that joins muscle to bone. Native peoples dried it and used it as thread for sewing and as string for bows.",
+    "ko": "힘줄",
+    "ko_simple": "동물 몸속에서 근육과 뼈를 이어 주는 질기고 끈 같은 줄. 원주민들은 이것을 말려 바느질 실과 활시위로 썼다.",
+    "examples": [
+     {
+      "en": "She sewed the moccasins together with thin threads of deer sinew.",
+      "ko": "그녀는 가는 사슴 힘줄 실로 모카신을 꿰매었다."
+     },
+     {
+      "en": "Sinew shrinks as it dries, so it ties an arrowhead on very tightly.",
+      "ko": "힘줄은 마르면서 줄어들어서 화살촉을 아주 단단히 묶어 준다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "hominy",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Corn kernels soaked in water with wood ashes until they swell up and their skins come off. Many Native peoples made it, and the word comes from the Powhatan language.",
+    "ko": "호미니 (껍질 벗긴 옥수수)",
+    "ko_simple": "옥수수 알을 나뭇재를 푼 물에 불려서 부풀고 껍질이 벗겨지게 한 것. 많은 원주민이 만들었고, 이 말은 포우하탄 말에서 왔다.",
+    "examples": [
+     {
+      "en": "Hominy kernels are big and puffy, almost like popcorn that didn't pop.",
+      "ko": "호미니 알은 크고 통통해서 거의 안 터진 팝콘 같다."
+     },
+     {
+      "en": "Grits are made by grinding dried hominy into small bits.",
+      "ko": "그리츠는 말린 호미니를 잘게 갈아서 만든다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "frybread",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A flat bread made of dough fried in oil. It was created in the 1800s when Native nations forced onto reservations were given flour, sugar, and lard instead of their usual foods. Today it is popular at powwows and fairs.",
+    "ko": "프라이브레드 (튀긴 빵)",
+    "ko_simple": "반죽을 기름에 튀긴 납작한 빵. 1800년대에 보호구역으로 강제로 옮겨진 원주민 부족들이 평소 먹던 음식 대신 밀가루, 설탕, 돼지기름을 배급받으면서 만들어졌다. 오늘날 파우와우와 축제에서 인기가 많다.",
+    "examples": [
+     {
+      "en": "At the powwow, I ate a warm piece of frybread with honey on top.",
+      "ko": "파우와우에서 나는 꿀을 얹은 따끈한 프라이브레드를 먹었다."
+     },
+     {
+      "en": "For many families, frybread is a reminder of hard times and of how their people survived.",
+      "ko": "많은 가족에게 프라이브레드는 힘든 시절과 자기 부족이 어떻게 살아남았는지를 떠올리게 한다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "fry bread"
+  ],
+  "picture": true
+ }
+]

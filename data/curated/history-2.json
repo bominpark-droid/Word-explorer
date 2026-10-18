@@ -1,0 +1,2583 @@
+[
+ {
+  "word": "Patriot",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A colonist who wanted the American colonies to be free from British rule during the American Revolution.",
+    "ko": "애국파",
+    "ko_simple": "미국 독립 혁명 때 식민지가 영국의 지배에서 벗어나기를 바란 식민지 사람",
+    "examples": [
+     {
+      "en": "The Patriots cheered when they heard the Declaration of Independence.",
+      "ko": "애국파 사람들은 독립선언서를 듣고 환호했다."
+     },
+     {
+      "en": "My great-great-great-great-grandfather was a Patriot who made gunpowder.",
+      "ko": "우리 고조할아버지의 할아버지는 화약을 만든 애국파였다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Patriots"
+  ],
+  "picture": true
+ },
+ {
+  "word": "Loyalist",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A colonist who stayed loyal to the British king during the American Revolution.",
+    "ko": "왕당파, 국왕파",
+    "ko_simple": "미국 독립 혁명 때 영국 왕에게 충성을 지킨 식민지 사람",
+    "examples": [
+     {
+      "en": "The Loyalist family moved to Canada after the war.",
+      "ko": "그 왕당파 가족은 전쟁이 끝난 뒤 캐나다로 이사했다."
+     },
+     {
+      "en": "Patriots and Loyalists sometimes lived on the same street and argued.",
+      "ko": "애국파와 왕당파가 같은 거리에 살면서 다투기도 했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Loyalists"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Redcoat",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A nickname for a British soldier during the American Revolution, because of their bright red coats.",
+    "ko": "레드코트(영국군 병사)",
+    "ko_simple": "미국 독립 혁명 때 영국 군인을 부르던 별명. 새빨간 군복 때문에 생겼다.",
+    "examples": [
+     {
+      "en": "The Redcoats marched toward Concord in neat lines.",
+      "ko": "영국군 병사들은 줄을 맞춰 콩코드로 행군했다."
+     },
+     {
+      "en": "The Redcoats' red uniforms were easy to see in the green woods.",
+      "ko": "영국군의 빨간 군복은 초록 숲에서 눈에 잘 띄었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Redcoats"
+  ],
+  "picture": true
+ },
+ {
+  "word": "tax",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Money that people must pay to the government. It pays for things like roads, schools, and armies.",
+    "ko": "세금",
+    "ko_simple": "사람들이 정부에 내야 하는 돈. 도로, 학교, 군대 같은 것에 쓰인다.",
+    "examples": [
+     {
+      "en": "The colonists were angry about the tax on tea.",
+      "ko": "식민지 사람들은 차에 붙는 세금 때문에 화가 났다."
+     },
+     {
+      "en": "When we bought a toy for ten dollars, we paid a little extra for tax.",
+      "ko": "10달러짜리 장난감을 살 때 세금으로 조금 더 냈다."
+     }
+    ]
+   },
+   {
+    "pos": "verb",
+    "simple": "To make people pay money to the government.",
+    "ko": "세금을 매기다",
+    "ko_simple": "사람들에게 정부에 돈을 내게 하다",
+    "examples": [
+     {
+      "en": "Britain taxed paper, glass, and paint in the colonies.",
+      "ko": "영국은 식민지의 종이, 유리, 페인트에 세금을 매겼다."
+     },
+     {
+      "en": "If they tax candy, my brother will be very upset.",
+      "ko": "사탕에 세금을 매기면 내 동생은 무척 화낼 것이다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "taxes",
+   "taxed",
+   "taxing"
+  ],
+  "picture": false
+ },
+ {
+  "word": "taxation without representation",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "phrase",
+    "simple": "Making people pay taxes when they have no one to speak or vote for them in the government that makes the taxes. Colonists said this was unfair.",
+    "ko": "대표 없는 과세",
+    "ko_simple": "세금을 정하는 정부에 자기들을 대신해 말하거나 투표할 사람이 없는데 세금을 내게 하는 것. 식민지 사람들은 이것이 불공평하다고 했다.",
+    "examples": [
+     {
+      "en": "\"No taxation without representation!\" the colonists shouted.",
+      "ko": "\"대표 없이 과세 없다!\" 하고 식민지 사람들이 외쳤다."
+     },
+     {
+      "en": "Colonists had no members in Parliament, so they called the taxes taxation without representation.",
+      "ko": "식민지 사람들은 영국 의회에 대표가 없어서 그 세금을 대표 없는 과세라고 불렀다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Stamp Act",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A law Britain passed in 1765 that made colonists pay a tax on paper things like newspapers, cards, and legal papers.",
+    "ko": "인지세법",
+    "ko_simple": "1765년 영국이 만든 법으로, 신문, 카드, 법률 문서 같은 종이에 세금을 내게 했다.",
+    "examples": [
+     {
+      "en": "Under the Stamp Act, even playing cards needed a stamp.",
+      "ko": "인지세법에 따라 놀이 카드에도 인지를 붙여야 했다."
+     },
+     {
+      "en": "Colonists were so angry about the Stamp Act that Britain took it back a year later.",
+      "ko": "식민지 사람들이 인지세법에 너무 화를 내서 영국은 1년 뒤 그 법을 없앴다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Townshend Acts",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "Laws Britain passed in 1767 that taxed glass, paint, paper, lead, and tea brought into the colonies.",
+    "ko": "타운센드법",
+    "ko_simple": "1767년 영국이 만든 법들로, 식민지로 들어오는 유리, 페인트, 종이, 납, 차에 세금을 매겼다.",
+    "examples": [
+     {
+      "en": "Colonists stopped buying British goods because of the Townshend Acts.",
+      "ko": "타운센드법 때문에 식민지 사람들은 영국 물건을 사지 않았다."
+     },
+     {
+      "en": "Britain ended most of the Townshend Acts but kept the tax on tea.",
+      "ko": "영국은 타운센드법 대부분을 없앴지만 차에 붙는 세금은 남겨 두었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Boston Massacre",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A fight in Boston in 1770 when British soldiers fired into an angry crowd and killed five colonists.",
+    "ko": "보스턴 학살 사건",
+    "ko_simple": "1770년 보스턴에서 영국 군인들이 성난 군중에게 총을 쏘아 식민지 사람 다섯 명이 죽은 사건",
+    "examples": [
+     {
+      "en": "The Boston Massacre started with people throwing snowballs at soldiers.",
+      "ko": "보스턴 학살 사건은 사람들이 군인들에게 눈덩이를 던지면서 시작되었다."
+     },
+     {
+      "en": "Paul Revere made a famous picture of the Boston Massacre.",
+      "ko": "폴 리비어는 보스턴 학살 사건을 그린 유명한 그림을 만들었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Crispus Attucks",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A man of African and Native American background who was the first person killed in the Boston Massacre in 1770.",
+    "ko": "크리스퍼스 애턱스",
+    "ko_simple": "1770년 보스턴 학살 사건에서 처음으로 목숨을 잃은, 아프리카계이자 아메리카 원주민 혈통의 남자",
+    "examples": [
+     {
+      "en": "Crispus Attucks is remembered as one of the first people to die for American freedom.",
+      "ko": "크리스퍼스 애턱스는 미국의 자유를 위해 처음 목숨을 잃은 사람 중 하나로 기억된다."
+     },
+     {
+      "en": "Crispus Attucks worked as a sailor on ships out of Boston.",
+      "ko": "크리스퍼스 애턱스는 보스턴을 드나드는 배에서 선원으로 일했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Tea Act",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A law Britain passed in 1773 that let one British company sell tea in the colonies and kept the tax on it.",
+    "ko": "차세법",
+    "ko_simple": "1773년 영국이 만든 법으로, 영국 회사 한 곳만 식민지에 차를 팔게 하고 차에 붙는 세금도 유지했다.",
+    "examples": [
+     {
+      "en": "The Tea Act made the colonists angry enough to dump tea in the harbor.",
+      "ko": "차세법 때문에 화가 난 식민지 사람들은 항구에 차를 쏟아 버렸다."
+     },
+     {
+      "en": "Even though the Tea Act made tea cheaper, colonists still hated the tax.",
+      "ko": "차세법으로 차값은 싸졌지만, 식민지 사람들은 여전히 그 세금을 싫어했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Boston Tea Party",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A protest in 1773 when colonists climbed onto British ships in Boston Harbor and threw chests of tea into the water.",
+    "ko": "보스턴 차 사건",
+    "ko_simple": "1773년 식민지 사람들이 보스턴 항구의 영국 배에 올라가 차 상자를 바다에 던진 시위",
+    "examples": [
+     {
+      "en": "At the Boston Tea Party, colonists dumped 342 chests of tea.",
+      "ko": "보스턴 차 사건 때 식민지 사람들은 차 상자 342개를 바다에 버렸다."
+     },
+     {
+      "en": "The Boston Tea Party was not a real party; no one drank any tea!",
+      "ko": "보스턴 차 사건은 진짜 파티가 아니었다. 아무도 차를 마시지 않았다!"
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "Intolerable Acts",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "Strict laws Britain passed in 1774 to punish Boston for the Boston Tea Party. They closed Boston Harbor.",
+    "ko": "참을 수 없는 법(강압법)",
+    "ko_simple": "보스턴 차 사건을 벌하려고 1774년 영국이 만든 엄한 법들. 보스턴 항구를 막아 버렸다.",
+    "examples": [
+     {
+      "en": "The Intolerable Acts closed Boston Harbor until the tea was paid for.",
+      "ko": "참을 수 없는 법은 차값을 다 물어낼 때까지 보스턴 항구를 막았다."
+     },
+     {
+      "en": "Other colonies sent food to Boston after the Intolerable Acts.",
+      "ko": "참을 수 없는 법이 생기자 다른 식민지들은 보스턴에 식량을 보냈다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Quartering Act",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A British law that made colonists give British soldiers places to stay and food.",
+    "ko": "군대 숙영법",
+    "ko_simple": "식민지 사람들에게 영국 군인이 머물 곳과 먹을 것을 주도록 한 영국의 법",
+    "examples": [
+     {
+      "en": "Because of the Quartering Act, soldiers could stay in empty buildings and barns.",
+      "ko": "군대 숙영법 때문에 군인들은 빈 건물과 헛간에 머물 수 있었다."
+     },
+     {
+      "en": "The Quartering Act is why the Bill of Rights says soldiers cannot stay in your house in peacetime.",
+      "ko": "권리장전에 평화로운 때에는 군인이 남의 집에 머물 수 없다고 적힌 것은 군대 숙영법 때문이다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Sons of Liberty",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A secret group of colonists who protested against British taxes and laws.",
+    "ko": "자유의 아들들",
+    "ko_simple": "영국의 세금과 법에 맞서 시위한 식민지 사람들의 비밀 모임",
+    "examples": [
+     {
+      "en": "The Sons of Liberty planned the Boston Tea Party.",
+      "ko": "자유의 아들들이 보스턴 차 사건을 계획했다."
+     },
+     {
+      "en": "The Sons of Liberty met under a big elm called the Liberty Tree.",
+      "ko": "자유의 아들들은 '자유의 나무'라고 불린 큰 느릅나무 아래에서 모였다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Samuel Adams",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Patriot leader in Boston who helped start the Sons of Liberty and spoke out against British taxes.",
+    "ko": "새뮤얼 애덤스",
+    "ko_simple": "자유의 아들들을 만드는 데 힘쓰고 영국 세금에 반대한 보스턴의 애국파 지도자",
+    "examples": [
+     {
+      "en": "Samuel Adams wrote letters to get the colonies to work together.",
+      "ko": "새뮤얼 애덤스는 식민지들이 힘을 합치도록 편지를 썼다."
+     },
+     {
+      "en": "Samuel Adams was the cousin of John Adams.",
+      "ko": "새뮤얼 애덤스는 존 애덤스의 사촌이었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "John Adams",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Patriot leader who helped with the Declaration of Independence and became the second President of the United States.",
+    "ko": "존 애덤스",
+    "ko_simple": "독립선언서 작성을 돕고 미국의 두 번째 대통령이 된 애국파 지도자",
+    "examples": [
+     {
+      "en": "John Adams was the first president to live in the White House.",
+      "ko": "존 애덤스는 백악관에 산 첫 대통령이었다."
+     },
+     {
+      "en": "John Adams and Thomas Jefferson both died on July 4, 1826.",
+      "ko": "존 애덤스와 토머스 제퍼슨은 둘 다 1826년 7월 4일에 세상을 떠났다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Abigail Adams",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The wife of John Adams. She wrote letters asking leaders to \"remember the ladies\" and give women more rights.",
+    "ko": "애비게일 애덤스",
+    "ko_simple": "존 애덤스의 아내. 지도자들에게 '여성을 기억하라'며 여성에게 더 많은 권리를 달라고 편지를 썼다.",
+    "examples": [
+     {
+      "en": "Abigail Adams ran the family farm while John was away.",
+      "ko": "애비게일 애덤스는 남편 존이 집을 비운 동안 가족 농장을 꾸려 나갔다."
+     },
+     {
+      "en": "Abigail Adams wrote more than 1,000 letters to her husband.",
+      "ko": "애비게일 애덤스는 남편에게 1,000통이 넘는 편지를 썼다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Paul Revere",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Boston silversmith and Patriot who rode his horse at night in 1775 to warn that British soldiers were coming.",
+    "ko": "폴 리비어",
+    "ko_simple": "1775년 밤에 말을 달려 영국군이 오고 있다고 알린 보스턴의 은세공인이자 애국파",
+    "examples": [
+     {
+      "en": "Paul Revere rode to Lexington to warn Samuel Adams and John Hancock.",
+      "ko": "폴 리비어는 새뮤얼 애덤스와 존 핸콕에게 알리려고 렉싱턴으로 달려갔다."
+     },
+     {
+      "en": "Paul Revere was not alone; other riders like William Dawes rode too.",
+      "ko": "폴 리비어 혼자가 아니라 윌리엄 도스 같은 다른 사람들도 말을 달렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "midnight ride",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Paul Revere's famous night ride on April 18, 1775, to warn colonists that British soldiers were coming.",
+    "ko": "한밤의 질주",
+    "ko_simple": "1775년 4월 18일 영국군이 온다고 식민지 사람들에게 알린 폴 리비어의 유명한 밤 질주",
+    "examples": [
+     {
+      "en": "\"One if by land, two if by sea\" was the lantern signal before the midnight ride.",
+      "ko": "\"육지로 오면 하나, 바다로 오면 둘\"은 한밤의 질주 전의 등불 신호였다."
+     },
+     {
+      "en": "We read a poem about Paul Revere's midnight ride.",
+      "ko": "우리는 폴 리비어의 한밤의 질주에 관한 시를 읽었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Lexington and Concord",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "Two towns in Massachusetts where the first battles of the American Revolution were fought on April 19, 1775.",
+    "ko": "렉싱턴과 콩코드",
+    "ko_simple": "1775년 4월 19일 미국 독립 혁명의 첫 전투가 벌어진 매사추세츠주의 두 마을",
+    "examples": [
+     {
+      "en": "The war began with the battles at Lexington and Concord.",
+      "ko": "전쟁은 렉싱턴과 콩코드 전투로 시작되었다."
+     },
+     {
+      "en": "At Lexington and Concord, minutemen fired from behind stone walls.",
+      "ko": "렉싱턴과 콩코드에서 민병대는 돌담 뒤에서 총을 쏘았다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "shot heard round the world",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "phrase",
+    "simple": "The first shot of the American Revolution, fired in 1775. It was \"heard\" everywhere because the war changed history.",
+    "ko": "세계에 울려 퍼진 총성",
+    "ko_simple": "1775년에 울린 미국 독립 혁명의 첫 총성. 그 전쟁이 역사를 바꾸었기 때문에 온 세상에 '들렸다'고 한다.",
+    "examples": [
+     {
+      "en": "The shot heard round the world started a war for freedom.",
+      "ko": "세계에 울려 퍼진 총성이 자유를 위한 전쟁을 시작했다."
+     },
+     {
+      "en": "No one knows who fired the shot heard round the world.",
+      "ko": "세계에 울려 퍼진 총성을 누가 쐈는지는 아무도 모른다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "militia",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A group of ordinary people, not full-time soldiers, who train to fight when they are needed.",
+    "ko": "민병대",
+    "ko_simple": "직업 군인이 아니라 필요할 때 싸우려고 훈련하는 보통 사람들의 무리",
+    "examples": [
+     {
+      "en": "The town militia practiced marching on the village green.",
+      "ko": "마을 민병대는 마을 공터에서 행진 연습을 했다."
+     },
+     {
+      "en": "Farmers, blacksmiths, and teachers all joined the militia.",
+      "ko": "농부, 대장장이, 선생님 모두 민병대에 들어갔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "militias"
+  ],
+  "picture": true
+ },
+ {
+  "word": "minuteman",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A colonial militia member who was ready to fight at a minute's notice during the American Revolution.",
+    "ko": "미니트맨(즉시 출동 민병)",
+    "ko_simple": "미국 독립 혁명 때 1분 만에 싸우러 나갈 준비가 되어 있던 식민지 민병대원",
+    "examples": [
+     {
+      "en": "The minuteman kept his musket by the door.",
+      "ko": "그 민병은 머스킷총을 문 옆에 두었다."
+     },
+     {
+      "en": "When the bell rang, the minutemen dropped their plows and ran.",
+      "ko": "종이 울리자 민병들은 쟁기를 내려놓고 달려갔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "minutemen"
+  ],
+  "picture": true
+ },
+ {
+  "word": "Continental Army",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The army of the American colonies during the Revolution, led by George Washington.",
+    "ko": "대륙군",
+    "ko_simple": "조지 워싱턴이 이끈, 독립 혁명 때 미국 식민지의 군대",
+    "examples": [
+     {
+      "en": "Soldiers in the Continental Army often had no shoes.",
+      "ko": "대륙군 병사들은 신발이 없는 경우가 많았다."
+     },
+     {
+      "en": "The Continental Army wore blue coats.",
+      "ko": "대륙군은 파란 군복을 입었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Continental Congress",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The meeting of leaders from the colonies that made decisions during the American Revolution and approved the Declaration of Independence.",
+    "ko": "대륙 회의",
+    "ko_simple": "미국 독립 혁명 동안 결정을 내리고 독립선언서를 승인한 식민지 대표들의 모임",
+    "examples": [
+     {
+      "en": "The Continental Congress met in Philadelphia.",
+      "ko": "대륙 회의는 필라델피아에서 열렸다."
+     },
+     {
+      "en": "The Continental Congress chose George Washington to lead the army.",
+      "ko": "대륙 회의는 조지 워싱턴을 군대의 지도자로 뽑았다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "George Washington",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The leader of the Continental Army in the American Revolution and the first President of the United States.",
+    "ko": "조지 워싱턴",
+    "ko_simple": "미국 독립 혁명 때 대륙군을 이끌었고 미국의 첫 대통령이 된 사람",
+    "examples": [
+     {
+      "en": "George Washington's face is on the one-dollar bill.",
+      "ko": "조지 워싱턴의 얼굴은 1달러 지폐에 있다."
+     },
+     {
+      "en": "George Washington's false teeth were not wood; they were made of ivory and animal teeth.",
+      "ko": "조지 워싱턴의 틀니는 나무가 아니라 상아와 동물 이빨로 만들어졌다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "Thomas Jefferson",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The main writer of the Declaration of Independence and the third President of the United States.",
+    "ko": "토머스 제퍼슨",
+    "ko_simple": "독립선언서를 주로 쓴 사람이자 미국의 세 번째 대통령",
+    "examples": [
+     {
+      "en": "Thomas Jefferson wrote the Declaration of Independence when he was 33.",
+      "ko": "토머스 제퍼슨은 33살 때 독립선언서를 썼다."
+     },
+     {
+      "en": "Thomas Jefferson's face is on the nickel.",
+      "ko": "토머스 제퍼슨의 얼굴은 5센트 동전에 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "John Hancock",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Patriot leader who was the first to sign the Declaration of Independence, with a very big signature.",
+    "ko": "존 핸콕",
+    "ko_simple": "독립선언서에 아주 큰 글씨로 가장 먼저 서명한 애국파 지도자",
+    "examples": [
+     {
+      "en": "A story says John Hancock signed big so the king could read it without his glasses.",
+      "ko": "존 핸콕은 왕이 안경 없이도 읽을 수 있게 크게 서명했다는 이야기가 있다."
+     },
+     {
+      "en": "Today, \"put your John Hancock here\" means \"sign your name.\"",
+      "ko": "오늘날 '여기에 존 핸콕을 써 주세요'는 '서명해 주세요'라는 뜻이다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Declaration of Independence",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The paper the Continental Congress approved on July 4, 1776, saying the colonies were free from Britain and that all people have rights.",
+    "ko": "독립선언서",
+    "ko_simple": "1776년 7월 4일 대륙 회의가 승인한 문서로, 식민지가 영국에서 독립했으며 모든 사람에게 권리가 있다고 밝혔다.",
+    "examples": [
+     {
+      "en": "The Declaration of Independence says \"all men are created equal.\"",
+      "ko": "독립선언서에는 \"모든 사람은 평등하게 태어났다\"고 적혀 있다."
+     },
+     {
+      "en": "You can see the Declaration of Independence in Washington, D.C.",
+      "ko": "워싱턴 D.C.에서 독립선언서를 볼 수 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "independence",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Being free from the control of another country or person.",
+    "ko": "독립",
+    "ko_simple": "다른 나라나 사람의 지배를 받지 않고 자유로운 것",
+    "examples": [
+     {
+      "en": "The colonies fought for their independence from Britain.",
+      "ko": "식민지들은 영국에서 독립하려고 싸웠다."
+     },
+     {
+      "en": "Riding my bike to school alone gave me a feeling of independence.",
+      "ko": "혼자 자전거를 타고 학교에 가니 독립한 기분이 들었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Independence Day",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The US holiday on July 4 that celebrates the Declaration of Independence in 1776. It is also called the Fourth of July.",
+    "ko": "독립기념일",
+    "ko_simple": "1776년 독립선언서를 기념하는 7월 4일의 미국 명절. '7월 4일'이라고도 부른다.",
+    "examples": [
+     {
+      "en": "On Independence Day, we watch fireworks at the lake.",
+      "ko": "독립기념일에 우리는 호숫가에서 불꽃놀이를 본다."
+     },
+     {
+      "en": "Our town has a parade with flags on Independence Day.",
+      "ko": "우리 마을은 독립기념일에 깃발을 들고 행진한다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "revolution",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A time when people fight to change their government or take power away from their rulers.",
+    "ko": "혁명",
+    "ko_simple": "사람들이 정부를 바꾸거나 다스리는 사람의 권력을 빼앗으려고 싸우는 때",
+    "examples": [
+     {
+      "en": "The American Revolution made the colonies a new country.",
+      "ko": "미국 독립 혁명으로 식민지들은 새로운 나라가 되었다."
+     },
+     {
+      "en": "The French Revolution began in 1789.",
+      "ko": "프랑스 혁명은 1789년에 시작되었다."
+     }
+    ]
+   },
+   {
+    "pos": "noun",
+    "simple": "A big change in the way people live or work.",
+    "ko": "혁명, 대변혁",
+    "ko_simple": "사람들이 살거나 일하는 방식의 큰 변화",
+    "examples": [
+     {
+      "en": "The cell phone caused a revolution in how people talk to each other.",
+      "ko": "휴대폰은 사람들이 서로 이야기하는 방식에 혁명을 일으켰다."
+     },
+     {
+      "en": "The printing press started a revolution in reading.",
+      "ko": "인쇄기는 읽기에 큰 변화를 가져왔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "revolutions"
+  ],
+  "picture": false
+ },
+ {
+  "word": "American Revolution",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The war from 1775 to 1783 in which the 13 colonies won their freedom from Britain and became the United States.",
+    "ko": "미국 독립 혁명, 독립 전쟁",
+    "ko_simple": "1775년부터 1783년까지 13개 식민지가 영국에서 독립해 미국이 된 전쟁",
+    "examples": [
+     {
+      "en": "The American Revolution lasted eight years.",
+      "ko": "미국 독립 혁명은 8년 동안 이어졌다."
+     },
+     {
+      "en": "France helped the colonists win the American Revolution.",
+      "ko": "프랑스는 식민지 사람들이 독립 전쟁에서 이기도록 도왔다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "King George III",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The king of Great Britain during the American Revolution.",
+    "ko": "조지 3세",
+    "ko_simple": "미국 독립 혁명 때 영국의 왕",
+    "examples": [
+     {
+      "en": "The colonists sent a list of complaints to King George III.",
+      "ko": "식민지 사람들은 조지 3세에게 불만 목록을 보냈다."
+     },
+     {
+      "en": "After the war, King George III met John Adams, the first American sent to Britain.",
+      "ko": "전쟁 뒤 조지 3세는 영국에 파견된 첫 미국인인 존 애덤스를 만났다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Parliament",
+  "topic": "world-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The group of lawmakers that makes laws for Great Britain.",
+    "ko": "영국 의회",
+    "ko_simple": "영국의 법을 만드는 의원들의 모임",
+    "examples": [
+     {
+      "en": "Parliament passed the Stamp Act without asking the colonists.",
+      "ko": "영국 의회는 식민지 사람들에게 묻지도 않고 인지세법을 통과시켰다."
+     },
+     {
+      "en": "Big Ben is the clock tower next to the building where Parliament meets.",
+      "ko": "빅벤은 영국 의회가 모이는 건물 옆의 시계탑이다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Common Sense",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A short book written by Thomas Paine in 1776 that told colonists in plain words why they should break away from Britain.",
+    "ko": "《상식》",
+    "ko_simple": "1776년 토머스 페인이 쓴 짧은 책으로, 식민지가 왜 영국에서 떨어져 나와야 하는지 쉬운 말로 설명했다.",
+    "examples": [
+     {
+      "en": "Thousands of colonists read Common Sense in just a few months.",
+      "ko": "몇 달 만에 수천 명의 식민지 사람들이 《상식》을 읽었다."
+     },
+     {
+      "en": "Common Sense made many people change their minds about the king.",
+      "ko": "《상식》을 읽고 많은 사람이 왕에 대한 생각을 바꾸었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Thomas Paine",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A writer whose pamphlet Common Sense convinced many colonists to fight for independence.",
+    "ko": "토머스 페인",
+    "ko_simple": "《상식》이라는 소책자로 많은 식민지 사람이 독립을 위해 싸우도록 마음먹게 만든 작가",
+    "examples": [
+     {
+      "en": "Thomas Paine wrote, \"These are the times that try men's souls.\"",
+      "ko": "토머스 페인은 \"지금은 사람의 영혼을 시험하는 때다\"라고 썼다."
+     },
+     {
+      "en": "Thomas Paine came to America from England just before the war.",
+      "ko": "토머스 페인은 전쟁 직전에 영국에서 아메리카로 왔다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Liberty Bell",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A large bell in Philadelphia that is a symbol of American freedom. It has a big crack in it.",
+    "ko": "자유의 종",
+    "ko_simple": "미국의 자유를 상징하는 필라델피아의 큰 종. 큰 금이 가 있다.",
+    "examples": [
+     {
+      "en": "We stood in line to see the Liberty Bell.",
+      "ko": "우리는 자유의 종을 보려고 줄을 섰다."
+     },
+     {
+      "en": "The Liberty Bell cracked, so it cannot be rung anymore.",
+      "ko": "자유의 종은 금이 가서 더 이상 칠 수 없다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "Independence Hall",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The building in Philadelphia where the Declaration of Independence and the Constitution were signed.",
+    "ko": "독립 기념관",
+    "ko_simple": "독립선언서와 헌법이 서명된 필라델피아의 건물",
+    "examples": [
+     {
+      "en": "Independence Hall is a red brick building with a tall tower.",
+      "ko": "독립 기념관은 높은 탑이 있는 붉은 벽돌 건물이다."
+     },
+     {
+      "en": "Our tour guide at Independence Hall showed us the chair George Washington sat in.",
+      "ko": "독립 기념관 안내원이 조지 워싱턴이 앉았던 의자를 보여 주었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "Bunker Hill",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "An early battle of the American Revolution in 1775 near Boston. The British won, but they lost many soldiers.",
+    "ko": "벙커힐 전투",
+    "ko_simple": "1775년 보스턴 근처에서 벌어진 독립 혁명 초기 전투. 영국군이 이겼지만 병사를 많이 잃었다.",
+    "examples": [
+     {
+      "en": "Most of the Battle of Bunker Hill was really fought on Breed's Hill.",
+      "ko": "벙커힐 전투는 사실 대부분 브리즈힐에서 벌어졌다."
+     },
+     {
+      "en": "\"Don't fire until you see the whites of their eyes!\" is a famous saying from Bunker Hill.",
+      "ko": "\"적의 눈 흰자가 보일 때까지 쏘지 마라!\"는 벙커힐 전투의 유명한 말이다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Valley Forge",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The place in Pennsylvania where George Washington's army camped during the cold winter of 1777 to 1778. Many soldiers were sick and hungry.",
+    "ko": "밸리포지",
+    "ko_simple": "1777~1778년 추운 겨울에 조지 워싱턴의 군대가 진을 친 펜실베이니아의 장소. 많은 병사가 병들고 굶주렸다.",
+    "examples": [
+     {
+      "en": "At Valley Forge, soldiers wrapped rags around their bare feet.",
+      "ko": "밸리포지에서 병사들은 맨발에 헝겊을 감았다."
+     },
+     {
+      "en": "The army left Valley Forge stronger because of hard training.",
+      "ko": "군대는 고된 훈련 덕분에 더 강해져서 밸리포지를 떠났다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "Saratoga",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A battle in New York in 1777 that the Americans won. It was a turning point because France then agreed to help the Americans.",
+    "ko": "새러토가 전투",
+    "ko_simple": "1777년 뉴욕에서 미국군이 이긴 전투. 이 일로 프랑스가 미국을 돕기로 해서 전쟁의 전환점이 되었다.",
+    "examples": [
+     {
+      "en": "After the win at Saratoga, France sent ships and soldiers.",
+      "ko": "새러토가에서 이긴 뒤 프랑스는 배와 군인을 보냈다."
+     },
+     {
+      "en": "Saratoga showed the world that the Americans could beat the British army.",
+      "ko": "새러토가 전투는 미국군이 영국군을 이길 수 있다는 것을 세상에 보여 주었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Yorktown",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A town in Virginia where the British army surrendered to the Americans and French in 1781, which ended the fighting of the Revolution.",
+    "ko": "요크타운",
+    "ko_simple": "1781년 영국군이 미국과 프랑스 군에게 항복해 독립 혁명의 전투가 끝난 버지니아의 마을",
+    "examples": [
+     {
+      "en": "At Yorktown, French ships blocked the British from escaping by sea.",
+      "ko": "요크타운에서 프랑스 배들이 영국군이 바다로 달아나지 못하게 막았다."
+     },
+     {
+      "en": "The British band played a sad song when they surrendered at Yorktown.",
+      "ko": "요크타운에서 항복할 때 영국 군악대는 슬픈 노래를 연주했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Treaty of Paris",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The peace agreement signed in 1783 in which Britain agreed that the United States was a free country.",
+    "ko": "파리 조약",
+    "ko_simple": "1783년에 맺은 평화 조약으로, 영국이 미국을 독립국으로 인정했다.",
+    "examples": [
+     {
+      "en": "The Treaty of Paris officially ended the American Revolution.",
+      "ko": "파리 조약으로 미국 독립 혁명이 공식적으로 끝났다."
+     },
+     {
+      "en": "Benjamin Franklin helped make the Treaty of Paris.",
+      "ko": "벤저민 프랭클린은 파리 조약을 맺는 것을 도왔다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Marquis de Lafayette",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A young French nobleman who came to help George Washington fight in the American Revolution.",
+    "ko": "라파예트 후작",
+    "ko_simple": "미국 독립 혁명 때 조지 워싱턴을 도우러 온 젊은 프랑스 귀족",
+    "examples": [
+     {
+      "en": "The Marquis de Lafayette was only 19 when he joined the army.",
+      "ko": "라파예트 후작은 군대에 들어갔을 때 겨우 19살이었다."
+     },
+     {
+      "en": "Many towns in America are named Lafayette to thank him.",
+      "ko": "그에게 감사하는 뜻으로 미국의 많은 마을이 라파예트라는 이름을 가지고 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Hessians",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "German soldiers who were paid by Britain to fight against the Americans in the Revolution.",
+    "ko": "헤센 용병",
+    "ko_simple": "독립 혁명 때 영국에게 돈을 받고 미국에 맞서 싸운 독일 군인들",
+    "examples": [
+     {
+      "en": "George Washington surprised the Hessians on Christmas night in Trenton.",
+      "ko": "조지 워싱턴은 크리스마스 밤 트렌턴에서 헤센 용병을 기습했다."
+     },
+     {
+      "en": "The Hessians came from a part of Germany called Hesse.",
+      "ko": "헤센 용병은 헤센이라는 독일 지역에서 왔다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "musket",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A long gun used long ago that was loaded from the front end.",
+    "ko": "머스킷총",
+    "ko_simple": "총구 앞쪽으로 탄을 넣어 쏘던 옛날의 긴 총",
+    "examples": [
+     {
+      "en": "Loading a musket took about 20 seconds.",
+      "ko": "머스킷총을 장전하는 데 약 20초가 걸렸다."
+     },
+     {
+      "en": "The soldier carried his musket on his shoulder.",
+      "ko": "병사는 머스킷총을 어깨에 메고 다녔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "muskets"
+  ],
+  "picture": true
+ },
+ {
+  "word": "bayonet",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A long knife that fits on the end of a gun.",
+    "ko": "총검",
+    "ko_simple": "총 끝에 끼우는 긴 칼",
+    "examples": [
+     {
+      "en": "The soldiers fixed bayonets to their muskets.",
+      "ko": "병사들은 머스킷총에 총검을 끼웠다."
+     },
+     {
+      "en": "A bayonet turned a gun into a kind of spear.",
+      "ko": "총검을 끼우면 총이 창처럼 되었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "bayonets"
+  ],
+  "picture": true
+ },
+ {
+  "word": "cannon",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A large, heavy gun on wheels that shoots big metal balls.",
+    "ko": "대포",
+    "ko_simple": "바퀴 위에 얹은, 큰 쇠공을 쏘는 크고 무거운 총",
+    "examples": [
+     {
+      "en": "The cannon boomed so loud that the windows shook.",
+      "ko": "대포 소리가 너무 커서 창문이 흔들렸다."
+     },
+     {
+      "en": "Soldiers dragged cannons over snowy mountains to Boston.",
+      "ko": "병사들은 눈 덮인 산을 넘어 보스턴까지 대포를 끌고 갔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "cannons"
+  ],
+  "picture": true
+ },
+ {
+  "word": "siege",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "When an army surrounds a town or fort so that no food or help can get in, to force the people inside to give up.",
+    "ko": "포위(전)",
+    "ko_simple": "군대가 마을이나 요새를 둘러싸 먹을 것이나 도움이 들어가지 못하게 해서 항복하게 만드는 것",
+    "examples": [
+     {
+      "en": "The siege of Yorktown lasted about three weeks.",
+      "ko": "요크타운 포위전은 약 3주 동안 이어졌다."
+     },
+     {
+      "en": "During the siege, people in the town ran out of bread.",
+      "ko": "포위가 이어지는 동안 마을 사람들은 빵이 다 떨어졌다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "sieges"
+  ],
+  "picture": false
+ },
+ {
+  "word": "ally",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A country or person that agrees to help another, especially in a war.",
+    "ko": "동맹국, 협력자",
+    "ko_simple": "특히 전쟁에서 다른 나라나 사람을 돕기로 한 나라나 사람",
+    "examples": [
+     {
+      "en": "France was an important ally of the Americans.",
+      "ko": "프랑스는 미국의 중요한 동맹국이었다."
+     },
+     {
+      "en": "My best friend is my ally in every pillow fight.",
+      "ko": "가장 친한 친구는 베개 싸움 때마다 내 편이다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "allies"
+  ],
+  "picture": false
+ },
+ {
+  "word": "surrender",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To stop fighting and agree that the other side has won.",
+    "ko": "항복하다",
+    "ko_simple": "싸움을 멈추고 상대가 이겼다고 인정하다",
+    "examples": [
+     {
+      "en": "The British general surrendered at Yorktown.",
+      "ko": "영국 장군은 요크타운에서 항복했다."
+     },
+     {
+      "en": "After an hour of tickling, my dad finally surrendered.",
+      "ko": "한 시간 동안 간지럼을 태우자 아빠가 마침내 항복하셨다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "surrenders",
+   "surrendered",
+   "surrendering"
+  ],
+  "picture": false
+ },
+ {
+  "word": "traitor",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A person who turns against their own country, friends, or side.",
+    "ko": "배신자, 반역자",
+    "ko_simple": "자기 나라, 친구, 편을 배신하는 사람",
+    "examples": [
+     {
+      "en": "Benedict Arnold is called a traitor because he secretly helped the British.",
+      "ko": "베네딕트 아널드는 몰래 영국을 도와서 배신자라고 불린다."
+     },
+     {
+      "en": "My cat is a traitor; she sits on my sister's lap now.",
+      "ko": "우리 고양이는 배신자다. 이제 언니 무릎에 앉는다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "traitors"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Benedict Arnold",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "An American general in the Revolution who secretly switched sides to help the British.",
+    "ko": "베네딕트 아널드",
+    "ko_simple": "독립 혁명 때 몰래 편을 바꿔 영국을 도운 미국 장군",
+    "examples": [
+     {
+      "en": "Benedict Arnold planned to give a fort at West Point to the British.",
+      "ko": "베네딕트 아널드는 웨스트포인트의 요새를 영국군에 넘기려고 계획했다."
+     },
+     {
+      "en": "Before he switched sides, Benedict Arnold was a hero at Saratoga.",
+      "ko": "편을 바꾸기 전, 베네딕트 아널드는 새러토가 전투의 영웅이었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "spy",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A person who secretly gets information about an enemy.",
+    "ko": "첩자, 스파이",
+    "ko_simple": "적에 대한 정보를 몰래 알아내는 사람",
+    "examples": [
+     {
+      "en": "Nathan Hale was a spy for George Washington.",
+      "ko": "네이선 헤일은 조지 워싱턴의 첩자였다."
+     },
+     {
+      "en": "Spies sometimes wrote messages in invisible ink.",
+      "ko": "첩자들은 때때로 보이지 않는 잉크로 편지를 썼다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "spies",
+   "spied",
+   "spying"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Nathan Hale",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A young American teacher who became a spy in the Revolution. Before he was hanged by the British, he is said to have said, \"I only regret that I have but one life to lose for my country.\"",
+    "ko": "네이선 헤일",
+    "ko_simple": "독립 혁명 때 첩자가 된 젊은 미국인 교사. 영국군에게 처형되기 전 \"조국을 위해 바칠 목숨이 하나뿐인 것이 유감이다\"라고 말했다고 한다.",
+    "examples": [
+     {
+      "en": "Nathan Hale was only 21 years old.",
+      "ko": "네이선 헤일은 겨우 21살이었다."
+     },
+     {
+      "en": "There is a statue of Nathan Hale at his old college.",
+      "ko": "네이선 헤일이 다닌 대학에 그의 동상이 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Molly Pitcher",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A nickname for women who carried water to soldiers in battle during the Revolution. One story says a woman took her husband's place at a cannon.",
+    "ko": "몰리 피처",
+    "ko_simple": "독립 혁명 때 전투 중인 병사들에게 물을 날라 준 여성들의 별명. 한 여성이 남편 대신 대포를 쏘았다는 이야기도 있다.",
+    "examples": [
+     {
+      "en": "Molly Pitcher brought pitchers of water to thirsty soldiers.",
+      "ko": "몰리 피처는 목마른 병사들에게 물 주전자를 가져다주었다."
+     },
+     {
+      "en": "Many people think Molly Pitcher was Mary Hays, who fought at the Battle of Monmouth.",
+      "ko": "많은 사람은 몰리 피처가 몬머스 전투에서 싸운 메리 헤이스라고 생각한다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Deborah Sampson",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A woman who dressed as a man so she could fight as a soldier in the Continental Army.",
+    "ko": "데버라 샘프슨",
+    "ko_simple": "대륙군에서 병사로 싸우려고 남자처럼 꾸민 여성",
+    "examples": [
+     {
+      "en": "Deborah Sampson used the name Robert Shurtleff in the army.",
+      "ko": "데버라 샘프슨은 군대에서 로버트 셔틀리프라는 이름을 썼다."
+     },
+     {
+      "en": "Deborah Sampson pulled a musket ball out of her own leg so no one would find out.",
+      "ko": "데버라 샘프슨은 들키지 않으려고 다리에 박힌 총알을 스스로 빼냈다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "rebel",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A person who fights against the people in charge or the government.",
+    "ko": "반란자, 반역자",
+    "ko_simple": "윗사람이나 정부에 맞서 싸우는 사람",
+    "examples": [
+     {
+      "en": "The British called the Patriots rebels.",
+      "ko": "영국인들은 애국파를 반란자라고 불렀다."
+     },
+     {
+      "en": "My little sister is a rebel at bedtime; she always wants five more minutes.",
+      "ko": "내 여동생은 잘 시간마다 반항한다. 늘 5분만 더 놀겠다고 한다."
+     }
+    ]
+   },
+   {
+    "pos": "verb",
+    "simple": "To fight against the people in charge.",
+    "ko": "반란을 일으키다, 반항하다",
+    "ko_simple": "윗사람이나 다스리는 사람에게 맞서 싸우다",
+    "examples": [
+     {
+      "en": "The colonists rebelled against the king's unfair laws.",
+      "ko": "식민지 사람들은 왕의 불공평한 법에 맞서 들고일어났다."
+     },
+     {
+      "en": "The kids rebelled when the cafeteria stopped serving pizza.",
+      "ko": "급식실에서 피자를 안 주자 아이들이 반발했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "rebels",
+   "rebelled",
+   "rebelling"
+  ],
+  "picture": false
+ },
+ {
+  "word": "liberty",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Being free to live, speak, and act the way you choose.",
+    "ko": "자유",
+    "ko_simple": "원하는 대로 살고 말하고 행동할 수 있는 것",
+    "examples": [
+     {
+      "en": "Patrick Henry said, \"Give me liberty, or give me death!\"",
+      "ko": "패트릭 헨리는 \"자유가 아니면 죽음을 달라!\"라고 말했다."
+     },
+     {
+      "en": "The Statue of Liberty holds a torch for liberty.",
+      "ko": "자유의 여신상은 자유를 위한 횃불을 들고 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "tyranny",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Cruel and unfair rule by a person or government with too much power.",
+    "ko": "폭정, 압제",
+    "ko_simple": "힘이 너무 센 사람이나 정부가 잔인하고 불공평하게 다스리는 것",
+    "examples": [
+     {
+      "en": "The colonists said King George's rule was tyranny.",
+      "ko": "식민지 사람들은 조지 왕의 통치가 폭정이라고 말했다."
+     },
+     {
+      "en": "The Constitution splits up power to protect people from tyranny.",
+      "ko": "헌법은 사람들을 폭정에서 지키려고 권력을 나눈다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "unalienable rights",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Rights that every person is born with and that no government can take away, like life, liberty, and the pursuit of happiness.",
+    "ko": "양도할 수 없는 권리",
+    "ko_simple": "생명, 자유, 행복을 추구할 권리처럼 모든 사람이 타고나며 어떤 정부도 빼앗을 수 없는 권리",
+    "examples": [
+     {
+      "en": "The Declaration says people have unalienable rights.",
+      "ko": "독립선언서는 사람들에게 빼앗을 수 없는 권리가 있다고 말한다."
+     },
+     {
+      "en": "Life, liberty, and the pursuit of happiness are unalienable rights.",
+      "ko": "생명, 자유, 행복 추구는 양도할 수 없는 권리다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "petition",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A written request asking someone in charge to do something, often signed by many people.",
+    "ko": "청원(서), 탄원서",
+    "ko_simple": "책임자에게 무언가를 해 달라고 요청하는 글. 흔히 여러 사람이 서명한다.",
+    "examples": [
+     {
+      "en": "The colonists sent a petition to the king asking for peace.",
+      "ko": "식민지 사람들은 평화를 원한다는 청원서를 왕에게 보냈다."
+     },
+     {
+      "en": "Our class signed a petition for a longer recess.",
+      "ko": "우리 반은 쉬는 시간을 늘려 달라는 청원서에 서명했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "petitions",
+   "petitioned"
+  ],
+  "picture": false
+ },
+ {
+  "word": "repeal",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To officially end a law.",
+    "ko": "(법을) 폐지하다",
+    "ko_simple": "법을 공식적으로 없애다",
+    "examples": [
+     {
+      "en": "Britain repealed the Stamp Act in 1766.",
+      "ko": "영국은 1766년에 인지세법을 폐지했다."
+     },
+     {
+      "en": "The school repealed the no-hats rule on spirit day.",
+      "ko": "학교는 응원의 날에 모자 금지 규칙을 없앴다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "repeals",
+   "repealed",
+   "repealing"
+  ],
+  "picture": false
+ },
+ {
+  "word": "protest",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Something people do together to show they strongly disagree with something, like marching or refusing to buy things.",
+    "ko": "항의, 시위",
+    "ko_simple": "행진하거나 물건을 사지 않는 것처럼, 무언가에 강하게 반대한다는 것을 함께 보여 주는 일",
+    "examples": [
+     {
+      "en": "The Boston Tea Party was a protest against the tea tax.",
+      "ko": "보스턴 차 사건은 차 세금에 반대하는 시위였다."
+     },
+     {
+      "en": "The students held a peaceful protest to save the old oak tree.",
+      "ko": "학생들은 오래된 참나무를 지키려고 평화 시위를 했다."
+     }
+    ]
+   },
+   {
+    "pos": "verb",
+    "simple": "To say or show strongly that you disagree with something.",
+    "ko": "항의하다, 반대하다",
+    "ko_simple": "무언가에 반대한다고 강하게 말하거나 보여 주다",
+    "examples": [
+     {
+      "en": "Colonists protested by refusing to buy British goods.",
+      "ko": "식민지 사람들은 영국 물건을 사지 않는 방법으로 항의했다."
+     },
+     {
+      "en": "The kids protested when the teacher gave homework on Friday.",
+      "ko": "선생님이 금요일에 숙제를 내자 아이들이 항의했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "protests",
+   "protested",
+   "protesting"
+  ],
+  "picture": false
+ },
+ {
+  "word": "boycott",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "When people refuse to buy, use, or do something as a protest.",
+    "ko": "불매 운동, 보이콧",
+    "ko_simple": "항의하는 뜻으로 사람들이 무언가를 사거나 쓰거나 하지 않는 것",
+    "examples": [
+     {
+      "en": "The colonists' boycott of British tea hurt British merchants.",
+      "ko": "식민지 사람들의 영국 차 불매 운동은 영국 상인들에게 타격을 주었다."
+     },
+     {
+      "en": "The Montgomery bus boycott lasted more than a year.",
+      "ko": "몽고메리 버스 보이콧은 1년 넘게 이어졌다."
+     }
+    ]
+   },
+   {
+    "pos": "verb",
+    "simple": "To refuse to buy, use, or take part in something as a protest.",
+    "ko": "불매하다, 거부하다",
+    "ko_simple": "항의하는 뜻으로 무언가를 사거나 쓰거나 참여하지 않다",
+    "examples": [
+     {
+      "en": "Colonists boycotted British cloth and made their own.",
+      "ko": "식민지 사람들은 영국 옷감을 사지 않고 직접 만들었다."
+     },
+     {
+      "en": "Black citizens in Montgomery boycotted the buses and walked to work instead.",
+      "ko": "몽고메리의 흑인 시민들은 버스를 타지 않고 걸어서 출근했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "boycotts",
+   "boycotted",
+   "boycotting"
+  ],
+  "picture": false
+ },
+ {
+  "word": "grievance",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A reason to complain because you feel you have been treated unfairly.",
+    "ko": "불만, 고충",
+    "ko_simple": "불공평한 대접을 받았다고 느껴서 생긴 불평거리",
+    "examples": [
+     {
+      "en": "The Declaration of Independence lists the colonists' grievances against the king.",
+      "ko": "독립선언서에는 왕에 대한 식민지 사람들의 불만이 나열되어 있다."
+     },
+     {
+      "en": "My grievance is that my brother always gets the bigger slice.",
+      "ko": "내 불만은 형이 늘 더 큰 조각을 가져간다는 것이다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "grievances"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Articles of Confederation",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The first plan of government for the United States. It gave very little power to the national government, so it did not work well.",
+    "ko": "연합 규약",
+    "ko_simple": "미국 최초의 정부 계획. 중앙 정부에 힘을 거의 주지 않아서 잘 돌아가지 않았다.",
+    "examples": [
+     {
+      "en": "Under the Articles of Confederation, Congress could not collect taxes.",
+      "ko": "연합 규약 아래에서 의회는 세금을 걷을 수 없었다."
+     },
+     {
+      "en": "Leaders replaced the Articles of Confederation with the Constitution.",
+      "ko": "지도자들은 연합 규약을 헌법으로 바꾸었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Constitutional Convention",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The meeting in Philadelphia in 1787 where leaders wrote the US Constitution.",
+    "ko": "제헌 회의",
+    "ko_simple": "1787년 지도자들이 미국 헌법을 쓴 필라델피아의 모임",
+    "examples": [
+     {
+      "en": "At the Constitutional Convention, leaders argued all summer.",
+      "ko": "제헌 회의에서 지도자들은 여름 내내 토론했다."
+     },
+     {
+      "en": "George Washington was in charge of the Constitutional Convention.",
+      "ko": "조지 워싱턴이 제헌 회의를 이끌었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Constitution",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The written plan for the US government, written in 1787. It is the highest law of the country.",
+    "ko": "미국 헌법",
+    "ko_simple": "1787년에 쓴 미국 정부의 계획서. 나라의 가장 높은 법이다.",
+    "examples": [
+     {
+      "en": "The Constitution starts with the words \"We the People.\"",
+      "ko": "미국 헌법은 \"우리 국민은\"이라는 말로 시작한다."
+     },
+     {
+      "en": "The Constitution splits the government into three branches.",
+      "ko": "헌법은 정부를 세 부분으로 나눈다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "Bill of Rights",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The first ten amendments, or changes, to the US Constitution. They protect freedoms like free speech and religion.",
+    "ko": "권리장전",
+    "ko_simple": "미국 헌법의 첫 열 개 수정 조항. 말할 자유와 종교의 자유 같은 자유를 지켜 준다.",
+    "examples": [
+     {
+      "en": "The Bill of Rights was added to the Constitution in 1791.",
+      "ko": "권리장전은 1791년에 헌법에 덧붙여졌다."
+     },
+     {
+      "en": "Thanks to the Bill of Rights, newspapers can write what they think.",
+      "ko": "권리장전 덕분에 신문은 생각하는 것을 쓸 수 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "amendment",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A change or addition to a law or to the Constitution.",
+    "ko": "수정 조항, 개정",
+    "ko_simple": "법이나 헌법을 바꾸거나 덧붙인 것",
+    "examples": [
+     {
+      "en": "The 19th Amendment gave women the right to vote.",
+      "ko": "수정 헌법 제19조는 여성에게 투표권을 주었다."
+     },
+     {
+      "en": "Our class voted on an amendment to the classroom rules.",
+      "ko": "우리 반은 교실 규칙을 고치는 안을 놓고 투표했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "amendments"
+  ],
+  "picture": false
+ },
+ {
+  "word": "ratify",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "verb",
+    "simple": "To officially approve a plan or agreement by voting.",
+    "ko": "비준하다, 승인하다",
+    "ko_simple": "투표로 계획이나 약속을 공식적으로 받아들이다",
+    "examples": [
+     {
+      "en": "Nine states had to ratify the Constitution before it became law.",
+      "ko": "헌법이 법이 되려면 아홉 개 주가 비준해야 했다."
+     },
+     {
+      "en": "The student council ratified the new lunch rules.",
+      "ko": "학생회는 새 점심 규칙을 승인했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "ratifies",
+   "ratified",
+   "ratifying"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Founding Fathers",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The leaders who helped start the United States, like George Washington, Thomas Jefferson, and Benjamin Franklin.",
+    "ko": "건국의 아버지들",
+    "ko_simple": "조지 워싱턴, 토머스 제퍼슨, 벤저민 프랭클린처럼 미국을 세우는 데 힘쓴 지도자들",
+    "examples": [
+     {
+      "en": "The Founding Fathers wanted a government run by the people.",
+      "ko": "건국의 아버지들은 국민이 운영하는 정부를 원했다."
+     },
+     {
+      "en": "Many Founding Fathers wore powdered wigs.",
+      "ko": "많은 건국의 아버지들이 분을 바른 가발을 썼다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "James Madison",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The fourth US President, called the \"Father of the Constitution\" because he did so much to plan it.",
+    "ko": "제임스 매디슨",
+    "ko_simple": "헌법을 계획하는 데 큰 역할을 해서 '헌법의 아버지'라고 불리는 미국의 네 번째 대통령",
+    "examples": [
+     {
+      "en": "James Madison took careful notes at the Constitutional Convention.",
+      "ko": "제임스 매디슨은 제헌 회의에서 꼼꼼하게 기록했다."
+     },
+     {
+      "en": "James Madison was the shortest president, about five feet four inches tall.",
+      "ko": "제임스 매디슨은 키가 약 163cm로 가장 키가 작은 대통령이었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Alexander Hamilton",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Founding Father who became the first Secretary of the Treasury and set up the country's money system.",
+    "ko": "알렉산더 해밀턴",
+    "ko_simple": "초대 재무장관이 되어 나라의 돈 제도를 만든 건국의 아버지",
+    "examples": [
+     {
+      "en": "Alexander Hamilton's face is on the ten-dollar bill.",
+      "ko": "알렉산더 해밀턴의 얼굴은 10달러 지폐에 있다."
+     },
+     {
+      "en": "Alexander Hamilton came to America as a teenager from an island in the Caribbean.",
+      "ko": "알렉산더 해밀턴은 십 대 때 카리브해의 섬에서 미국으로 왔다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Benjamin Banneker",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A free Black scientist and math expert who helped survey the land for Washington, D.C., in 1791 and wrote almanacs.",
+    "ko": "벤저민 배네커",
+    "ko_simple": "1791년 워싱턴 D.C.의 땅을 측량하는 일을 돕고 연감을 쓴 자유인 흑인 과학자이자 수학자",
+    "examples": [
+     {
+      "en": "Benjamin Banneker built a wooden clock that kept good time for years.",
+      "ko": "벤저민 배네커는 몇 년 동안 정확하게 맞는 나무 시계를 만들었다."
+     },
+     {
+      "en": "Benjamin Banneker wrote to Thomas Jefferson to argue against slavery.",
+      "ko": "벤저민 배네커는 토머스 제퍼슨에게 노예제에 반대하는 편지를 썼다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Washington, D.C.",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The capital city of the United States, where the President lives and Congress meets. It is not part of any state.",
+    "ko": "워싱턴 D.C.",
+    "ko_simple": "대통령이 살고 의회가 모이는 미국의 수도. 어느 주에도 속하지 않는다.",
+    "examples": [
+     {
+      "en": "We visited the White House on our trip to Washington, D.C.",
+      "ko": "우리는 워싱턴 D.C. 여행 때 백악관에 가 보았다."
+     },
+     {
+      "en": "The letters \"D.C.\" stand for \"District of Columbia.\"",
+      "ko": "'D.C.'는 '컬럼비아 특별구'라는 뜻이다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "White House",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The home and office of the President of the United States, in Washington, D.C.",
+    "ko": "백악관",
+    "ko_simple": "워싱턴 D.C.에 있는 미국 대통령의 집이자 일하는 곳",
+    "examples": [
+     {
+      "en": "The White House has 132 rooms.",
+      "ko": "백악관에는 방이 132개 있다."
+     },
+     {
+      "en": "Every spring, kids roll eggs on the White House lawn.",
+      "ko": "매년 봄 아이들은 백악관 잔디밭에서 달걀 굴리기를 한다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "War of 1812",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A war between the United States and Britain that lasted from 1812 to 1815.",
+    "ko": "1812년 전쟁(미영 전쟁)",
+    "ko_simple": "1812년부터 1815년까지 이어진 미국과 영국의 전쟁",
+    "examples": [
+     {
+      "en": "During the War of 1812, British soldiers burned the White House.",
+      "ko": "1812년 전쟁 때 영국군은 백악관을 불태웠다."
+     },
+     {
+      "en": "The War of 1812 gave us the song \"The Star-Spangled Banner.\"",
+      "ko": "1812년 전쟁에서 '성조기여 영원하라'라는 노래가 나왔다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Dolley Madison",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The wife of President James Madison. She saved a famous painting of George Washington when the British burned the White House in 1814.",
+    "ko": "돌리 매디슨",
+    "ko_simple": "제임스 매디슨 대통령의 부인. 1814년 영국군이 백악관을 불태울 때 조지 워싱턴의 유명한 초상화를 구했다.",
+    "examples": [
+     {
+      "en": "Dolley Madison had the painting taken out just before the soldiers arrived.",
+      "ko": "돌리 매디슨은 군인들이 도착하기 직전에 초상화를 꺼내 가게 했다."
+     },
+     {
+      "en": "Dolley Madison was famous for her fun parties.",
+      "ko": "돌리 매디슨은 즐거운 파티로 유명했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Star-Spangled Banner",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The national anthem of the United States. Francis Scott Key wrote the words in 1814 after seeing the flag still flying over a fort after a battle.",
+    "ko": "성조기여 영원하라(미국 국가)",
+    "ko_simple": "미국의 국가. 1814년 전투 뒤에도 요새 위에 깃발이 휘날리는 것을 본 프랜시스 스콧 키가 가사를 썼다.",
+    "examples": [
+     {
+      "en": "We stand and sing \"The Star-Spangled Banner\" before baseball games.",
+      "ko": "야구 경기 전에 우리는 일어서서 '성조기여 영원하라'를 부른다."
+     },
+     {
+      "en": "The high notes in \"The Star-Spangled Banner\" are hard to sing.",
+      "ko": "'성조기여 영원하라'의 높은 음은 부르기 어렵다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Francis Scott Key",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The lawyer who wrote the words of \"The Star-Spangled Banner\" after watching the British attack Fort McHenry in 1814.",
+    "ko": "프랜시스 스콧 키",
+    "ko_simple": "1814년 영국군이 매켄리 요새를 공격하는 것을 보고 '성조기여 영원하라'의 가사를 쓴 변호사",
+    "examples": [
+     {
+      "en": "Francis Scott Key watched the battle from a ship all night.",
+      "ko": "프랜시스 스콧 키는 밤새 배 위에서 전투를 지켜보았다."
+     },
+     {
+      "en": "Francis Scott Key first wrote his words as a poem.",
+      "ko": "프랜시스 스콧 키는 처음에 그 가사를 시로 썼다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "national anthem",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A country's official song.",
+    "ko": "국가(나라 노래)",
+    "ko_simple": "한 나라의 공식 노래",
+    "examples": [
+     {
+      "en": "Everyone took off their hats for the national anthem.",
+      "ko": "국가가 나오자 모두 모자를 벗었다."
+     },
+     {
+      "en": "The national anthem of South Korea is \"Aegukga.\"",
+      "ko": "대한민국의 국가는 '애국가'다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "national anthems"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Pledge of Allegiance",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A promise to be loyal to the United States flag and country, often said in schools each morning.",
+    "ko": "국기에 대한 맹세",
+    "ko_simple": "미국 국기와 나라에 충성하겠다는 약속. 학교에서 흔히 아침마다 말한다.",
+    "examples": [
+     {
+      "en": "We put our hands on our hearts to say the Pledge of Allegiance.",
+      "ko": "우리는 가슴에 손을 얹고 국기에 대한 맹세를 한다."
+     },
+     {
+      "en": "The Pledge of Allegiance was written in 1892.",
+      "ko": "국기에 대한 맹세는 1892년에 쓰였다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Uncle Sam",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A make-believe man with a white beard and a tall hat with stars and stripes who stands for the US government.",
+    "ko": "엉클 샘",
+    "ko_simple": "흰 수염에 별과 줄무늬가 있는 높은 모자를 쓴, 미국 정부를 상징하는 상상의 인물",
+    "examples": [
+     {
+      "en": "The poster showed Uncle Sam pointing and saying, \"I want you.\"",
+      "ko": "포스터에는 엉클 샘이 손가락으로 가리키며 \"너를 원한다\"고 말하는 그림이 있었다."
+     },
+     {
+      "en": "My uncle dressed as Uncle Sam for the Fourth of July parade.",
+      "ko": "우리 삼촌은 7월 4일 행진 때 엉클 샘으로 분장했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "Erie Canal",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A long canal in New York, opened in 1825, that joined the Hudson River to Lake Erie so boats could carry goods west.",
+    "ko": "이리 운하",
+    "ko_simple": "1825년에 열린 뉴욕주의 긴 운하로, 허드슨강과 이리호를 이어 배가 서쪽으로 물건을 나를 수 있게 했다.",
+    "examples": [
+     {
+      "en": "Mules walked along the Erie Canal pulling the boats.",
+      "ko": "노새들이 이리 운하를 따라 걸으며 배를 끌었다."
+     },
+     {
+      "en": "The Erie Canal helped New York City become a big, busy port.",
+      "ko": "이리 운하 덕분에 뉴욕시는 크고 북적이는 항구가 되었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "canal",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A long waterway dug by people so boats can travel or so water can reach farms.",
+    "ko": "운하, 수로",
+    "ko_simple": "배가 다니거나 농장에 물을 대려고 사람이 판 긴 물길",
+    "examples": [
+     {
+      "en": "Boats carried flour and wood on the canal.",
+      "ko": "배들이 운하로 밀가루와 나무를 실어 날랐다."
+     },
+     {
+      "en": "The Panama Canal lets ships cut across from one ocean to another.",
+      "ko": "파나마 운하로 배는 한 바다에서 다른 바다로 질러갈 수 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "canals"
+  ],
+  "picture": true
+ },
+ {
+  "word": "steamboat",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A boat moved by a steam engine, often with a big paddle wheel.",
+    "ko": "증기선",
+    "ko_simple": "증기 기관으로 움직이는 배. 흔히 큰 물레바퀴가 달려 있다.",
+    "examples": [
+     {
+      "en": "The steamboat chugged up the Mississippi River.",
+      "ko": "증기선이 칙칙 소리를 내며 미시시피강을 거슬러 올라갔다."
+     },
+     {
+      "en": "Steamboats could go upstream much faster than rafts.",
+      "ko": "증기선은 뗏목보다 훨씬 빠르게 강을 거슬러 올라갈 수 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "steamboats"
+  ],
+  "picture": true
+ },
+ {
+  "word": "Robert Fulton",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "An inventor who built the first steamboat that made money carrying people, the Clermont, in 1807.",
+    "ko": "로버트 풀턴",
+    "ko_simple": "1807년 사람을 태워 돈을 번 첫 증기선 클러먼트호를 만든 발명가",
+    "examples": [
+     {
+      "en": "People laughed at Robert Fulton's steamboat until it worked.",
+      "ko": "사람들은 로버트 풀턴의 증기선이 움직이기 전까지 비웃었다."
+     },
+     {
+      "en": "Robert Fulton's Clermont sailed up the Hudson River in about 32 hours.",
+      "ko": "로버트 풀턴의 클러먼트호는 약 32시간 만에 허드슨강을 거슬러 올라갔다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "cotton gin",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A machine invented by Eli Whitney in 1793 that quickly pulls the seeds out of cotton.",
+    "ko": "조면기, 목화씨 빼는 기계",
+    "ko_simple": "1793년 일라이 휘트니가 발명한, 목화에서 씨를 빠르게 빼내는 기계",
+    "examples": [
+     {
+      "en": "The cotton gin cleaned cotton 50 times faster than by hand.",
+      "ko": "조면기는 손보다 50배 빠르게 목화를 손질했다."
+     },
+     {
+      "en": "Sadly, the cotton gin made planters want even more enslaved workers.",
+      "ko": "안타깝게도 조면기 때문에 농장주들은 노예를 더 많이 원하게 되었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "cotton gins"
+  ],
+  "picture": true
+ },
+ {
+  "word": "Eli Whitney",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "An inventor who made the cotton gin and helped start the idea of interchangeable parts, parts that can be swapped.",
+    "ko": "일라이 휘트니",
+    "ko_simple": "조면기를 만들고 서로 바꿔 끼울 수 있는 부품이라는 생각을 퍼뜨린 발명가",
+    "examples": [
+     {
+      "en": "Eli Whitney invented the cotton gin in 1793.",
+      "ko": "일라이 휘트니는 1793년에 조면기를 발명했다."
+     },
+     {
+      "en": "Eli Whitney made muskets with parts that fit any gun of the same kind.",
+      "ko": "일라이 휘트니는 같은 종류의 어떤 총에도 맞는 부품으로 머스킷총을 만들었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Andrew Jackson",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The seventh US President. He signed the Indian Removal Act, which forced many Native nations off their lands.",
+    "ko": "앤드루 잭슨",
+    "ko_simple": "미국의 일곱 번째 대통령. 많은 원주민 부족을 땅에서 쫓아낸 인디언 이주법에 서명했다.",
+    "examples": [
+     {
+      "en": "Andrew Jackson was a general in the War of 1812.",
+      "ko": "앤드루 잭슨은 1812년 전쟁 때 장군이었다."
+     },
+     {
+      "en": "Andrew Jackson's face is on the twenty-dollar bill.",
+      "ko": "앤드루 잭슨의 얼굴은 20달러 지폐에 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Indian Removal Act",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A law signed in 1830 that let the US government force Native American nations in the East to move west of the Mississippi River.",
+    "ko": "인디언 이주법",
+    "ko_simple": "1830년에 서명된 법으로, 미국 정부가 동부의 원주민 부족을 미시시피강 서쪽으로 강제로 옮길 수 있게 했다.",
+    "examples": [
+     {
+      "en": "The Indian Removal Act took away the homelands of many Native nations.",
+      "ko": "인디언 이주법은 많은 원주민 부족의 고향 땅을 빼앗았다."
+     },
+     {
+      "en": "The Indian Removal Act led to the Trail of Tears.",
+      "ko": "인디언 이주법은 '눈물의 길'로 이어졌다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Trail of Tears",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The forced march of the Cherokee and other Native nations from their homes in the Southeast to land in what is now Oklahoma in the 1830s. Thousands died on the way.",
+    "ko": "눈물의 길",
+    "ko_simple": "1830년대 체로키족 등 원주민들이 남동부의 고향에서 지금의 오클라호마 땅까지 강제로 걸어가야 했던 일. 가는 길에 수천 명이 죽었다.",
+    "examples": [
+     {
+      "en": "About 4,000 Cherokee people died on the Trail of Tears.",
+      "ko": "눈물의 길에서 약 4,000명의 체로키 사람들이 죽었다."
+     },
+     {
+      "en": "The Trail of Tears happened in a cold winter, with too little food and blankets.",
+      "ko": "눈물의 길은 먹을 것과 담요가 턱없이 부족한 추운 겨울에 일어났다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Monroe Doctrine",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A message from President James Monroe in 1823 telling European countries not to start new colonies in North and South America.",
+    "ko": "먼로주의",
+    "ko_simple": "1823년 제임스 먼로 대통령이 유럽 나라들에게 남북아메리카에 새 식민지를 만들지 말라고 한 선언",
+    "examples": [
+     {
+      "en": "The Monroe Doctrine told Europe to stay out of the Americas.",
+      "ko": "먼로주의는 유럽에게 아메리카에 끼어들지 말라고 했다."
+     },
+     {
+      "en": "The Monroe Doctrine also said the US would stay out of Europe's fights.",
+      "ko": "먼로주의는 미국도 유럽의 싸움에 끼어들지 않겠다고 했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Lincoln Memorial",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A large building in Washington, D.C., with a huge statue of Abraham Lincoln sitting in a chair.",
+    "ko": "링컨 기념관",
+    "ko_simple": "의자에 앉은 에이브러햄 링컨의 거대한 조각상이 있는 워싱턴 D.C.의 큰 건물",
+    "examples": [
+     {
+      "en": "The statue in the Lincoln Memorial is 19 feet tall.",
+      "ko": "링컨 기념관의 조각상은 높이가 약 5.8미터다."
+     },
+     {
+      "en": "Martin Luther King Jr. gave his \"I Have a Dream\" speech at the Lincoln Memorial.",
+      "ko": "마틴 루서 킹 주니어는 링컨 기념관에서 '나에게는 꿈이 있습니다' 연설을 했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "Mount Rushmore",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A mountain in South Dakota with the giant faces of four presidents carved into the rock: Washington, Jefferson, Theodore Roosevelt, and Lincoln.",
+    "ko": "러시모어산",
+    "ko_simple": "워싱턴, 제퍼슨, 시어도어 루스벨트, 링컨 네 대통령의 거대한 얼굴이 바위에 새겨진 사우스다코타주의 산",
+    "examples": [
+     {
+      "en": "Each face on Mount Rushmore is about 60 feet tall.",
+      "ko": "러시모어산의 얼굴 하나하나는 높이가 약 18미터다."
+     },
+     {
+      "en": "The Black Hills, where Mount Rushmore is, are sacred land to the Lakota people.",
+      "ko": "러시모어산이 있는 블랙힐스는 라코타족에게 신성한 땅이다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": true
+ },
+ {
+  "word": "monument",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A building, statue, or stone made to remember a person or event.",
+    "ko": "기념물, 기념비",
+    "ko_simple": "어떤 사람이나 사건을 기억하려고 만든 건물, 조각상, 돌",
+    "examples": [
+     {
+      "en": "The Washington Monument is a tall white tower.",
+      "ko": "워싱턴 기념탑은 키가 큰 흰 탑이다."
+     },
+     {
+      "en": "Our town built a monument for the firefighters.",
+      "ko": "우리 마을은 소방관들을 위한 기념비를 세웠다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "monuments"
+  ],
+  "picture": true
+ },
+ {
+  "word": "memorial",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "Something, like a statue or a building, that helps people remember someone who died or something that happened.",
+    "ko": "기념관, 기념비",
+    "ko_simple": "세상을 떠난 사람이나 일어난 일을 기억하게 하는 조각상이나 건물 같은 것",
+    "examples": [
+     {
+      "en": "We left flowers at the war memorial.",
+      "ko": "우리는 전쟁 기념비에 꽃을 놓았다."
+     },
+     {
+      "en": "The school planted a tree as a memorial for our old principal.",
+      "ko": "학교는 돌아가신 옛 교장 선생님을 기리며 나무를 심었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "memorials"
+  ],
+  "picture": true
+ },
+ {
+  "word": "landmark",
+  "topic": "us-history",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A famous building or place that is easy to see and know, or that is important in history.",
+    "ko": "랜드마크, 명소, 유적",
+    "ko_simple": "눈에 잘 띄고 알아보기 쉬운 유명한 건물이나 장소, 또는 역사적으로 중요한 곳",
+    "examples": [
+     {
+      "en": "The Statue of Liberty is a famous landmark.",
+      "ko": "자유의 여신상은 유명한 랜드마크다."
+     },
+     {
+      "en": "We used the big red barn as a landmark to find our way home.",
+      "ko": "우리는 큰 빨간 헛간을 표지 삼아 집으로 가는 길을 찾았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "landmarks"
+  ],
+  "picture": true
+ }
+]

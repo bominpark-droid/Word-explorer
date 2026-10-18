@@ -1,0 +1,2027 @@
+[
+ {
+  "word": "Cherokee",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation whose homeland was in the mountains of the Southeast, in places like Georgia, Tennessee, and the Carolinas. Many Cherokee people live in Oklahoma and North Carolina today.",
+    "ko": "체로키족",
+    "ko_simple": "원래 미국 남동부 산악 지대에 살던 아메리카 원주민 부족. 오늘날 많은 체로키 사람들이 오클라호마와 노스캐롤라이나에 산다.",
+    "examples": [
+     {
+      "en": "My friend Ava is Cherokee, and she showed our class how to write her name in Cherokee letters.",
+      "ko": "내 친구 에이바는 체로키족인데, 우리 반에게 체로키 문자로 자기 이름 쓰는 법을 보여 주었다."
+     },
+     {
+      "en": "The Cherokee Nation has its own government, schools, and even its own newspaper.",
+      "ko": "체로키 네이션에는 자체 정부와 학교, 그리고 신문까지 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Cherokees"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Iroquois",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A name for a group of Native American nations in what is now New York and nearby Canada that joined together long ago. They call themselves the Haudenosaunee.",
+    "ko": "이로쿼이족, 이로쿼이 연맹",
+    "ko_simple": "오늘날의 뉴욕주와 캐나다 근처에 살며 오래전에 하나로 뭉친 여러 원주민 부족을 부르는 이름. 스스로는 하우데노쇼니라고 부른다.",
+    "examples": [
+     {
+      "en": "The Iroquois lived in longhouses that could hold several families at once.",
+      "ko": "이로쿼이족은 여러 가족이 함께 살 수 있는 롱하우스에서 살았다."
+     },
+     {
+      "en": "In social studies, we drew a map of the six Iroquois nations along the rivers and lakes of New York.",
+      "ko": "사회 시간에 우리는 뉴욕의 강과 호수를 따라 사는 이로쿼이 여섯 부족의 지도를 그렸다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Haudenosaunee",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The name the Iroquois call themselves. It means 'People of the Longhouse.' Six nations make up the group: Mohawk, Oneida, Onondaga, Cayuga, Seneca, and Tuscarora.",
+    "ko": "하우데노쇼니 (이로쿼이 연맹)",
+    "ko_simple": "이로쿼이족이 스스로를 부르는 이름으로 '롱하우스의 사람들'이라는 뜻. 모호크, 오나이다, 오논다가, 카유가, 세네카, 투스카로라 여섯 부족으로 이루어져 있다.",
+    "examples": [
+     {
+      "en": "The Haudenosaunee compare their six nations to one big longhouse with many families inside.",
+      "ko": "하우데노쇼니는 여섯 부족을 여러 가족이 함께 사는 하나의 커다란 롱하우스에 비유한다."
+     },
+     {
+      "en": "Haudenosaunee lacrosse players travel the world to play on their own national team.",
+      "ko": "하우데노쇼니 라크로스 선수들은 자기들만의 국가대표팀으로 세계를 돌며 경기를 한다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Lakota",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation of the Great Plains. Long ago they followed the buffalo on horseback. Many Lakota people live in South Dakota and North Dakota today.",
+    "ko": "라코타족",
+    "ko_simple": "대평원에 사는 아메리카 원주민 부족. 옛날에는 말을 타고 들소 떼를 따라다녔다. 오늘날 많은 라코타 사람들이 사우스다코타와 노스다코타에 산다.",
+    "examples": [
+     {
+      "en": "Sitting Bull and Crazy Horse were famous Lakota leaders.",
+      "ko": "시팅 불과 크레이지 호스는 유명한 라코타족 지도자였다."
+     },
+     {
+      "en": "Our guest speaker taught us how to say 'hello' in the Lakota language: 'Háu!'",
+      "ko": "초청 강사님이 라코타 말로 '안녕'을 말하는 법을 가르쳐 주셨다. '하우!'"
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Sioux",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A name used for a large group of related Native American peoples of the Great Plains, including the Lakota, Dakota, and Nakota. Many prefer to be called by those names.",
+    "ko": "수족",
+    "ko_simple": "대평원에 사는 서로 친척인 원주민 집단(라코타, 다코타, 나코타)을 함께 부르는 이름. 많은 사람이 각자의 이름으로 불리기를 더 좋아한다.",
+    "examples": [
+     {
+      "en": "The Sioux once hunted buffalo across a huge area of grassland.",
+      "ko": "수족은 한때 넓은 초원을 누비며 들소를 사냥했다."
+     },
+     {
+      "en": "Sioux City in Iowa is named after the Sioux people.",
+      "ko": "아이오와주의 수시티는 수족의 이름을 따서 지었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Dakota",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American people related to the Lakota who lived in what is now Minnesota and the eastern Dakotas. The states North Dakota and South Dakota are named after them.",
+    "ko": "다코타족",
+    "ko_simple": "라코타족과 친척 관계인 원주민으로, 지금의 미네소타와 다코타 동부에 살았다. 노스다코타주와 사우스다코타주의 이름이 여기서 왔다.",
+    "examples": [
+     {
+      "en": "Minnesota gets its name from a Dakota word that means something like 'cloudy water.'",
+      "ko": "미네소타라는 이름은 '흐린 물'과 비슷한 뜻의 다코타 말에서 왔다."
+     },
+     {
+      "en": "Two whole states are named after the Dakota people!",
+      "ko": "주 두 곳이 통째로 다코타족의 이름을 따서 지어졌다!"
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Navajo",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation of the Southwest. The Navajo Nation has the largest reservation in the United States, in parts of Arizona, New Mexico, and Utah. They call themselves Diné.",
+    "ko": "나바호족",
+    "ko_simple": "미국 남서부에 사는 원주민 부족. 나바호 네이션은 애리조나, 뉴멕시코, 유타에 걸쳐 미국에서 가장 큰 보호구역을 가지고 있다. 스스로는 디네라고 부른다.",
+    "examples": [
+     {
+      "en": "The Navajo are famous for weaving beautiful rugs with bold patterns.",
+      "ko": "나바호족은 대담한 무늬의 아름다운 양탄자를 짜는 것으로 유명하다."
+     },
+     {
+      "en": "The Navajo Nation is bigger than the state of West Virginia!",
+      "ko": "나바호 네이션의 땅은 웨스트버지니아주보다도 넓다!"
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Diné",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The name the Navajo people call themselves. It means 'the People.'",
+    "ko": "디네 (나바호족이 스스로를 부르는 이름)",
+    "ko_simple": "나바호 사람들이 스스로를 부르는 이름으로 '사람들'이라는 뜻.",
+    "examples": [
+     {
+      "en": "The Diné language is still spoken by many families in Arizona and New Mexico.",
+      "ko": "디네 말은 지금도 애리조나와 뉴멕시코의 많은 가정에서 쓰인다."
+     },
+     {
+      "en": "Our teacher said that using the name Diné shows respect for how the Navajo name themselves.",
+      "ko": "선생님은 디네라는 이름을 쓰는 것이 나바호 사람들이 스스로 붙인 이름을 존중하는 일이라고 하셨다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Dine"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Hopi",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation in northeastern Arizona. The Hopi have farmed corn on high, flat-topped hills called mesas for hundreds of years, and some of their villages are among the oldest in the United States.",
+    "ko": "호피족",
+    "ko_simple": "애리조나 북동부에 사는 원주민 부족. 수백 년 동안 메사라고 부르는 높고 평평한 언덕 위에서 옥수수 농사를 지었고, 미국에서 가장 오래된 마을들 가운데 일부가 호피 마을이다.",
+    "examples": [
+     {
+      "en": "Hopi farmers grow blue corn even though their desert gets very little rain.",
+      "ko": "호피 농부들은 비가 아주 적게 오는 사막에서도 파란 옥수수를 기른다."
+     },
+     {
+      "en": "The Hopi village of Oraibi has had people living in it for nearly 900 years.",
+      "ko": "호피 마을 오라이비에는 거의 900년 동안 사람이 살아 왔다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Pueblo",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The Pueblo peoples are Native American nations of the Southwest, mostly in New Mexico and Arizona, who have lived in farming villages of stone and mud brick for many hundreds of years. The Hopi and Zuni are Pueblo peoples.",
+    "ko": "푸에블로족, 푸에블로 인디언",
+    "ko_simple": "주로 뉴멕시코와 애리조나에 사는 원주민 부족들로, 수백 년 동안 돌과 흙벽돌로 지은 농사 마을에서 살아 왔다. 호피족과 주니족도 푸에블로 사람들이다.",
+    "examples": [
+     {
+      "en": "There are nineteen Pueblo nations in New Mexico today.",
+      "ko": "오늘날 뉴멕시코에는 열아홉 개의 푸에블로 부족이 있다."
+     },
+     {
+      "en": "At the feast day, Pueblo dancers moved to the beat of a big drum.",
+      "ko": "축제날에 푸에블로 춤꾼들이 큰북 박자에 맞춰 춤을 췄다."
+     }
+    ]
+   },
+   {
+    "pos": "noun",
+    "simple": "A village of flat-roofed buildings made of stone or adobe, often several stories high like an apartment building. People climbed ladders to get to the upper rooms. Pueblo means 'town' in Spanish.",
+    "ko": "푸에블로 (원주민 마을)",
+    "ko_simple": "돌이나 흙벽돌로 지은 지붕이 평평한 건물들로 이루어진 마을. 아파트처럼 여러 층으로 지은 경우가 많다. 사람들은 사다리를 타고 위층 방으로 올라갔다. 푸에블로는 스페인어로 '마을'이라는 뜻이다.",
+    "examples": [
+     {
+      "en": "At Taos Pueblo, families have lived in the same tall adobe buildings for about 1,000 years.",
+      "ko": "타오스 푸에블로에서는 가족들이 약 1,000년 동안 같은 높은 흙벽돌 건물에서 살아 왔다."
+     },
+     {
+      "en": "In the old days, people could pull up the ladders to keep enemies out of the pueblo.",
+      "ko": "옛날에는 사다리를 끌어올려 적이 푸에블로에 들어오지 못하게 막을 수 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Pueblos",
+   "pueblos"
+  ],
+  "picture": true
+ },
+ {
+  "word": "Zuni",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Pueblo nation in western New Mexico. Zuni artists are known for jewelry made of silver and turquoise and for small animal carvings.",
+    "ko": "주니족",
+    "ko_simple": "뉴멕시코 서부에 사는 푸에블로 부족. 은과 터키석으로 만든 장신구와 작은 동물 조각으로 유명하다.",
+    "examples": [
+     {
+      "en": "My aunt has a tiny Zuni carving of a bear made from green stone.",
+      "ko": "우리 이모는 초록 돌로 만든 작은 주니 곰 조각을 가지고 있다."
+     },
+     {
+      "en": "The Zuni people speak a language that is not related to any other language nearby.",
+      "ko": "주니 사람들은 주변의 어떤 언어와도 관계가 없는 독특한 말을 쓴다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Zuñi"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Apache",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A group of related Native American nations of the Southwest, in what is now Arizona, New Mexico, and Texas. Many Apache people live on reservations in Arizona, New Mexico, and Oklahoma today.",
+    "ko": "아파치족",
+    "ko_simple": "지금의 애리조나, 뉴멕시코, 텍사스 지역에 살던 서로 친척인 원주민 부족들. 오늘날 많은 아파치 사람들이 애리조나, 뉴멕시코, 오클라호마의 보호구역에 산다.",
+    "examples": [
+     {
+      "en": "Apache families moved between the mountains and the desert to find food in each season.",
+      "ko": "아파치 가족들은 계절마다 먹을 것을 찾아 산과 사막 사이를 옮겨 다녔다."
+     },
+     {
+      "en": "Geronimo was a well-known Apache leader.",
+      "ko": "제로니모는 잘 알려진 아파치족 지도자였다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Apaches"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Comanche",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation of the southern Great Plains, in places like Texas and Oklahoma. The Comanche became some of the most skilled horse riders in North America. The Comanche Nation is in Oklahoma today.",
+    "ko": "코만치족",
+    "ko_simple": "텍사스, 오클라호마 같은 남부 대평원에 살던 원주민 부족. 북아메리카에서 손꼽히는 뛰어난 기마 민족이었다. 오늘날 코만치 네이션은 오클라호마에 있다.",
+    "examples": [
+     {
+      "en": "Comanche kids learned to ride horses when they were very young, sometimes before they could walk well.",
+      "ko": "코만치 아이들은 아주 어릴 때, 때로는 잘 걷기도 전에 말 타는 법을 배웠다."
+     },
+     {
+      "en": "The Comanche once had more horses than almost any other people on the Plains.",
+      "ko": "코만치족은 한때 대평원의 거의 어떤 부족보다 많은 말을 가지고 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Comanches"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Cheyenne",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation of the Great Plains who hunted buffalo and lived in tepees. Cheyenne people live in Montana and Oklahoma today.",
+    "ko": "샤이엔족",
+    "ko_simple": "들소를 사냥하고 티피에서 살던 대평원의 원주민 부족. 오늘날 샤이엔 사람들은 몬태나와 오클라호마에 산다.",
+    "examples": [
+     {
+      "en": "The capital city of Wyoming is named Cheyenne after the Cheyenne people.",
+      "ko": "와이오밍주의 주도 이름인 샤이엔은 샤이엔족에게서 따왔다."
+     },
+     {
+      "en": "Cheyenne artists decorated clothing with tiny colorful beads.",
+      "ko": "샤이엔 예술가들은 작고 알록달록한 구슬로 옷을 장식했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Arapaho",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation of the Great Plains, close friends and allies of the Cheyenne. Arapaho people live in Wyoming and Oklahoma today.",
+    "ko": "아라파호족",
+    "ko_simple": "샤이엔족과 가까운 동맹이었던 대평원의 원주민 부족. 오늘날 와이오밍과 오클라호마에 산다.",
+    "examples": [
+     {
+      "en": "The Arapaho and Cheyenne often camped and hunted buffalo together.",
+      "ko": "아라파호족과 샤이엔족은 자주 함께 야영하며 들소를 사냥했다."
+     },
+     {
+      "en": "Some schools in Wyoming teach the Arapaho language so it will not be forgotten.",
+      "ko": "와이오밍의 몇몇 학교는 아라파호 말이 잊히지 않도록 가르친다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Shoshone",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation of the Great Basin and Rocky Mountain area, in places like Idaho, Wyoming, Utah, and Nevada. Sacagawea was Shoshone.",
+    "ko": "쇼쇼니족",
+    "ko_simple": "아이다호, 와이오밍, 유타, 네바다 같은 그레이트베이슨과 로키산맥 지역에 사는 원주민 부족. 사카가위아가 쇼쇼니족이었다.",
+    "examples": [
+     {
+      "en": "Sacagawea was overjoyed to find that the Shoshone chief they met was her own brother.",
+      "ko": "사카가위아는 만난 쇼쇼니 추장이 바로 자기 오빠라는 것을 알고 무척 기뻐했다."
+     },
+     {
+      "en": "Shoshone families gathered pine nuts in the fall to eat during the winter.",
+      "ko": "쇼쇼니 가족들은 가을에 잣을 모아 겨울에 먹었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Shoshoni"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Nez Perce",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation of the Plateau region, in what is now Idaho, Oregon, and Washington. They call themselves Nimiipuu, which means 'the People.' Chief Joseph was a Nez Perce leader.",
+    "ko": "네즈퍼스족",
+    "ko_simple": "지금의 아이다호, 오리건, 워싱턴에 해당하는 고원 지역에 사는 원주민 부족. 스스로는 '사람들'이라는 뜻의 니미푸라고 부른다. 조지프 추장이 네즈퍼스족 지도자였다.",
+    "examples": [
+     {
+      "en": "The Nez Perce were known for raising strong, spotted horses.",
+      "ko": "네즈퍼스족은 튼튼한 점박이 말을 기르는 것으로 유명했다."
+     },
+     {
+      "en": "The Nez Perce helped Lewis and Clark when the explorers were cold and hungry.",
+      "ko": "네즈퍼스족은 루이스와 클라크 탐험대가 춥고 배고플 때 그들을 도와주었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Chinook",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American people who lived near the mouth of the Columbia River in the Pacific Northwest. They were great traders and fished for salmon. Chinook people still live in that area today.",
+    "ko": "치누크족",
+    "ko_simple": "태평양 북서부 컬럼비아강 어귀에 살던 원주민. 뛰어난 상인이었고 연어를 잡았다. 지금도 그 지역에 치누크 사람들이 산다.",
+    "examples": [
+     {
+      "en": "Chinook traders swapped dried salmon and shells with people from far away.",
+      "ko": "치누크 상인들은 말린 연어와 조개껍데기를 먼 곳 사람들과 맞바꾸었다."
+     },
+     {
+      "en": "The biggest kind of salmon is called the Chinook salmon.",
+      "ko": "가장 큰 연어 종류를 치누크 연어라고 부른다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Tlingit",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American people of the Northwest Coast who live in southeast Alaska and nearby Canada. They are known for totem poles, carved masks, and woven blankets.",
+    "ko": "틀링깃족",
+    "ko_simple": "알래스카 남동부와 그 근처 캐나다에 사는 북서 해안의 원주민. 토템 기둥, 조각 가면, 직물 담요로 유명하다.",
+    "examples": [
+     {
+      "en": "In Juneau, Alaska, we saw a tall Tlingit totem pole with a raven on top.",
+      "ko": "알래스카 주노에서 우리는 꼭대기에 까마귀가 있는 높은 틀링깃 토템 기둥을 보았다."
+     },
+     {
+      "en": "Every Tlingit person belongs to either the Raven side or the Eagle side.",
+      "ko": "틀링깃 사람은 모두 까마귀 쪽이나 독수리 쪽 중 하나에 속한다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Kwakwaka'wakw",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American people of the Northwest Coast who live mostly on Vancouver Island and the nearby coast of British Columbia, Canada. They are known for carved masks, totem poles, and the potlatch. They were once called Kwakiutl.",
+    "ko": "콰콰카와쿠족 (콰키우틀족)",
+    "ko_simple": "주로 캐나다 브리티시컬럼비아의 밴쿠버섬과 그 근처 해안에 사는 북서 해안의 원주민. 조각 가면, 토템 기둥, 포틀래치로 유명하다. 예전에는 콰키우틀족이라고 불렸다.",
+    "examples": [
+     {
+      "en": "A Kwakwaka'wakw mask can open up to show a second face hidden inside!",
+      "ko": "콰콰카와쿠 가면은 열리면 안에 숨어 있던 두 번째 얼굴이 나타나기도 한다!"
+     },
+     {
+      "en": "Kwakwaka'wakw means 'people who speak Kwak'wala,' their own language.",
+      "ko": "콰콰카와쿠는 자기들의 언어인 '콰크왈라 말을 하는 사람들'이라는 뜻이다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Kwakiutl"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Haida",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American people of the Northwest Coast who live on islands in British Columbia, Canada, and in southern Alaska. They carve giant canoes and totem poles from cedar trees.",
+    "ko": "하이다족",
+    "ko_simple": "캐나다 브리티시컬럼비아의 섬들과 알래스카 남부에 사는 북서 해안의 원주민. 삼나무로 커다란 카누와 토템 기둥을 깎아 만든다.",
+    "examples": [
+     {
+      "en": "A Haida canoe could be long enough to carry more than forty people.",
+      "ko": "하이다 카누는 마흔 명 넘게 탈 수 있을 만큼 길기도 했다."
+     },
+     {
+      "en": "Haida artists paint animals like the bear and the orca in bold black and red lines.",
+      "ko": "하이다 예술가들은 곰과 범고래 같은 동물을 굵은 검은색과 빨간색 선으로 그린다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Makah",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation at the far northwest tip of Washington State. For thousands of years, Makah people have hunted whales and fished in the ocean.",
+    "ko": "마카족",
+    "ko_simple": "워싱턴주 북서쪽 끝에 사는 원주민 부족. 수천 년 동안 바다에서 고래를 사냥하고 물고기를 잡아 왔다.",
+    "examples": [
+     {
+      "en": "Makah hunters paddled cedar canoes far out into the ocean to hunt whales.",
+      "ko": "마카 사냥꾼들은 고래를 잡으러 삼나무 카누를 저어 먼 바다로 나갔다."
+     },
+     {
+      "en": "A mudslide long ago buried a Makah village, and scientists later found thousands of objects there.",
+      "ko": "오래전 산사태가 마카 마을을 덮었고, 나중에 과학자들이 그곳에서 수천 점의 물건을 찾아냈다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Inuit",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "Native peoples of the Arctic who live in northern Alaska, Canada, and Greenland. They hunt seals, whales, and caribou in the cold North. Many find the old name 'Eskimo' hurtful, so 'Inuit' is the better word.",
+    "ko": "이누이트",
+    "ko_simple": "알래스카 북부, 캐나다, 그린란드의 북극 지방에 사는 원주민. 추운 북쪽에서 물개, 고래, 순록을 사냥한다. 예전 이름 '에스키모'는 많은 사람이 불쾌하게 여기므로 '이누이트'라고 부르는 것이 좋다.",
+    "examples": [
+     {
+      "en": "Inuit hunters wore warm clothes made of caribou skin and sealskin.",
+      "ko": "이누이트 사냥꾼들은 순록 가죽과 물개 가죽으로 만든 따뜻한 옷을 입었다."
+     },
+     {
+      "en": "Inuit means 'the people' in the Inuktitut language.",
+      "ko": "이누이트는 이누크티투트 말로 '사람들'이라는 뜻이다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Inuk"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Aleut",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native people of the Aleutian Islands, a long chain of islands off Alaska. They call themselves Unangan. They were expert sea hunters who paddled skin boats in rough water.",
+    "ko": "알류트족 (우낭간)",
+    "ko_simple": "알래스카 앞바다에 길게 늘어선 알류샨 열도에 사는 원주민. 스스로는 우낭간이라고 부른다. 거친 바다에서 가죽 배를 저으며 바다 동물을 잘 사냥했다.",
+    "examples": [
+     {
+      "en": "Aleut hunters made raincoats from the thin insides of seal and sea lion bodies.",
+      "ko": "알류트 사냥꾼들은 물개와 바다사자 몸속의 얇은 막으로 비옷을 만들었다."
+     },
+     {
+      "en": "The Aleut used narrow skin boats to chase sea otters across the waves.",
+      "ko": "알류트족은 좁은 가죽 배를 타고 파도를 넘으며 해달을 쫓았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Aleuts",
+   "Unangan"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Yupik",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "Native peoples of western and southwestern Alaska and eastern Siberia. They are related to the Inuit and live by fishing, hunting, and gathering berries.",
+    "ko": "유피크족",
+    "ko_simple": "알래스카 서부와 남서부, 시베리아 동부에 사는 원주민. 이누이트와 친척이며 고기잡이, 사냥, 열매 따기로 살아간다.",
+    "examples": [
+     {
+      "en": "Yupik families dry salmon on wooden racks in the summer sun.",
+      "ko": "유피크 가족들은 여름 햇볕 아래 나무 걸대에 연어를 말린다."
+     },
+     {
+      "en": "Yupik dancers hold fans made of feathers and grass while they dance.",
+      "ko": "유피크 춤꾼들은 깃털과 풀로 만든 부채를 들고 춤을 춘다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Yup'ik"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Seminole",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation of Florida, formed in the 1700s by Creek and other Southeast peoples. Many Seminole people stayed in Florida's swamps and never gave up. Seminole people live in Florida and Oklahoma today.",
+    "ko": "세미놀족",
+    "ko_simple": "1700년대에 크리크족과 다른 남동부 원주민들이 모여 만든 플로리다의 원주민 부족. 많은 세미놀 사람들이 플로리다 늪지대에 남아 끝까지 항복하지 않았다. 오늘날 플로리다와 오클라호마에 산다.",
+    "examples": [
+     {
+      "en": "Seminole families built open-sided houses called chickees to stay cool in the Florida heat.",
+      "ko": "세미놀 가족들은 플로리다의 더위를 피하려고 벽이 트인 치키라는 집을 지었다."
+     },
+     {
+      "en": "Seminole patchwork clothing is sewn from hundreds of tiny strips of bright cloth.",
+      "ko": "세미놀 조각보 옷은 수백 개의 작고 화려한 천 조각을 이어 꿰매어 만든다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Seminoles"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Creek",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "An English name for the Muscogee people, a Native American nation whose homeland was in what is now Georgia and Alabama. English traders named them for the creeks their towns were built along.",
+    "ko": "크리크족 (머스코지족)",
+    "ko_simple": "지금의 조지아와 앨라배마에 살던 원주민 머스코지족을 부르는 영어 이름. 마을들이 개울가에 있어서 영국 상인들이 이렇게 불렀다.",
+    "examples": [
+     {
+      "en": "Creek towns each had a central square where people met, danced, and made decisions.",
+      "ko": "크리크족 마을마다 사람들이 모여 춤추고 의논하는 광장이 가운데에 있었다."
+     },
+     {
+      "en": "The Creek were forced to leave Alabama and move to Indian Territory in the 1830s.",
+      "ko": "크리크족은 1830년대에 앨라배마를 떠나 인디언 준주로 강제로 옮겨 가야 했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Creeks"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Muscogee",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation, also called the Creek, whose homeland was in Georgia and Alabama. After being forced west, the Muscogee Nation rebuilt its home in Oklahoma, where it is today.",
+    "ko": "머스코지족 (크리크족)",
+    "ko_simple": "크리크족이라고도 불리며 조지아와 앨라배마가 고향이었던 원주민 부족. 서쪽으로 강제로 쫓겨난 뒤 오클라호마에 새 터전을 세웠고 지금도 그곳에 있다.",
+    "examples": [
+     {
+      "en": "The Muscogee Nation has its capital in the city of Okmulgee, Oklahoma.",
+      "ko": "머스코지 네이션의 수도는 오클라호마의 오크멀기시에 있다."
+     },
+     {
+      "en": "Joy Harjo, a Muscogee poet, became the first Native American Poet Laureate of the United States.",
+      "ko": "머스코지족 시인 조이 하조는 미국 최초의 원주민 계관 시인이 되었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Muskogee",
+   "Mvskoke"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Choctaw",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation whose homeland was in what is now Mississippi and Alabama. In 1831 they were the first nation forced west on the Trail of Tears. Choctaw people live in Oklahoma and Mississippi today.",
+    "ko": "촉토족",
+    "ko_simple": "지금의 미시시피와 앨라배마가 고향인 원주민 부족. 1831년 '눈물의 길'로 가장 먼저 서쪽으로 강제 이주를 당했다. 오늘날 오클라호마와 미시시피에 산다.",
+    "examples": [
+     {
+      "en": "In 1847, the Choctaw sent money to help hungry families in Ireland, even though they had little themselves.",
+      "ko": "1847년 촉토족은 자신들도 가진 것이 적었지만 굶주린 아일랜드 가족들을 돕기 위해 돈을 보냈다."
+     },
+     {
+      "en": "Choctaw kids play stickball, a fast game a lot like lacrosse.",
+      "ko": "촉토 아이들은 라크로스와 많이 닮은 빠른 경기인 스틱볼을 한다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Chickasaw",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation whose homeland was in what is now Mississippi, Tennessee, and Alabama. They were forced to move west in the 1830s. The Chickasaw Nation is in Oklahoma today.",
+    "ko": "치카소족",
+    "ko_simple": "지금의 미시시피, 테네시, 앨라배마가 고향인 원주민 부족. 1830년대에 서쪽으로 강제 이주를 당했다. 오늘날 치카소 네이션은 오클라호마에 있다.",
+    "examples": [
+     {
+      "en": "Chickasaw warriors were known as brave defenders of their homeland.",
+      "ko": "치카소 전사들은 고향을 용감하게 지키는 사람들로 알려져 있었다."
+     },
+     {
+      "en": "We watched a video of a Chickasaw storyteller telling a tale about a rabbit.",
+      "ko": "우리는 치카소 이야기꾼이 토끼 이야기를 들려주는 영상을 보았다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Wampanoag",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation of what is now southeastern Massachusetts and Rhode Island. The Wampanoag met the Pilgrims in 1620 and shared a harvest meal with them in 1621. Wampanoag people still live there today.",
+    "ko": "왐파노아그족",
+    "ko_simple": "지금의 매사추세츠 남동부와 로드아일랜드에 사는 원주민 부족. 1620년에 순례자들을 만났고 1621년에 함께 추수 잔치를 했다. 지금도 그곳에 산다.",
+    "examples": [
+     {
+      "en": "The Wampanoag name means 'People of the First Light' because they live where the sun rises.",
+      "ko": "왐파노아그라는 이름은 해 뜨는 곳에 산다고 해서 '첫 햇빛의 사람들'이라는 뜻이다."
+     },
+     {
+      "en": "Wampanoag farmers showed the Pilgrims how to grow corn in the rocky soil.",
+      "ko": "왐파노아그 농부들은 순례자들에게 돌투성이 땅에서 옥수수를 기르는 법을 보여 주었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Powhatan",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A large alliance of about thirty Native American tribes in what is now eastern Virginia. They were living there when English settlers built Jamestown in 1607.",
+    "ko": "포우하탄족, 포우하탄 연맹",
+    "ko_simple": "지금의 버지니아 동부에 있던 약 서른 개 원주민 부족의 큰 연합. 1607년 영국 정착민들이 제임스타운을 세울 때 그곳에 살고 있었다.",
+    "examples": [
+     {
+      "en": "The Powhatan people traded corn to the hungry English at Jamestown.",
+      "ko": "포우하탄 사람들은 제임스타운의 굶주린 영국인들에게 옥수수를 팔았다."
+     },
+     {
+      "en": "Pamunkey and Mattaponi people, part of the Powhatan, still live in Virginia today.",
+      "ko": "포우하탄에 속했던 파먼키족과 마타포니족은 지금도 버지니아에 산다."
+     }
+    ]
+   },
+   {
+    "pos": "proper noun",
+    "simple": "The English name for Wahunsenaca, the powerful leader of the Powhatan tribes and the father of Pocahontas.",
+    "ko": "포우하탄 (와훈세나카 추장)",
+    "ko_simple": "포우하탄 부족들의 힘센 지도자이자 포카혼타스의 아버지인 와훈세나카를 영국인이 부른 이름.",
+    "examples": [
+     {
+      "en": "Chief Powhatan ruled over thousands of people in many villages.",
+      "ko": "포우하탄 추장은 여러 마을의 수천 명을 다스렸다."
+     },
+     {
+      "en": "John Smith wrote about meeting Powhatan in a big house by the river.",
+      "ko": "존 스미스는 강가의 큰 집에서 포우하탄을 만난 일을 글로 남겼다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Lenape",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American people whose homeland covered what is now New Jersey, Delaware, eastern Pennsylvania, and southern New York, including Manhattan. They are also called the Delaware. Many live in Oklahoma, Wisconsin, and Canada today.",
+    "ko": "레나페족 (델라웨어족)",
+    "ko_simple": "지금의 뉴저지, 델라웨어, 펜실베이니아 동부, 맨해튼을 포함한 뉴욕 남부가 고향이었던 원주민. 델라웨어족이라고도 한다. 오늘날 많은 사람이 오클라호마, 위스콘신, 캐나다에 산다.",
+    "examples": [
+     {
+      "en": "Before New York City had skyscrapers, Lenape families fished and farmed on Manhattan Island.",
+      "ko": "뉴욕시에 고층 빌딩이 생기기 전, 레나페 가족들은 맨해튼섬에서 물고기를 잡고 농사를 지었다."
+     },
+     {
+      "en": "The name Manhattan probably comes from a Lenape word.",
+      "ko": "맨해튼이라는 이름은 아마 레나페 말에서 왔을 것이다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Lenni Lenape"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Delaware",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "An English name for the Lenape people. English settlers named them after the Delaware River, where many of them lived.",
+    "ko": "델라웨어족 (레나페족)",
+    "ko_simple": "레나페 사람들을 부르는 영어 이름. 많은 레나페 사람이 살던 델라웨어강의 이름을 따서 영국 정착민이 붙였다.",
+    "examples": [
+     {
+      "en": "The Delaware Tribe of Indians has its home in Bartlesville, Oklahoma, today.",
+      "ko": "델라웨어 인디언 부족은 오늘날 오클라호마의 바틀즈빌에 터전이 있다."
+     },
+     {
+      "en": "The river, the state, and the Delaware people all share the same English name.",
+      "ko": "그 강과 주, 그리고 델라웨어족은 모두 같은 영어 이름을 가지고 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Ojibwe",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A large Native American nation of the Great Lakes area, in places like Minnesota, Wisconsin, Michigan, and Canada. They are known for birchbark canoes and harvesting wild rice. They are also called Chippewa.",
+    "ko": "오지브웨족 (치페와족)",
+    "ko_simple": "미네소타, 위스콘신, 미시간, 캐나다 같은 오대호 지역에 사는 큰 원주민 부족. 자작나무 껍질 카누와 야생 쌀 수확으로 유명하다. 치페와족이라고도 한다.",
+    "examples": [
+     {
+      "en": "Every fall, Ojibwe families paddle canoes into the lakes to gather wild rice.",
+      "ko": "해마다 가을이면 오지브웨 가족들은 카누를 저어 호수로 들어가 야생 쌀을 거둔다."
+     },
+     {
+      "en": "The Ojibwe language has a word for almost every kind of plant in the forest.",
+      "ko": "오지브웨 말에는 숲속 거의 모든 식물을 가리키는 낱말이 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Ojibwa",
+   "Chippewa"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Anishinaabe",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A name that the Ojibwe and some related Great Lakes peoples, like the Odawa and Potawatomi, use for themselves. It means something like 'original people.'",
+    "ko": "아니시나베",
+    "ko_simple": "오지브웨족과 오다와족, 포타와토미족 같은 오대호 지역의 친척 부족들이 스스로를 부르는 이름. '본래의 사람들'과 비슷한 뜻이다.",
+    "examples": [
+     {
+      "en": "Anishinaabe stories say the people followed a sacred shell west to the Great Lakes.",
+      "ko": "아니시나베 이야기에 따르면 사람들은 신성한 조개껍데기를 따라 서쪽 오대호로 왔다고 한다."
+     },
+     {
+      "en": "At the museum, an Anishinaabe artist showed us how she makes baskets from birch bark.",
+      "ko": "박물관에서 한 아니시나베 예술가가 자작나무 껍질로 바구니 만드는 법을 보여 주었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Anishinabe",
+   "Anishinaabeg"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Mohawk",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "One of the six Haudenosaunee (Iroquois) nations. The Mohawk lived farthest east and were called 'Keepers of the Eastern Door.' Mohawk communities are in New York and Canada today.",
+    "ko": "모호크족",
+    "ko_simple": "하우데노쇼니(이로쿼이) 여섯 부족 중 하나. 가장 동쪽에 살아서 '동쪽 문의 수호자'라고 불렸다. 오늘날 뉴욕과 캐나다에 모호크 공동체가 있다.",
+    "examples": [
+     {
+      "en": "Mohawk ironworkers walked on narrow steel beams high in the sky to build New York skyscrapers.",
+      "ko": "모호크족 철골 노동자들은 뉴욕의 고층 빌딩을 짓기 위해 하늘 높이 좁은 철제 들보 위를 걸었다."
+     },
+     {
+      "en": "The Mohawk call themselves Kanien'kehá:ka, 'People of the Flint.'",
+      "ko": "모호크족은 스스로를 '부싯돌의 사람들'이라는 뜻의 카니엔케하카라고 부른다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Mohawks"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Seneca",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "One of the six Haudenosaunee (Iroquois) nations, in western New York. The Seneca lived farthest west and were called 'Keepers of the Western Door.'",
+    "ko": "세네카족",
+    "ko_simple": "뉴욕 서부에 사는 하우데노쇼니(이로쿼이) 여섯 부족 중 하나. 가장 서쪽에 살아서 '서쪽 문의 수호자'라고 불렸다.",
+    "examples": [
+     {
+      "en": "The Seneca were the largest of the six Haudenosaunee nations.",
+      "ko": "세네카족은 하우데노쇼니 여섯 부족 가운데 가장 컸다."
+     },
+     {
+      "en": "Seneca Lake in New York is named after the Seneca Nation.",
+      "ko": "뉴욕의 세네카 호수는 세네카족의 이름을 땄다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Oneida",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "One of the six Haudenosaunee (Iroquois) nations, from central New York. The Oneida sided with the Americans during the American Revolution. Oneida people live in New York, Wisconsin, and Canada today.",
+    "ko": "오나이다족",
+    "ko_simple": "뉴욕 중부에 살던 하우데노쇼니(이로쿼이) 여섯 부족 중 하나. 미국 독립 전쟁 때 미국 편에 섰다. 오늘날 뉴욕, 위스콘신, 캐나다에 산다.",
+    "examples": [
+     {
+      "en": "Oneida people carried bags of corn to feed George Washington's hungry soldiers.",
+      "ko": "오나이다 사람들은 조지 워싱턴의 굶주린 병사들을 먹이려고 옥수수 자루를 날랐다."
+     },
+     {
+      "en": "The Oneida call themselves 'People of the Standing Stone.'",
+      "ko": "오나이다족은 스스로를 '서 있는 돌의 사람들'이라고 부른다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Onondaga",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "One of the six Haudenosaunee (Iroquois) nations, near what is now Syracuse, New York. They are the 'Keepers of the Central Fire,' and the Grand Council of all six nations meets on their land.",
+    "ko": "오논다가족",
+    "ko_simple": "지금의 뉴욕 시러큐스 근처에 사는 하우데노쇼니(이로쿼이) 여섯 부족 중 하나. '가운데 불의 수호자'로, 여섯 부족 전체의 대회의가 이들의 땅에서 열린다.",
+    "examples": [
+     {
+      "en": "Leaders from all six nations still travel to Onondaga land to hold council.",
+      "ko": "여섯 부족의 지도자들은 지금도 오논다가 땅에 모여 회의를 연다."
+     },
+     {
+      "en": "Because the Onondaga live in the middle, they keep the council fire burning.",
+      "ko": "오논다가족은 한가운데에 살기 때문에 회의의 불을 지키는 역할을 한다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Cayuga",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "One of the six Haudenosaunee (Iroquois) nations, from the Finger Lakes area of central New York.",
+    "ko": "카유가족",
+    "ko_simple": "뉴욕 중부 핑거레이크스 지역에 살던 하우데노쇼니(이로쿼이) 여섯 부족 중 하나.",
+    "examples": [
+     {
+      "en": "Cayuga Lake, one of the long, skinny Finger Lakes, is named after the Cayuga people.",
+      "ko": "길고 가느다란 핑거레이크스 호수 중 하나인 카유가 호수는 카유가족의 이름을 땄다."
+     },
+     {
+      "en": "Cayuga families grew corn, beans, and squash near the lake shore.",
+      "ko": "카유가 가족들은 호숫가 근처에서 옥수수, 콩, 호박을 길렀다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Tuscarora",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation that first lived in what is now North Carolina. After fighting with settlers in the early 1700s, many moved north and joined the Haudenosaunee as its sixth nation.",
+    "ko": "투스카로라족",
+    "ko_simple": "처음에는 지금의 노스캐롤라이나에 살던 원주민 부족. 1700년대 초 정착민과 싸운 뒤 많은 사람이 북쪽으로 옮겨 가 하우데노쇼니의 여섯 번째 부족이 되었다.",
+    "examples": [
+     {
+      "en": "When the Tuscarora joined, the Five Nations became the Six Nations.",
+      "ko": "투스카로라족이 들어오면서 다섯 부족 연맹은 여섯 부족 연맹이 되었다."
+     },
+     {
+      "en": "The Tuscarora walked hundreds of miles north to find a safe new home.",
+      "ko": "투스카로라족은 안전한 새 터전을 찾아 수백 마일을 북쪽으로 걸어갔다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Ohlone",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "Native American peoples of the San Francisco Bay and Monterey Bay areas of California. They gathered acorns, fished, and made boats from bundles of tule reeds. Ohlone people still live in the Bay Area today.",
+    "ko": "올로니족",
+    "ko_simple": "캘리포니아 샌프란시스코만과 몬터레이만 지역의 원주민. 도토리를 모으고 물고기를 잡았으며 툴레 갈대 다발로 배를 만들었다. 지금도 베이 지역에 산다.",
+    "examples": [
+     {
+      "en": "Ohlone families ground acorns into flour to make a kind of mush.",
+      "ko": "올로니 가족들은 도토리를 갈아 가루를 만들고 죽 같은 음식을 만들었다."
+     },
+     {
+      "en": "Ohlone people paddled reed boats across the bay long before the Golden Gate Bridge was built.",
+      "ko": "올로니 사람들은 금문교가 생기기 훨씬 전부터 갈대배를 저어 만을 건넜다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Chumash",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "Native American peoples of the Southern California coast, around Santa Barbara and the Channel Islands. They built plank canoes called tomols and painted colorful pictures on cave walls.",
+    "ko": "추마시족",
+    "ko_simple": "산타바버라와 채널 제도 주변 남부 캘리포니아 해안의 원주민. 토몰이라는 널빤지 카누를 만들었고 동굴 벽에 화려한 그림을 그렸다.",
+    "examples": [
+     {
+      "en": "Chumash paddlers crossed the ocean in tomols to trade on the islands.",
+      "ko": "추마시 사람들은 토몰을 저어 바다를 건너 섬에서 교역했다."
+     },
+     {
+      "en": "At Painted Cave, you can still see red, white, and black Chumash paintings.",
+      "ko": "페인티드 동굴에서는 지금도 빨강, 하양, 검정의 추마시 그림을 볼 수 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Miwok",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "Native American peoples of central California, from the coast north of San Francisco to the Sierra Nevada mountains around Yosemite. They gathered acorns and built round dance houses.",
+    "ko": "미워크족",
+    "ko_simple": "샌프란시스코 북쪽 해안부터 요세미티 주변 시에라네바다산맥까지 캘리포니아 중부에 사는 원주민. 도토리를 모았고 둥근 춤 집을 지었다.",
+    "examples": [
+     {
+      "en": "In Yosemite Valley, we visited a rebuilt Miwok village with bark houses.",
+      "ko": "요세미티 계곡에서 우리는 나무껍질 집이 있는 복원된 미워크 마을을 방문했다."
+     },
+     {
+      "en": "Miwok women ground acorns in holes worn into big flat rocks.",
+      "ko": "미워크 여성들은 넓적한 바위에 패인 구멍에서 도토리를 갈았다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Me-Wuk"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Pomo",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "Native American peoples of northern California, around Clear Lake and the coast north of San Francisco. Pomo weavers are world famous for their beautiful baskets, some covered in colorful feathers.",
+    "ko": "포모족",
+    "ko_simple": "클리어 호수와 샌프란시스코 북쪽 해안 주변 북부 캘리포니아의 원주민. 포모족이 짠 아름다운 바구니는 세계적으로 유명하며, 알록달록한 깃털로 덮인 것도 있다.",
+    "examples": [
+     {
+      "en": "Some Pomo baskets are so tiny they could sit on your fingertip.",
+      "ko": "어떤 포모 바구니는 손가락 끝에 올라갈 만큼 아주 작다."
+     },
+     {
+      "en": "Pomo baskets were woven so tightly that they could hold water.",
+      "ko": "포모 바구니는 아주 촘촘하게 짜서 물을 담을 수도 있었다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Pawnee",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation of the Great Plains, in what is now Nebraska and Kansas. They farmed corn and lived in earth lodges, and went on buffalo hunts twice a year. The Pawnee Nation is in Oklahoma today.",
+    "ko": "포니족",
+    "ko_simple": "지금의 네브래스카와 캔자스에 해당하는 대평원의 원주민 부족. 옥수수 농사를 짓고 흙집에서 살았으며 일 년에 두 번 들소 사냥을 떠났다. 오늘날 포니 네이션은 오클라호마에 있다.",
+    "examples": [
+     {
+      "en": "Pawnee families planted corn in spring, then left to hunt buffalo in summer.",
+      "ko": "포니 가족들은 봄에 옥수수를 심고 여름에는 들소 사냥을 떠났다."
+     },
+     {
+      "en": "Pawnee sky watchers studied the stars to know when to plant.",
+      "ko": "포니족의 별 관측자들은 언제 씨를 뿌릴지 알기 위해 별을 살폈다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Crow",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation of the northern Great Plains who live in Montana today. They call themselves Apsáalooke, which means 'children of the large-beaked bird.'",
+    "ko": "크로족 (압살루크)",
+    "ko_simple": "북부 대평원의 원주민 부족으로 오늘날 몬태나에 산다. 스스로는 '부리가 큰 새의 자손'이라는 뜻의 압살루크라고 부른다.",
+    "examples": [
+     {
+      "en": "Every August, the Crow Fair fills the Montana prairie with hundreds of tepees.",
+      "ko": "해마다 8월이면 크로 축제 때 몬태나 초원이 수백 개의 티피로 가득 찬다."
+     },
+     {
+      "en": "Crow riders show off their horses in a big parade at the fair.",
+      "ko": "크로족 기수들은 축제의 큰 행진에서 자기 말을 뽐낸다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Apsáalooke"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Blackfeet",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation of the northern Great Plains in Montana and nearby Canada, where they are called the Blackfoot. Their name may come from moccasins that were darkened with color or ash.",
+    "ko": "블랙풋족",
+    "ko_simple": "몬태나와 그 근처 캐나다의 북부 대평원에 사는 원주민 부족. 캐나다에서는 블랙풋이라 부른다. 이름은 색이나 재로 검게 물들인 모카신에서 왔을 수도 있다.",
+    "examples": [
+     {
+      "en": "The Blackfeet Reservation sits right next to Glacier National Park.",
+      "ko": "블랙풋 보호구역은 글레이셔 국립공원 바로 옆에 있다."
+     },
+     {
+      "en": "Blackfeet hunters once drove buffalo over cliffs in a clever hunt.",
+      "ko": "블랙풋 사냥꾼들은 한때 들소를 절벽으로 몰아가는 영리한 사냥을 했다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Blackfoot"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Kiowa",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation of the southern Great Plains. Kiowa people kept picture calendars to remember the most important event of each season. The Kiowa Tribe is in Oklahoma today.",
+    "ko": "카이오와족",
+    "ko_simple": "남부 대평원의 원주민 부족. 계절마다 가장 중요한 일을 기억하려고 그림 달력을 남겼다. 오늘날 카이오와 부족은 오클라호마에 있다.",
+    "examples": [
+     {
+      "en": "One Kiowa calendar shows a shower of falling stars from the year 1833.",
+      "ko": "한 카이오와 달력에는 1833년에 쏟아진 별똥별 그림이 있다."
+     },
+     {
+      "en": "N. Scott Momaday, a Kiowa writer, won a big prize for his book.",
+      "ko": "카이오와족 작가 N. 스콧 모머데이는 자신의 책으로 큰 상을 받았다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Osage",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation that once lived in what is now Missouri and later moved to Oklahoma, where the Osage Nation is today.",
+    "ko": "오세이지족",
+    "ko_simple": "지금의 미주리에 살다가 나중에 오클라호마로 옮겨 간 원주민 부족. 오늘날 오세이지 네이션은 오클라호마에 있다.",
+    "examples": [
+     {
+      "en": "Maria Tallchief, a famous ballerina, was a member of the Osage Nation.",
+      "ko": "유명한 발레리나 마리아 톨치프는 오세이지 네이션의 일원이었다."
+     },
+     {
+      "en": "Osage artists sew bright ribbons onto blankets and clothing.",
+      "ko": "오세이지 예술가들은 담요와 옷에 화려한 리본을 꿰매어 단다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Mandan",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation of the upper Missouri River in what is now North Dakota. They farmed and lived in round earth lodges. Lewis and Clark spent the winter of 1804 near their villages.",
+    "ko": "만단족",
+    "ko_simple": "지금의 노스다코타 미주리강 상류에 살던 원주민 부족. 농사를 짓고 둥근 흙집에서 살았다. 루이스와 클라크가 1804년 겨울을 이들 마을 근처에서 보냈다.",
+    "examples": [
+     {
+      "en": "Mandan villages were busy trading centers where many nations came to swap goods.",
+      "ko": "만단 마을은 여러 부족이 물건을 바꾸러 오는 북적이는 교역 중심지였다."
+     },
+     {
+      "en": "Today the Mandan, Hidatsa, and Arikara are united as one nation in North Dakota.",
+      "ko": "오늘날 만단족, 히다차족, 아리카라족은 노스다코타에서 하나의 네이션으로 뭉쳐 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Ute",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation of the Great Basin and Rocky Mountains, in what is now Utah and Colorado. The state of Utah is named after them.",
+    "ko": "유트족",
+    "ko_simple": "지금의 유타와 콜로라도에 해당하는 그레이트베이슨과 로키산맥의 원주민 부족. 유타주의 이름이 이들에게서 왔다.",
+    "examples": [
+     {
+      "en": "Utah means 'land of the Utes.'",
+      "ko": "유타는 '유트족의 땅'이라는 뜻이다."
+     },
+     {
+      "en": "Ute families moved up into the mountains in summer and down into valleys in winter.",
+      "ko": "유트 가족들은 여름엔 산 위로, 겨울엔 골짜기 아래로 옮겨 다녔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Utes"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Paiute",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "Native American peoples of the Great Basin, in what is now Nevada, Utah, Oregon, and California. They knew how to find food in the dry desert, like pine nuts, seeds, and rabbits.",
+    "ko": "파이우트족",
+    "ko_simple": "지금의 네바다, 유타, 오리건, 캘리포니아에 해당하는 그레이트베이슨의 원주민. 마른 사막에서 잣, 씨앗, 토끼 같은 먹을 것을 찾는 법을 알았다.",
+    "examples": [
+     {
+      "en": "Paiute families held big rabbit drives, using long nets to catch many rabbits at once.",
+      "ko": "파이우트 가족들은 긴 그물로 한 번에 많은 토끼를 잡는 큰 토끼몰이를 했다."
+     },
+     {
+      "en": "Sarah Winnemucca was a Paiute woman who wrote a book about her people.",
+      "ko": "세라 위네머카는 자기 부족에 대한 책을 쓴 파이우트족 여성이었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Paiutes"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Huron",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A French name for the Wendat, a Native American people who lived near the Great Lakes in what is now Ontario, Canada. They were important trading partners of the French. Lake Huron is named after them.",
+    "ko": "휴런족 (웬다트족)",
+    "ko_simple": "지금의 캐나다 온타리오 오대호 근처에 살던 원주민 웬다트족을 부르는 프랑스식 이름. 프랑스인의 중요한 교역 상대였다. 휴런호가 이들의 이름을 땄다.",
+    "examples": [
+     {
+      "en": "Huron farmers grew so much corn that they traded it to other nations for furs.",
+      "ko": "휴런 농부들은 옥수수를 아주 많이 길러 다른 부족의 모피와 바꾸었다."
+     },
+     {
+      "en": "Descendants of the Huron, called the Wyandot, live in Oklahoma, Kansas, Michigan, and Quebec.",
+      "ko": "와이언도트라고 불리는 휴런족 후손들은 오클라호마, 캔자스, 미시간, 퀘벡에 산다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Wendat",
+   "Wyandot"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Algonquian",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "noun",
+    "simple": "A big family of related Native American languages, spoken by many nations such as the Ojibwe, Lenape, Wampanoag, Powhatan, Cree, and Cheyenne. It also means the peoples who speak them.",
+    "ko": "알곤킨어족",
+    "ko_simple": "오지브웨, 레나페, 왐파노아그, 포우하탄, 크리, 샤이엔 등 많은 부족이 쓰는 서로 친척인 원주민 언어들의 큰 무리. 그 말을 쓰는 사람들을 뜻하기도 한다.",
+    "examples": [
+     {
+      "en": "English words like 'moose' and 'raccoon' come from Algonquian languages.",
+      "ko": "'무스'나 '라쿤' 같은 영어 낱말은 알곤킨어족 언어에서 왔다."
+     },
+     {
+      "en": "Squanto and Pocahontas both spoke Algonquian languages, even though they lived far apart.",
+      "ko": "스콴토와 포카혼타스는 멀리 떨어져 살았지만 둘 다 알곤킨어족 언어를 썼다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Algonquin",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American people of the Ottawa River valley in what is now Quebec and Ontario, Canada. They were early trading partners of the French.",
+    "ko": "알곤킨족",
+    "ko_simple": "지금의 캐나다 퀘벡과 온타리오 오타와강 골짜기에 사는 원주민. 일찍부터 프랑스인과 교역했다.",
+    "examples": [
+     {
+      "en": "Algonquin hunters traded beaver furs to French explorers for metal pots.",
+      "ko": "알곤킨 사냥꾼들은 비버 모피를 프랑스 탐험가들의 쇠 냄비와 바꾸었다."
+     },
+     {
+      "en": "Don't mix them up: the Algonquin are one nation, but Algonquian is a whole language family.",
+      "ko": "헷갈리지 말자. 알곤킨은 한 부족이고, 알곤킨어족은 언어 집단 전체를 말한다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Abenaki",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American people of northern New England and Quebec, in what is now Maine, New Hampshire, and Vermont. Their name means 'People of the Dawnland.'",
+    "ko": "아베나키족",
+    "ko_simple": "지금의 메인, 뉴햄프셔, 버몬트와 퀘벡에 해당하는 뉴잉글랜드 북부의 원주민. 이름은 '새벽 땅의 사람들'이라는 뜻이다.",
+    "examples": [
+     {
+      "en": "Abenaki families made maple syrup by boiling tree sap in early spring.",
+      "ko": "아베나키 가족들은 이른 봄에 나무 수액을 끓여 메이플 시럽을 만들었다."
+     },
+     {
+      "en": "Samoset, who surprised the Pilgrims by speaking English, was an Abenaki leader.",
+      "ko": "영어로 말해서 순례자들을 놀라게 한 사모셋은 아베나키족 지도자였다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Abnaki"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Narragansett",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation of what is now Rhode Island. The Narragansett Indian Tribe still lives there today.",
+    "ko": "내러갠섯족",
+    "ko_simple": "지금의 로드아일랜드에 사는 원주민 부족. 내러갠섯 부족은 지금도 그곳에 산다.",
+    "examples": [
+     {
+      "en": "Roger Williams learned the Narragansett language and wrote a book about it.",
+      "ko": "로저 윌리엄스는 내러갠섯 말을 배워 그 말에 관한 책을 썼다."
+     },
+     {
+      "en": "Narragansett Bay in Rhode Island is named after the Narragansett people.",
+      "ko": "로드아일랜드의 내러갠섯만은 내러갠섯족의 이름을 땄다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Pequot",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation of what is now southeastern Connecticut. Many Pequot people were killed in a war with English colonists in 1637, but the nation survived and lives in Connecticut today.",
+    "ko": "피쿼트족",
+    "ko_simple": "지금의 코네티컷 남동부에 사는 원주민 부족. 1637년 영국 식민지 주민과의 전쟁에서 많은 사람이 목숨을 잃었지만, 부족은 살아남아 지금도 코네티컷에 산다.",
+    "examples": [
+     {
+      "en": "The Mashantucket Pequot run a big museum where you can walk through a life-size village.",
+      "ko": "마샨터킷 피쿼트족은 실제 크기의 마을을 걸어 볼 수 있는 큰 박물관을 운영한다."
+     },
+     {
+      "en": "Pequot elders work hard to teach young people their history and language.",
+      "ko": "피쿼트 어른들은 젊은이들에게 역사와 말을 가르치려고 애쓴다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Mohegan",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation of what is now Connecticut, related to the Pequot. The Mohegan Tribe still lives in Connecticut today.",
+    "ko": "모히건족",
+    "ko_simple": "피쿼트족과 친척인 지금의 코네티컷의 원주민 부족. 모히건 부족은 지금도 코네티컷에 산다.",
+    "examples": [
+     {
+      "en": "Uncas was a well-known Mohegan leader in the 1600s.",
+      "ko": "엉카스는 1600년대의 잘 알려진 모히건족 지도자였다."
+     },
+     {
+      "en": "Don't confuse the Mohegan of Connecticut with the Mohican of New York; they are different nations.",
+      "ko": "코네티컷의 모히건족과 뉴욕의 모히칸족을 헷갈리지 말자. 서로 다른 부족이다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Shawnee",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation of the Ohio River valley. They moved many times as settlers pushed west. Tecumseh was a Shawnee leader. Shawnee tribes are in Oklahoma today.",
+    "ko": "쇼니족",
+    "ko_simple": "오하이오강 골짜기에 살던 원주민 부족. 정착민들이 서쪽으로 밀려오면서 여러 번 옮겨 다녔다. 테쿰세가 쇼니족 지도자였다. 오늘날 쇼니 부족들은 오클라호마에 있다.",
+    "examples": [
+     {
+      "en": "Tecumseh, a Shawnee leader, traveled far and wide to unite many nations.",
+      "ko": "쇼니족 지도자 테쿰세는 여러 부족을 하나로 묶으려고 먼 곳까지 다녔다."
+     },
+     {
+      "en": "There are towns named Shawnee in Kansas and Oklahoma.",
+      "ko": "캔자스와 오클라호마에는 쇼니라는 이름의 도시가 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Cree",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "One of the largest Native nations in Canada. Cree people live across a huge area of forests and plains, from Quebec to Alberta, and also in Montana.",
+    "ko": "크리족",
+    "ko_simple": "캐나다에서 가장 큰 원주민 부족 가운데 하나. 퀘벡부터 앨버타까지 넓은 숲과 평원, 그리고 몬태나에도 산다.",
+    "examples": [
+     {
+      "en": "Cree hunters used snowshoes to walk on deep snow without sinking.",
+      "ko": "크리 사냥꾼들은 깊은 눈에 빠지지 않고 걸으려고 설피를 신었다."
+     },
+     {
+      "en": "The Cree language has its own writing made of triangles, hooks, and curves.",
+      "ko": "크리 말에는 세모, 갈고리, 곡선으로 이루어진 고유 문자가 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Mi'kmaq",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native people of the Atlantic coast of Canada, in places like Nova Scotia and New Brunswick, and in northern Maine. They were among the first in North America to meet Europeans.",
+    "ko": "미크맥족",
+    "ko_simple": "노바스코샤, 뉴브런즈윅 같은 캐나다 대서양 연안과 메인 북부에 사는 원주민. 북아메리카에서 가장 먼저 유럽인을 만난 사람들 가운데 하나였다.",
+    "examples": [
+     {
+      "en": "Mi'kmaq fishers met European fishing boats more than 500 years ago.",
+      "ko": "미크맥 어부들은 500여 년 전에 유럽 고깃배를 만났다."
+     },
+     {
+      "en": "Mi'kmaq artists decorate boxes with dyed porcupine quills.",
+      "ko": "미크맥 예술가들은 물들인 호저 가시로 상자를 장식한다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Micmac",
+   "Mi'kmaw"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Calusa",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A powerful Native American people of southwest Florida. Instead of farming, they lived by fishing and built towns on huge piles of shells. They met Spanish explorers in the 1500s.",
+    "ko": "칼루사족",
+    "ko_simple": "플로리다 남서부의 힘센 원주민. 농사 대신 고기잡이로 살았고 거대한 조개껍데기 더미 위에 마을을 지었다. 1500년대에 스페인 탐험가들을 만났다.",
+    "examples": [
+     {
+      "en": "The Calusa built canals so their canoes could travel across islands.",
+      "ko": "칼루사족은 카누가 섬을 가로질러 다닐 수 있도록 운하를 만들었다."
+     },
+     {
+      "en": "Calusa fishers used nets with weights made from shells.",
+      "ko": "칼루사 어부들은 조개껍데기로 만든 추를 단 그물을 썼다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Timucua",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "Native American peoples of northern Florida who met French and Spanish explorers in the 1500s. Disease and war brought by Europeans caused their numbers to fall, and by the 1700s they no longer lived as a separate people.",
+    "ko": "티무쿠아족",
+    "ko_simple": "1500년대에 프랑스와 스페인 탐험가들을 만난 플로리다 북부의 원주민. 유럽인이 가져온 질병과 전쟁으로 수가 줄어 1700년대에는 따로 떨어진 부족으로 남지 못했다.",
+    "examples": [
+     {
+      "en": "The Timucua lived near the place where the Spanish built St. Augustine in 1565.",
+      "ko": "티무쿠아족은 1565년 스페인이 세인트오거스틴을 세운 곳 근처에 살았다."
+     },
+     {
+      "en": "A French artist painted Timucua villages, so we can see how they looked.",
+      "ko": "한 프랑스 화가가 티무쿠아 마을을 그려 두어서 우리는 그 모습을 알 수 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Taíno",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "The Native people of many Caribbean islands, such as Cuba, Hispaniola, and Puerto Rico. They were the first people Christopher Columbus met in 1492. Many people in the Caribbean today have Taíno ancestors.",
+    "ko": "타이노족",
+    "ko_simple": "쿠바, 히스파니올라, 푸에르토리코 같은 카리브해 여러 섬의 원주민. 1492년 콜럼버스가 처음 만난 사람들이다. 오늘날 카리브해의 많은 사람이 타이노족 조상을 두고 있다.",
+    "examples": [
+     {
+      "en": "The English words 'hammock' and 'hurricane' come from the Taíno language.",
+      "ko": "영어 낱말 '해먹'과 '허리케인'은 타이노 말에서 왔다."
+     },
+     {
+      "en": "Taíno farmers grew cassava, a root they made into flat bread.",
+      "ko": "타이노 농부들은 카사바라는 뿌리 작물을 길러 납작한 빵을 만들었다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Taino"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Caddo",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation whose homeland was in what is now east Texas, Louisiana, Arkansas, and Oklahoma. The name 'Texas' comes from a Caddo word that means 'friend.' The Caddo Nation is in Oklahoma today.",
+    "ko": "카도족",
+    "ko_simple": "지금의 텍사스 동부, 루이지애나, 아칸소, 오클라호마가 고향인 원주민 부족. '텍사스'라는 이름은 '친구'라는 뜻의 카도 말에서 왔다. 오늘날 카도 네이션은 오클라호마에 있다.",
+    "examples": [
+     {
+      "en": "Caddo families lived in tall houses made of grass shaped like giant beehives.",
+      "ko": "카도 가족들은 거대한 벌집처럼 생긴 높은 풀집에서 살았다."
+     },
+     {
+      "en": "Next time you say 'Texas,' remember you are using a Caddo word for 'friend.'",
+      "ko": "다음에 '텍사스'라고 말할 때, '친구'라는 카도 낱말을 쓰고 있다는 걸 기억하자."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Natchez",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American people of what is now Mississippi who built large earth mounds. Their leader was called the Great Sun. After wars with the French in the 1700s, survivors joined the Creek, Cherokee, and other nations.",
+    "ko": "나체즈족",
+    "ko_simple": "지금의 미시시피에 살며 큰 흙 둔덕을 쌓은 원주민. 지도자를 '위대한 태양'이라고 불렀다. 1700년대 프랑스와 전쟁을 치른 뒤 살아남은 사람들은 크리크족, 체로키족 등과 합쳐졌다.",
+    "examples": [
+     {
+      "en": "The Great Sun of the Natchez lived in a house on top of a tall mound.",
+      "ko": "나체즈족의 '위대한 태양'은 높은 둔덕 꼭대기의 집에서 살았다."
+     },
+     {
+      "en": "The city of Natchez, Mississippi, is named after the Natchez people.",
+      "ko": "미시시피주의 나체즈시는 나체즈족의 이름을 땄다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Tohono O'odham",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation of the Sonoran Desert in southern Arizona and northern Mexico. Their name means 'Desert People.' Each summer they harvest the sweet red fruit of the giant saguaro cactus.",
+    "ko": "토호노 오오덤족",
+    "ko_simple": "애리조나 남부와 멕시코 북부 소노라 사막의 원주민 부족. 이름은 '사막의 사람들'이라는 뜻이다. 여름마다 거대한 사와로 선인장의 달콤한 빨간 열매를 거둔다.",
+    "examples": [
+     {
+      "en": "Tohono O'odham families use long poles made of cactus ribs to knock down saguaro fruit.",
+      "ko": "토호노 오오덤 가족들은 선인장 갈비뼈로 만든 긴 막대로 사와로 열매를 떨어뜨린다."
+     },
+     {
+      "en": "The Tohono O'odham Nation is about the size of Connecticut.",
+      "ko": "토호노 오오덤 네이션은 코네티컷주만 한 크기이다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Papago"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Hohokam",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "An ancient people of the Arizona desert who lived from about 1,700 to 550 years ago. They dug hundreds of miles of canals to bring river water to their crops. Many O'odham people see them as their ancestors.",
+    "ko": "호호캄 (고대 문화)",
+    "ko_simple": "약 1,700년 전부터 550년 전까지 애리조나 사막에 살던 옛사람들. 수백 마일의 수로를 파서 강물을 농작물에 끌어왔다. 많은 오오덤 사람들이 이들을 조상으로 여긴다.",
+    "examples": [
+     {
+      "en": "Some canals in Phoenix today follow the same paths that Hohokam farmers dug long ago.",
+      "ko": "오늘날 피닉스의 일부 수로는 오래전 호호캄 농부들이 판 길을 그대로 따라간다."
+     },
+     {
+      "en": "Hohokam people played a ball game on long, sunken courts.",
+      "ko": "호호캄 사람들은 길고 움푹 들어간 경기장에서 공놀이를 했다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Yakama",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation of the Plateau region in what is now central Washington State. Salmon fishing on the Columbia River is a very important part of Yakama life.",
+    "ko": "야카마족",
+    "ko_simple": "지금의 워싱턴주 중부 고원 지역의 원주민 부족. 컬럼비아강에서의 연어잡이가 야카마 사람들의 삶에서 아주 중요하다.",
+    "examples": [
+     {
+      "en": "Yakama fishers stand on wooden platforms over the river and catch salmon with long dip nets.",
+      "ko": "야카마 어부들은 강 위의 나무 발판에 서서 긴 뜰채로 연어를 잡는다."
+     },
+     {
+      "en": "The Yakama Nation has its own police, schools, and radio station.",
+      "ko": "야카마 네이션에는 자체 경찰, 학교, 라디오 방송국이 있다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Potawatomi",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation of the Great Lakes area, related to the Ojibwe and Odawa. Their name means 'Keepers of the Fire.' Potawatomi people live in Michigan, Wisconsin, Kansas, Oklahoma, and Canada today.",
+    "ko": "포타와토미족",
+    "ko_simple": "오지브웨족, 오다와족과 친척인 오대호 지역의 원주민 부족. 이름은 '불을 지키는 사람들'이라는 뜻이다. 오늘날 미시간, 위스콘신, 캔자스, 오클라호마, 캐나다에 산다.",
+    "examples": [
+     {
+      "en": "The Potawatomi were forced from Indiana in 1838 on a long walk called the Trail of Death.",
+      "ko": "포타와토미족은 1838년 '죽음의 길'이라 불리는 긴 행렬로 인디애나에서 쫓겨났다."
+     },
+     {
+      "en": "The Ojibwe, Odawa, and Potawatomi call themselves the Three Fires.",
+      "ko": "오지브웨, 오다와, 포타와토미 부족은 스스로를 '세 개의 불'이라고 부른다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Pottawatomie"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Odawa",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation of the Great Lakes area, also called the Ottawa. They were famous traders. The city of Ottawa, Canada's capital, is named after them.",
+    "ko": "오다와족 (오타와족)",
+    "ko_simple": "오타와족이라고도 불리는 오대호 지역의 원주민 부족. 유명한 상인들이었다. 캐나다의 수도 오타와가 이들의 이름을 땄다.",
+    "examples": [
+     {
+      "en": "The name Odawa is often explained as meaning 'traders.'",
+      "ko": "오다와라는 이름은 흔히 '장사꾼'이라는 뜻으로 풀이된다."
+     },
+     {
+      "en": "Pontiac was an Odawa leader who fought to keep the British out of his people's land.",
+      "ko": "폰티악은 영국인이 자기 부족의 땅에 들어오지 못하게 맞서 싸운 오다와족 지도자였다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Ottawa"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Sauk",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation of the Great Lakes and upper Mississippi River area. Black Hawk and the athlete Jim Thorpe were Sauk. Today they are joined with the Meskwaki (Fox) in Iowa, Kansas, and Oklahoma.",
+    "ko": "소크족",
+    "ko_simple": "오대호와 미시시피강 상류 지역의 원주민 부족. 블랙 호크와 운동선수 짐 소프가 소크족이었다. 오늘날 아이오와, 캔자스, 오클라호마에서 메스콰키(폭스)족과 함께한다.",
+    "examples": [
+     {
+      "en": "The Sauk town of Saukenuk was once one of the biggest towns in Illinois.",
+      "ko": "소크족 마을 소케누크는 한때 일리노이에서 가장 큰 마을 가운데 하나였다."
+     },
+     {
+      "en": "Sauk leader Black Hawk fought to return to his people's farmland.",
+      "ko": "소크족 지도자 블랙 호크는 자기 부족의 농토로 돌아가려고 싸웠다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Sac"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Ho-Chunk",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation of what is now Wisconsin. They were once called the Winnebago. The Ho-Chunk Nation is in Wisconsin today, and a related tribe lives in Nebraska.",
+    "ko": "호청크족 (위네바고족)",
+    "ko_simple": "지금의 위스콘신에 사는 원주민 부족. 예전에는 위네바고족이라고 불렸다. 오늘날 호청크 네이션은 위스콘신에 있고, 친척 부족이 네브래스카에 산다.",
+    "examples": [
+     {
+      "en": "Ho-Chunk families were forced to move many times, but many walked back to Wisconsin.",
+      "ko": "호청크 가족들은 여러 번 강제로 옮겨졌지만, 많은 사람이 걸어서 위스콘신으로 돌아왔다."
+     },
+     {
+      "en": "Ho-Chunk means 'People of the Big Voice.'",
+      "ko": "호청크는 '큰 목소리의 사람들'이라는 뜻이다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Winnebago"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Menominee",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation of what is now Wisconsin who have lived there for thousands of years. Their name means 'wild rice people.' They are known for caring for their forest very carefully.",
+    "ko": "메노미니족",
+    "ko_simple": "수천 년 동안 지금의 위스콘신에 살아온 원주민 부족. 이름은 '야생 쌀의 사람들'이라는 뜻이다. 숲을 아주 소중히 가꾸는 것으로 알려져 있다.",
+    "examples": [
+     {
+      "en": "From space, the Menominee forest looks like a dark green square among farm fields.",
+      "ko": "우주에서 보면 메노미니 숲은 농경지 사이의 짙은 초록색 네모처럼 보인다."
+     },
+     {
+      "en": "Menominee foresters cut only some trees each year so the forest stays healthy.",
+      "ko": "메노미니 산림 관리인들은 숲이 건강하도록 해마다 일부 나무만 벤다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Catawba",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation of what is now South Carolina and North Carolina. They are the only federally recognized tribe in South Carolina and are known for their pottery.",
+    "ko": "카토바족",
+    "ko_simple": "지금의 사우스캐롤라이나와 노스캐롤라이나에 사는 원주민 부족. 사우스캐롤라이나에서 연방 정부가 인정한 유일한 부족이며 도자기로 유명하다.",
+    "examples": [
+     {
+      "en": "Catawba potters dig their own clay from the riverbank, just like their grandparents did.",
+      "ko": "카토바 도공들은 할머니 할아버지들이 그랬던 것처럼 강둑에서 직접 흙을 파 온다."
+     },
+     {
+      "en": "The Catawba River is named after the Catawba people.",
+      "ko": "카토바강은 카토바족의 이름을 땄다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ },
+ {
+  "word": "Akimel O'odham",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American people of central Arizona along the Gila River, also called the Pima. Their name means 'River People.' They have farmed the desert using canals for a very long time.",
+    "ko": "아키멜 오오덤족 (피마족)",
+    "ko_simple": "애리조나 중부 힐라강가에 사는 원주민으로 피마족이라고도 한다. 이름은 '강의 사람들'이라는 뜻이다. 아주 오래전부터 수로를 이용해 사막에서 농사를 지었다.",
+    "examples": [
+     {
+      "en": "Akimel O'odham farmers grew cotton, beans, and squash in the desert.",
+      "ko": "아키멜 오오덤 농부들은 사막에서 목화, 콩, 호박을 길렀다."
+     },
+     {
+      "en": "Ira Hayes, an Akimel O'odham Marine, helped raise the flag on Iwo Jima.",
+      "ko": "아키멜 오오덤족 해병 아이라 헤이스는 이오지마에서 깃발을 올리는 일을 도왔다."
+     }
+    ]
+   }
+  ],
+  "forms": [
+   "Pima"
+  ],
+  "picture": false
+ },
+ {
+  "word": "Hidatsa",
+  "topic": "native-americans",
+  "senses": [
+   {
+    "pos": "proper noun",
+    "simple": "A Native American nation of the upper Missouri River in North Dakota. They farmed and lived in earth lodges near the Mandan. Sacagawea lived among the Hidatsa before she joined Lewis and Clark.",
+    "ko": "히다차족",
+    "ko_simple": "노스다코타 미주리강 상류의 원주민 부족. 만단족 근처에서 농사를 짓고 흙집에서 살았다. 사카가위아는 루이스와 클라크를 만나기 전 히다차족 사이에서 살았다.",
+    "examples": [
+     {
+      "en": "Hidatsa women were expert farmers who grew many kinds of corn.",
+      "ko": "히다차 여성들은 여러 종류의 옥수수를 기르는 뛰어난 농부였다."
+     },
+     {
+      "en": "The Hidatsa, Mandan, and Arikara are called the Three Affiliated Tribes.",
+      "ko": "히다차, 만단, 아리카라 부족을 '세 연합 부족'이라고 부른다."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "picture": false
+ }
+]
