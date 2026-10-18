@@ -1,5 +1,5 @@
 #!/bin/bash
-# Rebuilds assets/db/dict.db from Open English WordNet + data/curated/*.json.
+# Rebuilds assets/db/dict.db from Open English WordNet + data/curated/*.json + data/gloss/*.json.
 # Source data is downloaded into .cache/ (not committed) the first time.
 set -euo pipefail
 cd "$(dirname "$0")/.."
@@ -12,5 +12,5 @@ if [ ! -f .cache/wndb/package/data/verb.exc ]; then
   (cd .cache/wndb && npm pack wndb-with-exceptions@3.0.2 >/dev/null && tar xzf wndb-with-exceptions-3.0.2.tgz)
 fi
 python3 -c "import yaml" 2>/dev/null || python3 -m pip install -q pyyaml
-python3 scripts/build_db.py .cache/english-wordnet .cache/wndb/package/data data/curated assets/db/dict.db
+python3 scripts/build_db.py .cache/english-wordnet .cache/wndb/package/data data/curated assets/db/dict.db data/gloss
 npx tsx scripts/test_queries.ts

@@ -35,6 +35,10 @@ export async function findBase(db: Db, q: string): Promise<WordRow | null> {
     q,
   );
   if (fromForms) return fromForms;
+  // Suffix guessing is only for headwords that are probably inflections: a word
+  // with several senses of its own ("mother", "better") is not "moth" + er.
+  const own = await db.getFirstAsync<{ nsenses: number }>('SELECT max(nsenses) AS nsenses FROM words WHERE w = ?', q);
+  if (own && own.nsenses > 2) return null;
   for (const cand of baseCandidates(q)) {
     const row = await db.getFirstAsync<WordRow>(
       'SELECT id, word, kid FROM words WHERE w = ? ORDER BY kid DESC, nsenses DESC LIMIT 1',

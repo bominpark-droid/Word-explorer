@@ -17,6 +17,7 @@ unless the owner asks for something it cannot do.
 - `src/online.ts` — Korean Wikidata labels for dictionary senses, only when online. The picture feature (Wikidata P18 → Commons / Wikipedia summary) was removed on 2026-10-18 at the owner's request ("일단 없애자"); `picture` flags in the curated data and DB are kept so it can come back, and the code is in git history before that date.
 - `data/curated/*.json` — hand-written kid entries (easy definition, Korean, 2 examples). Schema in `data/curated/BRIEF.md`.
 - `scripts/build_db.py` — builds `assets/db/dict.db` from Open English WordNet + WordNet exception lists + curated JSON.
+- `data/gloss/gloss-NNN.json` — AI-written easy English + Korean + one example per WordNet sense of the ~5,000 most common words (not human-reviewed). Produced from `scripts/gloss_batches.py` (batches) and `scripts/merge_gloss.py` (agent output -> data/gloss). Words with at least one gloss get kid=1 (🇰🇷 label); hand-written curated words are kid=2 (⭐).
 
 ## Common tasks
 - **Add or fix a word's easy definition / Korean / examples**: edit or append to `data/curated/<topic>-N.json`

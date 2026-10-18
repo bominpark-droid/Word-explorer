@@ -24,7 +24,7 @@ async function expectLookup(q: string, want: string) {
   for (const [q, w] of [
     ['valley', 'valley'], ['valleys', 'valley'], ['ran', 'run'], ['mice', 'mouse'], ['hiking', 'hike'],
     ['stopped', 'stop'], ['studies', 'study'], ['wolves', 'wolf'], ['Cherokee', 'Cherokee'], ['tepee', 'tepee'],
-    ['bigger', 'big'], ['happiest', 'happy'], ['eroded', 'eroded'], ['glaciers', 'glacier'],
+    ['bigger', 'big'], ['happiest', 'happy'], ['eroded', 'eroded'], ['glaciers', 'glacier'], ['mother', 'mother'], ['teacher', 'teacher'],
   ]) await expectLookup(q, w);
   console.log('suggest(val):', (await suggest(db, 'val')).slice(0, 8).map((r) => r.word + (r.kid ? '*' : '')).join(', '));
   console.log('suggest(photo):', (await suggest(db, 'photo')).slice(0, 8).map((r) => r.word + (r.kid ? '*' : '')).join(', '));
