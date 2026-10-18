@@ -9,7 +9,7 @@ tot = 0
 for inf in sorted(glob.glob(os.path.join(d, "in-*.json"))):
     n = re.search(r"in-(\d+)", inf).group(1)
     outs = sorted(glob.glob(os.path.join(d, "out", f"out-{n}-*.json")))
-    if not outs:
+    if len(outs) < 4:  # agent still writing this batch
         continue
     sids = {e["sid"] for e in json.load(open(inf, encoding="utf-8"))}
     keep = []

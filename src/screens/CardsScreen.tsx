@@ -37,6 +37,7 @@ export default function CardsScreen({ onBack }: { onBack: () => void }) {
 
   const word = deck[i];
   const kid = entry?.kidSenses[0];
+  const gloss = entry?.dictSenses.find((s) => s.ko && s.easy);
   const dict = entry?.dictSenses[0];
 
   return (
@@ -61,6 +62,12 @@ export default function CardsScreen({ onBack }: { onBack: () => void }) {
             <Text style={styles.simple}>{kid.simple}</Text>
             <Text style={styles.ko}>{kid.ko}</Text>
             {kid.examples[0] ? <Text style={styles.ex}>“{kid.examples[0].en}”</Text> : null}
+          </View>
+        ) : gloss ? (
+          <View>
+            <Text style={styles.simple}>{gloss.easy}</Text>
+            <Text style={styles.ko}>{gloss.ko}</Text>
+            {gloss.exampleEn ? <Text style={styles.ex}>“{gloss.exampleEn}”</Text> : null}
           </View>
         ) : dict ? (
           <Text style={styles.simple}>{dict.def}</Text>

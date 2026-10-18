@@ -40,7 +40,11 @@ export default function WordScreen({ id, onBack, onOpen }: Props) {
   }
 
   const hasKid = entry.kidSenses.length > 0;
-  const hasKo = entry.dictSenses.some((s) => s.ko);
+  // Main cards: hand-written senses, else the common-word glosses. Everything else
+  // (the raw WordNet senses) waits behind one "more meanings" button.
+  const glossed = hasKid ? [] : entry.dictSenses.filter((s) => s.ko && s.easy);
+  const hasMain = hasKid || glossed.length > 0;
+  const rest = hasKid ? entry.dictSenses : entry.dictSenses.filter((s) => !(s.ko && s.easy));
   const openWord = async (w: string) => {
     const row = await lookup(db, w);
     if (row) onOpen(row.id);
@@ -73,7 +77,9 @@ export default function WordScreen({ id, onBack, onOpen }: Props) {
 
         {hasKid ? (
           entry.kidSenses.map((s, i) => <KidSenseCard key={i} sense={s} index={i} total={entry.kidSenses.length} />)
-        ) : hasKo ? null : (
+        ) : glossed.length ? (
+          glossed.map((s, i) => <GlossCard key={i} sense={s} index={i} total={glossed.length} />)
+        ) : (
           <View style={styles.note}>
             <Text style={styles.noteText}>
               이 단어는 아직 쉬운 설명이 없어서 영어 사전(WordNet)의 뜻을 보여줘요.
@@ -81,13 +87,13 @@ export default function WordScreen({ id, onBack, onOpen }: Props) {
           </View>
         )}
 
-        {entry.dictSenses.length > 0 ? (
-          hasKid && !showDict ? (
+        {rest.length > 0 ? (
+          hasMain && !showDict ? (
             <Pressable style={styles.moreBtn} onPress={() => setShowDict(true)}>
-              <Text style={styles.moreText}>More meanings from the dictionary ({entry.dictSenses.length}) ▾</Text>
+              <Text style={styles.moreText}>다른 뜻 더 보기 (영어 사전, {rest.length}) ▾</Text>
             </Pressable>
           ) : (
-            <DictSenses senses={entry.dictSenses} onWord={openWord} />
+            <DictSenses senses={rest} onWord={openWord} />
           )
         ) : null}
 
@@ -154,13 +160,9 @@ function DictSenses({ senses, onWord }: { senses: DictSense[]; onWord: (w: strin
           <Text style={styles.dictPos}>
             {i + 1}. {s.pos} · {POS_KO[s.pos] ?? s.pos}
           </Text>
-          {s.easy && s.ko ? (
-            <EasyGloss s={s} />
-          ) : (
-            <Text style={styles.dictDef}>{s.def}</Text>
-          )}
+          <Text style={styles.dictDef}>{s.def}</Text>
           {s.wikidata ? <OnlineKorean qid={s.wikidata} /> : null}
-          {(s.easy && s.ko ? [] : s.examples.slice(0, 2)).map((e, j) => (
+          {s.examples.slice(0, 2).map((e, j) => (
             <Text key={j} style={styles.dictEx}>
               “{e}”
             </Text>
@@ -186,22 +188,32 @@ function DictSenses({ senses, onWord }: { senses: DictSense[]; onWord: (w: strin
   );
 }
 
-// Easy English first, Korean on tap, then one example (tap for its Korean).
-function EasyGloss({ s }: { s: DictSense }) {
+// A common-word gloss, shown like a hand-written sense: easy English, Korean on tap, one example.
+function GlossCard({ sense, index, total }: { sense: DictSense; index: number; total: number }) {
   const [ko, setKo] = useState(false);
   return (
-    <View>
-      <Text style={styles.easyDef}>{s.easy}</Text>
+    <View style={styles.card}>
+      <View style={styles.posRow}>
+        {total > 1 ? <Text style={styles.num}>{index + 1}</Text> : null}
+        <Text style={styles.pos}>
+          {sense.pos} · {POS_KO[sense.pos] ?? sense.pos}
+        </Text>
+      </View>
+      <Text style={styles.simple}>{sense.easy}</Text>
       <Pressable style={[styles.koBtn, ko && styles.koBtnOn]} onPress={() => setKo(!ko)}>
         <Text style={styles.koBtnText}>{ko ? '한국어 뜻 숨기기' : '🇰🇷 한국어로 보기'}</Text>
       </Pressable>
       {ko ? (
         <View style={styles.koBox}>
-          <Text style={styles.koMain}>{s.ko}</Text>
+          <Text style={styles.koMain}>{sense.ko}</Text>
         </View>
       ) : null}
-      {s.exampleEn ? <ExampleRow en={s.exampleEn} ko={s.exampleKo ?? undefined} /> : null}
-      <Text style={styles.wnDef}>WordNet: {s.def}</Text>
+      {sense.exampleEn ? (
+        <>
+          <Text style={styles.exLabel}>Example 예문</Text>
+          <ExampleRow en={sense.exampleEn} ko={sense.exampleKo ?? undefined} />
+        </>
+      ) : null}
     </View>
   );
 }
@@ -291,8 +303,6 @@ const styles = StyleSheet.create({
   dictTitle: { fontSize: 15, fontWeight: '700', color: C.sub, marginBottom: 4 },
   dictSense: { marginTop: 10 },
   dictPos: { fontSize: 13, color: C.blue, fontWeight: '700' },
-  easyDef: { fontSize: 19, lineHeight: 27, color: C.ink, marginTop: 4, fontWeight: '500' },
-  wnDef: { fontSize: 12, color: C.faint, marginTop: 6, lineHeight: 17 },
   dictDef: { fontSize: 16, color: C.ink, lineHeight: 23, marginTop: 2 },
   dictEx: { fontSize: 14, color: C.sub, fontStyle: 'italic', marginTop: 3 },
   onlineKo: { fontSize: 14, color: C.koInk, marginTop: 3 },

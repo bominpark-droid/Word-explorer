@@ -133,3 +133,17 @@ export async function koWordCount(db: Db): Promise<number> {
   const r = await db.getFirstAsync<{ v: string }>("SELECT v FROM meta WHERE k = 'ko_words'");
   return r ? Number(r.v) : 0;
 }
+
+// One line for the English Store app's school-spelling editor:
+// "word | Korean | easy English definition | example".
+export async function storeLine(db: Db, word: string): Promise<string> {
+  const row = await lookup(db, word);
+  const e = row ? await getEntry(db, row.id) : null;
+  const clean = (t: string | null | undefined) => (t ?? '').replace(/[|\n]/g, ' ').trim();
+  const k = e?.kidSenses[0];
+  if (k) return [word, k.ko, k.simple, k.examples[0]?.en].map(clean).join(' | ');
+  const g = e?.dictSenses.find((s) => s.ko);
+  if (g) return [word, g.ko, g.easy, g.exampleEn].map(clean).join(' | ');
+  const d = e?.dictSenses[0];
+  return [word, '', d?.def, d?.examples[0]].map(clean).join(' | ');
+}

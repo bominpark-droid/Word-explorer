@@ -3,7 +3,8 @@ need an easy definition + Korean meaning (data/gloss/*.json).
 
 Needs `pip install wordfreq` (only used here to rank words by how common they are).
 
-Usage: python scripts/gloss_batches.py <dict.db> <out_dir> [top_n=8000] [senses_per_word=4] [batch_size=400]
+Usage: python scripts/gloss_batches.py <dict.db> <out_dir> [top_n=8000] [senses_per_word=4] [batch_size=400] [skip_words=0] [first_batch=1]
+skip_words/first_batch extend an earlier run: e.g. `... 12000 2 200 5000 54` adds words 5,001-12,000 as in-054.json onward.
 Writes <out_dir>/in-001.json, in-002.json, ... (most common words first).
 Senses that already have a gloss in data/gloss/ are skipped.
 """
@@ -19,6 +20,8 @@ db_path, out_dir = sys.argv[1:3]
 top_n = int(sys.argv[3]) if len(sys.argv) > 3 else 8000
 per_word = int(sys.argv[4]) if len(sys.argv) > 4 else 4
 batch = int(sys.argv[5]) if len(sys.argv) > 5 else 400
+skip_words = int(sys.argv[6]) if len(sys.argv) > 6 else 0
+first = int(sys.argv[7]) if len(sys.argv) > 7 else 1
 
 done = set()
 for f in glob.glob(os.path.join(os.path.dirname(__file__), "..", "data", "gloss", "*.json")):
@@ -31,6 +34,9 @@ for wid, w, kid, ns in db.execute("SELECT id, w, kid, nsenses FROM words WHERE w
         heads.setdefault(w, []).append((kid, ns, wid))
 
 seen, items = set(), []
+if first > 1:  # extending: don't repeat senses already in earlier batches
+    for f in glob.glob(os.path.join(out_dir, "in-*.json")):
+        seen.update(e["sid"] for e in json.load(open(f, encoding="utf-8")))
 count = 0
 for rank, w in enumerate(top_n_list("en", 40000)):
     if rank < 100:  # function words (a, in, of...): WordNet lists odd senses first
@@ -43,6 +49,8 @@ for rank, w in enumerate(top_n_list("en", 40000)):
     count += 1
     if count > top_n:
         break
+    if count <= skip_words:
+        continue
     for sid, pos, d, ex, members in db.execute(
         "SELECT y.sid, y.pos, y.def, y.ex, y.members FROM senses x JOIN synsets y ON y.id = x.synset_id "
         "WHERE x.word_id = ? ORDER BY x.ord LIMIT ?", (wid, per_word)):
@@ -54,10 +62,11 @@ for rank, w in enumerate(top_n_list("en", 40000)):
                       "ex": (json.loads(ex)[0] if ex else None)})
 
 os.makedirs(out_dir, exist_ok=True)
-for f in glob.glob(os.path.join(out_dir, "in-*.json")):
-    os.remove(f)
+if first == 1:
+    for f in glob.glob(os.path.join(out_dir, "in-*.json")):
+        os.remove(f)
 for i in range(0, len(items), batch):
-    n = i // batch + 1
+    n = i // batch + first
     with open(os.path.join(out_dir, f"in-{n:03d}.json"), "w", encoding="utf-8") as fh:
         json.dump(items[i:i + batch], fh, ensure_ascii=False, indent=0)
 print(len(items), "senses in", (len(items) + batch - 1) // batch, "batches")

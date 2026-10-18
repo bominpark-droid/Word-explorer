@@ -1,6 +1,7 @@
+import * as Clipboard from 'expo-clipboard';
 import { useEffect, useState } from 'react';
 import { FlatList, Pressable, StyleSheet, Text, View } from 'react-native';
-import { lookup } from '../db';
+import { lookup, storeLine } from '../db';
 import { useDict } from '../dbProvider';
 import { C } from '../theme';
 import * as wordbook from '../wordbook';
@@ -17,6 +18,14 @@ export default function WordbookScreen({ onOpen, onCards }: Props) {
   const db = useDict();
   const items = useWordbook();
   const learning = items.filter((i) => !i.known).length;
+  const [copied, setCopied] = useState('');
+
+  // Copies every saved word as "word | Korean | definition | example" for the English Store app.
+  const copyForStore = async () => {
+    const lines = await Promise.all(items.map((i) => storeLine(db, i.word)));
+    const ok = await Clipboard.setStringAsync(lines.join('\n')).catch(() => false);
+    setCopied(ok ? `${lines.length}개 복사했어요. 영어편의점 > 학교 단어 관리에 붙여 넣고 저장하세요.` : '복사가 안 됐어요. 다시 눌러 주세요.');
+  };
 
   const open = async (w: string) => {
     const row = await lookup(db, w);
@@ -35,6 +44,12 @@ export default function WordbookScreen({ onOpen, onCards }: Props) {
             <Text style={styles.cardsText}>🃏 카드로 외우기 Practice</Text>
           </Pressable>
         ) : null}
+        {items.length ? (
+          <Pressable style={styles.copyBtn} onPress={copyForStore}>
+            <Text style={styles.copyText}>📋 영어편의점으로 복사</Text>
+          </Pressable>
+        ) : null}
+        {copied ? <Text style={styles.copied}>{copied}</Text> : null}
       </View>
       <FlatList
         data={items}
@@ -75,6 +90,9 @@ const styles = StyleSheet.create({
   subtitle: { fontSize: 14, color: C.sub, marginTop: 2 },
   cardsBtn: { marginTop: 14, backgroundColor: C.green, borderRadius: 16, padding: 14, alignItems: 'center' },
   cardsText: { color: '#fff', fontSize: 18, fontWeight: '700' },
+  copyBtn: { marginTop: 10, borderWidth: 2, borderColor: C.blue, borderRadius: 16, padding: 12, alignItems: 'center' },
+  copyText: { color: C.blue, fontSize: 16, fontWeight: '700' },
+  copied: { marginTop: 8, color: C.green, fontSize: 14, textAlign: 'center' },
   empty: { textAlign: 'center', color: C.sub, marginTop: 40, lineHeight: 24, fontSize: 15, paddingHorizontal: 24 },
   row: { flexDirection: 'row', alignItems: 'center', paddingHorizontal: 18, paddingVertical: 12, gap: 14 },
   check: { width: 28, height: 28, borderRadius: 14, borderWidth: 2, borderColor: C.green, alignItems: 'center', justifyContent: 'center' },
