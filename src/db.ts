@@ -56,14 +56,14 @@ export async function lookup(db: Db, query: string): Promise<WordRow | null> {
     q,
   );
   if (!exact) return findBase(db, q);
-  if (exact.kid) return exact;
+  if (exact.kid === 2) return exact;
   // "hiking" and "stopped" are WordNet headwords too, but a kid typing them
   // almost always wants "hike" / "stop". Prefer the base word when it is an
-  // easy (curated) word or a much bigger entry; the word screen links back.
+  // easier word (more Korean/easy help) or a much bigger entry; the word screen links back.
   const base = await findBase(db, q);
   if (base && base.id !== exact.id) {
     const n = await db.getFirstAsync<{ nsenses: number }>('SELECT nsenses FROM words WHERE id = ?', base.id);
-    if (base.kid || (exact.nsenses <= 2 && (n?.nsenses ?? 0) >= 3)) return base;
+    if (base.kid > exact.kid || (exact.nsenses <= 2 && (n?.nsenses ?? 0) >= 3)) return base;
   }
   return exact;
 }

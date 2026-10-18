@@ -1,0 +1,1190 @@
+[
+{
+"sid": "02374344-s",
+"easy": "Allowed to skip something that others have to do.",
+"ko": "면제된",
+"ex": {
+"en": "The excused students did not have to take the test.",
+"ko": "면제된 학생들은 시험을 보지 않아도 되었다."
+}
+},
+{
+"sid": "10110514-n",
+"easy": "A person who finds something after looking for it.",
+"ko": "발견자, 찾는 사람",
+"ex": {
+"en": "The finder of the lost dog got a big hug.",
+"ko": "잃어버린 개를 찾은 사람은 큰 포옹을 받았다."
+}
+},
+{
+"sid": "10110267-n",
+"easy": "The first person to see or find something.",
+"ko": "발견자",
+"ex": {
+"en": "The finder of the cave was a young boy.",
+"ko": "그 동굴의 발견자는 어린 소년이었다."
+}
+},
+{
+"sid": "02739665-a",
+"easy": "Smelling or tasting like fish.",
+"ko": "비린내 나는",
+"ex": {
+"en": "The soup had a fishy smell, so I did not eat it.",
+"ko": "수프에서 비린내가 나서 나는 먹지 않았다."
+}
+},
+{
+"sid": "14895521-n",
+"easy": "The material used to cover the floor of a room.",
+"ko": "바닥재",
+"ex": {
+"en": "The new flooring in our kitchen is made of wood.",
+"ko": "우리 부엌의 새 바닥재는 나무로 만들었다."
+}
+},
+{
+"sid": "05571956-n",
+"easy": "The part of your arm between your elbow and your wrist.",
+"ko": "팔뚝, 아래팔",
+"ex": {
+"en": "I hurt my forearm when I fell off my bike.",
+"ko": "나는 자전거에서 넘어져 팔뚝을 다쳤다."
+}
+},
+{
+"sid": "02047456-a",
+"easy": "Weak and easy to hurt.",
+"ko": "연약한, 허약한",
+"ex": {
+"en": "The frail old bird could not fly very far.",
+"ko": "그 허약한 늙은 새는 멀리 날지 못했다."
+}
+},
+{
+"sid": "01371869-v",
+"easy": "To wear away at the edges until threads come loose.",
+"ko": "닳다, 해지다",
+"ex": {
+"en": "My old jeans frayed at the bottom.",
+"ko": "내 낡은 청바지는 밑단이 해졌다."
+}
+},
+{
+"sid": "01272085-v",
+"easy": "To cover clay pots or dishes with a shiny coating.",
+"ko": "유약을 바르다",
+"ex": {
+"en": "We glazed our clay bowls in art class.",
+"ko": "우리는 미술 시간에 점토 그릇에 유약을 발랐다."
+}
+},
+{
+"sid": "01446178-n",
+"easy": "A small orange fish that people keep in a bowl or pond.",
+"ko": "금붕어",
+"ex": {
+"en": "My goldfish swims around its bowl all day.",
+"ko": "내 금붕어는 하루 종일 어항 안을 헤엄친다."
+}
+},
+{
+"sid": "02135232-n",
+"easy": "A big, strong brown bear that lives in North America.",
+"ko": "회색곰, 그리즐리",
+"ex": {
+"en": "We saw a grizzly catching fish in the river.",
+"ko": "우리는 회색곰이 강에서 물고기를 잡는 것을 보았다."
+}
+},
+{
+"sid": "00223219-s",
+"easy": "Very strange and ugly in a scary way.",
+"ko": "기괴한, 괴상한",
+"ex": {
+"en": "The grotesque mask scared the little kids.",
+"ko": "그 기괴한 가면은 어린아이들을 무섭게 했다."
+}
+},
+{
+"sid": "01131492-s",
+"easy": "Very bad or very unpleasant.",
+"ko": "끔찍한, 지독한",
+"ex": {
+"en": "The medicine had a horrid taste.",
+"ko": "그 약은 맛이 끔찍했다."
+}
+},
+{
+"sid": "01842067-a",
+"easy": "Not sensible or not likely to work in real life.",
+"ko": "비현실적인",
+"ex": {
+"en": "Wearing sandals in the snow is impractical.",
+"ko": "눈 속에서 샌들을 신는 것은 비현실적이다."
+}
+},
+{
+"sid": "01763874-a",
+"easy": "Impossible to change back to how it was.",
+"ko": "되돌릴 수 없는",
+"ex": {
+"en": "A broken egg is an irreversible mess; you cannot make it whole again.",
+"ko": "깨진 달걀은 되돌릴 수 없다. 다시 온전하게 만들 수 없다."
+}
+},
+{
+"sid": "00602836-s",
+"easy": "With no rules and nobody in charge.",
+"ko": "무법의",
+"ex": {
+"en": "The playground became lawless when the teacher left.",
+"ko": "선생님이 떠나자 놀이터는 무법천지가 되었다."
+}
+},
+{
+"sid": "03096500-a",
+"easy": "Having to do with a mayor.",
+"ko": "시장의",
+"ex": {
+"en": "Our class visited the mayoral office in town.",
+"ko": "우리 반은 시장 집무실을 견학했다."
+}
+},
+{
+"sid": "07061563-n",
+"easy": "A song made by joining parts of many different songs.",
+"ko": "메들리",
+"ex": {
+"en": "The choir sang a medley of holiday songs.",
+"ko": "합창단은 명절 노래 메들리를 불렀다."
+}
+},
+{
+"sid": "00413955-r",
+"easy": "In a fair way, using facts and not your own feelings.",
+"ko": "객관적으로",
+"ex": {
+"en": "Try to judge the game objectively, not as a fan.",
+"ko": "팬의 입장이 아니라 객관적으로 경기를 판단해 보렴."
+}
+},
+{
+"sid": "02967818-a",
+"easy": "Written out so an orchestra can play it.",
+"ko": "편곡된",
+"ex": {
+"en": "The orchestrated song sounded big and full.",
+"ko": "편곡된 그 노래는 웅장하고 풍성하게 들렸다."
+}
+},
+{
+"sid": "03034963-a",
+"easy": "Having to do with the city of Paris.",
+"ko": "파리의",
+"ex": {
+"en": "We ate a Parisian croissant at the bakery.",
+"ko": "우리는 빵집에서 파리식 크루아상을 먹었다."
+}
+},
+{
+"sid": "09728146-n",
+"easy": "A person who comes from Paris or lives there.",
+"ko": "파리 사람",
+"ex": {
+"en": "My pen pal is a Parisian who loves soccer.",
+"ko": "내 펜팔 친구는 축구를 좋아하는 파리 사람이다."
+}
+},
+{
+"sid": "00579832-n",
+"easy": "Rubbing something until it is smooth and shiny.",
+"ko": "윤내기, 광내기",
+"ex": {
+"en": "The polishing of the car took all afternoon.",
+"ko": "자동차 광내기는 오후 내내 걸렸다."
+}
+},
+{
+"sid": "13935130-n",
+"easy": "A very tiny hole that liquid or air can pass through.",
+"ko": "작은 구멍",
+"ex": {
+"en": "Water leaked through a tiny pore in the rubber.",
+"ko": "물이 고무의 작은 구멍으로 샜다."
+}
+},
+{
+"sid": "05253249-n",
+"easy": "A tiny opening in your skin where sweat comes out.",
+"ko": "땀구멍, 모공",
+"ex": {
+"en": "Sweat comes out of the pores in your skin.",
+"ko": "땀은 피부의 땀구멍에서 나온다."
+}
+},
+{
+"sid": "01214337-s",
+"easy": "Having to do with school after college.",
+"ko": "대학원의",
+"ex": {
+"en": "My aunt takes postgraduate classes at night.",
+"ko": "우리 이모는 밤에 대학원 수업을 듣는다."
+}
+},
+{
+"sid": "10160629-n",
+"easy": "A student who keeps studying after finishing college.",
+"ko": "대학원생",
+"ex": {
+"en": "My cousin is a postgraduate studying space science.",
+"ko": "내 사촌은 우주과학을 공부하는 대학원생이다."
+}
+},
+{
+"sid": "08645380-n",
+"easy": "One fourth of a circle.",
+"ko": "사분원",
+"ex": {
+"en": "I drew a quadrant of a circle with my compass.",
+"ko": "나는 컴퍼스로 원의 사분원을 그렸다."
+}
+},
+{
+"sid": "08645240-n",
+"easy": "One of the four parts of a graph made by two crossing lines.",
+"ko": "사분면",
+"ex": {
+"en": "The dot is in the top right quadrant of the graph.",
+"ko": "그 점은 그래프의 오른쪽 위 사분면에 있다."
+}
+},
+{
+"sid": "06906480-n",
+"easy": "A show where someone plays music or dances for an audience.",
+"ko": "연주회, 발표회",
+"ex": {
+"en": "I played the piano at my first recital.",
+"ko": "나는 첫 피아노 발표회에서 연주했다."
+}
+},
+{
+"sid": "00947287-v",
+"easy": "To say something out loud from memory.",
+"ko": "암송하다",
+"ex": {
+"en": "She recited a poem in front of the class.",
+"ko": "그녀는 반 친구들 앞에서 시를 암송했다."
+}
+},
+{
+"sid": "06529770-n",
+"easy": "A paper that shows how much money you owe.",
+"ko": "계산서",
+"ex": {
+"en": "Dad paid the reckoning at the restaurant.",
+"ko": "아빠는 식당에서 계산서를 냈다."
+}
+},
+{
+"sid": "05769556-n",
+"easy": "Remembering something from the past.",
+"ko": "기억, 회상",
+"ex": {
+"en": "I have a happy recollection of our beach trip.",
+"ko": "나는 해변 여행의 즐거운 기억이 있다."
+}
+},
+{
+"sid": "00474948-v",
+"easy": "To make something better by fixing small things.",
+"ko": "다듬다, 개선하다",
+"ex": {
+"en": "I refined my story by fixing the spelling.",
+"ko": "나는 철자를 고쳐서 이야기를 다듬었다."
+}
+},
+{
+"sid": "01119775-n",
+"easy": "Selling something again after you bought it.",
+"ko": "재판매",
+"ex": {
+"en": "The store sells used books for resale.",
+"ko": "그 가게는 재판매용 중고책을 판다."
+}
+},
+{
+"sid": "02308993-v",
+"easy": "To take back something that was lost, often by force.",
+"ko": "탈환하다",
+"ex": {
+"en": "The knights retook the castle.",
+"ko": "기사들은 성을 탈환했다."
+}
+},
+{
+"sid": "01442223-v",
+"easy": "To catch someone or something again.",
+"ko": "다시 붙잡다",
+"ex": {
+"en": "The zookeeper recaptured the monkey that got out.",
+"ko": "사육사는 탈출한 원숭이를 다시 붙잡았다."
+}
+},
+{
+"sid": "01668621-s",
+"easy": "Hopeful and expecting good things.",
+"ko": "낙관적인",
+"ex": {
+"en": "Mom has a rosy view of our upcoming trip.",
+"ko": "엄마는 다가오는 여행을 낙관적으로 보신다."
+}
+},
+{
+"sid": "01174367-s",
+"easy": "Having pink cheeks that look healthy.",
+"ko": "혈색 좋은, 발그레한",
+"ex": {
+"en": "After playing in the snow, her cheeks were rosy.",
+"ko": "눈밭에서 논 뒤 그녀의 뺨은 발그레했다."
+}
+},
+{
+"sid": "14318750-n",
+"easy": "A place where something has torn or burst open.",
+"ko": "파열, 터짐",
+"ex": {
+"en": "The rupture in the water pipe flooded the basement.",
+"ko": "수도관이 터져서 지하실이 물에 잠겼다."
+}
+},
+{
+"sid": "01076999-s",
+"easy": "Kept from spoiling by using lots of salt.",
+"ko": "소금에 절인",
+"ex": {
+"en": "Grandma made salted fish for the winter.",
+"ko": "할머니는 겨울을 위해 소금에 절인 생선을 만드셨다."
+}
+},
+{
+"sid": "09749875-n",
+"easy": "A person from Scotland.",
+"ko": "스코틀랜드 사람",
+"ex": {
+"en": "A Scot played the bagpipes at the parade.",
+"ko": "한 스코틀랜드 사람이 행진에서 백파이프를 연주했다."
+}
+},
+{
+"sid": "07825344-n",
+"easy": "Something like salt or herbs that you add to food for taste.",
+"ko": "양념, 조미료",
+"ex": {
+"en": "Pepper is my favorite seasoning for eggs.",
+"ko": "후추는 내가 달걀에 가장 좋아하는 양념이다."
+}
+},
+{
+"sid": "00249235-n",
+"easy": "Putting salt or spices on food to make it taste better.",
+"ko": "양념하기",
+"ex": {
+"en": "The seasoning of the soup took only a minute.",
+"ko": "수프에 양념을 하는 데는 1분밖에 걸리지 않았다."
+}
+},
+{
+"sid": "05260434-n",
+"easy": "An air-filled space inside the bones around your nose.",
+"ko": "부비동, 코곁굴",
+"ex": {
+"en": "My sinuses hurt when I have a cold.",
+"ko": "감기에 걸리면 부비동이 아프다."
+}
+},
+{
+"sid": "01874860-v",
+"easy": "To slide out of control.",
+"ko": "미끄러지다",
+"ex": {
+"en": "My bike skidded on the wet road.",
+"ko": "내 자전거가 젖은 길에서 미끄러졌다."
+}
+},
+{
+"sid": "14469627-n",
+"easy": "A good feeling that helps you when you are sad.",
+"ko": "위안",
+"ex": {
+"en": "The puppy gave me solace when I felt sad.",
+"ko": "강아지는 내가 슬플 때 위안이 되어 주었다."
+}
+},
+{
+"sid": "00438402-v",
+"easy": "To study or work mostly on one special thing.",
+"ko": "전공하다, 전문으로 하다",
+"ex": {
+"en": "My uncle specializes in fixing bikes.",
+"ko": "우리 삼촌은 자전거 수리를 전문으로 한다."
+}
+},
+{
+"sid": "01023982-v",
+"easy": "To say exactly what you mean, with details.",
+"ko": "구체적으로 말하다",
+"ex": {
+"en": "Please specify which color you want.",
+"ko": "어떤 색을 원하는지 구체적으로 말해 주세요."
+}
+},
+{
+"sid": "02474697-v",
+"easy": "To break into thin, sharp pieces.",
+"ko": "쪼개지다",
+"ex": {
+"en": "The old wood splintered when I stepped on it.",
+"ko": "낡은 나무는 내가 밟자 쪼개졌다."
+}
+},
+{
+"sid": "04378650-n",
+"easy": "Clothes you wear when you swim.",
+"ko": "수영복",
+"ex": {
+"en": "I packed my swimsuit for the pool.",
+"ko": "나는 수영장에 가려고 수영복을 쌌다."
+}
+},
+{
+"sid": "02380286-a",
+"easy": "Having two sides that match, like a butterfly's wings.",
+"ko": "대칭의",
+"ex": {
+"en": "A heart is a symmetrical shape.",
+"ko": "하트는 대칭 모양이다."
+}
+},
+{
+"sid": "10094127-n",
+"easy": "A person whose job is to get rid of bugs and mice.",
+"ko": "해충 방제업자",
+"ex": {
+"en": "The exterminator came to get rid of the ants.",
+"ko": "해충 방제업자가 개미를 없애러 왔다."
+}
+},
+{
+"sid": "05071710-n",
+"easy": "The shape of the land, like hills and valleys.",
+"ko": "지형",
+"ex": {
+"en": "The topography of our town has many hills.",
+"ko": "우리 마을의 지형은 언덕이 많다."
+}
+},
+{
+"sid": "06132185-n",
+"easy": "Studying the shape of the land and what is on it.",
+"ko": "지형학",
+"ex": {
+"en": "Topography helps people make maps.",
+"ko": "지형학은 사람들이 지도를 만드는 데 도움이 된다."
+}
+},
+{
+"sid": "01615480-s",
+"easy": "Not told or made clear to anyone.",
+"ko": "설명되지 않은",
+"ex": {
+"en": "We heard an unexplained noise in the attic.",
+"ko": "우리는 다락방에서 설명할 수 없는 소리를 들었다."
+}
+},
+{
+"sid": "00943583-s",
+"easy": "Having a reason that nobody knows.",
+"ko": "원인 불명의",
+"ex": {
+"en": "The computer had an unexplained error.",
+"ko": "컴퓨터에 원인 불명의 오류가 났다."
+}
+},
+{
+"sid": "01341768-a",
+"easy": "Not done on purpose.",
+"ko": "의도하지 않은",
+"ex": {
+"en": "Spilling the juice was unintended.",
+"ko": "주스를 쏟은 것은 의도한 일이 아니었다."
+}
+},
+{
+"sid": "01483247-a",
+"easy": "Having no people on board.",
+"ko": "무인의",
+"ex": {
+"en": "An unmanned plane took pictures of the farm.",
+"ko": "무인 비행기가 농장 사진을 찍었다."
+}
+},
+{
+"sid": "00169098-r",
+"easy": "Without getting what you wanted.",
+"ko": "성공하지 못하고",
+"ex": {
+"en": "I tried unsuccessfully to catch the butterfly.",
+"ko": "나는 나비를 잡으려 했지만 성공하지 못했다."
+}
+},
+{
+"sid": "08694813-n",
+"easy": "A good place from which you can see everything.",
+"ko": "유리한 위치",
+"ex": {
+"en": "From our vantage on the hill, we saw the whole town.",
+"ko": "언덕의 유리한 위치에서 우리는 마을 전체를 보았다."
+}
+},
+{
+"sid": "01044403-v",
+"easy": "To complain in a crying voice.",
+"ko": "징징거리다",
+"ex": {
+"en": "Stop whining and come help me.",
+"ko": "징징거리지 말고 와서 나를 도와줘."
+}
+},
+{
+"sid": "02218472-v",
+"easy": "To keep something and not give it to someone.",
+"ko": "보류하다, 주지 않다",
+"ex": {
+"en": "Mom withheld my game time until I did my homework.",
+"ko": "엄마는 숙제를 끝낼 때까지 게임 시간을 주지 않으셨다."
+}
+},
+{
+"sid": "07570967-n",
+"easy": "A strong feeling of wanting to do something.",
+"ko": "열정, 열의",
+"ex": {
+"en": "She practiced the violin with great zeal.",
+"ko": "그녀는 큰 열정으로 바이올린을 연습했다."
+}
+},
+{
+"sid": "00354493-v",
+"easy": "To stop something before it is finished.",
+"ko": "중단하다",
+"ex": {
+"en": "The pilot aborted the landing and flew up again.",
+"ko": "조종사는 착륙을 중단하고 다시 날아올랐다."
+}
+},
+{
+"sid": "02721154-v",
+"easy": "To be found in large numbers.",
+"ko": "풍부하다, 많이 있다",
+"ex": {
+"en": "Fish abound in this lake.",
+"ko": "이 호수에는 물고기가 아주 많다."
+}
+},
+{
+"sid": "00262533-r",
+"easy": "In a way that causes bad results.",
+"ko": "불리하게, 나쁘게",
+"ex": {
+"en": "The storm adversely affected our picnic.",
+"ko": "폭풍우는 우리 소풍에 나쁜 영향을 주었다."
+}
+},
+{
+"sid": "09697109-n",
+"easy": "A person who belongs to a group that lives a simple life without modern machines.",
+"ko": "아미시 교도",
+"ex": {
+"en": "The Amish family traveled by horse and buggy.",
+"ko": "아미시 가족은 마차를 타고 다녔다."
+}
+},
+{
+"sid": "02055667-s",
+"easy": "Set in a slanted way, not straight.",
+"ko": "각진, 비스듬한",
+"ex": {
+"en": "The cars were in angled parking spots.",
+"ko": "차들이 비스듬한 주차 칸에 서 있었다."
+}
+},
+{
+"sid": "04866680-n",
+"easy": "Not being afraid to try something hard or new.",
+"ko": "대담함",
+"ex": {
+"en": "The firefighter showed great audacity.",
+"ko": "그 소방관은 대단한 대담함을 보였다."
+}
+},
+{
+"sid": "04845741-n",
+"easy": "Being rude by doing something you have no right to do.",
+"ko": "뻔뻔함",
+"ex": {
+"en": "He had the audacity to cut in line.",
+"ko": "그는 뻔뻔하게도 새치기를 했다."
+}
+},
+{
+"sid": "02790645-n",
+"easy": "A music instrument with strings and a round body, like a small guitar.",
+"ko": "밴조",
+"ex": {
+"en": "He played a fast song on the banjo.",
+"ko": "그는 밴조로 빠른 노래를 연주했다."
+}
+},
+{
+"sid": "00146351-s",
+"easy": "Covered with sharp points like thorns.",
+"ko": "가시가 돋친",
+"ex": {
+"en": "The rose bush was barbed with thorns.",
+"ko": "장미 덤불에는 가시가 돋쳐 있었다."
+}
+},
+{
+"sid": "12281316-n",
+"easy": "A tall tree with smooth gray bark and small nuts.",
+"ko": "너도밤나무",
+"ex": {
+"en": "We sat under the beech tree for lunch.",
+"ko": "우리는 너도밤나무 아래 앉아 점심을 먹었다."
+}
+},
+{
+"sid": "12281696-n",
+"easy": "The wood that comes from a beech tree.",
+"ko": "너도밤나무 목재",
+"ex": {
+"en": "The table is made of beech wood.",
+"ko": "그 탁자는 너도밤나무 목재로 만들었다."
+}
+},
+{
+"sid": "02853596-n",
+"easy": "A light jacket, often worn as part of a school outfit.",
+"ko": "블레이저",
+"ex": {
+"en": "He wore a blue blazer with the school badge.",
+"ko": "그는 학교 배지가 달린 파란 블레이저를 입었다."
+}
+},
+{
+"sid": "02858369-n",
+"easy": "A machine that blows air.",
+"ko": "송풍기",
+"ex": {
+"en": "The blower dried the wet leaves off the yard.",
+"ko": "송풍기가 마당의 젖은 낙엽을 날려 보냈다."
+}
+},
+{
+"sid": "03276485-n",
+"easy": "A machine with blades that spin to blow cool air.",
+"ko": "선풍기, 송풍기",
+"ex": {
+"en": "We turned on the electric fan on the hot day.",
+"ko": "우리는 더운 날 선풍기를 켰다."
+}
+},
+{
+"sid": "00174412-r",
+"easy": "In a way that shows you are not afraid.",
+"ko": "용감하게",
+"ex": {
+"en": "She bravely jumped off the high diving board.",
+"ko": "그녀는 높은 다이빙대에서 용감하게 뛰어내렸다."
+}
+},
+{
+"sid": "09715143-n",
+"easy": "A person from Myanmar.",
+"ko": "미얀마 사람",
+"ex": {
+"en": "A Burmese girl joined our class.",
+"ko": "미얀마 출신 여자아이가 우리 반에 들어왔다."
+}
+},
+{
+"sid": "06945212-n",
+"easy": "The language that people speak in Myanmar.",
+"ko": "미얀마어, 버마어",
+"ex": {
+"en": "Burmese has its own special letters.",
+"ko": "미얀마어에는 고유한 글자가 있다."
+}
+},
+{
+"sid": "01129566-n",
+"easy": "Making someone do something by force or by threats.",
+"ko": "강요",
+"ex": {
+"en": "Making kids give up their toys is coercion.",
+"ko": "아이들에게 장난감을 억지로 내놓게 하는 것은 강요다."
+}
+},
+{
+"sid": "00157632-n",
+"easy": "Making something happen by using force.",
+"ko": "강요, 강제",
+"ex": {
+"en": "She joined the team under coercion.",
+"ko": "그녀는 강요에 못 이겨 팀에 들어갔다."
+}
+},
+{
+"sid": "01626526-v",
+"easy": "To make something just the way one person wants it.",
+"ko": "맞춤 제작하다",
+"ex": {
+"en": "Dad customized my bike with a bell and a basket.",
+"ko": "아빠는 내 자전거에 벨과 바구니를 달아 맞춤 제작해 주셨다."
+}
+},
+{
+"sid": "00388590-v",
+"easy": "To change something to fit what someone needs.",
+"ko": "맞춤 제작하다",
+"ex": {
+"en": "You can customize your game character.",
+"ko": "게임 캐릭터를 내 마음대로 꾸밀 수 있다."
+}
+},
+{
+"sid": "00975112-s",
+"easy": "Neat and stylish in the way you dress.",
+"ko": "말쑥한",
+"ex": {
+"en": "The dapper man wore a bow tie.",
+"ko": "그 말쑥한 남자는 나비넥타이를 매고 있었다."
+}
+},
+{
+"sid": "03071371-a",
+"easy": "Having to do with one part of a big group, like a school department.",
+"ko": "부서의",
+"ex": {
+"en": "The departmental meeting was about the science fair.",
+"ko": "부서 회의는 과학 박람회에 관한 것이었다."
+}
+},
+{
+"sid": "06802899-n",
+"easy": "A belief that a religion says is true without needing proof.",
+"ko": "교리",
+"ex": {
+"en": "Each religion has its own dogma.",
+"ko": "종교마다 자기만의 교리가 있다."
+}
+},
+{
+"sid": "05969331-n",
+"easy": "A set of beliefs that people accept without questioning.",
+"ko": "신조, 교리",
+"ex": {
+"en": "He followed the dogma of his group.",
+"ko": "그는 자기 모임의 신조를 따랐다."
+}
+},
+{
+"sid": "14478672-n",
+"easy": "Having nothing inside.",
+"ko": "텅 빔, 공허",
+"ex": {
+"en": "I felt the emptiness of the big, quiet house.",
+"ko": "나는 크고 조용한 집의 텅 빈 느낌을 받았다."
+}
+},
+{
+"sid": "14063456-n",
+"easy": "The feeling of having no food in your stomach.",
+"ko": "공복",
+"ex": {
+"en": "The emptiness in my stomach made it growl.",
+"ko": "배가 비어서 꼬르륵 소리가 났다."
+}
+},
+{
+"sid": "02635874-v",
+"easy": "To have many things as parts of it.",
+"ko": "포함하다, 아우르다",
+"ex": {
+"en": "The club encompasses kids of all ages.",
+"ko": "그 클럽은 모든 나이의 아이들을 아우른다."
+}
+},
+{
+"sid": "06895059-n",
+"easy": "A flag that shows what country you are from.",
+"ko": "깃발, 국기",
+"ex": {
+"en": "The ship flew its national ensign.",
+"ko": "배는 자기 나라의 깃발을 달고 항해했다."
+}
+},
+{
+"sid": "06503017-n",
+"easy": "A list of common questions with their answers.",
+"ko": "자주 묻는 질문",
+"ex": {
+"en": "I read the FAQ on the game website.",
+"ko": "나는 게임 웹사이트의 자주 묻는 질문을 읽었다."
+}
+},
+{
+"sid": "00881748-v",
+"easy": "To say nice things you do not really mean to please someone.",
+"ko": "아첨하다",
+"ex": {
+"en": "He flattered the teacher to get a good grade.",
+"ko": "그는 좋은 점수를 받으려고 선생님께 아첨했다."
+}
+},
+{
+"sid": "01797944-v",
+"easy": "To worry too much about little things.",
+"ko": "걱정하다",
+"ex": {
+"en": "Don't fret about the small stuff.",
+"ko": "사소한 일로 걱정하지 마."
+}
+},
+{
+"sid": "01771313-v",
+"easy": "To feel upset or nervous.",
+"ko": "초조해하다",
+"ex": {
+"en": "The puppy fretted when we left the house.",
+"ko": "강아지는 우리가 집을 나서자 초조해했다."
+}
+},
+{
+"sid": "10160303-n",
+"easy": "A person who gives scores to tests or work.",
+"ko": "채점자",
+"ex": {
+"en": "The grader marked my math test.",
+"ko": "채점자가 내 수학 시험을 채점했다."
+}
+},
+{
+"sid": "01074704-n",
+"easy": "The good feeling of getting what you wanted.",
+"ko": "만족, 충족",
+"ex": {
+"en": "I felt great gratification when I finished the puzzle.",
+"ko": "퍼즐을 다 맞추자 큰 만족감을 느꼈다."
+}
+},
+{
+"sid": "00355592-r",
+"easy": "In an unkind and angry way.",
+"ko": "거칠게, 가혹하게",
+"ex": {
+"en": "The coach spoke harshly to the late players.",
+"ko": "코치는 늦은 선수들에게 거칠게 말했다."
+}
+},
+{
+"sid": "00352317-r",
+"easy": "In a loud, rough way that hurts your ears.",
+"ko": "귀에 거슬리게",
+"ex": {
+"en": "The old door squeaked harshly.",
+"ko": "낡은 문이 귀에 거슬리게 끽끽거렸다."
+}
+},
+{
+"sid": "08113590-n",
+"easy": "The main religion of India.",
+"ko": "힌두교",
+"ex": {
+"en": "Hinduism is one of the oldest religions in the world.",
+"ko": "힌두교는 세계에서 가장 오래된 종교 중 하나다."
+}
+},
+{
+"sid": "06246956-n",
+"easy": "An old religion from India with many gods.",
+"ko": "힌두교",
+"ex": {
+"en": "My friend's family follows Hinduism.",
+"ko": "내 친구의 가족은 힌두교를 믿는다."
+}
+},
+{
+"sid": "02427045-s",
+"easy": "Possible to think of in your mind.",
+"ko": "상상할 수 있는",
+"ex": {
+"en": "Every imaginable color was in the paint box.",
+"ko": "상상할 수 있는 모든 색이 물감 상자에 있었다."
+}
+},
+{
+"sid": "11467947-n",
+"easy": "A push that makes something move forward.",
+"ko": "추진력",
+"ex": {
+"en": "The wind gave the sailboat its impetus.",
+"ko": "바람이 돛단배에 추진력을 주었다."
+}
+},
+{
+"sid": "02290385-s",
+"easy": "Done suddenly because of a feeling, without planning.",
+"ko": "충동적인",
+"ex": {
+"en": "Her hug was an impulsive act of love.",
+"ko": "그녀의 포옹은 충동적인 사랑 표현이었다."
+}
+},
+{
+"sid": "01849129-s",
+"easy": "Doing things quickly without thinking first.",
+"ko": "충동적인",
+"ex": {
+"en": "He made an impulsive jump into the cold lake.",
+"ko": "그는 충동적으로 차가운 호수에 뛰어들었다."
+}
+},
+{
+"sid": "14943145-n",
+"easy": "Sticks that smell sweet when they burn.",
+"ko": "향",
+"ex": {
+"en": "They burned incense at the temple.",
+"ko": "그들은 절에서 향을 피웠다."
+}
+},
+{
+"sid": "05722692-n",
+"easy": "The sweet smell that comes from burning incense.",
+"ko": "향기, 향내",
+"ex": {
+"en": "The smell of incense filled the room.",
+"ko": "향 냄새가 방 안에 가득했다."
+}
+},
+{
+"sid": "01267081-s",
+"easy": "Cruel, with no kind feelings.",
+"ko": "비인간적인, 잔인한",
+"ex": {
+"en": "The villain in the movie was cold and inhuman.",
+"ko": "영화 속 악당은 차갑고 잔인했다."
+}
+},
+{
+"sid": "00069650-v",
+"easy": "To hurt someone's body.",
+"ko": "다치게 하다",
+"ex": {
+"en": "He injured his knee in the soccer game.",
+"ko": "그는 축구 경기에서 무릎을 다쳤다."
+}
+},
+{
+"sid": "06528946-n",
+"easy": "A paper that lists what you bought and how much you owe.",
+"ko": "청구서",
+"ex": {
+"en": "Mom paid the invoice for the new couch.",
+"ko": "엄마는 새 소파의 청구서를 결제하셨다."
+}
+},
+{
+"sid": "02325883-v",
+"easy": "To send a paper that asks for money.",
+"ko": "청구서를 보내다",
+"ex": {
+"en": "The plumber invoiced us after fixing the sink.",
+"ko": "배관공은 싱크대를 고친 뒤 우리에게 청구서를 보냈다."
+}
+},
+{
+"sid": "14667094-n",
+"easy": "A gas with no color that is found in the air in tiny amounts.",
+"ko": "크립톤",
+"ex": {
+"en": "Krypton is a gas used in some lights.",
+"ko": "크립톤은 일부 전등에 쓰이는 기체다."
+}
+},
+{
+"sid": "06948371-n",
+"easy": "The language people speak in Laos.",
+"ko": "라오어",
+"ex": {
+"en": "Lao is the main language of Laos.",
+"ko": "라오어는 라오스의 주요 언어다."
+}
+},
+{
+"sid": "00044828-s",
+"easy": "Hidden and not yet seen.",
+"ko": "잠재된",
+"ex": {
+"en": "The detective found a latent fingerprint on the glass.",
+"ko": "탐정은 유리잔에서 눈에 안 보이던 지문을 찾아냈다."
+}
+},
+{
+"sid": "01502766-s",
+"easy": "Having no end or limit.",
+"ko": "끝없는, 무한한",
+"ex": {
+"en": "The night sky seemed limitless.",
+"ko": "밤하늘은 끝이 없어 보였다."
+}
+},
+{
+"sid": "01424475-a",
+"easy": "Able to read and write.",
+"ko": "읽고 쓸 줄 아는",
+"ex": {
+"en": "By age seven, most kids are literate and love reading.",
+"ko": "일곱 살쯤 되면 대부분의 아이들은 글을 읽고 쓸 줄 알고 책 읽기를 좋아한다."
+}
+},
+{
+"sid": "02348528-s",
+"easy": "Poor and plain, not fancy.",
+"ko": "보잘것없는",
+"ex": {
+"en": "They lived in a lowly little cabin.",
+"ko": "그들은 보잘것없는 작은 오두막에 살았다."
+}
+},
+{
+"sid": "00430851-s",
+"easy": "Clear and easy to understand.",
+"ko": "명쾌한, 알기 쉬운",
+"ex": {
+"en": "The teacher gave a lucid explanation of fractions.",
+"ko": "선생님은 분수를 명쾌하게 설명해 주셨다."
+}
+},
+{
+"sid": "02081374-s",
+"easy": "Thinking clearly.",
+"ko": "정신이 맑은",
+"ex": {
+"en": "Grandpa was lucid and told great stories.",
+"ko": "할아버지는 정신이 맑으셔서 멋진 이야기를 들려주셨다."
+}
+},
+{
+"sid": "01510813-a",
+"easy": "Kind and willing to forgive.",
+"ko": "자비로운",
+"ex": {
+"en": "The merciful king let the thief go free.",
+"ko": "자비로운 왕은 도둑을 풀어 주었다."
+}
+},
+{
+"sid": "10334494-n",
+"easy": "A woman who helps mothers give birth to babies.",
+"ko": "산파, 조산사",
+"ex": {
+"en": "A midwife helped my baby sister be born.",
+"ko": "조산사가 내 여동생이 태어나는 것을 도왔다."
+}
+},
+{
+"sid": "06647485-n",
+"easy": "Facts that are wrong.",
+"ko": "잘못된 정보",
+"ex": {
+"en": "The rumor was just misinformation.",
+"ko": "그 소문은 잘못된 정보일 뿐이었다."
+}
+},
+{
+"sid": "01158925-n",
+"easy": "Getting people and supplies ready for war or a big emergency.",
+"ko": "동원",
+"ex": {
+"en": "The mobilization of the army took a week.",
+"ko": "군대의 동원은 일주일이 걸렸다."
+}
+},
+{
+"sid": "01232772-n",
+"easy": "Getting people and things ready to take action.",
+"ko": "동원",
+"ex": {
+"en": "The mobilization of volunteers helped clean the beach.",
+"ko": "자원봉사자들의 동원으로 해변을 청소했다."
+}
+},
+{
+"sid": "07175403-n",
+"easy": "Talking out loud to yourself.",
+"ko": "독백",
+"ex": {
+"en": "The actor gave a monologue alone on the stage.",
+"ko": "배우는 무대에 혼자 서서 독백을 했다."
+}
+},
+{
+"sid": "00407179-r",
+"easy": "In a way that sounds like music.",
+"ko": "음악적으로",
+"ex": {
+"en": "The baby laughed musically.",
+"ko": "아기는 노래하듯 웃었다."
+}
+},
+{
+"sid": "00966007-n",
+"easy": "When sailors or soldiers fight against their leaders.",
+"ko": "반란",
+"ex": {
+"en": "The crew started a mutiny on the pirate ship.",
+"ko": "해적선에서 선원들이 반란을 일으켰다."
+}
+},
+{
+"sid": "02590043-v",
+"easy": "To fight against the leaders in charge.",
+"ko": "반란을 일으키다",
+"ex": {
+"en": "The sailors mutinied against the captain.",
+"ko": "선원들은 선장에게 반란을 일으켰다."
+}
+},
+{
+"sid": "01142110-s",
+"easy": "Complaining all the time.",
+"ko": "잔소리하는",
+"ex": {
+"en": "The nagging voice in my head told me to study.",
+"ko": "머릿속의 잔소리가 나에게 공부하라고 했다."
+}
+},
+{
+"sid": "00411110-r",
+"easy": "In a way that shows you are worried.",
+"ko": "초조하게, 불안하게",
+"ex": {
+"en": "I waited nervously for my test score.",
+"ko": "나는 시험 점수를 초조하게 기다렸다."
+}
+}
+]
