@@ -60,13 +60,42 @@ function wrap(sqlDb: SqlJsDatabase): Db {
   };
 }
 
-// The dictionary (about 27MB) is saved in the browser's Cache Storage so that
-// later visits, even without Wi-Fi, do not download it again. version.json
-// holds a fingerprint of the file; a new fingerprint means a new download.
-const DICT_CACHE = 'word-explorer-dict';
+// The dictionary (about 27MB) is saved in the browser's IndexedDB so that later
+// visits, even without Wi-Fi, do not download it again. It is not kept in Cache
+// Storage because the English Store app on the same github.io address clears
+// every cache it does not own. version.json holds a fingerprint of the file; a
+// new fingerprint means a new download.
+type SavedDict = { version: string | null; bytes: ArrayBuffer };
+
+function openIdb(): Promise<IDBDatabase> {
+  return new Promise((resolve, reject) => {
+    const req = indexedDB.open('word-explorer', 1);
+    req.onupgradeneeded = () => req.result.createObjectStore('dict');
+    req.onsuccess = () => resolve(req.result);
+    req.onerror = () => reject(req.error);
+  });
+}
+
+async function idbGet(): Promise<SavedDict | null> {
+  const db = await openIdb();
+  return new Promise((resolve, reject) => {
+    const req = db.transaction('dict').objectStore('dict').get('db');
+    req.onsuccess = () => resolve((req.result as SavedDict | undefined) ?? null);
+    req.onerror = () => reject(req.error);
+  });
+}
+
+async function idbPut(rec: SavedDict): Promise<void> {
+  const db = await openIdb();
+  return new Promise((resolve, reject) => {
+    const tx = db.transaction('dict', 'readwrite');
+    tx.objectStore('dict').put(rec, 'db');
+    tx.oncomplete = () => resolve();
+    tx.onerror = () => reject(tx.error);
+  });
+}
 
 async function fetchDict(): Promise<ArrayBuffer> {
-  const cache = await caches.open(DICT_CACHE).catch(() => null);
   let version: string | null = null;
   try {
     const r = await fetch(asset('version.json'), { cache: 'no-cache' });
@@ -74,26 +103,15 @@ async function fetchDict(): Promise<ArrayBuffer> {
   } catch {
     // Offline: fall through to whatever copy is saved.
   }
-  const url = asset('dict.db') + (version ? '?v=' + version : '');
-  if (cache) {
-    let hit = version ? await cache.match(url) : undefined;
-    if (!hit && !version) {
-      const keys = await cache.keys();
-      if (keys.length) hit = await cache.match(keys[keys.length - 1]);
-    }
-    if (hit) return hit.arrayBuffer();
-  }
-  const res = await fetch(url);
+  const saved = await idbGet().catch(() => null);
+  if (saved && (!version || saved.version === version)) return saved.bytes;
+  const res = await fetch(asset('dict.db') + (version ? '?v=' + version : ''));
   if (!res.ok) throw new Error('dict.db ' + res.status);
-  if (cache) {
-    try {
-      await cache.put(url, res.clone());
-      for (const k of await cache.keys()) if (k.url !== url) await cache.delete(k);
-    } catch {
-      // Not enough storage: the dictionary just downloads again next time.
-    }
-  }
-  return res.arrayBuffer();
+  const bytes = await res.arrayBuffer();
+  // Not enough storage or private mode: the dictionary just downloads again next time.
+  idbPut({ version, bytes }).catch(() => {});
+  navigator.storage?.persist?.().catch(() => {});
+  return bytes;
 }
 
 export function DictProvider({ children }: { children: ReactNode }) {
@@ -103,6 +121,7 @@ export function DictProvider({ children }: { children: ReactNode }) {
   useEffect(() => {
     let alive = true;
     (async () => {
+      caches.delete('word-explorer-dict').catch(() => {}); // older builds kept the dictionary here
       // Lets the page open offline later (files saved by web-extras/sw.template.js).
       navigator.serviceWorker?.register(asset('sw.js')).catch(() => {});
       await loadScript(asset('sql-wasm-browser.js'));

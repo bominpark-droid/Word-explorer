@@ -1,11 +1,10 @@
-import { Image } from 'expo-image';
 import { useNetworkState } from 'expo-network';
 import { useEffect, useState } from 'react';
-import { ActivityIndicator, Linking, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
+import { ActivityIndicator, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { SaveButton, SpeakButton } from '../components/common';
 import { getEntry, lookup, relatedBase } from '../db';
 import { useDict } from '../dbProvider';
-import { findPicture, koreanLabel, type Picture } from '../online';
+import { koreanLabel } from '../online';
 import { C, POS_KO, TOPIC_LABEL } from '../theme';
 import type { DictSense, Entry, KidSense, WordRow } from '../types';
 
@@ -70,8 +69,6 @@ export default function WordScreen({ id, onBack, onOpen }: Props) {
         <View style={{ marginTop: 12 }}>
           <SaveButton word={entry.word} />
         </View>
-
-        <PictureCard entry={entry} />
 
         {hasKid ? (
           entry.kidSenses.map((s, i) => <KidSenseCard key={i} sense={s} index={i} total={entry.kidSenses.length} />)
@@ -193,49 +190,6 @@ function OnlineKorean({ qid }: { qid: string }) {
   return <Text style={styles.onlineKo}>🇰🇷 {label} (위키데이터, 온라인)</Text>;
 }
 
-function PictureCard({ entry }: { entry: Entry }) {
-  const net = useNetworkState();
-  const [pic, setPic] = useState<Picture | null | undefined>(undefined);
-  const qids = entry.dictSenses
-    .filter((s) => s.wikidata && (s.pos === 'noun' || !entry.kidSenses.length))
-    .map((s) => s.wikidata as string);
-  // Pictures help with concrete things; skip abstract words unless WordNet links an item.
-  const wanted = entry.picture || (entry.kidSenses.length === 0 && qids.length > 0);
-
-  useEffect(() => {
-    setPic(undefined);
-    if (!wanted || !net.isConnected) return;
-    let alive = true;
-    findPicture(entry.word, qids).then((p) => alive && setPic(p));
-    return () => {
-      alive = false;
-    };
-  }, [entry.id, wanted, net.isConnected]);
-
-  if (!wanted) return null;
-  if (!net.isConnected) {
-    return (
-      <View style={styles.picOffline}>
-        <Text style={styles.picOfflineText}>📶 Wi-Fi가 연결되면 그림도 볼 수 있어요</Text>
-      </View>
-    );
-  }
-  if (pic === undefined) {
-    return (
-      <View style={[styles.pic, styles.center]}>
-        <ActivityIndicator color={C.blue} />
-      </View>
-    );
-  }
-  if (!pic) return null;
-  return (
-    <Pressable onPress={() => pic.page && Linking.openURL(pic.page)} style={styles.picWrap}>
-      <Image source={{ uri: pic.uri }} style={styles.pic} contentFit="cover" transition={200} />
-      <Text style={styles.picCaption}>Picture: {pic.caption} (탭하면 출처)</Text>
-    </Pressable>
-  );
-}
-
 const styles = StyleSheet.create({
   center: { flex: 1, alignItems: 'center', justifyContent: 'center' },
   topbar: { paddingHorizontal: 16, paddingVertical: 10 },
@@ -317,11 +271,6 @@ const styles = StyleSheet.create({
   synRow: { flexDirection: 'row', flexWrap: 'wrap', marginTop: 4, alignItems: 'center' },
   synLabel: { fontSize: 13, color: C.faint },
   syn: { fontSize: 13, color: C.blue, marginRight: 10, textDecorationLine: 'underline' },
-  picWrap: { marginTop: 16 },
-  pic: { width: '100%', height: 220, borderRadius: 18, backgroundColor: '#EEE' },
-  picCaption: { fontSize: 11, color: C.faint, marginTop: 4 },
-  picOffline: { marginTop: 16, borderRadius: 14, borderWidth: 1, borderStyle: 'dashed', borderColor: C.line, padding: 12 },
-  picOfflineText: { color: C.faint, fontSize: 13 },
   baseLink: { marginTop: 10, alignSelf: 'flex-start', backgroundColor: C.blueSoft, borderRadius: 12, paddingHorizontal: 12, paddingVertical: 6 },
   baseText: { color: C.blue, fontSize: 15 },
   credit: { marginTop: 28, fontSize: 11, color: C.faint, lineHeight: 16 },

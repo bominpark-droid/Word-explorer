@@ -8,7 +8,6 @@
 - 그 밖의 모든 단어: Open English WordNet 사전 뜻과 예문 (약 12만 8천 표제어)
 - 🔊 발음 듣기 (폰에 내장된 음성 사용, 오프라인 가능)
 - ☆ 한 번 탭으로 단어장에 추가, 단어장에서 카드로 외우기
-- Wi-Fi가 연결되어 있으면 위키미디어(Wikidata, Wikipedia)에서 그 단어의 사진을 보여 줌
 
 ## 데이터 출처와 라이선스
 | 데이터 | 출처 | 라이선스 |
@@ -16,7 +15,6 @@
 | 영어 사전 본문(뜻, 예문, 발음기호, 동의어) | [Open English WordNet](https://github.com/globalwordnet/english-wordnet) (Princeton WordNet 기반) | CC BY 4.0 + WordNet License |
 | 불규칙 변화형(ran→run, mice→mouse) | Princeton WordNet 3.0 exception lists (npm `wndb-with-exceptions`) | WordNet License |
 | ⭐ 단어의 쉬운 설명, 한국어 뜻, 예문 | 이 앱을 위해 AI(Claude)가 작성, `data/curated/` | 이 저장소 소유 |
-| 온라인 사진 | Wikimedia Commons / Wikipedia (사진마다 라이선스가 다름, 탭하면 출처 페이지) | 각 파일별 |
 
 AI가 쓴 쉬운 설명과 한국어 뜻은 사람이 전수 검토한 것이 아닙니다. 이상한 내용을 발견하면 `data/curated/*.json`에서 고치고 사전을 다시 빌드하면 됩니다.
 
