@@ -4,6 +4,7 @@ need an easy definition + Korean meaning (data/gloss/*.json).
 Needs `pip install wordfreq` (only used here to rank words by how common they are).
 
 Usage: python scripts/gloss_batches.py <dict.db> <out_dir> [top_n=8000] [senses_per_word=4] [batch_size=400] [skip_words=0] [first_batch=1]
+Each word gets its first senses_per_word senses plus the first sense of every other part of speech.
 skip_words/first_batch extend an earlier run: e.g. `... 12000 2 200 5000 54` adds words 5,001-12,000 as in-054.json onward.
 Writes <out_dir>/in-001.json, in-002.json, ... (most common words first).
 Senses that already have a gloss in data/gloss/ are skipped.
@@ -51,9 +52,17 @@ for rank, w in enumerate(top_n_list("en", 40000)):
         break
     if count <= skip_words:
         continue
-    for sid, pos, d, ex, members in db.execute(
+    rows = db.execute(
         "SELECT y.sid, y.pos, y.def, y.ex, y.members FROM senses x JOIN synsets y ON y.id = x.synset_id "
-        "WHERE x.word_id = ? ORDER BY x.ord LIMIT ?", (wid, per_word)):
+        "WHERE x.word_id = ? ORDER BY x.ord", (wid,)).fetchall()
+    # The first few senses, plus the first sense of every part of speech
+    # (WordNet lists all nouns first, so "laugh" the verb would otherwise be missed).
+    pick, poses = rows[:per_word], {r[1] for r in rows[:per_word]}
+    for r in rows[per_word:]:
+        if r[1] not in poses:
+            poses.add(r[1])
+            pick.append(r)
+    for sid, pos, d, ex, members in pick:
         if sid in seen or sid in done:
             continue
         seen.add(sid)

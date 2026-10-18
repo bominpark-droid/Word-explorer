@@ -1,0 +1,1217 @@
+[
+{
+"sid": "03483990-n",
+"easy": "A big room where many people meet to listen or watch.",
+"ko": "강당, 홀",
+"ex": {
+"en": "Our whole school met in the hall to watch the play.",
+"ko": "우리 학교 전체가 연극을 보려고 강당에 모였다."
+}
+},
+{
+"sid": "06613680-n",
+"easy": "What a word or sentence is telling you.",
+"ko": "의미, 뜻",
+"ex": {
+"en": "I looked up the meaning of the new word.",
+"ko": "나는 새 단어의 뜻을 찾아보았다."
+}
+},
+{
+"sid": "05928460-n",
+"easy": "The idea behind what someone says or writes.",
+"ko": "의미, 뜻",
+"ex": {
+"en": "Grandpa explained the meaning of the old saying.",
+"ko": "할아버지는 그 옛 속담의 뜻을 설명해 주셨다."
+}
+},
+{
+"sid": "13767410-n",
+"easy": "The number that comes after eight.",
+"ko": "아홉, 9",
+"ex": {
+"en": "My little sister turns nine next week.",
+"ko": "내 여동생은 다음 주에 아홉 살이 된다."
+}
+},
+{
+"sid": "06157599-n",
+"easy": "The study of how countries and leaders are chosen and run things.",
+"ko": "정치학",
+"ex": {
+"en": "My big sister studies politics in college.",
+"ko": "우리 언니는 대학에서 정치학을 공부한다."
+}
+},
+{
+"sid": "00613259-n",
+"easy": "The work of leaders who make rules for a town or country.",
+"ko": "정치",
+"ex": {
+"en": "My aunt wants to go into politics and become mayor.",
+"ko": "이모는 정치를 해서 시장이 되고 싶어 한다."
+}
+},
+{
+"sid": "02086193-v",
+"easy": "To stick out, like eyes that open very wide.",
+"ko": "튀어나오다",
+"ex": {
+"en": "His eyes popped when he saw the giant cake.",
+"ko": "그는 커다란 케이크를 보고 눈이 튀어나올 듯 놀랐다."
+}
+},
+{
+"sid": "02190434-v",
+"easy": "To make a quick, loud bang.",
+"ko": "펑 터지다",
+"ex": {
+"en": "The balloon popped and my dog jumped.",
+"ko": "풍선이 펑 터지자 우리 강아지가 펄쩍 뛰었다."
+}
+},
+{
+"sid": "15189617-n",
+"easy": "The day after Friday. It is the last day of the week.",
+"ko": "토요일",
+"ex": {
+"en": "On Saturday we play soccer at the park.",
+"ko": "토요일에 우리는 공원에서 축구를 한다."
+}
+},
+{
+"sid": "13968971-n",
+"easy": "How important or respected a person is in a group.",
+"ko": "지위, 신분",
+"ex": {
+"en": "A king has a high status in his country.",
+"ko": "왕은 자기 나라에서 높은 지위에 있다."
+}
+},
+{
+"sid": "13943868-n",
+"easy": "How things are right now.",
+"ko": "상태",
+"ex": {
+"en": "Our teacher checked the status of our science project.",
+"ko": "선생님은 우리 과학 프로젝트의 진행 상태를 확인하셨다."
+}
+},
+{
+"sid": "00380195-r",
+"easy": "In a way that is honest and comes from the heart.",
+"ko": "진심으로, 참으로",
+"ex": {
+"en": "I truly love my new puppy.",
+"ko": "나는 새 강아지를 진심으로 사랑한다."
+}
+},
+{
+"sid": "00408356-n",
+"easy": "Something that people do.",
+"ko": "활동",
+"ex": {
+"en": "Swimming is my favorite summer activity.",
+"ko": "수영은 내가 가장 좋아하는 여름 활동이다."
+}
+},
+{
+"sid": "00950950-n",
+"easy": "Using something for a certain job or purpose.",
+"ko": "적용, 응용",
+"ex": {
+"en": "Math has many real-life applications, like counting money.",
+"ko": "수학은 돈을 세는 것처럼 실생활에 응용되는 곳이 많다."
+}
+},
+{
+"sid": "06524571-n",
+"easy": "A paper you fill out to ask for something, like a spot at a school or camp.",
+"ko": "신청서, 지원서",
+"ex": {
+"en": "Mom helped me fill out the camp application.",
+"ko": "엄마는 내가 캠프 신청서를 작성하는 것을 도와주셨다."
+}
+},
+{
+"sid": "07945759-n",
+"easy": "A hot brown drink that many grown-ups have in the morning.",
+"ko": "커피",
+"ex": {
+"en": "Dad drinks a cup of coffee every morning.",
+"ko": "아빠는 매일 아침 커피 한 잔을 마신다."
+}
+},
+{
+"sid": "12683533-n",
+"easy": "A small tree that grows in warm places. Its seeds are used to make a hot drink.",
+"ko": "커피나무",
+"ex": {
+"en": "Coffee trees grow in warm places like Brazil.",
+"ko": "커피나무는 브라질 같은 따뜻한 곳에서 자란다."
+}
+},
+{
+"sid": "07945591-n",
+"easy": "The seed of a small tree. People grind it to make a hot drink.",
+"ko": "커피콩, 원두",
+"ex": {
+"en": "Dad grinds coffee beans every morning.",
+"ko": "아빠는 매일 아침 커피콩을 간다."
+}
+},
+{
+"sid": "06768279-n",
+"easy": "Something that must happen first before something else can happen.",
+"ko": "조건",
+"ex": {
+"en": "You can play outside on one condition: finish your homework.",
+"ko": "숙제를 끝낸다는 조건으로 밖에서 놀아도 된다."
+}
+},
+{
+"sid": "13943462-n",
+"easy": "How someone or something is, like healthy or broken.",
+"ko": "상태",
+"ex": {
+"en": "My bike is in good condition.",
+"ko": "내 자전거는 상태가 좋다."
+}
+},
+{
+"sid": "05876035-n",
+"easy": "One of the parts that make up a bigger thing.",
+"ko": "부문, 부분",
+"ex": {
+"en": "Our sports day has a race division for each grade.",
+"ko": "우리 운동회에는 학년마다 달리기 부문이 있다."
+}
+},
+{
+"sid": "00386599-n",
+"easy": "Splitting something into parts or groups.",
+"ko": "분할, 나누기",
+"ex": {
+"en": "The division of the pizza into eight slices was easy.",
+"ko": "피자를 여덟 조각으로 나누는 일은 쉬웠다."
+}
+},
+{
+"sid": "15191509-n",
+"easy": "The last part of the day, after afternoon and before night.",
+"ko": "저녁",
+"ex": {
+"en": "We eat dinner together every evening.",
+"ko": "우리는 매일 저녁 함께 밥을 먹는다."
+}
+},
+{
+"sid": "15192953-n",
+"easy": "The time after supper when you do something fun or special.",
+"ko": "저녁",
+"ex": {
+"en": "We spent a fun evening playing board games.",
+"ko": "우리는 보드게임을 하며 즐거운 저녁을 보냈다."
+}
+},
+{
+"sid": "00303220-n",
+"easy": "A trip in an airplane.",
+"ko": "항공편, 비행",
+"ex": {
+"en": "Our flight to Seoul took many hours.",
+"ko": "서울행 비행기는 몇 시간이나 걸렸다."
+}
+},
+{
+"sid": "03367905-n",
+"easy": "A set of steps that go from one floor to the next.",
+"ko": "계단",
+"ex": {
+"en": "I walked up two flights of stairs to my class.",
+"ko": "나는 계단을 두 층 올라가서 교실에 갔다."
+}
+},
+{
+"sid": "14015308-n",
+"easy": "Being able to do, say, or think what you want without being stopped.",
+"ko": "자유",
+"ex": {
+"en": "Birds have the freedom to fly anywhere.",
+"ko": "새들은 어디로든 날아갈 자유가 있다."
+}
+},
+{
+"sid": "00650417-v",
+"easy": "To use a website to search the internet for answers.",
+"ko": "구글로 검색하다",
+"ex": {
+"en": "I googled how tall giraffes grow.",
+"ko": "나는 기린이 얼마나 크게 자라는지 구글로 검색했다."
+}
+},
+{
+"sid": "00810517-v",
+"easy": "To ask someone questions for a news story or show.",
+"ko": "인터뷰하다",
+"ex": {
+"en": "The reporter interviewed our class about the new park.",
+"ko": "기자는 새 공원에 대해 우리 반을 인터뷰했다."
+}
+},
+{
+"sid": "00810910-v",
+"easy": "To ask someone questions to see if they are right for a job.",
+"ko": "면접하다",
+"ex": {
+"en": "The boss interviewed three people for the job.",
+"ko": "사장님은 그 일자리에 세 사람을 면접했다."
+}
+},
+{
+"sid": "00811115-v",
+"easy": "To meet with a company and answer questions so you can get a job.",
+"ko": "면접을 보다",
+"ex": {
+"en": "My uncle is interviewing for a job at a bank.",
+"ko": "삼촌은 은행에 취직하려고 면접을 보고 있다."
+}
+},
+{
+"sid": "03666235-n",
+"easy": "A room in a house where lots of books are kept.",
+"ko": "서재, 도서실",
+"ex": {
+"en": "Grandpa keeps hundreds of books in his library.",
+"ko": "할아버지는 서재에 책을 수백 권 두신다."
+}
+},
+{
+"sid": "03665990-n",
+"easy": "A building where you can borrow books to read.",
+"ko": "도서관",
+"ex": {
+"en": "I borrowed three dinosaur books from the library.",
+"ko": "나는 도서관에서 공룡 책을 세 권 빌렸다."
+}
+},
+{
+"sid": "02133811-s",
+"easy": "Being in a certain place.",
+"ko": "위치한",
+"ex": {
+"en": "Our school is located next to the park.",
+"ko": "우리 학교는 공원 옆에 위치해 있다."
+}
+},
+{
+"sid": "02315660-n",
+"easy": "The mother of a bee or ant group. She is the one that lays eggs.",
+"ko": "여왕",
+"ex": {
+"en": "The queen bee lays thousands of eggs.",
+"ko": "여왕벌은 수천 개의 알을 낳는다."
+}
+},
+{
+"sid": "10518940-n",
+"easy": "A woman who rules a country as its leader.",
+"ko": "여왕",
+"ex": {
+"en": "The queen waved to the crowd from her carriage.",
+"ko": "여왕은 마차에서 군중에게 손을 흔들었다."
+}
+},
+{
+"sid": "10519442-n",
+"easy": "The wife of a king.",
+"ko": "왕비",
+"ex": {
+"en": "The king and queen sat on golden chairs.",
+"ko": "왕과 왕비는 금빛 의자에 앉았다."
+}
+},
+{
+"sid": "00345085-n",
+"easy": "Being seated, or one stretch of time that you stay seated.",
+"ko": "앉기, 앉아 있기",
+"ex": {
+"en": "I read the whole book in one sitting.",
+"ko": "나는 한자리에 앉아서 그 책을 다 읽었다."
+}
+},
+{
+"sid": "01240306-s",
+"easy": "Able to stay up by itself on a base.",
+"ko": "서 있는, 세워 두는",
+"ex": {
+"en": "We bought a standing lamp for the living room.",
+"ko": "우리는 거실에 놓을 스탠드를 샀다."
+}
+},
+{
+"sid": "01243938-a",
+"easy": "Water that stays in one place and does not flow.",
+"ko": "고여 있는",
+"ex": {
+"en": "Mosquitoes lay eggs in standing water.",
+"ko": "모기는 고인 물에 알을 낳는다."
+}
+},
+{
+"sid": "00452436-s",
+"easy": "Close enough that you can get there on foot.",
+"ko": "걸어갈 수 있는",
+"ex": {
+"en": "Our school is within walking distance.",
+"ko": "우리 학교는 걸어서 갈 수 있는 거리에 있다."
+}
+},
+{
+"sid": "00284412-n",
+"easy": "Moving on foot using your legs.",
+"ko": "걷기",
+"ex": {
+"en": "Walking to school keeps me healthy.",
+"ko": "학교까지 걷기는 나를 건강하게 해 준다."
+}
+},
+{
+"sid": "00688348-v",
+"easy": "To think that something is true.",
+"ko": "받아들이다, 인정하다",
+"ex": {
+"en": "Scientists accept that the Earth goes around the sun.",
+"ko": "과학자들은 지구가 태양 주위를 돈다는 것을 받아들인다."
+}
+},
+{
+"sid": "02240906-v",
+"easy": "To take something that someone gives you.",
+"ko": "받다, 받아들이다",
+"ex": {
+"en": "I accepted a birthday gift from my friend.",
+"ko": "나는 친구의 생일 선물을 받았다."
+}
+},
+{
+"sid": "00799359-v",
+"easy": "To say yes to an invitation or offer.",
+"ko": "수락하다",
+"ex": {
+"en": "I accepted her invitation to the party.",
+"ko": "나는 그 애의 파티 초대를 수락했다."
+}
+},
+{
+"sid": "00043985-a",
+"easy": "Real and true, not just possible.",
+"ko": "실제의",
+"ex": {
+"en": "The actual score was five to three.",
+"ko": "실제 점수는 5 대 3이었다."
+}
+},
+{
+"sid": "01939967-s",
+"easy": "Really happening, not pretend.",
+"ko": "실제의, 진짜의",
+"ex": {
+"en": "We saw the actual bear, not a toy one.",
+"ko": "우리는 장난감이 아닌 진짜 곰을 봤다."
+}
+},
+{
+"sid": "00423043-v",
+"easy": "To come into view so that people can see it.",
+"ko": "나타나다",
+"ex": {
+"en": "A rainbow appeared after the rain.",
+"ko": "비가 온 뒤에 무지개가 나타났다."
+}
+},
+{
+"sid": "02030538-s",
+"easy": "Having no money.",
+"ko": "빈털터리의",
+"ex": {
+"en": "I'm broke because I spent all my allowance.",
+"ko": "용돈을 다 써서 나는 빈털터리다."
+}
+},
+{
+"sid": "05091408-n",
+"easy": "How far apart two things are.",
+"ko": "거리",
+"ex": {
+"en": "The distance between our houses is short.",
+"ko": "우리 집 사이의 거리는 짧다."
+}
+},
+{
+"sid": "08573923-n",
+"easy": "A place that is very far away.",
+"ko": "먼 곳",
+"ex": {
+"en": "I saw a tiny boat far off in the distance.",
+"ko": "멀리 작은 배가 보였다."
+}
+},
+{
+"sid": "05136830-n",
+"easy": "How far it is from one place to another.",
+"ko": "거리",
+"ex": {
+"en": "The distance from my house to school is one mile.",
+"ko": "우리 집에서 학교까지의 거리는 1마일이다."
+}
+},
+{
+"sid": "00840028-n",
+"easy": "Putting food in your mouth and swallowing it.",
+"ko": "먹기, 식사",
+"ex": {
+"en": "Eating slowly is good for your stomach.",
+"ko": "천천히 먹는 것은 배에 좋다."
+}
+},
+{
+"sid": "01168748-n",
+"easy": "Giving one thing and getting another thing back.",
+"ko": "교환",
+"ex": {
+"en": "I made an exchange: my apple for his cookie.",
+"ko": "나는 내 사과를 그 애의 쿠키와 교환했다."
+}
+},
+{
+"sid": "02420020-s",
+"easy": "Thick and wide around.",
+"ko": "굵은, 두꺼운",
+"ex": {
+"en": "The squirrel climbed up the fat tree.",
+"ko": "다람쥐가 굵은 나무를 타고 올라갔다."
+}
+},
+{
+"sid": "00995188-a",
+"easy": "Having a lot of grease or oil in it.",
+"ko": "기름진",
+"ex": {
+"en": "Fatty foods like fries taste good but are not healthy.",
+"ko": "감자튀김 같은 기름진 음식은 맛있지만 건강에 좋지 않다."
+}
+},
+{
+"sid": "09302364-n",
+"easy": "What you learn or discover by looking closely into something.",
+"ko": "조사 결과, 발견",
+"ex": {
+"en": "The scientist shared her findings with the class.",
+"ko": "과학자는 자신의 조사 결과를 학급에 발표했다."
+}
+},
+{
+"sid": "14905454-n",
+"easy": "A hard, clear material that breaks easily and is used in windows.",
+"ko": "유리",
+"ex": {
+"en": "The window is made of glass.",
+"ko": "그 창문은 유리로 만들어졌다."
+}
+},
+{
+"sid": "03443167-n",
+"easy": "A clear cup that you drink from.",
+"ko": "유리컵",
+"ex": {
+"en": "I filled my glass with cold water.",
+"ko": "나는 유리컵에 차가운 물을 가득 따랐다."
+}
+},
+{
+"sid": "13789379-n",
+"easy": "As much as one drinking cup can hold.",
+"ko": "한 잔",
+"ex": {
+"en": "I drank a whole glass of milk.",
+"ko": "나는 우유를 한 잔 다 마셨다."
+}
+},
+{
+"sid": "02091504-s",
+"easy": "Knowing a lot because of lots of study.",
+"ko": "박식한, 학식 있는",
+"ex": {
+"en": "The learned professor knew the answer to every question.",
+"ko": "그 박식한 교수님은 모든 질문의 답을 알고 계셨다."
+}
+},
+{
+"sid": "01641174-a",
+"easy": "Picked up by practice or experience, not from birth.",
+"ko": "학습된",
+"ex": {
+"en": "Brushing teeth is a learned habit.",
+"ko": "이 닦기는 학습된 습관이다."
+}
+},
+{
+"sid": "01526495-a",
+"easy": "Able to move or be moved easily from place to place.",
+"ko": "이동하는, 이동식의",
+"ex": {
+"en": "A mobile library bus comes to our town every week.",
+"ko": "이동 도서관 버스가 매주 우리 마을에 온다."
+}
+},
+{
+"sid": "01605879-s",
+"easy": "In the north part of a place, or facing north.",
+"ko": "북쪽의",
+"ex": {
+"en": "We live in the northern part of the state.",
+"ko": "우리는 주의 북쪽 지역에 산다."
+}
+},
+{
+"sid": "01605651-s",
+"easy": "Coming from the north.",
+"ko": "북쪽에서 오는",
+"ex": {
+"en": "A cold northern wind blew on my face.",
+"ko": "차가운 북풍이 내 얼굴에 불었다."
+}
+},
+{
+"sid": "01658803-a",
+"easy": "Not closed.",
+"ko": "열린, 뜬",
+"ex": {
+"en": "Keep your eyes open when you cross the street.",
+"ko": "길을 건널 때는 눈을 크게 뜨세요."
+}
+},
+{
+"sid": "01657577-s",
+"easy": "Made so that people can go through.",
+"ko": "열린, 개통된",
+"ex": {
+"en": "The newly opened road made the trip faster.",
+"ko": "새로 개통된 도로 덕분에 여행이 더 빨라졌다."
+}
+},
+{
+"sid": "02094323-s",
+"easy": "Not closed up tight.",
+"ko": "열려 있는",
+"ex": {
+"en": "The letter was already open when it came.",
+"ko": "편지는 도착했을 때 이미 열려 있었다."
+}
+},
+{
+"sid": "01686137-s",
+"easy": "Put in a certain spot.",
+"ko": "놓인, 배치된",
+"ex": {
+"en": "The toys were placed neatly on the shelf.",
+"ko": "장난감들이 선반에 가지런히 놓여 있었다."
+}
+},
+{
+"sid": "01831389-a",
+"easy": "Having a lot of strength or force.",
+"ko": "강력한, 힘센",
+"ex": {
+"en": "A powerful wave knocked over my sandcastle.",
+"ko": "강력한 파도가 내 모래성을 무너뜨렸다."
+}
+},
+{
+"sid": "01836317-s",
+"easy": "Having a lot of control over what other people do.",
+"ko": "영향력 있는",
+"ex": {
+"en": "The president is a powerful leader.",
+"ko": "대통령은 영향력이 큰 지도자다."
+}
+},
+{
+"sid": "00122938-s",
+"easy": "Coming before in time.",
+"ko": "이전의, 먼저의",
+"ex": {
+"en": "I could not come because of a prior plan.",
+"ko": "나는 먼저 잡힌 약속 때문에 갈 수 없었다."
+}
+},
+{
+"sid": "00819341-n",
+"easy": "Keeping someone or something safe.",
+"ko": "보호",
+"ex": {
+"en": "The guard dog gave the farm protection at night.",
+"ko": "경비견이 밤에 농장을 지켜 주었다."
+}
+},
+{
+"sid": "04020673-n",
+"easy": "Something that covers you to keep you safe.",
+"ko": "보호 장비, 보호물",
+"ex": {
+"en": "A helmet is protection for your head.",
+"ko": "헬멧은 머리를 보호해 주는 장비다."
+}
+},
+{
+"sid": "02214901-v",
+"easy": "To get something that someone gives or sends you.",
+"ko": "받다",
+"ex": {
+"en": "I received a letter from my grandma.",
+"ko": "나는 할머니에게서 편지를 받았다."
+}
+},
+{
+"sid": "02111702-v",
+"easy": "To catch a signal, like on a radio or phone.",
+"ko": "수신하다, 받다",
+"ex": {
+"en": "My phone cannot receive a signal in the tunnel.",
+"ko": "터널 안에서는 내 휴대폰이 신호를 받지 못한다."
+}
+},
+{
+"sid": "02063669-s",
+"easy": "Having to do with faith and beliefs about God.",
+"ko": "종교의, 종교적인",
+"ex": {
+"en": "We read religious stories at church.",
+"ko": "우리는 교회에서 종교 이야기를 읽는다."
+}
+},
+{
+"sid": "01787685-a",
+"easy": "Believing strongly in God and showing respect for God.",
+"ko": "독실한",
+"ex": {
+"en": "My grandmother is very religious and prays each day.",
+"ko": "할머니는 매우 독실하셔서 매일 기도하신다."
+}
+},
+{
+"sid": "01961388-v",
+"easy": "To sit on an animal and make it move.",
+"ko": "타다",
+"ex": {
+"en": "I rode a pony at the farm.",
+"ko": "나는 농장에서 조랑말을 탔다."
+}
+},
+{
+"sid": "01959843-v",
+"easy": "To travel in a car, bus, or train.",
+"ko": "타다",
+"ex": {
+"en": "I ride the bus to school every day.",
+"ko": "나는 매일 버스를 타고 학교에 간다."
+}
+},
+{
+"sid": "02800403-a",
+"easy": "Having to do with a king or queen.",
+"ko": "왕의, 왕실의",
+"ex": {
+"en": "The royal family waved from the balcony.",
+"ko": "왕실 가족이 발코니에서 손을 흔들었다."
+}
+},
+{
+"sid": "01596916-s",
+"easy": "Born into a family of kings and queens.",
+"ko": "왕족의",
+"ex": {
+"en": "The prince comes from a royal family.",
+"ko": "그 왕자는 왕족 가문 출신이다."
+}
+},
+{
+"sid": "04159912-n",
+"easy": "A big white surface where a movie is shown.",
+"ko": "스크린",
+"ex": {
+"en": "We watched the movie on a giant screen.",
+"ko": "우리는 커다란 스크린으로 영화를 봤다."
+}
+},
+{
+"sid": "04159676-n",
+"easy": "The flat part of a TV or computer where pictures show up.",
+"ko": "화면",
+"ex": {
+"en": "Don't sit too close to the screen.",
+"ko": "화면에 너무 가까이 앉지 마라."
+}
+},
+{
+"sid": "02676679-v",
+"easy": "To be used as something.",
+"ko": "~로 쓰이다, 역할을 하다",
+"ex": {
+"en": "A big rock can serve as a seat.",
+"ko": "큰 바위는 의자로 쓰일 수 있다."
+}
+},
+{
+"sid": "01097629-v",
+"easy": "To work in a job or have a position.",
+"ko": "(직책을) 맡다",
+"ex": {
+"en": "My uncle served as mayor for four years.",
+"ko": "삼촌은 4년 동안 시장직을 맡았다."
+}
+},
+{
+"sid": "02168293-a",
+"easy": "Having a name written on it by hand.",
+"ko": "서명된",
+"ex": {
+"en": "Mom got a signed card from my teacher.",
+"ko": "엄마는 선생님이 서명한 카드를 받으셨다."
+}
+},
+{
+"sid": "00500206-s",
+"easy": "Using hand moves and faces to talk, the way people who cannot hear do.",
+"ko": "수어의, 수화의",
+"ex": {
+"en": "Signed language uses hands and faces to talk.",
+"ko": "수어는 손과 얼굴 표정으로 말한다."
+}
+},
+{
+"sid": "00983718-a",
+"easy": "Not fast; taking a long time.",
+"ko": "느린",
+"ex": {
+"en": "The turtle is slow but never gives up.",
+"ko": "거북이는 느리지만 포기하지 않는다."
+}
+},
+{
+"sid": "00985793-a",
+"easy": "Played with a calm beat that is not fast.",
+"ko": "느린",
+"ex": {
+"en": "The band played a slow song at the dance.",
+"ko": "밴드는 댄스 시간에 느린 노래를 연주했다."
+}
+},
+{
+"sid": "07253354-n",
+"easy": "A talk that a person gives to a group of people.",
+"ko": "연설",
+"ex": {
+"en": "The principal gave a speech at the assembly.",
+"ko": "교장 선생님은 조회 시간에 연설을 하셨다."
+}
+},
+{
+"sid": "08442260-n",
+"easy": "The cars and trucks moving along the road.",
+"ko": "교통, 교통량",
+"ex": {
+"en": "Traffic was slow because of the rain.",
+"ko": "비 때문에 차가 많이 막혔다."
+}
+},
+{
+"sid": "00831918-n",
+"easy": "Having clothes on your body.",
+"ko": "착용, 입기",
+"ex": {
+"en": "Wearing a seat belt keeps you safe.",
+"ko": "안전벨트를 착용하면 안전하다."
+}
+},
+{
+"sid": "00840788-s",
+"easy": "Making you very tired.",
+"ko": "지치게 하는",
+"ex": {
+"en": "The long hike was wearing for everyone.",
+"ko": "긴 등산은 모두를 지치게 했다."
+}
+},
+{
+"sid": "01681111-s",
+"easy": "Very, very good.",
+"ko": "멋진, 훌륭한",
+"ex": {
+"en": "We had a wonderful day at the beach.",
+"ko": "우리는 해변에서 멋진 하루를 보냈다."
+}
+},
+{
+"sid": "02485813-s",
+"easy": "Having the same opinion.",
+"ko": "의견이 일치한",
+"ex": {
+"en": "The kids were agreed that pizza was best.",
+"ko": "아이들은 피자가 최고라는 데 의견이 일치했다."
+}
+},
+{
+"sid": "02695091-n",
+"easy": "A place where airplanes take off and land.",
+"ko": "공항",
+"ex": {
+"en": "We waited at the airport for Grandma's plane.",
+"ko": "우리는 공항에서 할머니의 비행기를 기다렸다."
+}
+},
+{
+"sid": "02614382-v",
+"easy": "To start at a certain time or place.",
+"ko": "시작되다",
+"ex": {
+"en": "The race begins at the big tree.",
+"ko": "경주는 큰 나무에서 시작된다."
+}
+},
+{
+"sid": "08528313-n",
+"easy": "The part underneath something.",
+"ko": "밑면, 바닥",
+"ex": {
+"en": "There is a sticker on the bottom of my shoe.",
+"ko": "내 신발 밑바닥에 스티커가 붙어 있다."
+}
+},
+{
+"sid": "08529042-n",
+"easy": "The lowest part of something.",
+"ko": "맨 아래, 바닥",
+"ex": {
+"en": "My ball rolled to the bottom of the hill.",
+"ko": "내 공이 언덕 맨 아래까지 굴러갔다."
+}
+},
+{
+"sid": "03292644-n",
+"easy": "A machine that makes a car or truck move.",
+"ko": "엔진",
+"ex": {
+"en": "The car engine made a loud noise.",
+"ko": "자동차 엔진에서 큰 소리가 났다."
+}
+},
+{
+"sid": "03690149-n",
+"easy": "The front part of a train that pulls it along the tracks.",
+"ko": "기관차",
+"ex": {
+"en": "The train engine blew its whistle.",
+"ko": "기관차가 기적을 울렸다."
+}
+},
+{
+"sid": "01378757-s",
+"easy": "Known by many, many people.",
+"ko": "유명한",
+"ex": {
+"en": "My uncle met a famous soccer player.",
+"ko": "삼촌은 유명한 축구 선수를 만났다."
+}
+},
+{
+"sid": "01101341-n",
+"easy": "Putting money into something hoping to get more later.",
+"ko": "투자",
+"ex": {
+"en": "Putting money in a bank is a safe investment.",
+"ko": "은행에 돈을 넣어 두는 것은 안전한 투자다."
+}
+},
+{
+"sid": "13354252-n",
+"easy": "Money you put into something hoping to get more later.",
+"ko": "투자금",
+"ex": {
+"en": "Grandpa's investment grew over the years.",
+"ko": "할아버지의 투자금은 해가 갈수록 늘어났다."
+}
+},
+{
+"sid": "04654542-n",
+"easy": "Time or hard work that you put into something.",
+"ko": "투자",
+"ex": {
+"en": "Practicing piano every day is an investment of time.",
+"ko": "매일 피아노를 연습하는 것은 시간을 투자하는 일이다."
+}
+},
+{
+"sid": "00820127-n",
+"easy": "Taking care of something for someone.",
+"ko": "보관, 맡아 둠",
+"ex": {
+"en": "I left my toy in my friend's keeping.",
+"ko": "나는 장난감을 친구에게 맡겨 두었다."
+}
+},
+{
+"sid": "02696550-v",
+"easy": "To be in a certain place.",
+"ko": "있다, 위치하다",
+"ex": {
+"en": "The small town lies by a river.",
+"ko": "그 작은 마을은 강가에 있다."
+}
+},
+{
+"sid": "01549783-v",
+"easy": "To rest flat with your body stretched out.",
+"ko": "눕다",
+"ex": {
+"en": "I like to lie on the grass and watch clouds.",
+"ko": "나는 잔디에 누워 구름 보는 것을 좋아한다."
+}
+},
+{
+"sid": "10660018-n",
+"easy": "Someone you are married to.",
+"ko": "배우자",
+"ex": {
+"en": "Mom is Dad's partner, and they cook together.",
+"ko": "엄마는 아빠의 배우자이고, 두 분은 함께 요리하신다."
+}
+},
+{
+"sid": "09954892-n",
+"easy": "A person who works with you on something.",
+"ko": "동료, 협력자",
+"ex": {
+"en": "My partner and I built a volcano for science class.",
+"ko": "내 짝과 나는 과학 시간에 화산 모형을 만들었다."
+}
+},
+{
+"sid": "10422162-n",
+"easy": "One of the owners of a business they share.",
+"ko": "동업자",
+"ex": {
+"en": "My aunt and her partner own a bakery.",
+"ko": "이모와 동업자가 빵집을 운영한다."
+}
+},
+{
+"sid": "01210507-a",
+"easy": "Higher than what is around it.",
+"ko": "도드라진, 튀어나온",
+"ex": {
+"en": "The cookie has a raised star on top.",
+"ko": "쿠키 위에 별 모양이 도드라져 있다."
+}
+},
+{
+"sid": "00057389-s",
+"easy": "Having a pattern that sticks out from a flat surface.",
+"ko": "양각의, 도드라진",
+"ex": {
+"en": "The card had raised gold letters.",
+"ko": "그 카드에는 금색 글씨가 도드라져 있었다."
+}
+},
+{
+"sid": "00884674-s",
+"easy": "Higher than before.",
+"ko": "올라간, 높아진",
+"ex": {
+"en": "The doctor checked my raised temperature.",
+"ko": "의사 선생님은 올라간 내 체온을 재셨다."
+}
+},
+{
+"sid": "01364779-a",
+"easy": "Unhappy, like you want to cry.",
+"ko": "슬픈",
+"ex": {
+"en": "I felt sad when my friend moved away.",
+"ko": "친구가 이사 가서 나는 슬펐다."
+}
+},
+{
+"sid": "01369193-s",
+"easy": "Making people feel unhappy.",
+"ko": "슬픈",
+"ex": {
+"en": "The movie had a sad ending.",
+"ko": "그 영화는 슬픈 결말이었다."
+}
+},
+{
+"sid": "01607761-s",
+"easy": "In the south, or facing south.",
+"ko": "남쪽의",
+"ex": {
+"en": "Many birds fly to the southern part of the world in winter.",
+"ko": "많은 새들이 겨울에 남쪽 지방으로 날아간다."
+}
+},
+{
+"sid": "01609663-a",
+"easy": "Coming from or found in places to the south.",
+"ko": "남쪽의, 남부의",
+"ex": {
+"en": "Penguins live in the Southern Hemisphere.",
+"ko": "펭귄은 남반구에 산다."
+}
+},
+{
+"sid": "13901273-n",
+"easy": "A shape with four sides that are all the same length.",
+"ko": "정사각형",
+"ex": {
+"en": "I drew a square with my ruler.",
+"ko": "나는 자로 정사각형을 그렸다."
+}
+},
+{
+"sid": "13753131-n",
+"easy": "A number multiplied by itself.",
+"ko": "제곱",
+"ex": {
+"en": "The square of four is sixteen.",
+"ko": "4의 제곱은 16이다."
+}
+},
+{
+"sid": "08637195-n",
+"easy": "An open space in a town where streets meet.",
+"ko": "광장",
+"ex": {
+"en": "We fed pigeons in the town square.",
+"ko": "우리는 마을 광장에서 비둘기에게 먹이를 주었다."
+}
+},
+{
+"sid": "01626075-s",
+"easy": "Blocked, so air cannot go through.",
+"ko": "막힌",
+"ex": {
+"en": "My nose is stopped up because of a cold.",
+"ko": "감기 때문에 내 코가 막혔다."
+}
+},
+{
+"sid": "00613438-a",
+"easy": "Done the way people have done it for a very long time.",
+"ko": "전통적인",
+"ex": {
+"en": "We eat traditional rice cake soup on New Year's Day.",
+"ko": "우리는 설날에 전통 음식인 떡국을 먹는다."
+}
+},
+{
+"sid": "00065694-r",
+"easy": "Two times.",
+"ko": "두 번",
+"ex": {
+"en": "I brushed my teeth twice today.",
+"ko": "나는 오늘 이를 두 번 닦았다."
+}
+},
+{
+"sid": "00083743-r",
+"easy": "Two times as much.",
+"ko": "두 배로",
+"ex": {
+"en": "She was doubly happy because we won and it was her birthday.",
+"ko": "우리가 이기고 생일이기도 해서 그 애는 두 배로 기뻤다."
+}
+},
+{
+"sid": "11546388-n",
+"easy": "Air that moves outside.",
+"ko": "바람",
+"ex": {
+"en": "The strong wind blew my hat away.",
+"ko": "강한 바람에 내 모자가 날아갔다."
+}
+},
+{
+"sid": "00838198-n",
+"easy": "The air that you breathe in and out.",
+"ko": "숨",
+"ex": {
+"en": "I fell, and it knocked the wind out of me.",
+"ko": "나는 넘어져서 숨이 턱 막혔다."
+}
+},
+{
+"sid": "01771015-v",
+"easy": "To feel scared that something bad may happen.",
+"ko": "걱정하다",
+"ex": {
+"en": "I worry when I have a big test.",
+"ko": "나는 큰 시험이 있으면 걱정이 된다."
+}
+},
+{
+"sid": "01770600-v",
+"easy": "To keep thinking about something that bothers you.",
+"ko": "걱정하다",
+"ex": {
+"en": "Mom worries when I come home late.",
+"ko": "엄마는 내가 늦게 오면 걱정하신다."
+}
+},
+{
+"sid": "01769760-v",
+"easy": "To make someone feel upset and nervous.",
+"ko": "걱정시키다",
+"ex": {
+"en": "My cough worried Mom.",
+"ko": "내 기침이 엄마를 걱정시켰다."
+}
+},
+{
+"sid": "06858649-n",
+"easy": "The name a company gives to the things it sells.",
+"ko": "상표, 브랜드",
+"ex": {
+"en": "What brand of sneakers do you wear?",
+"ko": "너는 어느 브랜드 운동화를 신니?"
+}
+},
+{
+"sid": "02927500-n",
+"easy": "A big vehicle that carries many people.",
+"ko": "버스",
+"ex": {
+"en": "I ride the school bus with my friends.",
+"ko": "나는 친구들과 함께 스쿨버스를 탄다."
+}
+},
+{
+"sid": "13686626-n",
+"easy": "A tiny amount of money. One hundred of them make a dollar.",
+"ko": "센트",
+"ex": {
+"en": "A penny is worth one cent.",
+"ko": "1페니는 1센트의 가치가 있다."
+}
+},
+{
+"sid": "13411799-n",
+"easy": "A small coin that is worth very little. One hundred make a dollar.",
+"ko": "센트, 1센트 동전",
+"ex": {
+"en": "I found a cent on the sidewalk.",
+"ko": "나는 인도에서 1센트 동전을 주웠다."
+}
+}
+]

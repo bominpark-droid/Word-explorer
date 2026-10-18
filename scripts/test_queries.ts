@@ -31,6 +31,14 @@ async function expectLookup(q: string, want: string) {
   const v = await lookup(db, 'valley');
   const e = await getEntry(db, v!.id);
   console.log(JSON.stringify(e, null, 1).slice(0, 1200));
+  // Common words without a hand-written entry should still show Korean (data/gloss).
+  for (const w of ['laugh', 'garlic', 'walk']) {
+    const r = await lookup(db, w);
+    const en = r ? await getEntry(db, r.id) : null;
+    const ko = en?.dictSenses.find((s) => s.ko)?.ko;
+    if (!ko) failed++;
+    console.log(ko ? 'ok  ' : 'FAIL', w, 'Korean:', ko);
+  }
   const t0 = Date.now();
   for (const p of ['a', 'b', 'co', 's', 'th']) await suggest(db, p);
   console.log('5 short-prefix suggests took', Date.now() - t0, 'ms');
