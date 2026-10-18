@@ -40,6 +40,7 @@ export default function WordScreen({ id, onBack, onOpen }: Props) {
   }
 
   const hasKid = entry.kidSenses.length > 0;
+  const hasKo = entry.dictSenses.some((s) => s.ko);
   const openWord = async (w: string) => {
     const row = await lookup(db, w);
     if (row) onOpen(row.id);
@@ -72,7 +73,7 @@ export default function WordScreen({ id, onBack, onOpen }: Props) {
 
         {hasKid ? (
           entry.kidSenses.map((s, i) => <KidSenseCard key={i} sense={s} index={i} total={entry.kidSenses.length} />)
-        ) : (
+        ) : hasKo ? null : (
           <View style={styles.note}>
             <Text style={styles.noteText}>
               이 단어는 아직 쉬운 설명이 없어서 영어 사전(WordNet)의 뜻을 보여줘요.
@@ -92,6 +93,7 @@ export default function WordScreen({ id, onBack, onOpen }: Props) {
 
         <Text style={styles.credit}>
           {hasKid ? 'Easy definitions, Korean & examples: written for this app (AI-assisted). ' : ''}
+          {entry.dictSenses.some((s) => s.ko) ? 'Common-word easy meanings and Korean: AI-written, not human-reviewed. ' : ''}
           Dictionary: Open English WordNet (CC BY 4.0), based on Princeton WordNet.
         </Text>
       </ScrollView>
@@ -152,9 +154,13 @@ function DictSenses({ senses, onWord }: { senses: DictSense[]; onWord: (w: strin
           <Text style={styles.dictPos}>
             {i + 1}. {s.pos} · {POS_KO[s.pos] ?? s.pos}
           </Text>
-          <Text style={styles.dictDef}>{s.def}</Text>
+          {s.easy && s.ko ? (
+            <EasyGloss s={s} />
+          ) : (
+            <Text style={styles.dictDef}>{s.def}</Text>
+          )}
           {s.wikidata ? <OnlineKorean qid={s.wikidata} /> : null}
-          {s.examples.slice(0, 2).map((e, j) => (
+          {(s.easy && s.ko ? [] : s.examples.slice(0, 2)).map((e, j) => (
             <Text key={j} style={styles.dictEx}>
               “{e}”
             </Text>
@@ -176,6 +182,26 @@ function DictSenses({ senses, onWord }: { senses: DictSense[]; onWord: (w: strin
           <Text style={styles.moreText}>Show all {senses.length} ▾</Text>
         </Pressable>
       ) : null}
+    </View>
+  );
+}
+
+// Easy English first, Korean on tap, then one example (tap for its Korean).
+function EasyGloss({ s }: { s: DictSense }) {
+  const [ko, setKo] = useState(false);
+  return (
+    <View>
+      <Text style={styles.easyDef}>{s.easy}</Text>
+      <Pressable style={[styles.koBtn, ko && styles.koBtnOn]} onPress={() => setKo(!ko)}>
+        <Text style={styles.koBtnText}>{ko ? '한국어 뜻 숨기기' : '🇰🇷 한국어로 보기'}</Text>
+      </Pressable>
+      {ko ? (
+        <View style={styles.koBox}>
+          <Text style={styles.koMain}>{s.ko}</Text>
+        </View>
+      ) : null}
+      {s.exampleEn ? <ExampleRow en={s.exampleEn} ko={s.exampleKo ?? undefined} /> : null}
+      <Text style={styles.wnDef}>WordNet: {s.def}</Text>
     </View>
   );
 }
@@ -265,6 +291,8 @@ const styles = StyleSheet.create({
   dictTitle: { fontSize: 15, fontWeight: '700', color: C.sub, marginBottom: 4 },
   dictSense: { marginTop: 10 },
   dictPos: { fontSize: 13, color: C.blue, fontWeight: '700' },
+  easyDef: { fontSize: 19, lineHeight: 27, color: C.ink, marginTop: 4, fontWeight: '500' },
+  wnDef: { fontSize: 12, color: C.faint, marginTop: 6, lineHeight: 17 },
   dictDef: { fontSize: 16, color: C.ink, lineHeight: 23, marginTop: 2 },
   dictEx: { fontSize: 14, color: C.sub, fontStyle: 'italic', marginTop: 3 },
   onlineKo: { fontSize: 14, color: C.koInk, marginTop: 3 },

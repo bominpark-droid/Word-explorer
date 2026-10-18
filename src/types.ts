@@ -16,6 +16,11 @@ export type DictSense = {
   examples: string[];
   wikidata: string | null;
   synonyms: string[];
+  // Optional easy layer written for common words (data/gloss): easy English, Korean, one example.
+  easy: string | null;
+  ko: string | null;
+  exampleEn: string | null;
+  exampleKo: string | null;
 };
 
 export type Entry = {

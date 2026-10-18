@@ -1,7 +1,9 @@
 """Build assets/db/dict.db from Open English WordNet (YAML source), WordNet 3.0
 morphological exception lists, and the curated kid-friendly entries in data/curated/.
 
-Usage: python scripts/build_db.py <oewn_repo_dir> <wndb_exc_dir> <curated_dir> <out_db>
+Optional 5th argument: directory of Korean/easy glosses per WordNet sense (data/gloss/*.json).
+
+Usage: python scripts/build_db.py <oewn_repo_dir> <wndb_exc_dir> <curated_dir> <out_db> [gloss_dir]
 """
 import glob
 import json
@@ -18,6 +20,7 @@ except AttributeError:
     Loader = yaml.SafeLoader
 
 oewn, excdir, curdir, out = sys.argv[1:5]
+glossdir = sys.argv[5] if len(sys.argv) > 5 else None
 src = os.path.join(oewn, "src", "yaml")
 
 print("loading synsets...")
@@ -100,7 +103,8 @@ db.executescript(
     CREATE TABLE meta(k TEXT PRIMARY KEY, v TEXT);
     CREATE TABLE words(id INTEGER PRIMARY KEY, word TEXT NOT NULL, w TEXT NOT NULL, ipa TEXT,
                        kid INTEGER NOT NULL DEFAULT 0, nsenses INTEGER NOT NULL DEFAULT 0);
-    CREATE TABLE synsets(id INTEGER PRIMARY KEY, pos TEXT, def TEXT, ex TEXT, wd TEXT, members TEXT);
+    CREATE TABLE synsets(id INTEGER PRIMARY KEY, pos TEXT, def TEXT, ex TEXT, wd TEXT, members TEXT,
+                         sid TEXT, easy TEXT, ko TEXT, xe TEXT, xk TEXT);
     CREATE TABLE senses(word_id INTEGER, ord INTEGER, synset_id INTEGER);
     CREATE TABLE kid(word_id INTEGER PRIMARY KEY, topic TEXT, picture INTEGER, data TEXT);
     CREATE TABLE forms(form TEXT, word_id INTEGER);
@@ -111,9 +115,9 @@ syn_rowid = {}
 for i, (sid, s) in enumerate(synsets.items(), 1):
     syn_rowid[sid] = i
     db.execute(
-        "INSERT INTO synsets VALUES (?,?,?,?,?,?)",
+        "INSERT INTO synsets(id, pos, def, ex, wd, members, sid) VALUES (?,?,?,?,?,?,?)",
         (i, POS.get(s["pos"], s["pos"]), s["def"], json.dumps(s["ex"], ensure_ascii=False) if s["ex"] else None,
-         s["wd"], json.dumps(s["members"][:8], ensure_ascii=False)),
+         s["wd"], json.dumps(s["members"][:8], ensure_ascii=False), sid),
     )
 
 word_id = {}
@@ -147,7 +151,7 @@ for k, item in curated.items():
         db.execute("INSERT INTO words VALUES (?,?,?,?,?,?)", (wid, item["word"], k, None, 0, 0))
         lower_to_ids[k] = [wid]
         added_curated += 1
-    db.execute("UPDATE words SET kid=1 WHERE id=?", (wid,))
+    db.execute("UPDATE words SET kid=2 WHERE id=?", (wid,))
     db.execute(
         "INSERT OR REPLACE INTO kid VALUES (?,?,?,?)",
         (wid, item.get("topic"), 1 if item.get("picture") else 0,
@@ -173,6 +177,26 @@ for f in glob.glob(os.path.join(excdir, "*.exc")):
                 for wid in lower_to_ids.get(base.replace("_", " "), []):
                     db.execute("INSERT INTO forms VALUES (?,?)", (form, wid))
 
+glossed = 0
+if glossdir and os.path.isdir(glossdir):
+    for f in sorted(glob.glob(os.path.join(glossdir, "*.json"))):
+        with open(f, encoding="utf-8") as fh:
+            for g in json.load(fh):
+                if g.get("skip") or not g.get("ko") or not g.get("easy") or g["sid"] not in syn_rowid:
+                    continue
+                ex = g.get("ex") or {}
+                db.execute(
+                    "UPDATE synsets SET easy=?, ko=?, xe=?, xk=? WHERE id=?",
+                    (g["easy"], g["ko"], ex.get("en"), ex.get("ko"), syn_rowid[g["sid"]]),
+                )
+                glossed += 1
+    # Words with at least one Korean-glossed meaning (curated words stay kid=2).
+    db.execute(
+        """UPDATE words SET kid=1 WHERE kid=0 AND id IN
+           (SELECT x.word_id FROM senses x JOIN synsets y ON y.id = x.synset_id WHERE y.ko IS NOT NULL)"""
+    )
+print(glossed, "glossed senses")
+
 db.execute("CREATE TABLE f2 AS SELECT DISTINCT form, word_id FROM forms")
 db.execute("DROP TABLE forms")
 db.execute("ALTER TABLE f2 RENAME TO forms")
@@ -186,6 +210,7 @@ db.executescript(
 db.execute("INSERT INTO meta VALUES ('version', ?)", (os.environ.get("DICT_VERSION", "1"),))
 db.execute("INSERT INTO meta VALUES ('kid_count', ?)", (str(len(curated)),))
 db.execute("INSERT INTO meta VALUES ('word_count', ?)", (str(next_id - 1),))
+db.execute("INSERT INTO meta VALUES ('ko_words', ?)", (str(db.execute("SELECT COUNT(*) FROM words WHERE kid > 0").fetchone()[0]),))
 db.commit()
 db.execute("VACUUM")
 db.close()

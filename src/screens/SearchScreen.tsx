@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
 import { FlatList, Keyboard, Pressable, StyleSheet, Text, TextInput, View } from 'react-native';
-import { kidCount, lookup, randomKidWord, suggest } from '../db';
+import { kidCount, koWordCount, lookup, randomKidWord, suggest } from '../db';
 import { useDict } from '../dbProvider';
 import { C } from '../theme';
 import type { WordRow } from '../types';
@@ -14,11 +14,13 @@ export default function SearchScreen({ onOpen, recent }: Props) {
   const [notFound, setNotFound] = useState(false);
   const [daily, setDaily] = useState<WordRow | null>(null);
   const [count, setCount] = useState(0);
+  const [koCount, setKoCount] = useState(0);
   const seq = useRef(0);
 
   useEffect(() => {
     randomKidWord(db).then(setDaily);
     kidCount(db).then(setCount);
+    koWordCount(db).then(setKoCount);
   }, [db]);
 
   useEffect(() => {
@@ -80,7 +82,8 @@ export default function SearchScreen({ onOpen, recent }: Props) {
                 </Pressable>
               ) : null}
               <Text style={styles.info}>
-                ⭐ 표시 단어 {count.toLocaleString()}개는 4학년 수준의 쉬운 설명, 한국어 뜻, 예문이 있어요.
+                ⭐ {count.toLocaleString()}개는 4학년 수준의 쉬운 설명, 한국어 뜻, 예문을 직접 만들었어요.
+                {koCount > count ? ` 🇰🇷 표시를 포함해 ${koCount.toLocaleString()}개 단어에 한국어 뜻이 있어요.` : ''}
               </Text>
               {recent.length ? <Text style={styles.section}>Recent 최근 찾은 단어</Text> : null}
             </View>
@@ -97,7 +100,7 @@ function Row({ item, onPress }: { item: WordRow; onPress: () => void }) {
   return (
     <Pressable onPress={onPress} style={({ pressed }) => [styles.row, pressed && { backgroundColor: C.blueSoft }]}>
       <Text style={styles.rowWord}>{item.word}</Text>
-      {item.kid ? <Text style={styles.kidStar}>⭐ easy</Text> : null}
+      {item.kid === 2 ? <Text style={styles.kidStar}>⭐ easy</Text> : item.kid === 1 ? <Text style={styles.kidStar}>🇰🇷 한국어</Text> : null}
     </Pressable>
   );
 }
