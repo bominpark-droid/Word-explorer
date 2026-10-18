@@ -1,0 +1,33 @@
+import { chromium } from 'playwright';
+const out = process.argv[2] || '.';
+const browser = await chromium.launch({ executablePath: process.env.CHROMIUM_PATH || undefined });
+const ctx = await browser.newContext({ viewport: { width: 390, height: 844 }, deviceScaleFactor: 2 });
+const page = await ctx.newPage();
+page.on('console', m => { if (m.type() === 'error') console.log('console:', m.text().slice(0, 300)); });
+page.on('pageerror', e => console.log('pageerror:', e.message.slice(0, 300)));
+await page.goto('http://localhost:8081/', { waitUntil: 'networkidle' });
+await page.waitForSelector('input', { timeout: 60000 });
+await page.waitForTimeout(800);
+await page.screenshot({ path: `${out}/1-home.png` });
+await page.fill('input', process.argv[3] || 'valleys');
+await page.waitForTimeout(800);
+await page.screenshot({ path: `${out}/2-suggest.png` });
+await page.press('input', 'Enter');
+await page.waitForTimeout(1200);
+await page.screenshot({ path: `${out}/3-word.png` });
+const ko = page.getByText('🇰🇷 한국어로 보기').first();
+if (await ko.count()) { await ko.click(); await page.waitForTimeout(300); }
+const ex = page.getByText('탭하면 한국어').first();
+if (await ex.count()) { await ex.click(); await page.waitForTimeout(300); }
+await page.screenshot({ path: `${out}/4-korean.png`, fullPage: true });
+await page.getByText('☆ 단어장에 넣기').click();
+await page.waitForTimeout(300);
+await page.getByText('⭐ 단어장').click();
+await page.waitForTimeout(500);
+await page.screenshot({ path: `${out}/5-wordbook.png` });
+await page.getByText('🃏 카드로 외우기 Practice').click();
+await page.waitForTimeout(800);
+await page.getByText('뜻이 생각나면 카드를 탭해서 확인해요').click();
+await page.waitForTimeout(300);
+await page.screenshot({ path: `${out}/6-cards.png` });
+await browser.close();

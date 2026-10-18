@@ -20,13 +20,18 @@
   },
   "devDependencies": {
     "@types/react": "~19.3.0",
-    "typescript": "~6.0.3"
+    "typescript": "~6.0.3",
+    "tsx": "^4.20.0"
   },
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "web": "expo start --web"
+    "web": "expo start --web",
+    "typecheck": "tsc --noEmit",
+    "test": "tsx scripts/test_queries.ts",
+    "build:dict": "bash scripts/rebuild_dict.sh",
+    "web:export": "expo export --platform web --output-dir dist"
   },
   "private": true
 }
