@@ -1,0 +1,407 @@
+[
+{
+"sid": "00399434-s",
+"easy": "A deep color between blue and purple.",
+"ko": "남색",
+"ex": {
+"en": "She painted the night sky with indigo paint.",
+"ko": "그녀는 남색 물감으로 밤하늘을 칠했다."
+}
+},
+{
+"sid": "02345893-v",
+"easy": "To put a cover over a dog's nose and mouth so it cannot bite.",
+"ko": "입마개를 씌우다",
+"ex": {
+"en": "The vet had to muzzle the scared dog.",
+"ko": "수의사는 겁먹은 개에게 입마개를 씌워야 했다."
+}
+},
+{
+"sid": "00777201-v",
+"easy": "To argue with someone because you do not agree.",
+"ko": "다투다, 말다툼하다",
+"ex": {
+"en": "My brother and I quarrel about who gets the last cookie.",
+"ko": "형과 나는 마지막 쿠키를 누가 먹을지로 다툰다."
+}
+},
+{
+"sid": "01418239-v",
+"easy": "To hit something very hard with your fist or a bat.",
+"ko": "강타하다, 세게 치다",
+"ex": {
+"en": "The batter slugged the ball over the fence.",
+"ko": "타자가 공을 세게 쳐서 담장을 넘겼다."
+}
+},
+{
+"sid": "07395929-n",
+"easy": "The soft sound a pigeon makes.",
+"ko": "구구 (비둘기 울음소리)",
+"ex": {
+"en": "We heard the coo of a pigeon outside the window.",
+"ko": "창밖에서 비둘기의 구구 소리가 들렸다."
+}
+},
+{
+"sid": "07199395-n",
+"easy": "A small, silly fight with words about something not important.",
+"ko": "말다툼",
+"ex": {
+"en": "My sister and I had a spat about who sits by the window.",
+"ko": "누나와 나는 누가 창가에 앉을지로 말다툼을 했다."
+}
+},
+{
+"sid": "00418781-v",
+"easy": "To make cloth stiff by putting a special powder from plants in the water.",
+"ko": "풀을 먹이다",
+"ex": {
+"en": "Dad starches his shirts so they stay flat.",
+"ko": "아빠는 셔츠가 빳빳하도록 풀을 먹이신다."
+}
+},
+{
+"sid": "00152582-v",
+"easy": "To get smaller or weaker little by little.",
+"ko": "점점 줄어들다",
+"ex": {
+"en": "The rain tapered off before our game.",
+"ko": "우리 경기가 시작되기 전에 비가 점점 잦아들었다."
+}
+},
+{
+"sid": "06704429-n",
+"easy": "When many people say that something is very good.",
+"ko": "갈채, 찬사",
+"ex": {
+"en": "The school play won loud acclaim from the crowd.",
+"ko": "학교 연극은 관객들에게 큰 갈채를 받았다."
+}
+},
+{
+"sid": "02112613-n",
+"easy": "A big dog with thick fur that pulls sleds in snowy places.",
+"ko": "허스키",
+"ex": {
+"en": "The husky ran through the snow pulling a sled.",
+"ko": "허스키는 눈 속에서 썰매를 끌며 달렸다."
+}
+},
+{
+"sid": "01546513-v",
+"easy": "To sit on a high place like a branch.",
+"ko": "앉다, 내려앉다",
+"ex": {
+"en": "A little bird perched on the fence outside our school.",
+"ko": "작은 새 한 마리가 학교 밖 울타리에 앉았다."
+}
+},
+{
+"sid": "02064069-v",
+"easy": "To move away from the middle in many directions.",
+"ko": "퍼지다, 확산되다",
+"ex": {
+"en": "The smell of cookies diffused through the whole house.",
+"ko": "쿠키 냄새가 온 집안에 퍼졌다."
+}
+},
+{
+"sid": "07636610-n",
+"easy": "A thin, shiny layer of sweet or salty sauce on top of food.",
+"ko": "글레이즈",
+"ex": {
+"en": "The donut had a sweet sugar glaze on top.",
+"ko": "도넛 위에는 달콤한 설탕 글레이즈가 발려 있었다."
+}
+},
+{
+"sid": "00909990-n",
+"easy": "A movie scene that is filmed one more time.",
+"ko": "재촬영",
+"ex": {
+"en": "The director asked for a retake because the dog ran away.",
+"ko": "개가 도망가서 감독은 재촬영을 요구했다."
+}
+},
+{
+"sid": "09465742-n",
+"easy": "A tiny, sharp piece of wood or glass that breaks off.",
+"ko": "가시, 파편",
+"ex": {
+"en": "I got a splinter in my finger from the old fence.",
+"ko": "낡은 울타리 때문에 손가락에 가시가 박혔다."
+}
+},
+{
+"sid": "07226412-n",
+"easy": "A long, unhappy complaint said in a high, crying voice.",
+"ko": "징징거림, 칭얼거림",
+"ex": {
+"en": "\"Stop the whine and ask nicely,\" said Mom.",
+"ko": "\"징징대지 말고 예쁘게 말해 보렴.\" 엄마가 말씀하셨다."
+}
+},
+{
+"sid": "10286025-n",
+"easy": "Someone who knows how to read and write.",
+"ko": "글을 읽고 쓸 줄 아는 사람",
+"ex": {
+"en": "Learning to read makes you a literate person.",
+"ko": "읽기를 배우면 글을 읽고 쓸 줄 아는 사람이 된다."
+}
+},
+{
+"sid": "01330894-v",
+"easy": "To catch on something sharp or rough and get stuck or torn.",
+"ko": "걸리다",
+"ex": {
+"en": "My sleeve snagged on a nail.",
+"ko": "내 소매가 못에 걸렸다."
+}
+},
+{
+"sid": "00358101-n",
+"easy": "A quick squeeze of skin with two fingers.",
+"ko": "꼬집기",
+"ex": {
+"en": "Grandma gave my cheek a gentle tweak.",
+"ko": "할머니가 내 볼을 살짝 꼬집으셨다."
+}
+},
+{
+"sid": "01818363-v",
+"easy": "To make someone feel very sad or let down.",
+"ko": "낙담시키다, 실망시키다",
+"ex": {
+"en": "The bad news dismayed the whole team.",
+"ko": "나쁜 소식에 팀 전체가 낙담했다."
+}
+},
+{
+"sid": "00237139-v",
+"easy": "To make it hard for someone to move or get things done.",
+"ko": "방해하다",
+"ex": {
+"en": "The deep snow hampered our walk to school.",
+"ko": "깊은 눈이 우리의 등굣길을 방해했다."
+}
+},
+{
+"sid": "08007266-n",
+"easy": "A group of baby birds or animals born and cared for together.",
+"ko": "한배 새끼",
+"ex": {
+"en": "The hen walked across the yard with her brood of chicks.",
+"ko": "암탉이 병아리 새끼들을 데리고 마당을 가로질렀다."
+}
+},
+{
+"sid": "03137530-n",
+"easy": "Making things like scarves by looping yarn with a hooked needle.",
+"ko": "코바늘뜨기",
+"ex": {
+"en": "Grandma taught me crochet, and I made a small scarf.",
+"ko": "할머니가 코바늘뜨기를 가르쳐 주셔서 나는 작은 목도리를 만들었다."
+}
+},
+{
+"sid": "00030046-s",
+"easy": "Wanting lots of money or things and never wanting to share.",
+"ko": "욕심 많은, 탐욕스러운",
+"ex": {
+"en": "The grasping king wanted all the gold for himself.",
+"ko": "욕심 많은 왕은 금을 전부 혼자 갖고 싶어 했다."
+}
+},
+{
+"sid": "01746437-v",
+"easy": "To dig or clean the soil with a tool that has a flat blade on a long stick.",
+"ko": "괭이질하다",
+"ex": {
+"en": "I hoed the garden with my dad.",
+"ko": "나는 아빠와 함께 텃밭을 괭이질했다."
+}
+},
+{
+"sid": "02573639-s",
+"easy": "Getting thinner or smaller toward one end.",
+"ko": "점점 좁아지는",
+"ex": {
+"en": "We walked down a narrowing path in the woods.",
+"ko": "우리는 숲속의 점점 좁아지는 길을 걸었다."
+}
+},
+{
+"sid": "04981842-n",
+"easy": "A soft, light color, like pale pink or light blue.",
+"ko": "파스텔 색",
+"ex": {
+"en": "She painted her room in pastel colors.",
+"ko": "그녀는 방을 파스텔 색으로 칠했다."
+}
+},
+{
+"sid": "13928578-n",
+"easy": "A place where something has dropped down or bent in the middle.",
+"ko": "처짐, 푹 꺼진 곳",
+"ex": {
+"en": "There is a sag in the middle of my old bed.",
+"ko": "내 낡은 침대는 가운데가 푹 꺼져 있다."
+}
+},
+{
+"sid": "01483400-v",
+"easy": "To catch an animal with a trap.",
+"ko": "덫으로 잡다",
+"ex": {
+"en": "He tried to snare the rabbit with a rope trap.",
+"ko": "그는 밧줄 덫으로 토끼를 잡으려 했다."
+}
+},
+{
+"sid": "00372225-s",
+"easy": "A color that is a mix of blue and green.",
+"ko": "청록색",
+"ex": {
+"en": "My new backpack is teal.",
+"ko": "내 새 책가방은 청록색이다."
+}
+},
+{
+"sid": "02788671-n",
+"easy": "A soft strip you put over a cut to keep it clean.",
+"ko": "붕대",
+"ex": {
+"en": "Mom put a bandage on my scraped knee.",
+"ko": "엄마가 까진 내 무릎에 붕대를 붙여 주셨다."
+}
+},
+{
+"sid": "05266995-n",
+"easy": "Hair twisted together in three parts to make a long rope.",
+"ko": "땋은 머리",
+"ex": {
+"en": "She wore her hair in a long braid for gym class.",
+"ko": "그녀는 체육 시간에 긴 땋은 머리를 하고 왔다."
+}
+},
+{
+"sid": "00325528-r",
+"easy": "Toward the side where the sun comes up.",
+"ko": "동쪽으로",
+"ex": {
+"en": "The geese flew eastward over the lake.",
+"ko": "기러기들이 호수 위를 동쪽으로 날아갔다."
+}
+},
+{
+"sid": "00345595-r",
+"easy": "A music word that means to play loudly.",
+"ko": "세게, 포르테",
+"ex": {
+"en": "The band played the last part forte.",
+"ko": "밴드는 마지막 부분을 세게 연주했다."
+}
+},
+{
+"sid": "01332414-v",
+"easy": "To fold the edge of cloth and sew it down.",
+"ko": "단을 꿰매다",
+"ex": {
+"en": "Mom hemmed my pants so they were not too long.",
+"ko": "엄마가 바지가 길지 않게 단을 꿰매 주셨다."
+}
+},
+{
+"sid": "00415483-r",
+"easy": "In a sport like soccer, standing in a spot where the rules say you cannot be.",
+"ko": "오프사이드",
+"ex": {
+"en": "The goal did not count because Sam was offside.",
+"ko": "샘이 오프사이드여서 그 골은 인정되지 않았다."
+}
+},
+{
+"sid": "01339317-v",
+"easy": "To put one thing on top of another.",
+"ko": "덮다, 씌우다",
+"ex": {
+"en": "She overlaid the cake with white frosting.",
+"ko": "그녀는 케이크 위에 하얀 크림을 덮어 발랐다."
+}
+},
+{
+"sid": "00655201-n",
+"easy": "Counting something again, like votes, to make sure the number is right.",
+"ko": "재검표, 다시 세기",
+"ex": {
+"en": "The class asked for a recount of the votes for class president.",
+"ko": "반 친구들은 반장 선거의 재검표를 요청했다."
+}
+},
+{
+"sid": "00454758-v",
+"easy": "To fill something again after it is empty.",
+"ko": "다시 채우다",
+"ex": {
+"en": "Can you refill my water bottle, please?",
+"ko": "내 물병 좀 다시 채워 줄래?"
+}
+},
+{
+"sid": "05731362-n",
+"easy": "A funny feeling on your skin when something touches it lightly.",
+"ko": "간지럼",
+"ex": {
+"en": "I felt a tickle on my foot from the grass.",
+"ko": "풀 때문에 발이 간질간질했다."
+}
+},
+{
+"sid": "14878998-n",
+"easy": "The waste that comes out of an animal's body, like from a cow.",
+"ko": "(동물의) 똥, 분뇨",
+"ex": {
+"en": "The farmer used cow dung to help the plants grow.",
+"ko": "농부는 식물이 잘 자라도록 소똥을 썼다."
+}
+},
+{
+"sid": "07329258-n",
+"easy": "A hole in a bike or car tire that lets the air out.",
+"ko": "펑크",
+"ex": {
+"en": "My bike got a puncture, so we walked home.",
+"ko": "자전거가 펑크 나서 우리는 걸어서 집에 갔다."
+}
+},
+{
+"sid": "02337307-v",
+"easy": "To put words at the bottom of a movie that show what people say.",
+"ko": "자막을 넣다",
+"ex": {
+"en": "They subtitled the movie in Korean.",
+"ko": "그들은 그 영화에 한국어 자막을 넣었다."
+}
+},
+{
+"sid": "01700330-v",
+"easy": "To paint with colors mixed with water.",
+"ko": "수채화를 그리다",
+"ex": {
+"en": "We watercolored flowers in art class.",
+"ko": "우리는 미술 시간에 수채물감으로 꽃을 그렸다."
+}
+},
+{
+"sid": "01386601-v",
+"easy": "To dig in the sand at the beach to find clams.",
+"ko": "조개를 잡다",
+"ex": {
+"en": "We clammed on the beach at low tide.",
+"ko": "우리는 썰물 때 해변에서 조개를 잡았다."
+}
+}
+]

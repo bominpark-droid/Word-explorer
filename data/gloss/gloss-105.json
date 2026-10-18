@@ -1,0 +1,938 @@
+[
+{
+"sid": "07839927-n",
+"easy": "A food made of vegetables or meat cooked in a spicy sauce, often eaten with rice.",
+"ko": "카레",
+"ex": {
+"en": "We ate chicken curry with rice for dinner.",
+"ko": "우리는 저녁으로 치킨 카레라이스를 먹었다."
+}
+},
+{
+"sid": "02282742-v",
+"easy": "To copy a movie, song, or book without paying or asking.",
+"ko": "불법 복제하다",
+"ex": {
+"en": "Some people pirate movies, but that is against the law.",
+"ko": "어떤 사람들은 영화를 불법 복제하지만, 그것은 법에 어긋난다."
+}
+},
+{
+"sid": "00322952-v",
+"easy": "To heat bread so it turns brown and crunchy.",
+"ko": "굽다",
+"ex": {
+"en": "I toast two slices of bread every morning.",
+"ko": "나는 매일 아침 식빵 두 조각을 굽는다."
+}
+},
+{
+"sid": "01465097-v",
+"easy": "To mix things together into one.",
+"ko": "섞다, 혼합하다",
+"ex": {
+"en": "Mom blends bananas and milk to make a smoothie.",
+"ko": "엄마는 바나나와 우유를 섞어 스무디를 만든다."
+}
+},
+{
+"sid": "01867803-v",
+"easy": "To slow down or stop a bike or car by using the part that stops the wheels.",
+"ko": "브레이크를 밟다, 제동을 걸다",
+"ex": {
+"en": "I braked hard when the ball rolled into the street.",
+"ko": "공이 길로 굴러 나와서 나는 세게 브레이크를 밟았다."
+}
+},
+{
+"sid": "02973233-a",
+"easy": "Having to do with the country of Czechia, its people, or its language.",
+"ko": "체코의",
+"ex": {
+"en": "We ate Czech dumplings at my friend's house.",
+"ko": "우리는 친구 집에서 체코식 만두를 먹었다."
+}
+},
+{
+"sid": "10190891-n",
+"easy": "A person who tells everyone important news, like a king's messenger.",
+"ko": "전령",
+"ex": {
+"en": "The herald blew a horn and announced the king's arrival.",
+"ko": "전령이 나팔을 불며 왕의 도착을 알렸다."
+}
+},
+{
+"sid": "01692499-v",
+"easy": "To write or draw with the thin wooden tool that has a gray point.",
+"ko": "연필로 쓰다",
+"ex": {
+"en": "She penciled her name at the top of the page.",
+"ko": "그녀는 종이 맨 위에 연필로 이름을 썼다."
+}
+},
+{
+"sid": "00145722-v",
+"easy": "To squeeze your lips together into a small round shape.",
+"ko": "입술을 오므리다",
+"ex": {
+"en": "Grandma pursed her lips when she tasted the sour lemon.",
+"ko": "할머니는 신 레몬을 맛보고 입술을 오므렸다."
+}
+},
+{
+"sid": "01306736-v",
+"easy": "To make something strong and lasting.",
+"ko": "굳히다, 다지다",
+"ex": {
+"en": "Playing on the same team cemented our friendship.",
+"ko": "같은 팀에서 뛰면서 우리 우정이 더 굳건해졌다."
+}
+},
+{
+"sid": "02623620-v",
+"easy": "To get along in a situation, or to see how things go for you.",
+"ko": "지내다, 해나가다",
+"ex": {
+"en": "How did you fare on the spelling test?",
+"ko": "철자 시험은 어떻게 됐니?"
+}
+},
+{
+"sid": "01825834-v",
+"easy": "To make someone feel that something is not interesting at all.",
+"ko": "지루하게 하다",
+"ex": {
+"en": "The long, slow movie bored my little brother.",
+"ko": "그 길고 느린 영화는 내 동생을 지루하게 했다."
+}
+},
+{
+"sid": "02276911-n",
+"easy": "An insect with thin, colorful wings that flies in the daytime.",
+"ko": "나비",
+"ex": {
+"en": "A yellow butterfly landed on my hand.",
+"ko": "노란 나비 한 마리가 내 손에 앉았다."
+}
+},
+{
+"sid": "00791970-v",
+"easy": "To press or turn the numbers to call someone on the phone.",
+"ko": "전화를 걸다",
+"ex": {
+"en": "I dialed Grandma's number to wish her a happy birthday.",
+"ko": "나는 할머니께 생신 축하를 드리려고 전화를 걸었다."
+}
+},
+{
+"sid": "02100772-v",
+"easy": "To move quickly to the side to stay away from something.",
+"ko": "피하다",
+"ex": {
+"en": "I dodged the ball during dodgeball.",
+"ko": "나는 피구에서 공을 피했다."
+}
+},
+{
+"sid": "03598713-n",
+"easy": "A round container with a lid, used to keep food or small things.",
+"ko": "병, 단지",
+"ex": {
+"en": "I keep my coins in a jar on my desk.",
+"ko": "나는 책상 위 병에 동전을 모아 둔다."
+}
+},
+{
+"sid": "00251120-r",
+"easy": "Above your head, up in the sky.",
+"ko": "머리 위에, 하늘 높이",
+"ex": {
+"en": "Geese flew overhead in a V shape.",
+"ko": "기러기 떼가 V자 모양으로 머리 위를 날아갔다."
+}
+},
+{
+"sid": "02482038-a",
+"easy": "Up above, over your head.",
+"ko": "머리 위의",
+"ex": {
+"en": "Please turn on the overhead light.",
+"ko": "머리 위 전등을 켜 주세요."
+}
+},
+{
+"sid": "01756107-s",
+"easy": "Looking brand new, as if it was never used.",
+"ko": "새것 같은, 최상 상태의",
+"ex": {
+"en": "My baseball card is in mint condition.",
+"ko": "내 야구 카드는 새것 같은 상태다."
+}
+},
+{
+"sid": "15118861-n",
+"easy": "A soft, slippery material used to make candles.",
+"ko": "밀랍, 왁스",
+"ex": {
+"en": "Hot wax dripped down the side of the birthday candle.",
+"ko": "뜨거운 왁스가 생일 초 옆으로 뚝뚝 흘러내렸다."
+}
+},
+{
+"sid": "02165374-v",
+"easy": "To shine with a soft, steady light.",
+"ko": "빛나다",
+"ex": {
+"en": "Fireflies glow in the dark on summer nights.",
+"ko": "반딧불이는 여름밤 어둠 속에서 빛난다."
+}
+},
+{
+"sid": "00880134-n",
+"easy": "A long look with your eyes wide open.",
+"ko": "응시",
+"ex": {
+"en": "The new puppy gave me a long stare.",
+"ko": "새 강아지가 나를 오랫동안 빤히 쳐다보았다."
+}
+},
+{
+"sid": "01248633-n",
+"easy": "The act of throwing a coin up to see which side lands facing up.",
+"ko": "동전 던지기",
+"ex": {
+"en": "We used a coin toss to decide who goes first.",
+"ko": "우리는 동전 던지기로 누가 먼저 할지 정했다."
+}
+},
+{
+"sid": "01816968-s",
+"easy": "Not sharp, with a wide or round end.",
+"ko": "뭉툭한, 무딘",
+"ex": {
+"en": "My pencil is blunt, so I need to sharpen it.",
+"ko": "내 연필이 뭉툭해서 깎아야 한다."
+}
+},
+{
+"sid": "00988782-v",
+"easy": "To say something all together at the same time.",
+"ko": "입을 모아 말하다",
+"ex": {
+"en": "\"Happy birthday!\" the kids chorused.",
+"ko": "\"생일 축하해!\" 아이들이 입을 모아 말했다."
+}
+},
+{
+"sid": "03218956-n",
+"easy": "A long, narrow hole dug in the ground.",
+"ko": "도랑, 배수로",
+"ex": {
+"en": "Our ball rolled into the ditch beside the road.",
+"ko": "우리 공이 길옆 도랑으로 굴러 들어갔다."
+}
+},
+{
+"sid": "00994073-v",
+"easy": "To show what you mean by moving your hands or body.",
+"ko": "몸짓으로 나타내다, 손짓하다",
+"ex": {
+"en": "The teacher gestured for us to sit down.",
+"ko": "선생님은 우리에게 앉으라고 손짓했다."
+}
+},
+{
+"sid": "02555865-v",
+"easy": "To watch over people and guide them, like a good teacher.",
+"ko": "이끌다, 인도하다",
+"ex": {
+"en": "The teacher shepherded the class across the busy street.",
+"ko": "선생님은 반 아이들을 이끌고 붐비는 길을 건넜다."
+}
+},
+{
+"sid": "02066009-v",
+"easy": "To go back and forth between two places.",
+"ko": "왕복하다",
+"ex": {
+"en": "A bus shuttles between the school and the park.",
+"ko": "버스가 학교와 공원 사이를 왕복한다."
+}
+},
+{
+"sid": "04323784-n",
+"easy": "The back part of a boat or ship.",
+"ko": "선미, 배의 뒷부분",
+"ex": {
+"en": "I sat at the stern and watched the waves behind us.",
+"ko": "나는 배 뒤쪽에 앉아 뒤로 이는 파도를 보았다."
+}
+},
+{
+"sid": "01970175-v",
+"easy": "To jump over something high, like a fence.",
+"ko": "뛰어넘다",
+"ex": {
+"en": "He vaulted over the fence to get his ball.",
+"ko": "그는 공을 가지러 울타리를 뛰어넘었다."
+}
+},
+{
+"sid": "01780648-v",
+"easy": "To feel that you do not like someone or something.",
+"ko": "싫어하다",
+"ex": {
+"en": "I dislike broccoli, but I like carrots.",
+"ko": "나는 브로콜리는 싫어하지만 당근은 좋아한다."
+}
+},
+{
+"sid": "01103629-v",
+"easy": "To hit a baseball over the fence for a home run.",
+"ko": "홈런을 치다",
+"ex": {
+"en": "Our best player homered in the last inning.",
+"ko": "우리 팀 최고 선수가 마지막 이닝에 홈런을 쳤다."
+}
+},
+{
+"sid": "02983739-a",
+"easy": "Having to do with the country of Indonesia, its people, or its languages.",
+"ko": "인도네시아의",
+"ex": {
+"en": "We tried Indonesian fried rice at a restaurant.",
+"ko": "우리는 식당에서 인도네시아식 볶음밥을 먹어 보았다."
+}
+},
+{
+"sid": "10531965-n",
+"easy": "A new soldier who just joined the army.",
+"ko": "신병",
+"ex": {
+"en": "The new recruits ran with their sergeant at sunrise.",
+"ko": "신병들은 해가 뜰 때 상사와 함께 달렸다."
+}
+},
+{
+"sid": "01043826-v",
+"easy": "To talk about other people and tell their secrets.",
+"ko": "수군거리다, 험담하다",
+"ex": {
+"en": "Don't gossip about your friends behind their backs.",
+"ko": "친구들 뒤에서 험담하지 마라."
+}
+},
+{
+"sid": "03007144-a",
+"easy": "Using meters, liters, and grams to measure things.",
+"ko": "미터법의",
+"ex": {
+"en": "A metric ruler measures in centimeters.",
+"ko": "미터법 자는 센티미터로 길이를 잰다."
+}
+},
+{
+"sid": "00459426-v",
+"easy": "To go bad and get a sharp, unpleasant taste.",
+"ko": "시어지다, 상하다",
+"ex": {
+"en": "The milk soured because we left it out all day.",
+"ko": "우유를 하루 종일 꺼내 놓아서 시어졌다."
+}
+},
+{
+"sid": "01582471-v",
+"easy": "To scoop food up with an eating tool that has a round end.",
+"ko": "숟가락으로 뜨다",
+"ex": {
+"en": "Dad spooned ice cream into our bowls.",
+"ko": "아빠가 우리 그릇에 아이스크림을 떠 주었다."
+}
+},
+{
+"sid": "00325361-v",
+"easy": "To cook food in an oven with dry heat.",
+"ko": "굽다",
+"ex": {
+"en": "We roast a turkey every Thanksgiving.",
+"ko": "우리는 추수감사절마다 칠면조를 굽는다."
+}
+},
+{
+"sid": "02503629-a",
+"easy": "On the higher floor of a house or building.",
+"ko": "위층의",
+"ex": {
+"en": "The upstairs bathroom is next to my bedroom.",
+"ko": "위층 화장실은 내 침실 옆에 있다."
+}
+},
+{
+"sid": "04523024-n",
+"easy": "The floors of a house that are above the ground floor.",
+"ko": "위층",
+"ex": {
+"en": "The upstairs of our house is very quiet.",
+"ko": "우리 집 위층은 아주 조용하다."
+}
+},
+{
+"sid": "10588855-n",
+"easy": "A spy, a person who secretly gathers information for a country.",
+"ko": "첩보원, 비밀 요원",
+"ex": {
+"en": "The movie is about a secret operative who saves the city.",
+"ko": "그 영화는 도시를 구하는 비밀 요원에 관한 이야기다."
+}
+},
+{
+"sid": "01087648-v",
+"easy": "To be the person who makes sure players follow the rules in a game.",
+"ko": "심판을 보다",
+"ex": {
+"en": "My dad referees our soccer games on Saturdays.",
+"ko": "아빠는 토요일마다 우리 축구 경기에서 심판을 본다."
+}
+},
+{
+"sid": "00745068-v",
+"easy": "To pass a message or news from one person to another.",
+"ko": "전달하다",
+"ex": {
+"en": "Please relay the message to your mom.",
+"ko": "엄마께 이 말을 전해 주세요."
+}
+},
+{
+"sid": "02579184-v",
+"easy": "To cheat so that a game or vote turns out the way you want.",
+"ko": "조작하다",
+"ex": {
+"en": "Cheaters tried to rig the school election.",
+"ko": "부정행위를 하는 사람들이 학교 선거를 조작하려고 했다."
+}
+},
+{
+"sid": "00124662-v",
+"easy": "To move text or pictures up or down on a screen to see more.",
+"ko": "스크롤하다, 화면을 넘기다",
+"ex": {
+"en": "Scroll down to see the rest of the page.",
+"ko": "나머지를 보려면 아래로 스크롤하세요."
+}
+},
+{
+"sid": "00047085-n",
+"easy": "A hard or risky trick done to get people's attention.",
+"ko": "묘기, 스턴트",
+"ex": {
+"en": "The skateboarder did a daring stunt over the stairs.",
+"ko": "스케이트보드 선수가 계단 위에서 아슬아슬한 묘기를 했다."
+}
+},
+{
+"sid": "11518603-n",
+"easy": "The force that pushes something forward.",
+"ko": "미는 힘, 추진력",
+"ex": {
+"en": "A rocket needs a strong thrust to leave the ground.",
+"ko": "로켓이 땅을 떠나려면 강한 추진력이 필요하다."
+}
+},
+{
+"sid": "01121586-s",
+"easy": "Not real, but made to look like the real thing for practice.",
+"ko": "모의의, 가짜의",
+"ex": {
+"en": "We took a mock test to practice for the real one.",
+"ko": "우리는 진짜 시험을 연습하려고 모의시험을 봤다."
+}
+},
+{
+"sid": "02162161-v",
+"easy": "To hide something so it is hard to see.",
+"ko": "가리다",
+"ex": {
+"en": "Clouds obscured the moon last night.",
+"ko": "어젯밤 구름이 달을 가렸다."
+}
+},
+{
+"sid": "02053139-v",
+"easy": "To move around and around in a curve.",
+"ko": "나선형을 그리며 움직이다",
+"ex": {
+"en": "The smoke spiraled up from the campfire.",
+"ko": "연기가 모닥불에서 빙글빙글 돌며 올라갔다."
+}
+},
+{
+"sid": "02325276-s",
+"easy": "Shaped like a curl that goes round and round, like a spring.",
+"ko": "나선형의",
+"ex": {
+"en": "We climbed the spiral staircase up the tower.",
+"ko": "우리는 나선형 계단을 올라 탑 위로 갔다."
+}
+},
+{
+"sid": "00101710-v",
+"easy": "To push the wet stuff in your mouth out.",
+"ko": "침을 뱉다",
+"ex": {
+"en": "Please don't spit on the sidewalk.",
+"ko": "인도에 침을 뱉지 마세요."
+}
+},
+{
+"sid": "07409704-n",
+"easy": "The sound of water hitting something.",
+"ko": "첨벙 하는 소리",
+"ex": {
+"en": "We heard a loud splash when Dad jumped into the pool.",
+"ko": "아빠가 수영장에 뛰어들자 큰 첨벙 소리가 났다."
+}
+},
+{
+"sid": "03140890-a",
+"easy": "Having to do with the country of Vietnam, its people, or its language.",
+"ko": "베트남의",
+"ex": {
+"en": "We ate Vietnamese noodle soup for lunch.",
+"ko": "우리는 점심으로 베트남 쌀국수를 먹었다."
+}
+},
+{
+"sid": "01877935-v",
+"easy": "To push your way through people using the bendy part of your arm.",
+"ko": "팔꿈치로 밀치다",
+"ex": {
+"en": "He elbowed his way through the crowd to see the parade.",
+"ko": "그는 퍼레이드를 보려고 팔꿈치로 사람들을 헤치며 나아갔다."
+}
+},
+{
+"sid": "01831561-v",
+"easy": "To wish you had what someone else has.",
+"ko": "부러워하다",
+"ex": {
+"en": "I envy my cousin because she has a pet rabbit.",
+"ko": "나는 사촌이 토끼를 키워서 부럽다."
+}
+},
+{
+"sid": "02504961-v",
+"easy": "To make someone leave their country and not let them come back.",
+"ko": "추방하다",
+"ex": {
+"en": "The king exiled the thief from the land.",
+"ko": "왕은 도둑을 나라에서 추방했다."
+}
+},
+{
+"sid": "00327574-v",
+"easy": "To cook food over a fire or on hot metal bars.",
+"ko": "석쇠에 굽다, 그릴에 굽다",
+"ex": {
+"en": "We grill hot dogs in the backyard.",
+"ko": "우리는 뒷마당에서 핫도그를 구워 먹는다."
+}
+},
+{
+"sid": "02042636-v",
+"easy": "To lean over to one side, like a boat in strong wind.",
+"ko": "기울다",
+"ex": {
+"en": "The sailboat heeled over in the strong wind.",
+"ko": "돛단배가 강한 바람에 한쪽으로 기울었다."
+}
+},
+{
+"sid": "03094845-a",
+"easy": "Having to do with the country of Malaysia or its people.",
+"ko": "말레이시아의",
+"ex": {
+"en": "We learned about Malaysian food in class.",
+"ko": "우리는 수업 시간에 말레이시아 음식에 대해 배웠다."
+}
+},
+{
+"sid": "15074161-n",
+"easy": "Liquid that fell out of a cup or bottle.",
+"ko": "엎질러진 액체",
+"ex": {
+"en": "Mom wiped up the milk spill with a towel.",
+"ko": "엄마는 수건으로 엎지른 우유를 닦았다."
+}
+},
+{
+"sid": "01861082-n",
+"easy": "A big white water bird with a long, curved neck.",
+"ko": "백조",
+"ex": {
+"en": "A white swan glided across the pond.",
+"ko": "하얀 백조 한 마리가 연못 위를 미끄러지듯 지나갔다."
+}
+},
+{
+"sid": "02833957-a",
+"easy": "Having the sweet, creamy flavor of a plant bean, often used in ice cream and cake.",
+"ko": "바닐라 맛의, 바닐라향의",
+"ex": {
+"en": "I like vanilla ice cream with sprinkles.",
+"ko": "나는 스프링클을 뿌린 바닐라 아이스크림을 좋아한다."
+}
+},
+{
+"sid": "03015436-a",
+"easy": "Having to do with the country of Afghanistan or its people.",
+"ko": "아프가니스탄의",
+"ex": {
+"en": "We read an Afghan folktale in class.",
+"ko": "우리는 수업 시간에 아프가니스탄 민담을 읽었다."
+}
+},
+{
+"sid": "00125951-v",
+"easy": "To lose the hair on your head.",
+"ko": "머리가 벗어지다, 대머리가 되다",
+"ex": {
+"en": "My uncle is balding, so he wears a cap.",
+"ko": "삼촌은 머리가 벗어지고 있어서 모자를 쓴다."
+}
+},
+{
+"sid": "00857194-v",
+"easy": "To say what is good and what is bad about something.",
+"ko": "비평하다, 평가하다",
+"ex": {
+"en": "Our teacher critiqued my drawing and gave me tips.",
+"ko": "선생님은 내 그림을 평가하고 조언을 해 주셨다."
+}
+},
+{
+"sid": "04058661-n",
+"easy": "A slanted path that joins a lower place to a higher place.",
+"ko": "경사로",
+"ex": {
+"en": "Dad pushed the stroller up the ramp.",
+"ko": "아빠는 유모차를 밀어 경사로를 올라갔다."
+}
+},
+{
+"sid": "09429671-n",
+"easy": "A line of rocks or coral just under the water.",
+"ko": "암초, 산호초",
+"ex": {
+"en": "Colorful fish swim around the coral reef.",
+"ko": "알록달록한 물고기들이 산호초 주위를 헤엄친다."
+}
+},
+{
+"sid": "02580739-s",
+"easy": "Wise from living a long time and learning a lot.",
+"ko": "현명한, 슬기로운",
+"ex": {
+"en": "My grandfather gave me sage advice.",
+"ko": "할아버지는 나에게 현명한 조언을 해 주셨다."
+}
+},
+{
+"sid": "01814900-v",
+"easy": "To lose all hope.",
+"ko": "절망하다",
+"ex": {
+"en": "Don't despair, you can try again tomorrow.",
+"ko": "절망하지 마, 내일 다시 해 볼 수 있어."
+}
+},
+{
+"sid": "15009942-n",
+"easy": "Something used to change the color of cloth or hair.",
+"ko": "염료",
+"ex": {
+"en": "We used red dye to color the Easter eggs.",
+"ko": "우리는 빨간 염료로 부활절 달걀을 물들였다."
+}
+},
+{
+"sid": "03636736-n",
+"easy": "A string used to tie up shoes.",
+"ko": "끈, 신발 끈",
+"ex": {
+"en": "My shoe lace came undone during the race.",
+"ko": "달리기 중에 신발 끈이 풀렸다."
+}
+},
+{
+"sid": "00015491-v",
+"easy": "To sleep for a short time during the day.",
+"ko": "낮잠을 자다",
+"ex": {
+"en": "My baby sister naps after lunch.",
+"ko": "내 여동생은 점심 후에 낮잠을 잔다."
+}
+},
+{
+"sid": "00907805-v",
+"easy": "To forgive someone for a small mistake.",
+"ko": "용서하다",
+"ex": {
+"en": "Please pardon me for being late.",
+"ko": "늦은 것을 용서해 주세요."
+}
+},
+{
+"sid": "00200276-v",
+"easy": "To fix a problem and make it right.",
+"ko": "바로잡다",
+"ex": {
+"en": "I remedied my mistake by saying sorry.",
+"ko": "나는 사과해서 내 잘못을 바로잡았다."
+}
+},
+{
+"sid": "02130106-v",
+"easy": "To give something a smell.",
+"ko": "냄새를 풍기다, 향기를 내다",
+"ex": {
+"en": "Flowers scented the whole room.",
+"ko": "꽃들이 방 전체에 향기를 퍼뜨렸다."
+}
+},
+{
+"sid": "00711673-v",
+"easy": "To plan something for a certain time.",
+"ko": "예정하다",
+"ex": {
+"en": "The class trip is slated for Friday.",
+"ko": "현장 학습은 금요일로 예정되어 있다."
+}
+},
+{
+"sid": "07454840-n",
+"easy": "A sudden strong rush of water or something else.",
+"ko": "밀려듦, 급증",
+"ex": {
+"en": "A surge of water pushed the boat toward the shore.",
+"ko": "거센 물결이 배를 해안 쪽으로 밀었다."
+}
+},
+{
+"sid": "03062712-a",
+"easy": "Having to do with the country of Bulgaria or its people.",
+"ko": "불가리아의",
+"ex": {
+"en": "Bulgarian yogurt is famous around the world.",
+"ko": "불가리아 요구르트는 세계적으로 유명하다."
+}
+},
+{
+"sid": "02963959-a",
+"easy": "Having to do with a group of Christians called Protestants.",
+"ko": "개신교의",
+"ex": {
+"en": "Our town has a Protestant church on Main Street.",
+"ko": "우리 동네 중심가에는 개신교 교회가 있다."
+}
+},
+{
+"sid": "02481612-s",
+"easy": "Under the surface of the sea.",
+"ko": "바다 속의, 해저의",
+"ex": {
+"en": "The diver explored a submarine cave.",
+"ko": "잠수부가 바다 속 동굴을 탐험했다."
+}
+},
+{
+"sid": "01783561-v",
+"easy": "To make someone feel amazed and full of wonder.",
+"ko": "경외감을 주다, 감탄하게 하다",
+"ex": {
+"en": "The huge waterfall awed us.",
+"ko": "그 거대한 폭포는 우리를 감탄하게 했다."
+}
+},
+{
+"sid": "00103071-v",
+"easy": "To turn red in the face, like when you feel shy.",
+"ko": "얼굴이 붉어지다",
+"ex": {
+"en": "My cheeks flushed when everyone sang to me.",
+"ko": "모두가 나에게 노래를 불러 주자 내 뺨이 붉어졌다."
+}
+},
+{
+"sid": "00913656-s",
+"easy": "Even with the surface next to it, with no bump.",
+"ko": "평평한, 높이가 같은",
+"ex": {
+"en": "The new door is flush with the wall.",
+"ko": "새 문은 벽과 높이가 같게 맞닿아 있다."
+}
+},
+{
+"sid": "14727036-n",
+"easy": "A sticky stuff used to stick things together.",
+"ko": "풀, 접착제",
+"ex": {
+"en": "I used glue to stick the eyes onto my paper puppet.",
+"ko": "나는 종이 인형에 눈을 붙이려고 풀을 썼다."
+}
+},
+{
+"sid": "00322737-v",
+"easy": "To heat food in a small oven that uses special waves.",
+"ko": "전자레인지로 데우다",
+"ex": {
+"en": "I microwaved my leftover pizza.",
+"ko": "나는 남은 피자를 전자레인지에 데웠다."
+}
+},
+{
+"sid": "07754329-n",
+"easy": "The outside skin of a fruit or vegetable.",
+"ko": "껍질",
+"ex": {
+"en": "Don't slip on the banana peel!",
+"ko": "바나나 껍질에 미끄러지지 마!"
+}
+},
+{
+"sid": "01170593-v",
+"easy": "To eat a meal outside, like in a park.",
+"ko": "소풍을 가다",
+"ex": {
+"en": "We picnicked by the lake on Sunday.",
+"ko": "우리는 일요일에 호숫가로 소풍을 갔다."
+}
+},
+{
+"sid": "02124916-v",
+"easy": "To cause a sharp, burning pain.",
+"ko": "따끔거리다, 쓰라리다",
+"ex": {
+"en": "The soap stung my eyes.",
+"ko": "비누 때문에 눈이 따끔거렸다."
+}
+},
+{
+"sid": "00946580-v",
+"easy": "To let out strong feelings.",
+"ko": "(감정을) 터뜨리다, 쏟아내다",
+"ex": {
+"en": "I vented my anger by running around the yard.",
+"ko": "나는 마당을 뛰어다니며 화를 풀었다."
+}
+},
+{
+"sid": "00297888-n",
+"easy": "Walking around with no place in mind to go.",
+"ko": "방랑, 배회",
+"ex": {
+"en": "After hours of wandering in the forest, we found the trail.",
+"ko": "몇 시간 숲속을 헤매다가 우리는 오솔길을 찾았다."
+}
+},
+{
+"sid": "02767049-n",
+"easy": "A tool with a heavy metal blade on a long handle, used to chop wood.",
+"ko": "도끼",
+"ex": {
+"en": "Grandpa chopped firewood with an axe.",
+"ko": "할아버지는 도끼로 장작을 패셨다."
+}
+},
+{
+"sid": "02973050-a",
+"easy": "Having to do with the country of Hungary or its people.",
+"ko": "헝가리의",
+"ex": {
+"en": "My teacher played Hungarian music in class.",
+"ko": "선생님은 수업 시간에 헝가리 음악을 들려주셨다."
+}
+},
+{
+"sid": "00616690-v",
+"easy": "To not do something you should do, or to forget it.",
+"ko": "소홀히 하다, 빠뜨리다",
+"ex": {
+"en": "Don't neglect your homework, or your grades will drop.",
+"ko": "숙제를 소홀히 하면 성적이 떨어질 거야."
+}
+},
+{
+"sid": "02648322-v",
+"easy": "To wait and put off doing what you should be doing.",
+"ko": "미루다, 시간을 끌다",
+"ex": {
+"en": "Stop stalling and clean your room!",
+"ko": "미적거리지 말고 네 방 좀 치워!"
+}
+},
+{
+"sid": "01292095-v",
+"easy": "To tie or hold something with a strip of cloth or leather.",
+"ko": "끈으로 묶다",
+"ex": {
+"en": "Mom strapped my little brother into his car seat.",
+"ko": "엄마는 내 동생을 카시트에 끈으로 고정했다."
+}
+},
+{
+"sid": "00253174-n",
+"easy": "Cleaning the floor with a broom.",
+"ko": "쓸기, 비질",
+"ex": {
+"en": "Sweeping the kitchen floor is my chore.",
+"ko": "부엌 바닥 쓸기는 내 집안일이다."
+}
+},
+{
+"sid": "02570061-v",
+"easy": "To say that someone does not have to do something.",
+"ko": "면제하다",
+"ex": {
+"en": "The teacher exempted me from homework because I was sick.",
+"ko": "선생님은 내가 아파서 숙제를 면제해 주셨다."
+}
+},
+{
+"sid": "00520443-v",
+"easy": "To make lots of tiny bubbles.",
+"ko": "거품이 일다",
+"ex": {
+"en": "The soda foamed when I opened it.",
+"ko": "탄산음료를 열자 거품이 일었다."
+}
+},
+{
+"sid": "03388667-n",
+"easy": "A very hot fireplace where metal is heated so it can be shaped.",
+"ko": "대장간",
+"ex": {
+"en": "The blacksmith heated the iron in the forge.",
+"ko": "대장장이는 대장간에서 쇠를 달궜다."
+}
+},
+{
+"sid": "00377707-s",
+"easy": "Having a green color, like a pretty green stone.",
+"ko": "비취색의, 옥색의",
+"ex": {
+"en": "She wore a jade green necklace.",
+"ko": "그녀는 비취색 목걸이를 하고 있었다."
+}
+},
+{
+"sid": "01190276-s",
+"easy": "Not heavy, weighing very little.",
+"ko": "가벼운",
+"ex": {
+"en": "I packed a lightweight jacket for the trip.",
+"ko": "나는 여행에 가벼운 재킷을 챙겼다."
+}
+}
+]
