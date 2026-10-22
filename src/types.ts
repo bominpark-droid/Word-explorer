@@ -8,7 +8,8 @@ export type KidSense = {
   examples: Example[];
 };
 
-export type WordRow = { id: number; word: string; kid: number };
+// ko: main Korean meaning, filled in for lists by withKorean() in db.ts.
+export type WordRow = { id: number; word: string; kid: number; ko?: string };
 
 export type DictSense = {
   pos: string;

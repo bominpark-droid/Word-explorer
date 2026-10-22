@@ -3,7 +3,7 @@ import { Pressable, StyleSheet, Text, View } from 'react-native';
 import { SpeakButton } from '../components/common';
 import { getEntry, lookup } from '../db';
 import { useDict } from '../dbProvider';
-import { C } from '../theme';
+import { C, shadow } from '../theme';
 import type { Entry } from '../types';
 import * as wordbook from '../wordbook';
 
@@ -53,7 +53,7 @@ export default function CardsScreen({ onBack }: { onBack: () => void }) {
       <Pressable style={styles.card} onPress={() => setFlipped(!flipped)}>
         <View style={styles.wordRow}>
           <Text style={styles.word}>{word}</Text>
-          <SpeakButton text={word} size={26} />
+          <SpeakButton text={word} big />
         </View>
         {!flipped ? (
           <Text style={styles.tap}>뜻이 생각나면 카드를 탭해서 확인해요</Text>
@@ -112,17 +112,16 @@ const styles = StyleSheet.create({
     borderRadius: 24,
     padding: 24,
     justifyContent: 'center',
-    borderWidth: 1,
-    borderColor: C.line,
+    ...shadow,
   },
-  wordRow: { flexDirection: 'row', alignItems: 'center', justifyContent: 'center', gap: 12, marginBottom: 18 },
+  wordRow: { alignItems: 'center', gap: 12, marginBottom: 18 },
   word: { fontSize: 40, fontWeight: '800', color: C.ink, textAlign: 'center' },
   tap: { textAlign: 'center', color: C.faint, fontSize: 15 },
   simple: { fontSize: 20, lineHeight: 28, color: C.ink, textAlign: 'center' },
   ko: { fontSize: 22, color: C.koInk, fontWeight: '800', textAlign: 'center', marginTop: 14 },
   ex: { fontSize: 16, color: C.sub, textAlign: 'center', marginTop: 14, fontStyle: 'italic' },
   btns: { flexDirection: 'row', gap: 12, marginTop: 16 },
-  btn: { flex: 1, borderRadius: 16, padding: 16, alignItems: 'center' },
+  btn: { flex: 1, borderRadius: 18, padding: 16, alignItems: 'center', ...shadow },
   btnText: { fontSize: 18, fontWeight: '700' },
   done: { fontSize: 30, fontWeight: '800', color: C.ink, textAlign: 'center', marginTop: 120 },
   doneSub: { fontSize: 17, color: C.sub, textAlign: 'center', marginTop: 10 },

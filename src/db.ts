@@ -60,7 +60,7 @@ export async function lookup(db: Db, query: string): Promise<WordRow | null> {
   // "hiking" and "stopped" are WordNet headwords too, but a kid typing them
   // almost always wants "hike" / "stop". Prefer the base word when it is an
   // easier word (more Korean/easy help) or a much bigger entry; the word screen links back.
-  const base = await findBase(db, q);
+  const base = (await inflected(db, q, exact.id)) ? await findBase(db, q) : null;
   if (base && base.id !== exact.id) {
     const n = await db.getFirstAsync<{ nsenses: number }>('SELECT nsenses FROM words WHERE id = ?', base.id);
     if (base.kid > exact.kid || (exact.nsenses <= 2 && (n?.nsenses ?? 0) >= 3)) return base;
@@ -68,10 +68,25 @@ export async function lookup(db: Db, query: string): Promise<WordRow | null> {
   return exact;
 }
 
+// Whether a headword is probably just a form of another word: "said", "valleys",
+// "hiking", "bigger" are; "priest" and "writer" (nouns ending in -est / -er) are not.
+async function inflected(db: Db, q: string, id: number): Promise<boolean> {
+  if (/(s|ed|ing)$/.test(q)) return true;
+  if (await db.getFirstAsync('SELECT 1 FROM forms WHERE form = ? LIMIT 1', q)) return true;
+  if (!/(er|est)$/.test(q)) return false;
+  const noun = await db.getFirstAsync(
+    `SELECT 1 FROM senses x JOIN synsets s ON s.id = x.synset_id WHERE x.word_id = ? AND s.pos = 'noun' LIMIT 1`,
+    id,
+  );
+  return !noun;
+}
+
 // The other headword a word screen should point to: the base word of an
 // inflected headword, or nothing.
-export async function relatedBase(db: Db, word: string): Promise<WordRow | null> {
-  const base = await findBase(db, word.toLowerCase());
+export async function relatedBase(db: Db, word: string, id: number): Promise<WordRow | null> {
+  const q = word.toLowerCase();
+  if (!(await inflected(db, q, id))) return null;
+  const base = await findBase(db, q);
   return base && base.word.toLowerCase() !== word.toLowerCase() ? base : null;
 }
 
@@ -132,6 +147,68 @@ export async function kidCount(db: Db): Promise<number> {
 export async function koWordCount(db: Db): Promise<number> {
   const r = await db.getFirstAsync<{ v: string }>("SELECT v FROM meta WHERE k = 'ko_words'");
   return r ? Number(r.v) : 0;
+}
+
+// Close spellings for a word that was not found ("vally" -> valley), among words
+// that have Korean help. Same first letter, at most 1-2 letters different.
+export async function spellSuggest(db: Db, query: string): Promise<WordRow[]> {
+  const q = query.toLowerCase().trim();
+  if (q.length < 3) return [];
+  const rows = await db.getAllAsync<WordRow & { w: string }>(
+    'SELECT id, word, kid, w FROM words WHERE w >= ? AND w < ? AND kid > 0 AND length(w) BETWEEN ? AND ?',
+    q[0],
+    q[0] + '￿',
+    q.length - 2,
+    q.length + 2,
+  );
+  const max = q.length <= 4 ? 1 : 2;
+  const seen = new Set<string>();
+  return rows
+    .map((r) => ({ r, d: distance(q, r.w) }))
+    .filter((x) => x.d <= max)
+    .sort((a, b) => a.d - b.d || b.r.kid - a.r.kid)
+    .filter((x) => !seen.has(x.r.w) && seen.add(x.r.w))
+    .slice(0, 6)
+    .map(({ r }) => ({ id: r.id, word: r.word, kid: r.kid }));
+}
+
+// Edit distance (letters added, removed, changed or swapped).
+function distance(a: string, b: string): number {
+  const d: number[][] = Array.from({ length: a.length + 1 }, (_, i) => [i, ...Array(b.length).fill(0)]);
+  for (let j = 1; j <= b.length; j++) d[0][j] = j;
+  for (let i = 1; i <= a.length; i++)
+    for (let j = 1; j <= b.length; j++) {
+      d[i][j] = Math.min(d[i - 1][j] + 1, d[i][j - 1] + 1, d[i - 1][j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1));
+      if (i > 1 && j > 1 && a[i - 1] === b[j - 2] && a[i - 2] === b[j - 1]) d[i][j] = Math.min(d[i][j], d[i - 2][j - 2] + 1);
+    }
+  return d[a.length][b.length];
+}
+
+// Adds the main Korean meaning to each row of a word list (search results, recent words).
+export async function withKorean(db: Db, rows: WordRow[]): Promise<WordRow[]> {
+  if (!rows.length) return rows;
+  const ids = rows.map((r) => r.id);
+  const marks = ids.map(() => '?').join(',');
+  const ko = new Map<number, string>();
+  const kid = await db.getAllAsync<{ word_id: number; data: string }>(`SELECT word_id, data FROM kid WHERE word_id IN (${marks})`, ...ids);
+  for (const k of kid) {
+    const first = JSON.parse(k.data).senses?.[0]?.ko;
+    if (first) ko.set(k.word_id, first);
+  }
+  const gl = await db.getAllAsync<{ word_id: number; ko: string }>(
+    `SELECT x.word_id, s.ko FROM senses x JOIN synsets s ON s.id = x.synset_id
+     WHERE x.word_id IN (${marks}) AND s.ko IS NOT NULL ORDER BY x.word_id, x.ord`,
+    ...ids,
+  );
+  for (const g of gl) if (!ko.has(g.word_id)) ko.set(g.word_id, g.ko);
+  return rows.map((r) => ({ ...r, ko: ko.get(r.id) }));
+}
+
+// The main Korean meaning of a word, for lists (wordbook): hand-written first, then glosses.
+export async function koreanFor(db: Db, word: string): Promise<string> {
+  const row = await lookup(db, word);
+  const e = row ? await getEntry(db, row.id) : null;
+  return e?.kidSenses[0]?.ko ?? e?.dictSenses.find((s) => s.ko)?.ko ?? '';
 }
 
 // One line for the English Store app's school-spelling editor:

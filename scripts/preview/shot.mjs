@@ -15,19 +15,21 @@ await page.screenshot({ path: `${out}/2-suggest.png` });
 await page.press('input', 'Enter');
 await page.waitForTimeout(1200);
 await page.screenshot({ path: `${out}/3-word.png` });
-const ko = page.getByText('🇰🇷 한국어로 보기').first();
-if (await ko.count()) { await ko.click(); await page.waitForTimeout(300); }
-const ex = page.getByText('탭하면 한국어').first();
-if (await ex.count()) { await ex.click(); await page.waitForTimeout(300); }
-await page.screenshot({ path: `${out}/4-korean.png`, fullPage: true });
+await page.screenshot({ path: `${out}/4-word-full.png`, fullPage: true });
 await page.getByText('☆ 단어장에 넣기').click();
 await page.waitForTimeout(300);
-await page.getByText('⭐ 단어장').click();
+await page.getByText('단어장', { exact: true }).click();
 await page.waitForTimeout(500);
 await page.screenshot({ path: `${out}/5-wordbook.png` });
-await page.getByText('🃏 카드로 외우기 Practice').click();
+await page.getByText('🃏 카드로 외우기').click();
 await page.waitForTimeout(800);
 await page.getByText('뜻이 생각나면 카드를 탭해서 확인해요').click();
 await page.waitForTimeout(300);
 await page.screenshot({ path: `${out}/6-cards.png` });
+await page.getByText('찾기', { exact: true }).click();
+await page.waitForTimeout(300);
+await page.fill('input', 'elefant');
+await page.press('input', 'Enter');
+await page.waitForTimeout(800);
+await page.screenshot({ path: `${out}/7-not-found.png` });
 await browser.close();

@@ -69,18 +69,21 @@ function Main() {
 
   return (
     <View style={{ flex: 1 }}>
-      <View style={{ flex: 1 }}>{body}</View>
-      <SafeAreaView edges={['bottom']} style={styles.tabs}>
-        <TabButton label="🔍 찾기" active={tab === 'search' && !cards && !stack.length} onPress={() => go('search')} />
-        <TabButton label="⭐ 단어장" active={tab === 'book' && !cards && !stack.length} onPress={() => go('book')} />
+      <View style={styles.page}>{body}</View>
+      <SafeAreaView edges={['bottom']} style={styles.tabsBar}>
+        <View style={styles.tabs}>
+          <TabButton icon="🔍" label="찾기" active={tab === 'search' && !cards} onPress={() => go('search')} />
+          <TabButton icon="⭐" label="단어장" active={tab === 'book'} onPress={() => go('book')} />
+        </View>
       </SafeAreaView>
     </View>
   );
 }
 
-function TabButton({ label, active, onPress }: { label: string; active: boolean; onPress: () => void }) {
+function TabButton({ icon, label, active, onPress }: { icon: string; label: string; active: boolean; onPress: () => void }) {
   return (
-    <Pressable style={styles.tab} onPress={onPress}>
+    <Pressable style={[styles.tab, active && styles.tabOn]} onPress={onPress}>
+      <Text style={styles.tabIcon}>{icon}</Text>
       <Text style={[styles.tabText, active && { color: C.blue }]}>{label}</Text>
     </Pressable>
   );
@@ -88,7 +91,12 @@ function TabButton({ label, active, onPress }: { label: string; active: boolean;
 
 const styles = StyleSheet.create({
   root: { flex: 1, backgroundColor: C.bg },
-  tabs: { flexDirection: 'row', borderTopWidth: 1, borderTopColor: C.line, backgroundColor: C.card },
-  tab: { flex: 1, alignItems: 'center', paddingVertical: 12 },
-  tabText: { fontSize: 17, fontWeight: '700', color: C.faint },
+  // On a wide screen (computer, iPad) keep the dictionary a comfortable reading width.
+  page: { flex: 1, width: '100%', maxWidth: 720, alignSelf: 'center' },
+  tabsBar: { borderTopWidth: 1, borderTopColor: C.line, backgroundColor: C.card },
+  tabs: { flexDirection: 'row', gap: 8, padding: 8, width: '100%', maxWidth: 720, alignSelf: 'center' },
+  tab: { flex: 1, flexDirection: 'row', justifyContent: 'center', alignItems: 'center', gap: 6, paddingVertical: 10, borderRadius: 16 },
+  tabOn: { backgroundColor: C.blueSoft },
+  tabIcon: { fontSize: 18 },
+  tabText: { fontSize: 17, fontWeight: '800', color: C.faint },
 });

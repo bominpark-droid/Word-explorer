@@ -1,14 +1,19 @@
 import { useNetworkState } from 'expo-network';
 import { useEffect, useState } from 'react';
-import { ActivityIndicator, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
+import { ActivityIndicator, Linking, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { SaveButton, SpeakButton } from '../components/common';
 import { getEntry, lookup, relatedBase } from '../db';
 import { useDict } from '../dbProvider';
 import { koreanLabel } from '../online';
-import { C, POS_KO, TOPIC_LABEL } from '../theme';
-import type { DictSense, Entry, KidSense, WordRow } from '../types';
+import { C, POS_KO, TOPIC_LABEL, shadow } from '../theme';
+import type { DictSense, Entry, WordRow } from '../types';
 
 type Props = { id: number; onBack: () => void; onOpen: (id: number) => void };
+
+// One meaning as the child sees it: Korean, easy English, and examples, all visible at once.
+type Meaning = { pos: string; ko: string; en: string; koSimple?: string; examples: { en: string; ko?: string }[] };
+
+export const naverUrl = (w: string) => `https://en.dict.naver.com/#/search?query=${encodeURIComponent(w)}`;
 
 export default function WordScreen({ id, onBack, onOpen }: Props) {
   const db = useDict();
@@ -24,7 +29,7 @@ export default function WordScreen({ id, onBack, onOpen }: Props) {
     getEntry(db, id).then((e) => {
       if (!alive || !e) return;
       setEntry(e);
-      relatedBase(db, e.word).then((b) => alive && setBase(b));
+      relatedBase(db, e.word, e.id).then((b) => alive && setBase(b));
     });
     return () => {
       alive = false;
@@ -42,8 +47,16 @@ export default function WordScreen({ id, onBack, onOpen }: Props) {
   const hasKid = entry.kidSenses.length > 0;
   // Main cards: hand-written senses, else the common-word glosses. Everything else
   // (the raw WordNet senses) waits behind one "more meanings" button.
-  const glossed = hasKid ? [] : entry.dictSenses.filter((s) => s.ko && s.easy);
-  const hasMain = hasKid || glossed.length > 0;
+  const meanings: Meaning[] = hasKid
+    ? entry.kidSenses.map((s) => ({ pos: s.pos, ko: s.ko, en: s.simple, koSimple: s.ko_simple, examples: s.examples }))
+    : entry.dictSenses
+        .filter((s) => s.ko && s.easy)
+        .map((s) => ({
+          pos: s.pos,
+          ko: s.ko!,
+          en: s.easy!,
+          examples: s.exampleEn ? [{ en: s.exampleEn, ko: s.exampleKo ?? undefined }] : [],
+        }));
   const rest = hasKid ? entry.dictSenses : entry.dictSenses.filter((s) => !(s.ko && s.easy));
   const openWord = async (w: string) => {
     const row = await lookup(db, w);
@@ -53,42 +66,46 @@ export default function WordScreen({ id, onBack, onOpen }: Props) {
   return (
     <View style={{ flex: 1 }}>
       <View style={styles.topbar}>
-        <Pressable onPress={onBack} hitSlop={12}>
-          <Text style={styles.back}>‹ Back</Text>
+        <Pressable onPress={onBack} hitSlop={12} style={styles.backBtn}>
+          <Text style={styles.back}>‹ 뒤로</Text>
         </Pressable>
       </View>
       <ScrollView contentContainerStyle={styles.scroll}>
-        <View style={styles.headRow}>
+        <View style={styles.hero}>
           <Text style={styles.word}>{entry.word}</Text>
-          <SpeakButton text={entry.word} size={28} />
+          {entry.ipa ? <Text style={styles.ipa}>/{entry.ipa}/</Text> : null}
+          {meanings.length > 1 ? <Text style={styles.heroKo}>{uniqueKo(meanings)}</Text> : null}
+          <View style={styles.heroBtns}>
+            <SpeakButton text={entry.word} big />
+            <SaveButton word={entry.word} />
+          </View>
+          {entry.topic && TOPIC_LABEL[entry.topic] ? <Text style={styles.topic}>{TOPIC_LABEL[entry.topic]}</Text> : null}
         </View>
-        {entry.ipa ? <Text style={styles.ipa}>/{entry.ipa}/</Text> : null}
-        {entry.topic && TOPIC_LABEL[entry.topic] ? <Text style={styles.topic}>{TOPIC_LABEL[entry.topic]}</Text> : null}
         {base ? (
           <Pressable onPress={() => onOpen(base.id)} style={styles.baseLink}>
             <Text style={styles.baseText}>
-              기본형 보기 Base word: <Text style={{ fontWeight: '800' }}>{base.word}</Text> {base.kid ? '⭐' : ''} ›
+              기본형 Base word: <Text style={{ fontWeight: '800' }}>{base.word}</Text> 보기 ›
             </Text>
           </Pressable>
         ) : null}
-        <View style={{ marginTop: 12 }}>
-          <SaveButton word={entry.word} />
-        </View>
 
-        {hasKid ? (
-          entry.kidSenses.map((s, i) => <KidSenseCard key={i} sense={s} index={i} total={entry.kidSenses.length} />)
-        ) : glossed.length ? (
-          glossed.map((s, i) => <GlossCard key={i} sense={s} index={i} total={glossed.length} />)
-        ) : (
+        {meanings.map((m, i) => (
+          <MeaningCard key={i} m={m} index={i} total={meanings.length} />
+        ))}
+
+        {!meanings.length ? (
           <View style={styles.note}>
             <Text style={styles.noteText}>
-              이 단어는 아직 쉬운 설명이 없어서 영어 사전(WordNet)의 뜻을 보여줘요.
+              이 단어는 아직 한국어 뜻을 준비하지 못했어요. 아래 영어 뜻을 보거나, 인터넷이 되면 네이버 사전에서 한국어 뜻을 볼 수 있어요.
             </Text>
+            <Pressable style={styles.naverBtn} onPress={() => Linking.openURL(naverUrl(entry.word))}>
+              <Text style={styles.naverText}>🌐 네이버 사전에서 한국어 뜻 보기</Text>
+            </Pressable>
           </View>
-        )}
+        ) : null}
 
         {rest.length > 0 ? (
-          hasMain && !showDict ? (
+          meanings.length && !showDict ? (
             <Pressable style={styles.moreBtn} onPress={() => setShowDict(true)}>
               <Text style={styles.moreText}>다른 뜻 더 보기 (영어 사전, {rest.length}) ▾</Text>
             </Pressable>
@@ -107,45 +124,42 @@ export default function WordScreen({ id, onBack, onOpen }: Props) {
   );
 }
 
-function KidSenseCard({ sense, index, total }: { sense: KidSense; index: number; total: number }) {
-  const [ko, setKo] = useState(false);
+// "달리다 · 경주" — the Korean meanings of a several-meaning word at a glance, without repeats.
+function uniqueKo(ms: Meaning[]): string {
+  const seen: string[] = [];
+  for (const m of ms) if (!seen.includes(m.ko)) seen.push(m.ko);
+  return seen.slice(0, 3).join(' · ');
+}
+
+function MeaningCard({ m, index, total }: { m: Meaning; index: number; total: number }) {
   return (
     <View style={styles.card}>
       <View style={styles.posRow}>
         {total > 1 ? <Text style={styles.num}>{index + 1}</Text> : null}
         <Text style={styles.pos}>
-          {sense.pos} · {POS_KO[sense.pos] ?? sense.pos}
+          {m.pos} · {POS_KO[m.pos] ?? m.pos}
         </Text>
       </View>
-      <Text style={styles.simple}>{sense.simple}</Text>
-      <Pressable style={[styles.koBtn, ko && styles.koBtnOn]} onPress={() => setKo(!ko)}>
-        <Text style={styles.koBtnText}>{ko ? '한국어 뜻 숨기기' : '🇰🇷 한국어로 보기'}</Text>
-      </Pressable>
-      {ko ? (
-        <View style={styles.koBox}>
-          <Text style={styles.koMain}>{sense.ko}</Text>
-          <Text style={styles.koSimple}>{sense.ko_simple}</Text>
+      <View style={styles.koBox}>
+        <Text style={styles.koFlag}>🇰🇷</Text>
+        <View style={{ flex: 1 }}>
+          <Text style={styles.koMain}>{m.ko}</Text>
+          {m.koSimple ? <Text style={styles.koSimple}>{m.koSimple}</Text> : null}
         </View>
-      ) : null}
-      <Text style={styles.exLabel}>Examples 예문</Text>
-      {sense.examples.map((e, i) => (
-        <ExampleRow key={i} en={e.en} ko={e.ko} />
+      </View>
+      <Text style={styles.enLabel}>English 영어 뜻</Text>
+      <Text style={styles.simple}>{m.en}</Text>
+      {m.examples.length ? <Text style={styles.exLabel}>{m.examples.length > 1 ? 'Examples' : 'Example'} 예문</Text> : null}
+      {m.examples.map((e, i) => (
+        <View key={i} style={styles.exRow}>
+          <View style={{ flex: 1 }}>
+            <Text style={styles.exText}>{e.en}</Text>
+            {e.ko ? <Text style={styles.exKo}>{e.ko}</Text> : null}
+          </View>
+          <SpeakButton text={e.en} />
+        </View>
       ))}
     </View>
-  );
-}
-
-function ExampleRow({ en, ko }: { en: string; ko?: string }) {
-  const [open, setOpen] = useState(false);
-  return (
-    <Pressable onPress={() => ko && setOpen(!open)} style={styles.exRow}>
-      <View style={{ flex: 1 }}>
-        <Text style={styles.exText}>“{en}”</Text>
-        {open && ko ? <Text style={styles.exKo}>{ko}</Text> : null}
-        {ko && !open ? <Text style={styles.exHint}>탭하면 한국어</Text> : null}
-      </View>
-      <SpeakButton text={en} size={18} />
-    </Pressable>
   );
 }
 
@@ -153,15 +167,16 @@ function DictSenses({ senses, onWord }: { senses: DictSense[]; onWord: (w: strin
   const [all, setAll] = useState(false);
   const shown = all ? senses : senses.slice(0, 6);
   return (
-    <View style={[styles.card, { backgroundColor: '#FAFAFC' }]}>
-      <Text style={styles.dictTitle}>Dictionary meanings</Text>
+    <View style={[styles.card, { backgroundColor: '#FBFBFE' }]}>
+      <Text style={styles.dictTitle}>Dictionary meanings 영어 사전 뜻</Text>
       {shown.map((s, i) => (
         <View key={i} style={styles.dictSense}>
           <Text style={styles.dictPos}>
             {i + 1}. {s.pos} · {POS_KO[s.pos] ?? s.pos}
           </Text>
+          {s.ko ? <Text style={styles.dictKo}>🇰🇷 {s.ko}</Text> : null}
           <Text style={styles.dictDef}>{s.def}</Text>
-          {s.wikidata ? <OnlineKorean qid={s.wikidata} /> : null}
+          {s.wikidata && !s.ko ? <OnlineKorean qid={s.wikidata} /> : null}
           {s.examples.slice(0, 2).map((e, j) => (
             <Text key={j} style={styles.dictEx}>
               “{e}”
@@ -169,7 +184,7 @@ function DictSenses({ senses, onWord }: { senses: DictSense[]; onWord: (w: strin
           ))}
           {s.synonyms.length > 0 ? (
             <View style={styles.synRow}>
-              <Text style={styles.synLabel}>Same as: </Text>
+              <Text style={styles.synLabel}>Same as 비슷한 말: </Text>
               {s.synonyms.slice(0, 5).map((w) => (
                 <Pressable key={w} onPress={() => onWord(w)}>
                   <Text style={styles.syn}>{w}</Text>
@@ -188,36 +203,6 @@ function DictSenses({ senses, onWord }: { senses: DictSense[]; onWord: (w: strin
   );
 }
 
-// A common-word gloss, shown like a hand-written sense: easy English, Korean on tap, one example.
-function GlossCard({ sense, index, total }: { sense: DictSense; index: number; total: number }) {
-  const [ko, setKo] = useState(false);
-  return (
-    <View style={styles.card}>
-      <View style={styles.posRow}>
-        {total > 1 ? <Text style={styles.num}>{index + 1}</Text> : null}
-        <Text style={styles.pos}>
-          {sense.pos} · {POS_KO[sense.pos] ?? sense.pos}
-        </Text>
-      </View>
-      <Text style={styles.simple}>{sense.easy}</Text>
-      <Pressable style={[styles.koBtn, ko && styles.koBtnOn]} onPress={() => setKo(!ko)}>
-        <Text style={styles.koBtnText}>{ko ? '한국어 뜻 숨기기' : '🇰🇷 한국어로 보기'}</Text>
-      </Pressable>
-      {ko ? (
-        <View style={styles.koBox}>
-          <Text style={styles.koMain}>{sense.ko}</Text>
-        </View>
-      ) : null}
-      {sense.exampleEn ? (
-        <>
-          <Text style={styles.exLabel}>Example 예문</Text>
-          <ExampleRow en={sense.exampleEn} ko={sense.exampleKo ?? undefined} />
-        </>
-      ) : null}
-    </View>
-  );
-}
-
 function OnlineKorean({ qid }: { qid: string }) {
   const net = useNetworkState();
   const [label, setLabel] = useState<string | null>(null);
@@ -230,86 +215,85 @@ function OnlineKorean({ qid }: { qid: string }) {
 
 const styles = StyleSheet.create({
   center: { flex: 1, alignItems: 'center', justifyContent: 'center' },
-  topbar: { paddingHorizontal: 16, paddingVertical: 10 },
-  back: { color: C.blue, fontSize: 18, fontWeight: '600' },
-  scroll: { paddingHorizontal: 18, paddingBottom: 48 },
-  headRow: { flexDirection: 'row', alignItems: 'center', gap: 12 },
-  word: { fontSize: 38, fontWeight: '800', color: C.ink, flexShrink: 1 },
+  topbar: { paddingHorizontal: 12, paddingVertical: 8 },
+  backBtn: { alignSelf: 'flex-start', paddingHorizontal: 10, paddingVertical: 6, borderRadius: 14, backgroundColor: C.card, ...shadow },
+  back: { color: C.blue, fontSize: 17, fontWeight: '700' },
+  scroll: { paddingHorizontal: 16, paddingBottom: 48 },
+  hero: { backgroundColor: C.card, borderRadius: 24, padding: 20, marginTop: 4, ...shadow },
+  word: { fontSize: 40, fontWeight: '800', color: C.ink, letterSpacing: 0.3 },
   ipa: { fontSize: 17, color: C.sub, marginTop: 2 },
+  heroKo: { fontSize: 22, fontWeight: '800', color: C.koInk, marginTop: 8, lineHeight: 30 },
+  heroBtns: { flexDirection: 'row', flexWrap: 'wrap', gap: 10, marginTop: 14, alignItems: 'center' },
   topic: {
-    marginTop: 8,
+    marginTop: 12,
     alignSelf: 'flex-start',
     backgroundColor: C.greenSoft,
     color: C.green,
     paddingHorizontal: 10,
-    paddingVertical: 3,
+    paddingVertical: 4,
     borderRadius: 10,
     fontSize: 13,
-    fontWeight: '600',
+    fontWeight: '700',
     overflow: 'hidden',
   },
-  card: {
-    backgroundColor: C.card,
-    borderRadius: 18,
-    padding: 16,
-    marginTop: 16,
-    borderWidth: 1,
-    borderColor: C.line,
-  },
+  card: { backgroundColor: C.card, borderRadius: 20, padding: 18, marginTop: 14, ...shadow },
   posRow: { flexDirection: 'row', alignItems: 'center', gap: 8 },
   num: {
     backgroundColor: C.blue,
     color: '#fff',
-    width: 22,
-    height: 22,
-    borderRadius: 11,
+    width: 24,
+    height: 24,
+    borderRadius: 12,
     textAlign: 'center',
-    lineHeight: 22,
-    fontWeight: '700',
+    lineHeight: 24,
+    fontWeight: '800',
     overflow: 'hidden',
   },
-  pos: { color: C.blue, fontWeight: '700', fontSize: 14 },
-  simple: { fontSize: 21, lineHeight: 30, color: C.ink, marginTop: 8, fontWeight: '500' },
-  koBtn: {
-    marginTop: 12,
-    alignSelf: 'flex-start',
-    backgroundColor: C.koBg,
-    borderRadius: 16,
-    paddingHorizontal: 14,
-    paddingVertical: 8,
+  pos: {
+    color: C.blue,
+    fontWeight: '800',
+    fontSize: 14,
+    backgroundColor: C.blueSoft,
+    paddingHorizontal: 10,
+    paddingVertical: 3,
+    borderRadius: 10,
+    overflow: 'hidden',
   },
-  koBtnOn: { backgroundColor: '#FBE3D2' },
-  koBtnText: { color: C.koInk, fontWeight: '700', fontSize: 15 },
-  koBox: { marginTop: 10, backgroundColor: C.koBg, borderRadius: 12, padding: 12 },
-  koMain: { fontSize: 20, fontWeight: '800', color: C.koInk },
+  koBox: { flexDirection: 'row', gap: 10, marginTop: 12, backgroundColor: C.koBg, borderRadius: 14, padding: 14 },
+  koFlag: { fontSize: 20, lineHeight: 28 },
+  koMain: { fontSize: 22, fontWeight: '800', color: C.koInk, lineHeight: 28 },
   koSimple: { fontSize: 16, color: C.ink, marginTop: 4, lineHeight: 23 },
-  exLabel: { marginTop: 16, fontSize: 13, fontWeight: '700', color: C.sub },
+  enLabel: { marginTop: 14, fontSize: 13, fontWeight: '800', color: C.sub },
+  simple: { fontSize: 20, lineHeight: 29, color: C.ink, marginTop: 4, fontWeight: '500' },
+  exLabel: { marginTop: 14, fontSize: 13, fontWeight: '800', color: C.sub },
   exRow: {
     flexDirection: 'row',
     gap: 10,
-    alignItems: 'flex-start',
+    alignItems: 'center',
     marginTop: 8,
-    backgroundColor: C.blueSoft,
+    backgroundColor: C.greenSoft,
     padding: 12,
-    borderRadius: 12,
+    borderRadius: 14,
   },
   exText: { fontSize: 17, lineHeight: 24, color: C.ink },
-  exKo: { fontSize: 15, color: C.koInk, marginTop: 6, lineHeight: 21 },
-  exHint: { fontSize: 11, color: C.faint, marginTop: 4 },
-  note: { marginTop: 16, backgroundColor: C.blueSoft, borderRadius: 12, padding: 12 },
-  noteText: { color: C.sub, fontSize: 14, lineHeight: 20 },
-  moreBtn: { marginTop: 16, padding: 12 },
-  moreText: { color: C.blue, fontWeight: '600', fontSize: 15 },
-  dictTitle: { fontSize: 15, fontWeight: '700', color: C.sub, marginBottom: 4 },
-  dictSense: { marginTop: 10 },
-  dictPos: { fontSize: 13, color: C.blue, fontWeight: '700' },
+  exKo: { fontSize: 15, color: C.green, marginTop: 4, lineHeight: 21 },
+  note: { marginTop: 14, backgroundColor: C.blueSoft, borderRadius: 16, padding: 14 },
+  noteText: { color: C.sub, fontSize: 15, lineHeight: 22 },
+  naverBtn: { marginTop: 10, alignSelf: 'flex-start', backgroundColor: '#03C75A', borderRadius: 14, paddingHorizontal: 14, paddingVertical: 9 },
+  naverText: { color: '#fff', fontWeight: '800', fontSize: 15 },
+  moreBtn: { marginTop: 14, padding: 12, alignSelf: 'center' },
+  moreText: { color: C.blue, fontWeight: '700', fontSize: 15 },
+  dictTitle: { fontSize: 15, fontWeight: '800', color: C.sub, marginBottom: 4 },
+  dictSense: { marginTop: 12 },
+  dictPos: { fontSize: 13, color: C.blue, fontWeight: '800' },
+  dictKo: { fontSize: 16, color: C.koInk, fontWeight: '800', marginTop: 2 },
   dictDef: { fontSize: 16, color: C.ink, lineHeight: 23, marginTop: 2 },
   dictEx: { fontSize: 14, color: C.sub, fontStyle: 'italic', marginTop: 3 },
   onlineKo: { fontSize: 14, color: C.koInk, marginTop: 3 },
   synRow: { flexDirection: 'row', flexWrap: 'wrap', marginTop: 4, alignItems: 'center' },
   synLabel: { fontSize: 13, color: C.faint },
   syn: { fontSize: 13, color: C.blue, marginRight: 10, textDecorationLine: 'underline' },
-  baseLink: { marginTop: 10, alignSelf: 'flex-start', backgroundColor: C.blueSoft, borderRadius: 12, paddingHorizontal: 12, paddingVertical: 6 },
+  baseLink: { marginTop: 12, alignSelf: 'flex-start', backgroundColor: C.blueSoft, borderRadius: 14, paddingHorizontal: 12, paddingVertical: 7 },
   baseText: { color: C.blue, fontSize: 15 },
   credit: { marginTop: 28, fontSize: 11, color: C.faint, lineHeight: 16 },
 });
