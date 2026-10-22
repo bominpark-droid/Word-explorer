@@ -8,7 +8,7 @@ import type { Db } from './db';
 
 // Bump the file name whenever assets/db/dict.db is rebuilt, so phones copy the
 // new bundled dictionary instead of keeping the old one.
-const DICT_DB = 'dict-v2.db';
+const DICT_DB = 'dict-v3.db';
 
 export function DictProvider({ children }: { children: ReactNode }) {
   return (

@@ -36,6 +36,7 @@ export function baseCandidates(q: string): string[] {
     }
   };
 
+  if (w.endsWith('men') && w.length > 4) add(w.slice(0, -3) + 'man'); // policemen, firemen
   // "dies", "lies", "ties" -> die, lie, tie; longer "-ies" -> "-y" (studies -> study).
   if (w.endsWith('ies')) add(w.length <= 4 ? w.slice(0, -1) : w.slice(0, -3) + 'y');
   if (w.endsWith('s') && !w.endsWith('ss')) {

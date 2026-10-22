@@ -1,0 +1,1490 @@
+[
+{
+"word": "Alabama",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A state in the southeastern United States. Its capital is Montgomery.",
+"ko": "앨라배마주",
+"ko_simple": "미국 남동부에 있는 주. 주도는 몽고메리.",
+"examples": [
+{
+"en": "Rosa Parks lived in Montgomery, Alabama.",
+"ko": "로자 파크스는 앨라배마주 몽고메리에 살았다."
+},
+{
+"en": "Alabama is next to Georgia and Mississippi.",
+"ko": "앨라배마주는 조지아주와 미시시피주 옆에 있다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Illinois",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A state in the middle of the United States. Chicago is its biggest city.",
+"ko": "일리노이주",
+"ko_simple": "미국 중부에 있는 주. 가장 큰 도시는 시카고.",
+"examples": [
+{
+"en": "Abraham Lincoln lived in Illinois before he became president.",
+"ko": "에이브러햄 링컨은 대통령이 되기 전에 일리노이주에 살았다."
+},
+{
+"en": "My cousins drove from Illinois to visit us.",
+"ko": "사촌들이 일리노이주에서 차를 타고 우리를 보러 왔다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Indiana",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A state in the middle of the United States. Its capital is Indianapolis.",
+"ko": "인디애나주",
+"ko_simple": "미국 중부에 있는 주. 주도는 인디애나폴리스.",
+"examples": [
+{
+"en": "Indiana has lots of corn fields.",
+"ko": "인디애나주에는 옥수수밭이 많다."
+},
+{
+"en": "A famous car race happens every year in Indiana.",
+"ko": "인디애나주에서는 해마다 유명한 자동차 경주가 열린다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Iowa",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A farming state in the middle of the United States, famous for corn.",
+"ko": "아이오와주",
+"ko_simple": "옥수수로 유명한 미국 중부의 농업 주.",
+"examples": [
+{
+"en": "Iowa grows more corn than almost any other state.",
+"ko": "아이오와주는 거의 어느 주보다 옥수수를 많이 기른다."
+},
+{
+"en": "We drove past miles of farms in Iowa.",
+"ko": "우리는 아이오와주에서 끝없이 이어진 농장을 지나갔다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Kansas",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A state in the middle of the United States with wide, flat farmland.",
+"ko": "캔자스주",
+"ko_simple": "넓고 평평한 농지가 있는 미국 중부의 주.",
+"examples": [
+{
+"en": "In The Wizard of Oz, Dorothy lives in Kansas.",
+"ko": "《오즈의 마법사》에서 도로시는 캔자스에 산다."
+},
+{
+"en": "Kansas grows a lot of wheat.",
+"ko": "캔자스주는 밀을 많이 기른다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Massachusetts",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A state in the northeastern United States. Its capital is Boston.",
+"ko": "매사추세츠주",
+"ko_simple": "미국 북동부에 있는 주. 주도는 보스턴.",
+"examples": [
+{
+"en": "The Pilgrims landed in Massachusetts in 1620.",
+"ko": "필그림들은 1620년에 매사추세츠에 도착했다."
+},
+{
+"en": "Massachusetts is part of New England.",
+"ko": "매사추세츠주는 뉴잉글랜드 지역에 속한다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Michigan",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A state in the northern United States, almost surrounded by the Great Lakes.",
+"ko": "미시간주",
+"ko_simple": "오대호에 거의 둘러싸인 미국 북부의 주.",
+"examples": [
+{
+"en": "Michigan is shaped a bit like a mitten.",
+"ko": "미시간주는 벙어리장갑처럼 생겼다."
+},
+{
+"en": "Detroit, the car city, is in Michigan.",
+"ko": "자동차 도시 디트로이트는 미시간주에 있다."
+}
+]
+},
+{
+"pos": "proper noun",
+"simple": "Lake Michigan, one of the five Great Lakes.",
+"ko": "미시간호",
+"ko_simple": "오대호 가운데 하나인 미시간호.",
+"examples": [
+{
+"en": "We swam in Lake Michigan last summer.",
+"ko": "우리는 지난여름 미시간호에서 수영했다."
+},
+{
+"en": "Lake Michigan is so big it looks like an ocean.",
+"ko": "미시간호는 너무 커서 바다처럼 보인다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Missouri",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A state in the middle of the United States. St. Louis and Kansas City are there.",
+"ko": "미주리주",
+"ko_simple": "미국 중부에 있는 주. 세인트루이스와 캔자스시티가 있다.",
+"examples": [
+{
+"en": "The Gateway Arch is in St. Louis, Missouri.",
+"ko": "게이트웨이 아치는 미주리주 세인트루이스에 있다."
+},
+{
+"en": "Mark Twain grew up in Missouri.",
+"ko": "마크 트웨인은 미주리주에서 자랐다."
+}
+]
+},
+{
+"pos": "proper noun",
+"simple": "The Missouri River, the longest river in the United States.",
+"ko": "미주리강",
+"ko_simple": "미국에서 가장 긴 강인 미주리강.",
+"examples": [
+{
+"en": "Lewis and Clark traveled up the Missouri River.",
+"ko": "루이스와 클라크는 미주리강을 거슬러 올라갔다."
+},
+{
+"en": "The Missouri River flows into the Mississippi River.",
+"ko": "미주리강은 미시시피강으로 흘러 들어간다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "New Hampshire",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A small state in the northeastern United States with mountains and forests.",
+"ko": "뉴햄프셔주",
+"ko_simple": "산과 숲이 많은 미국 북동부의 작은 주.",
+"examples": [
+{
+"en": "The leaves in New Hampshire turn bright red in fall.",
+"ko": "뉴햄프셔주의 나뭇잎은 가을에 새빨갛게 물든다."
+},
+{
+"en": "New Hampshire was one of the 13 colonies.",
+"ko": "뉴햄프셔는 13개 식민지 가운데 하나였다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "New Jersey",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A state on the east coast of the United States, next to New York.",
+"ko": "뉴저지주",
+"ko_simple": "뉴욕 옆, 미국 동해안에 있는 주.",
+"examples": [
+{
+"en": "We took a train from New Jersey to New York City.",
+"ko": "우리는 뉴저지에서 뉴욕시까지 기차를 탔다."
+},
+{
+"en": "New Jersey has many beaches.",
+"ko": "뉴저지주에는 해변이 많다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "New Mexico",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A state in the southwestern United States with deserts and mountains.",
+"ko": "뉴멕시코주",
+"ko_simple": "사막과 산이 있는 미국 남서부의 주.",
+"examples": [
+{
+"en": "Many Pueblo people live in New Mexico.",
+"ko": "많은 푸에블로 사람들이 뉴멕시코주에 산다."
+},
+{
+"en": "Hot air balloons fill the sky in New Mexico every October.",
+"ko": "해마다 10월이면 뉴멕시코의 하늘이 열기구로 가득 찬다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "New York",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "New York City, the biggest city in the United States.",
+"ko": "뉴욕시",
+"ko_simple": "미국에서 가장 큰 도시인 뉴욕시.",
+"examples": [
+{
+"en": "The Statue of Liberty stands in New York.",
+"ko": "자유의 여신상은 뉴욕에 서 있다."
+},
+{
+"en": "We rode the subway all over New York.",
+"ko": "우리는 지하철을 타고 뉴욕 여기저기를 다녔다."
+}
+]
+},
+{
+"pos": "proper noun",
+"simple": "A state in the northeastern United States.",
+"ko": "뉴욕주",
+"ko_simple": "미국 북동부에 있는 주.",
+"examples": [
+{
+"en": "Niagara Falls is in New York State.",
+"ko": "나이아가라 폭포는 뉴욕주에 있다."
+},
+{
+"en": "The capital of New York State is Albany, not New York City.",
+"ko": "뉴욕주의 주도는 뉴욕시가 아니라 올버니다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "North Carolina",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A state on the east coast of the United States. Its capital is Raleigh.",
+"ko": "노스캐롤라이나주",
+"ko_simple": "미국 동해안에 있는 주. 주도는 롤리.",
+"examples": [
+{
+"en": "The Wright brothers first flew a plane in North Carolina.",
+"ko": "라이트 형제는 노스캐롤라이나에서 처음으로 비행기를 날렸다."
+},
+{
+"en": "North Carolina has mountains and beaches.",
+"ko": "노스캐롤라이나주에는 산과 해변이 있다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "North Dakota",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A state in the north-central United States, next to Canada.",
+"ko": "노스다코타주",
+"ko_simple": "캐나다와 맞닿은 미국 중북부의 주.",
+"examples": [
+{
+"en": "Winters in North Dakota are very cold.",
+"ko": "노스다코타주의 겨울은 아주 춥다."
+},
+{
+"en": "Sakakawea helped Lewis and Clark near North Dakota.",
+"ko": "사카가위아는 노스다코타 근처에서 루이스와 클라크를 도왔다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Rhode Island",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "The smallest state in the United States, in the northeast.",
+"ko": "로드아일랜드주",
+"ko_simple": "미국 북동부에 있는, 미국에서 가장 작은 주.",
+"examples": [
+{
+"en": "Rhode Island is the smallest state, but it has a long coast.",
+"ko": "로드아일랜드주는 가장 작은 주지만 해안선은 길다."
+},
+{
+"en": "We ate clam chowder in Rhode Island.",
+"ko": "우리는 로드아일랜드에서 클램 차우더를 먹었다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "South Carolina",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A state in the southeastern United States. Its capital is Columbia.",
+"ko": "사우스캐롤라이나주",
+"ko_simple": "미국 남동부에 있는 주. 주도는 컬럼비아.",
+"examples": [
+{
+"en": "The first shots of the Civil War were fired in South Carolina.",
+"ko": "남북 전쟁의 첫 총성은 사우스캐롤라이나에서 울렸다."
+},
+{
+"en": "South Carolina has warm sandy beaches.",
+"ko": "사우스캐롤라이나주에는 따뜻한 모래 해변이 있다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "South Dakota",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A state in the north-central United States. Mount Rushmore is there.",
+"ko": "사우스다코타주",
+"ko_simple": "미국 중북부의 주. 러시모어산이 있다.",
+"examples": [
+{
+"en": "We saw the presidents' faces on Mount Rushmore in South Dakota.",
+"ko": "우리는 사우스다코타주 러시모어산에서 대통령들의 얼굴을 보았다."
+},
+{
+"en": "Bison roam in parks in South Dakota.",
+"ko": "사우스다코타주의 공원에는 들소가 돌아다닌다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "West Virginia",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A state in the eastern United States, full of mountains.",
+"ko": "웨스트버지니아주",
+"ko_simple": "산이 많은 미국 동부의 주.",
+"examples": [
+{
+"en": "West Virginia is called the Mountain State.",
+"ko": "웨스트버지니아주는 '산의 주'라고 불린다."
+},
+{
+"en": "West Virginia split from Virginia during the Civil War.",
+"ko": "웨스트버지니아는 남북 전쟁 때 버지니아에서 갈라져 나왔다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Bolivia",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A country in the middle of South America, high in the Andes Mountains.",
+"ko": "볼리비아",
+"ko_simple": "남아메리카 가운데, 안데스산맥 높은 곳에 있는 나라.",
+"examples": [
+{
+"en": "Bolivia has a huge salt flat that looks like a mirror.",
+"ko": "볼리비아에는 거울처럼 보이는 거대한 소금 사막이 있다."
+},
+{
+"en": "Bolivia has no coast on the ocean.",
+"ko": "볼리비아는 바다에 닿은 해안이 없다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Brazil",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "The biggest country in South America. People there speak Portuguese.",
+"ko": "브라질",
+"ko_simple": "남아메리카에서 가장 큰 나라. 포르투갈어를 쓴다.",
+"examples": [
+{
+"en": "Most of the Amazon rainforest is in Brazil.",
+"ko": "아마존 열대 우림의 대부분은 브라질에 있다."
+},
+{
+"en": "Brazil has won the World Cup five times.",
+"ko": "브라질은 월드컵에서 다섯 번 우승했다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Chad",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A country in north-central Africa. Part of it is in the Sahara Desert.",
+"ko": "차드",
+"ko_simple": "아프리카 중북부의 나라. 일부가 사하라 사막에 걸쳐 있다.",
+"examples": [
+{
+"en": "Lake Chad is in the country of Chad.",
+"ko": "차드호는 차드라는 나라에 있다."
+},
+{
+"en": "Chad has no coast on the ocean.",
+"ko": "차드는 바다에 닿은 해안이 없다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Chile",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A long, thin country on the west coast of South America.",
+"ko": "칠레",
+"ko_simple": "남아메리카 서해안에 있는 길고 좁은 나라.",
+"examples": [
+{
+"en": "On the map, Chile looks like a long ribbon.",
+"ko": "지도에서 칠레는 긴 리본처럼 보인다."
+},
+{
+"en": "The driest desert in the world is in Chile.",
+"ko": "세계에서 가장 건조한 사막이 칠레에 있다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "China",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A very large country in East Asia with more than a billion people.",
+"ko": "중국",
+"ko_simple": "10억 명이 넘는 사람이 사는 동아시아의 아주 큰 나라.",
+"examples": [
+{
+"en": "The Great Wall of China is very long.",
+"ko": "중국의 만리장성은 아주 길다."
+},
+{
+"en": "Pandas live in the mountains of China.",
+"ko": "판다는 중국의 산에 산다."
+}
+]
+},
+{
+"pos": "noun",
+"simple": "Fine, shiny dishes made of baked white clay.",
+"ko": "도자기, 도자기 그릇",
+"ko_simple": "구워 만든 하얗고 매끈한 그릇.",
+"examples": [
+{
+"en": "Grandma uses her best china on holidays.",
+"ko": "할머니는 명절에 가장 좋은 도자기 그릇을 꺼내신다."
+},
+{
+"en": "Be careful, that china plate can break.",
+"ko": "조심해, 그 도자기 접시는 깨질 수 있어."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Greece",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A country in southern Europe with many islands. It is famous for its ancient history.",
+"ko": "그리스",
+"ko_simple": "섬이 많은 남유럽의 나라. 고대 역사로 유명하다.",
+"examples": [
+{
+"en": "The first Olympic Games were held in Greece.",
+"ko": "최초의 올림픽 경기는 그리스에서 열렸다."
+},
+{
+"en": "We read myths about the gods of ancient Greece.",
+"ko": "우리는 고대 그리스 신들에 관한 신화를 읽었다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Japan",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "An island country in East Asia, east of Korea.",
+"ko": "일본",
+"ko_simple": "한국 동쪽, 동아시아에 있는 섬나라.",
+"examples": [
+{
+"en": "Mount Fuji is the tallest mountain in Japan.",
+"ko": "후지산은 일본에서 가장 높은 산이다."
+},
+{
+"en": "Japan is made of four big islands and many small ones.",
+"ko": "일본은 큰 섬 네 개와 작은 섬 여러 개로 이루어져 있다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Laos",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A country in Southeast Asia with no coast on the ocean.",
+"ko": "라오스",
+"ko_simple": "바다에 닿지 않은 동남아시아의 나라.",
+"examples": [
+{
+"en": "The Mekong River flows through Laos.",
+"ko": "메콩강은 라오스를 지나 흐른다."
+},
+{
+"en": "Laos is next to Thailand and Vietnam.",
+"ko": "라오스는 태국과 베트남 옆에 있다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Morocco",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A country in northwest Africa, across the sea from Spain.",
+"ko": "모로코",
+"ko_simple": "스페인과 바다를 사이에 둔 북서아프리카의 나라.",
+"examples": [
+{
+"en": "Morocco has busy markets full of spices.",
+"ko": "모로코에는 향신료가 가득한 시끌벅적한 시장이 있다."
+},
+{
+"en": "You can see Morocco from the south of Spain.",
+"ko": "스페인 남쪽에서 모로코가 보인다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Panama",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A country in Central America. The Panama Canal goes through it.",
+"ko": "파나마",
+"ko_simple": "중앙아메리카의 나라. 파나마 운하가 지나간다.",
+"examples": [
+{
+"en": "Ships use the Panama Canal to go from one ocean to another.",
+"ko": "배들은 파나마 운하를 지나 한 바다에서 다른 바다로 간다."
+},
+{
+"en": "Panama connects North America and South America.",
+"ko": "파나마는 북아메리카와 남아메리카를 잇는다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Philippines",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A country in Southeast Asia made of more than 7,000 islands.",
+"ko": "필리핀",
+"ko_simple": "7,000개가 넘는 섬으로 이루어진 동남아시아의 나라.",
+"examples": [
+{
+"en": "My friend's family visits the Philippines every summer.",
+"ko": "내 친구 가족은 여름마다 필리핀에 간다."
+},
+{
+"en": "The capital of the Philippines is Manila.",
+"ko": "필리핀의 수도는 마닐라다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Turkey",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A country that is partly in Europe and partly in Asia. Its biggest city is Istanbul.",
+"ko": "튀르키예 (터키)",
+"ko_simple": "일부는 유럽, 일부는 아시아에 걸친 나라. 가장 큰 도시는 이스탄불.",
+"examples": [
+{
+"en": "Istanbul, Turkey, sits on two continents.",
+"ko": "튀르키예의 이스탄불은 두 대륙에 걸쳐 있다."
+},
+{
+"en": "Turkey changed its official English name to Türkiye.",
+"ko": "터키는 공식 영어 이름을 튀르키예로 바꿨다."
+}
+]
+},
+{
+"pos": "noun",
+"simple": "A large bird that many families cook for Thanksgiving dinner.",
+"ko": "칠면조, 칠면조 고기",
+"ko_simple": "추수감사절 저녁에 많은 가족이 요리해 먹는 큰 새.",
+"examples": [
+{
+"en": "We ate turkey and mashed potatoes on Thanksgiving.",
+"ko": "우리는 추수감사절에 칠면조와 으깬 감자를 먹었다."
+},
+{
+"en": "A wild turkey walked across our backyard.",
+"ko": "야생 칠면조가 우리 뒷마당을 가로질러 걸어갔다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Wales",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A country that is part of the United Kingdom, west of England.",
+"ko": "웨일스",
+"ko_simple": "잉글랜드 서쪽에 있는, 영국을 이루는 나라 가운데 하나.",
+"examples": [
+{
+"en": "The flag of Wales has a red dragon on it.",
+"ko": "웨일스 국기에는 빨간 용이 그려져 있다."
+},
+{
+"en": "Wales has many old castles.",
+"ko": "웨일스에는 오래된 성이 많다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Atlantic",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "The Atlantic Ocean, the ocean between the Americas and Europe and Africa.",
+"ko": "대서양",
+"ko_simple": "아메리카와 유럽·아프리카 사이에 있는 바다, 대서양.",
+"examples": [
+{
+"en": "The Titanic sank in the Atlantic.",
+"ko": "타이타닉호는 대서양에서 가라앉았다."
+},
+{
+"en": "We swam in the Atlantic at the beach in Florida.",
+"ko": "우리는 플로리다 해변에서 대서양에 들어가 수영했다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Pacific",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "The Pacific Ocean, the biggest and deepest ocean on Earth.",
+"ko": "태평양",
+"ko_simple": "지구에서 가장 크고 깊은 바다, 태평양.",
+"examples": [
+{
+"en": "Hawaii is in the middle of the Pacific.",
+"ko": "하와이는 태평양 한가운데에 있다."
+},
+{
+"en": "The Pacific is between Asia and the Americas.",
+"ko": "태평양은 아시아와 아메리카 사이에 있다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "South Africa",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A country at the southern tip of Africa.",
+"ko": "남아프리카 공화국",
+"ko_simple": "아프리카 남쪽 끝에 있는 나라.",
+"examples": [
+{
+"en": "Nelson Mandela was the president of South Africa.",
+"ko": "넬슨 만델라는 남아프리카 공화국의 대통령이었다."
+},
+{
+"en": "You can see penguins on a beach in South Africa.",
+"ko": "남아프리카 공화국의 해변에서는 펭귄을 볼 수 있다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "New Zealand",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "An island country in the Pacific Ocean, southeast of Australia.",
+"ko": "뉴질랜드",
+"ko_simple": "오스트레일리아 남동쪽 태평양에 있는 섬나라.",
+"examples": [
+{
+"en": "The kiwi bird lives only in New Zealand.",
+"ko": "키위새는 뉴질랜드에만 산다."
+},
+{
+"en": "New Zealand has more sheep than people.",
+"ko": "뉴질랜드에는 사람보다 양이 더 많다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Sri Lanka",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "An island country in the Indian Ocean, south of India.",
+"ko": "스리랑카",
+"ko_simple": "인도 남쪽, 인도양에 있는 섬나라.",
+"examples": [
+{
+"en": "Sri Lanka is famous for its tea.",
+"ko": "스리랑카는 차로 유명하다."
+},
+{
+"en": "Elephants live in the forests of Sri Lanka.",
+"ko": "스리랑카의 숲에는 코끼리가 산다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Saudi Arabia",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A large desert country in the Middle East.",
+"ko": "사우디아라비아",
+"ko_simple": "중동에 있는 큰 사막 나라.",
+"examples": [
+{
+"en": "Most of Saudi Arabia is desert.",
+"ko": "사우디아라비아는 대부분 사막이다."
+},
+{
+"en": "Saudi Arabia sells a lot of oil to other countries.",
+"ko": "사우디아라비아는 다른 나라에 석유를 많이 판다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Costa Rica",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A small country in Central America, famous for rainforests and animals.",
+"ko": "코스타리카",
+"ko_simple": "열대 우림과 동물로 유명한 중앙아메리카의 작은 나라.",
+"examples": [
+{
+"en": "We saw sloths in the trees in Costa Rica.",
+"ko": "우리는 코스타리카에서 나무에 매달린 나무늘보를 보았다."
+},
+{
+"en": "Costa Rica has volcanoes and beaches.",
+"ko": "코스타리카에는 화산과 해변이 있다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Puerto Rico",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "An island in the Caribbean Sea that belongs to the United States.",
+"ko": "푸에르토리코",
+"ko_simple": "카리브해에 있는 미국령 섬.",
+"examples": [
+{
+"en": "People in Puerto Rico speak Spanish and English.",
+"ko": "푸에르토리코 사람들은 스페인어와 영어를 쓴다."
+},
+{
+"en": "We flew to Puerto Rico and swam in warm water.",
+"ko": "우리는 비행기를 타고 푸에르토리코에 가서 따뜻한 바다에서 수영했다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "El Salvador",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "The smallest country in Central America.",
+"ko": "엘살바도르",
+"ko_simple": "중앙아메리카에서 가장 작은 나라.",
+"examples": [
+{
+"en": "El Salvador has many volcanoes.",
+"ko": "엘살바도르에는 화산이 많다."
+},
+{
+"en": "My classmate's grandparents come from El Salvador.",
+"ko": "우리 반 친구의 조부모님은 엘살바도르 출신이다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "United States",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "The country in North America made of 50 states. Its capital is Washington, D.C.",
+"ko": "미국",
+"ko_simple": "50개 주로 이루어진 북아메리카의 나라. 수도는 워싱턴 D.C.",
+"examples": [
+{
+"en": "The United States has 50 stars on its flag.",
+"ko": "미국 국기에는 별이 50개 있다."
+},
+{
+"en": "The United States became a country in 1776.",
+"ko": "미국은 1776년에 나라가 되었다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "United Kingdom",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "The country made of England, Scotland, Wales and Northern Ireland.",
+"ko": "영국",
+"ko_simple": "잉글랜드, 스코틀랜드, 웨일스, 북아일랜드로 이루어진 나라.",
+"examples": [
+{
+"en": "London is the capital of the United Kingdom.",
+"ko": "런던은 영국의 수도다."
+},
+{
+"en": "The United Kingdom has a king.",
+"ko": "영국에는 왕이 있다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Hong Kong",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A big, busy city on the southern coast of China.",
+"ko": "홍콩",
+"ko_simple": "중국 남쪽 해안에 있는 크고 북적이는 도시.",
+"examples": [
+{
+"en": "Hong Kong has many tall buildings by the sea.",
+"ko": "홍콩에는 바닷가에 높은 건물이 많다."
+},
+{
+"en": "We took a ferry across the harbor in Hong Kong.",
+"ko": "우리는 홍콩에서 배를 타고 항구를 건넜다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Chicago",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "The biggest city in Illinois, on Lake Michigan.",
+"ko": "시카고",
+"ko_simple": "미시간호 옆에 있는 일리노이주에서 가장 큰 도시.",
+"examples": [
+{
+"en": "Chicago is called the Windy City.",
+"ko": "시카고는 '바람의 도시'라고 불린다."
+},
+{
+"en": "We ate deep-dish pizza in Chicago.",
+"ko": "우리는 시카고에서 두꺼운 피자를 먹었다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Miami",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A big city in southern Florida with warm beaches.",
+"ko": "마이애미",
+"ko_simple": "따뜻한 해변이 있는 플로리다 남부의 큰 도시.",
+"examples": [
+{
+"en": "It is warm in Miami even in winter.",
+"ko": "마이애미는 겨울에도 따뜻하다."
+},
+{
+"en": "Many people in Miami speak both English and Spanish.",
+"ko": "마이애미의 많은 사람들이 영어와 스페인어를 둘 다 쓴다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Phoenix",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "The capital and biggest city of Arizona, in the desert.",
+"ko": "피닉스",
+"ko_simple": "사막에 있는 애리조나주의 주도이자 가장 큰 도시.",
+"examples": [
+{
+"en": "Summers in Phoenix are very hot.",
+"ko": "피닉스의 여름은 아주 덥다."
+},
+{
+"en": "Cactus plants grow all around Phoenix.",
+"ko": "피닉스 주변에는 선인장이 잔뜩 자란다."
+}
+]
+},
+{
+"pos": "noun",
+"simple": "A magic bird in old stories that burns up and is born again from its ashes.",
+"ko": "불사조, 피닉스",
+"ko_simple": "옛이야기에서 불타 죽었다가 재 속에서 다시 태어나는 신비한 새.",
+"examples": [
+{
+"en": "The phoenix rose from the fire with bright new feathers.",
+"ko": "불사조는 반짝이는 새 깃털을 달고 불 속에서 다시 날아올랐다."
+},
+{
+"en": "In the story, a phoenix's tears could heal wounds.",
+"ko": "그 이야기에서 불사조의 눈물은 상처를 낫게 했다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Shanghai",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "The biggest city in China, on the east coast.",
+"ko": "상하이",
+"ko_simple": "중국 동쪽 해안에 있는 중국에서 가장 큰 도시.",
+"examples": [
+{
+"en": "Shanghai has one of the tallest buildings in the world.",
+"ko": "상하이에는 세계에서 가장 높은 건물 가운데 하나가 있다."
+},
+{
+"en": "Ships from all over the world come to Shanghai.",
+"ko": "전 세계에서 온 배들이 상하이로 들어온다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Busan",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "The second biggest city in South Korea, on the southeast coast.",
+"ko": "부산",
+"ko_simple": "한국 남동쪽 해안에 있는 한국에서 두 번째로 큰 도시.",
+"examples": [
+{
+"en": "We went to the beach in Busan with Grandma.",
+"ko": "우리는 할머니와 함께 부산의 해변에 갔다."
+},
+{
+"en": "Busan has a big fish market by the sea.",
+"ko": "부산에는 바닷가에 큰 수산 시장이 있다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Rome",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "The capital of Italy. Long ago it was the center of the Roman Empire.",
+"ko": "로마",
+"ko_simple": "이탈리아의 수도. 옛날에는 로마 제국의 중심이었다.",
+"examples": [
+{
+"en": "We saw the Colosseum in Rome.",
+"ko": "우리는 로마에서 콜로세움을 보았다."
+},
+{
+"en": "Rome was not built in a day.",
+"ko": "로마는 하루아침에 만들어지지 않았다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Berlin",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "The capital of Germany.",
+"ko": "베를린",
+"ko_simple": "독일의 수도.",
+"examples": [
+{
+"en": "A wall once divided Berlin into two parts.",
+"ko": "한때 벽 하나가 베를린을 둘로 나누었다."
+},
+{
+"en": "Berlin has a famous gate called the Brandenburg Gate.",
+"ko": "베를린에는 브란덴부르크 문이라는 유명한 문이 있다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Los Angeles",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A huge city in southern California, where many movies are made.",
+"ko": "로스앤젤레스 (LA)",
+"ko_simple": "영화를 많이 만드는 캘리포니아 남부의 아주 큰 도시.",
+"examples": [
+{
+"en": "Hollywood is part of Los Angeles.",
+"ko": "할리우드는 로스앤젤레스에 있다."
+},
+{
+"en": "Many Korean Americans live in Los Angeles.",
+"ko": "많은 한국계 미국인이 로스앤젤레스에 산다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "San Francisco",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A hilly city in northern California, famous for the Golden Gate Bridge.",
+"ko": "샌프란시스코",
+"ko_simple": "금문교로 유명한 캘리포니아 북부의 언덕 많은 도시.",
+"examples": [
+{
+"en": "We rode a cable car up a steep hill in San Francisco.",
+"ko": "우리는 샌프란시스코에서 케이블카를 타고 가파른 언덕을 올라갔다."
+},
+{
+"en": "Fog often covers the Golden Gate Bridge in San Francisco.",
+"ko": "샌프란시스코의 금문교는 자주 안개에 덮인다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Las Vegas",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A city in the Nevada desert, famous for its bright lights.",
+"ko": "라스베이거스",
+"ko_simple": "화려한 불빛으로 유명한 네바다 사막의 도시.",
+"examples": [
+{
+"en": "Las Vegas glows with lights at night.",
+"ko": "라스베이거스는 밤이면 불빛으로 반짝인다."
+},
+{
+"en": "We drove from Las Vegas to the Grand Canyon.",
+"ko": "우리는 라스베이거스에서 그랜드캐니언까지 차를 타고 갔다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "New Orleans",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A city in Louisiana near the mouth of the Mississippi River, famous for jazz music.",
+"ko": "뉴올리언스",
+"ko_simple": "미시시피강 하구 근처, 재즈 음악으로 유명한 루이지애나주의 도시.",
+"examples": [
+{
+"en": "Jazz music started in New Orleans.",
+"ko": "재즈 음악은 뉴올리언스에서 시작되었다."
+},
+{
+"en": "We heard a trumpet band on the street in New Orleans.",
+"ko": "우리는 뉴올리언스 거리에서 트럼펫 악단의 연주를 들었다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "San Diego",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A sunny city in southern California, near Mexico.",
+"ko": "샌디에이고",
+"ko_simple": "멕시코와 가까운 캘리포니아 남부의 햇살 좋은 도시.",
+"examples": [
+{
+"en": "San Diego has a famous zoo.",
+"ko": "샌디에이고에는 유명한 동물원이 있다."
+},
+{
+"en": "We watched seals on the beach in San Diego.",
+"ko": "우리는 샌디에이고 해변에서 물범을 구경했다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Mexico City",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "The capital of Mexico and one of the biggest cities in the world.",
+"ko": "멕시코시티",
+"ko_simple": "멕시코의 수도이자 세계에서 가장 큰 도시 가운데 하나.",
+"examples": [
+{
+"en": "Mexico City is built where an old Aztec city once stood.",
+"ko": "멕시코시티는 옛 아즈텍 도시가 있던 자리에 세워졌다."
+},
+{
+"en": "Mexico City is high up in the mountains.",
+"ko": "멕시코시티는 산 위 높은 곳에 있다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Rio de Janeiro",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "A big city in Brazil, famous for its beaches and a giant statue on a mountain.",
+"ko": "리우데자네이루",
+"ko_simple": "해변과 산 위의 거대한 조각상으로 유명한 브라질의 큰 도시.",
+"examples": [
+{
+"en": "A huge statue looks down on Rio de Janeiro.",
+"ko": "거대한 조각상이 리우데자네이루를 내려다본다."
+},
+{
+"en": "Rio de Janeiro has a big festival called Carnival.",
+"ko": "리우데자네이루에서는 카니발이라는 큰 축제가 열린다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+},
+{
+"word": "Buenos Aires",
+"topic": "geography",
+"senses": [
+{
+"pos": "proper noun",
+"simple": "The capital of Argentina.",
+"ko": "부에노스아이레스",
+"ko_simple": "아르헨티나의 수도.",
+"examples": [
+{
+"en": "People in Buenos Aires love to dance the tango.",
+"ko": "부에노스아이레스 사람들은 탱고 추기를 좋아한다."
+},
+{
+"en": "Buenos Aires is a big city by a wide river.",
+"ko": "부에노스아이레스는 넓은 강가에 있는 큰 도시다."
+}
+]
+}
+],
+"forms": [],
+"picture": false
+}
+]

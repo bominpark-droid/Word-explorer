@@ -134,7 +134,7 @@ export async function getEntry(db: Db, id: number): Promise<Entry | null> {
 
 export async function randomKidWord(db: Db): Promise<WordRow | null> {
   return db.getFirstAsync<WordRow>(
-    'SELECT w.id, w.word, w.kid FROM kid k JOIN words w ON w.id = k.word_id ORDER BY random() LIMIT 1',
+    "SELECT w.id, w.word, w.kid FROM kid k JOIN words w ON w.id = k.word_id WHERE coalesce(k.topic, '') <> 'basic' ORDER BY random() LIMIT 1",
   );
 }
 

@@ -1,0 +1,1235 @@
+[
+{
+"sid": "10324172-n",
+"easy": "A business that prepares meat and sells it in large amounts to stores.",
+"ko": "정육 도매업자",
+"ex": {
+"en": "The meat packer sent trucks of beef to the grocery stores.",
+"ko": "정육 도매업체는 쇠고기를 트럭에 실어 식료품점에 보냈다."
+}
+},
+{
+"sid": "91000421-v",
+"easy": "To change a photo using a computer program.",
+"ko": "(사진을) 포토샵으로 고치다, 보정하다",
+"ex": {
+"en": "My sister photoshopped a cat into our family picture.",
+"ko": "언니가 우리 가족사진에 고양이를 포토샵으로 넣었다."
+}
+},
+{
+"sid": "05829846-n",
+"easy": "Something that happened before and is used as an example for what to do later.",
+"ko": "선례, 전례",
+"ex": {
+"en": "Letting one kid skip homework would set a precedent for everyone.",
+"ko": "한 아이만 숙제를 빼 주면 모두에게 선례가 될 것이다."
+}
+},
+{
+"sid": "06547026-n",
+"easy": "A rule made by judges' earlier decisions that later judges follow.",
+"ko": "판례",
+"ex": {
+"en": "The judge followed precedent from an older case.",
+"ko": "판사는 예전 사건의 판례를 따랐다."
+}
+},
+{
+"sid": "10544006-n",
+"easy": "A person who answers questions, like in a survey.",
+"ko": "응답자",
+"ex": {
+"en": "Most respondents said pizza was their favorite lunch.",
+"ko": "대부분의 응답자가 피자를 가장 좋아하는 점심이라고 했다."
+}
+},
+{
+"sid": "13848434-n",
+"easy": "How often workers leave a job and new people must be hired.",
+"ko": "이직률",
+"ex": {
+"en": "The store has high turnover, so there are always new workers.",
+"ko": "그 가게는 이직률이 높아서 늘 새 직원이 있다."
+}
+},
+{
+"sid": "07640075-n",
+"easy": "A small pie made by folding dough over a filling like apples.",
+"ko": "턴오버 (반달 모양 파이)",
+"ex": {
+"en": "I ate a warm apple turnover after school.",
+"ko": "나는 방과 후에 따뜻한 사과 턴오버를 먹었다."
+}
+},
+{
+"sid": "07922524-n",
+"easy": "A strong alcohol drink made from grain; only for adults.",
+"ko": "위스키",
+"ex": {
+"en": "Whiskey is a strong drink only grown-ups may have.",
+"ko": "위스키는 어른만 마실 수 있는 독한 술이다."
+}
+},
+{
+"sid": "00537396-n",
+"easy": "A lively, fast dance that was popular in America about 100 years ago.",
+"ko": "찰스턴 (춤)",
+"ex": {
+"en": "Grandma showed us how to do the Charleston.",
+"ko": "할머니가 찰스턴 춤 추는 법을 보여 주셨다."
+}
+},
+{
+"sid": "14445439-n",
+"easy": "Going on smoothly without stopping or breaking.",
+"ko": "연속성",
+"ex": {
+"en": "Having the same teacher all year gives students continuity.",
+"ko": "일 년 내내 같은 선생님이면 학생들에게 연속성이 생긴다."
+}
+},
+{
+"sid": "00396837-n",
+"easy": "Letting water flow out of a place.",
+"ko": "배수",
+"ex": {
+"en": "The garden needs good drainage so the plants don't get soggy.",
+"ko": "식물이 물에 잠기지 않도록 정원은 배수가 잘 되어야 한다."
+}
+},
+{
+"sid": "01341976-v",
+"easy": "To cover something so completely that you can't see or hear it.",
+"ko": "압도하다, (소리를) 묻히게 하다",
+"ex": {
+"en": "The loud music drowned out my voice.",
+"ko": "시끄러운 음악 때문에 내 목소리가 묻혀 버렸다."
+}
+},
+{
+"sid": "00770190-n",
+"easy": "A very serious crime.",
+"ko": "중범죄",
+"ex": {
+"en": "Stealing a car is a felony.",
+"ko": "차를 훔치는 것은 중범죄다."
+}
+},
+{
+"sid": "02756327-a",
+"easy": "Having to do with the big ideas and beliefs that a group or country holds.",
+"ko": "이념적인, 이데올로기의",
+"ex": {
+"en": "The two countries had ideological differences.",
+"ko": "두 나라는 이념적인 차이가 있었다."
+}
+},
+{
+"sid": "01585009-s",
+"easy": "Being someone's duty or job to do.",
+"ko": "의무로서 지워진, (~할) 책임이 있는",
+"ex": {
+"en": "It is incumbent on the team captain to set a good example.",
+"ko": "좋은 본보기를 보이는 것은 팀 주장의 의무다."
+}
+},
+{
+"sid": "10222243-n",
+"easy": "The person who has an official job right now.",
+"ko": "현직자",
+"ex": {
+"en": "The incumbent mayor is running again.",
+"ko": "현직 시장이 다시 출마한다."
+}
+},
+{
+"sid": "10228184-n",
+"easy": "A person inside a group or company who knows its secrets.",
+"ko": "내부자",
+"ex": {
+"en": "An insider told reporters about the new phone.",
+"ko": "한 내부자가 기자들에게 새 휴대폰에 대해 알려 주었다."
+}
+},
+{
+"sid": "13660488-n",
+"easy": "A unit that measures how strong a magnet is.",
+"ko": "테슬라 (자기장 단위)",
+"ex": {
+"en": "An MRI machine's magnet is about 3 teslas.",
+"ko": "MRI 기계의 자석은 약 3테슬라다."
+}
+},
+{
+"sid": "02918313-a",
+"easy": "Having to do with the study of God and religion.",
+"ko": "신학의, 신학적인",
+"ex": {
+"en": "My uncle studies at a theological school.",
+"ko": "삼촌은 신학교에서 공부한다."
+}
+},
+{
+"sid": "01710918-s",
+"easy": "Done secretly, with plans kept hidden.",
+"ko": "비밀의, 은밀한",
+"ex": {
+"en": "The spy went on an undercover mission.",
+"ko": "스파이는 비밀 임무를 수행하러 갔다."
+}
+},
+{
+"sid": "06640323-n",
+"easy": "A card you give someone you like on Valentine's Day, February 14.",
+"ko": "밸런타인 카드",
+"ex": {
+"en": "I made a valentine for every kid in my class.",
+"ko": "나는 우리 반 아이들 모두에게 밸런타인 카드를 만들어 주었다."
+}
+},
+{
+"sid": "10652848-n",
+"easy": "A person who watches or looks at something.",
+"ko": "구경꾼, 관람객, 시청자",
+"ex": {
+"en": "The viewers clapped at the end of the magic show.",
+"ko": "마술 쇼가 끝나자 관람객들이 박수를 쳤다."
+}
+},
+{
+"sid": "09780826-n",
+"easy": "A person whose job is to keep track of money for a business or person.",
+"ko": "회계사",
+"ex": {
+"en": "Mom is an accountant, so she is great with numbers.",
+"ko": "엄마는 회계사여서 숫자를 아주 잘 다루신다."
+}
+},
+{
+"sid": "02134625-v",
+"easy": "To look at something carefully, often something amazing.",
+"ko": "보다, 바라보다",
+"ex": {
+"en": "Behold the biggest pumpkin in the whole state!",
+"ko": "주 전체에서 가장 큰 호박을 보라!"
+}
+},
+{
+"sid": "05225393-n",
+"easy": "The body of a dead person.",
+"ko": "시체, 송장",
+"ex": {
+"en": "In the mystery story, the detective searched for clues near the corpse.",
+"ko": "추리 소설에서 탐정은 시체 근처에서 단서를 찾았다."
+}
+},
+{
+"sid": "14418807-n",
+"easy": "A sickness, usually in old people, where the brain gets worse at remembering and thinking.",
+"ko": "치매",
+"ex": {
+"en": "My friend's grandpa has dementia and sometimes forgets names.",
+"ko": "친구 할아버지는 치매가 있어서 가끔 이름을 잊어버리신다."
+}
+},
+{
+"sid": "14671413-n",
+"easy": "A gas with no color or smell that makes up most of the air we breathe.",
+"ko": "질소",
+"ex": {
+"en": "About 78 percent of the air is nitrogen.",
+"ko": "공기의 약 78퍼센트는 질소다."
+}
+},
+{
+"sid": "13433894-n",
+"easy": "A list of the workers in a company and how much each one is paid.",
+"ko": "급여 대장, 급여 명단",
+"ex": {
+"en": "The bakery added two new workers to its payroll.",
+"ko": "그 빵집은 급여 명단에 직원 두 명을 새로 올렸다."
+}
+},
+{
+"sid": "07404169-n",
+"easy": "A short, high, ringing sound.",
+"ko": "핑 (하는 소리)",
+"ex": {
+"en": "The pebble hit the metal pole with a ping.",
+"ko": "조약돌이 핑 소리를 내며 쇠기둥에 맞았다."
+}
+},
+{
+"sid": "02813671-a",
+"easy": "Set by written laws.",
+"ko": "법령의, 법으로 정한",
+"ex": {
+"en": "There is a statutory age for getting a driver's license.",
+"ko": "운전면허를 따는 데는 법으로 정한 나이가 있다."
+}
+},
+{
+"sid": "01486108-v",
+"easy": "To take the cover off something so people can see it.",
+"ko": "베일을 벗기다, (덮개를 벗겨) 공개하다",
+"ex": {
+"en": "The mayor unveiled the new statue in the park.",
+"ko": "시장이 공원의 새 동상 덮개를 벗겨 공개했다."
+}
+},
+{
+"sid": "00721987-v",
+"easy": "To wait for something you think will happen.",
+"ko": "기다리다, 고대하다",
+"ex": {
+"en": "We eagerly awaited Grandma's visit from Korea.",
+"ko": "우리는 한국에서 오실 할머니를 손꼽아 기다렸다."
+}
+},
+{
+"sid": "07262728-n",
+"easy": "A short note of praise, like the words on the back of a book cover.",
+"ko": "추천사, 추천 글",
+"ex": {
+"en": "The book had an endorsement from a famous author on the back.",
+"ko": "그 책 뒤에는 유명한 작가의 추천사가 있었다."
+}
+},
+{
+"sid": "08151397-n",
+"easy": "A US government group that makes rules for TV, radio, phones, and the internet.",
+"ko": "미국 연방통신위원회",
+"ex": {
+"en": "The FCC makes rules for TV stations.",
+"ko": "연방통신위원회는 TV 방송국에 대한 규칙을 만든다."
+}
+},
+{
+"sid": "02063177-s",
+"easy": "Filling your heart with good feelings and making you want to do great things.",
+"ko": "영감을 주는",
+"ex": {
+"en": "The coach gave an inspirational speech before the game.",
+"ko": "코치는 경기 전에 감동적인 연설을 했다."
+}
+},
+{
+"sid": "01513459-v",
+"easy": "To fit together and work smoothly, like the teeth of gears.",
+"ko": "맞물리다",
+"ex": {
+"en": "The bike's gears meshed with a click.",
+"ko": "자전거 기어가 딸깍하며 맞물렸다."
+}
+},
+{
+"sid": "04065351-n",
+"easy": "Computer memory that can be read but not changed.",
+"ko": "롬, 읽기 전용 메모리",
+"ex": {
+"en": "The game was stored on a ROM chip.",
+"ko": "그 게임은 롬 칩에 저장되어 있었다."
+}
+},
+{
+"sid": "00162708-n",
+"easy": "Picking a small group to study so you can learn about a bigger group.",
+"ko": "표본 추출",
+"ex": {
+"en": "The scientists used sampling to count fish in the lake.",
+"ko": "과학자들은 표본 추출로 호수의 물고기 수를 셌다."
+}
+},
+{
+"sid": "10718911-n",
+"easy": "A worker hired for only a short time.",
+"ko": "임시직 직원",
+"ex": {
+"en": "A temp answered phones while the secretary was on vacation.",
+"ko": "비서가 휴가 간 동안 임시직 직원이 전화를 받았다."
+}
+},
+{
+"sid": "10773110-n",
+"easy": "A person who lives in a village.",
+"ko": "마을 사람",
+"ex": {
+"en": "The villagers held a big harvest festival.",
+"ko": "마을 사람들은 큰 추수 축제를 열었다."
+}
+},
+{
+"sid": "08169784-n",
+"easy": "Priests, ministers, and other church leaders as a group.",
+"ko": "성직자들, 성직자",
+"ex": {
+"en": "Members of the clergy led the prayer.",
+"ko": "성직자들이 기도를 이끌었다."
+}
+},
+{
+"sid": "01091103-n",
+"easy": "A US government program that helps people who don't have much money pay for doctors.",
+"ko": "메디케이드 (미국 저소득층 의료 보장 제도)",
+"ex": {
+"en": "Medicaid helped the family pay for the hospital visit.",
+"ko": "메디케이드 덕분에 그 가족은 병원비를 낼 수 있었다."
+}
+},
+{
+"sid": "00990957-s",
+"easy": "Weighing more than is healthy.",
+"ko": "과체중의, 뚱뚱한",
+"ex": {
+"en": "The vet said our cat is overweight and needs less food.",
+"ko": "수의사는 우리 고양이가 과체중이라 먹이를 줄여야 한다고 했다."
+}
+},
+{
+"sid": "05007702-n",
+"easy": "Having too much body fat.",
+"ko": "과체중, 비만",
+"ex": {
+"en": "Playing outside every day helps prevent overweight.",
+"ko": "매일 밖에서 놀면 과체중을 막는 데 도움이 된다."
+}
+},
+{
+"sid": "02718318-v",
+"easy": "To come before something else in time.",
+"ko": "앞서다, 선행하다",
+"ex": {
+"en": "Thunder is usually preceded by lightning.",
+"ko": "천둥 전에는 보통 번개가 먼저 친다."
+}
+},
+{
+"sid": "09946909-n",
+"easy": "A priest or minister who leads a Christian church.",
+"ko": "목사, 성직자",
+"ex": {
+"en": "The reverend smiled and greeted everyone at the door.",
+"ko": "목사님은 문 앞에서 웃으며 모두에게 인사하셨다."
+}
+},
+{
+"sid": "14105423-n",
+"easy": "A sudden attack of an illness, where the body may shake and the person can't control it.",
+"ko": "발작",
+"ex": {
+"en": "The nurse knew what to do when the boy had a seizure.",
+"ko": "소년이 발작을 일으키자 간호사는 어떻게 해야 할지 알았다."
+}
+},
+{
+"sid": "05410492-n",
+"easy": "The clear, yellowish liquid part of blood.",
+"ko": "혈청",
+"ex": {
+"en": "Doctors tested the serum from her blood sample.",
+"ko": "의사들은 그녀의 혈액 샘플에서 혈청을 검사했다."
+}
+},
+{
+"sid": "02695724-v",
+"easy": "To scatter things here and there like dots.",
+"ko": "점점이 박다, 흩뿌리다",
+"ex": {
+"en": "The night sky was studded with stars.",
+"ko": "밤하늘에 별이 점점이 박혀 있었다."
+}
+},
+{
+"sid": "01429146-s",
+"easy": "Affecting the whole body or whole system, not just one part.",
+"ko": "전신의, 전체 계통의",
+"ex": {
+"en": "The doctor said it was a systemic infection.",
+"ko": "의사는 그것이 전신 감염이라고 했다."
+}
+},
+{
+"sid": "00111308-a",
+"easy": "Working with smooth, continuous signals instead of numbers, like a clock with hands.",
+"ko": "아날로그의",
+"ex": {
+"en": "Grandpa still uses an analog watch with hands.",
+"ko": "할아버지는 아직도 바늘이 있는 아날로그시계를 쓰신다."
+}
+},
+{
+"sid": "04753670-n",
+"easy": "Something that is similar to something else.",
+"ko": "유사물, 비슷한 것",
+"ex": {
+"en": "A bird's wing is an analog of a human arm.",
+"ko": "새의 날개는 사람의 팔과 비슷한 것이다."
+}
+},
+{
+"sid": "02375236-n",
+"easy": "A small, furry African animal that looks like a big guinea pig.",
+"ko": "바위너구리",
+"ex": {
+"en": "We saw a hyrax sunning itself on a rock at the zoo.",
+"ko": "동물원에서 바위너구리가 바위 위에서 햇볕을 쬐는 것을 보았다."
+}
+},
+{
+"sid": "08574933-n",
+"easy": "A land ruled by an emir, a Muslim prince.",
+"ko": "토후국",
+"ex": {
+"en": "Dubai is one of the emirates in the United Arab Emirates.",
+"ko": "두바이는 아랍에미리트의 토후국 중 하나다."
+}
+},
+{
+"sid": "07283308-n",
+"easy": "A big yearly prize for the best TV shows and actors.",
+"ko": "에미상",
+"ex": {
+"en": "The cartoon won an Emmy for best animated show.",
+"ko": "그 만화는 최고의 애니메이션으로 에미상을 받았다."
+}
+},
+{
+"sid": "03497089-n",
+"easy": "A loose coil or loop of yarn, wool, or rope.",
+"ko": "타래",
+"ex": {
+"en": "Grandma bought a hank of red yarn to knit a scarf.",
+"ko": "할머니는 목도리를 뜨려고 빨간 털실 한 타래를 사셨다."
+}
+},
+{
+"sid": "03509564-n",
+"easy": "The main office from which an army leader gives orders.",
+"ko": "본부, 사령부",
+"ex": {
+"en": "The general's headquarters were in a large tent.",
+"ko": "장군의 사령부는 큰 텐트에 있었다."
+}
+},
+{
+"sid": "00134919-n",
+"easy": "A hit in boxing that knocks the other fighter down so they can't get up.",
+"ko": "케이오, 녹아웃",
+"ex": {
+"en": "The boxer won the match with a KO.",
+"ko": "그 권투 선수는 케이오로 경기에서 이겼다."
+}
+},
+{
+"sid": "14668832-n",
+"easy": "A hard gray metal that is used to make steel stronger.",
+"ko": "망간",
+"ex": {
+"en": "Manganese is added to steel to make it tough.",
+"ko": "강철을 단단하게 하려고 망간을 넣는다."
+}
+},
+{
+"sid": "02084287-s",
+"easy": "Always worried, without a good reason, that people are trying to hurt or trick you.",
+"ko": "편집증의, 피해망상의",
+"ex": {
+"en": "He felt paranoid that everyone was laughing at him.",
+"ko": "그는 모두가 자기를 비웃는다는 피해망상을 느꼈다."
+}
+},
+{
+"sid": "10418069-n",
+"easy": "A person who is ill with paranoia, always fearing others want to hurt them.",
+"ko": "편집증 환자",
+"ex": {
+"en": "The paranoid in the story locked every door three times.",
+"ko": "이야기 속 편집증 환자는 모든 문을 세 번씩 잠갔다."
+}
+},
+{
+"sid": "10636415-n",
+"easy": "A soldier who shoots from a hidden place far away.",
+"ko": "저격수",
+"ex": {
+"en": "The sniper hid on the roof during the battle.",
+"ko": "전투 중에 저격수는 지붕 위에 숨어 있었다."
+}
+},
+{
+"sid": "08176639-n",
+"easy": "The British royal family since 1917.",
+"ko": "윈저 왕가",
+"ex": {
+"en": "Queen Elizabeth II belonged to the House of Windsor.",
+"ko": "엘리자베스 2세 여왕은 윈저 왕가 사람이었다."
+}
+},
+{
+"sid": "00389306-v",
+"easy": "To destroy something completely.",
+"ko": "황폐하게 하다, 완전히 파괴하다",
+"ex": {
+"en": "The hurricane devastated the small island.",
+"ko": "허리케인이 작은 섬을 완전히 파괴했다."
+}
+},
+{
+"sid": "01618099-n",
+"easy": "A big grayish-brown eagle with a short white tail that lives near the sea in Europe.",
+"ko": "흰꼬리수리",
+"ex": {
+"en": "An erne swooped down to catch a fish.",
+"ko": "흰꼬리수리가 물고기를 잡으려고 내리꽂혔다."
+}
+},
+{
+"sid": "02987242-a",
+"easy": "Having to do with the stomach and intestines.",
+"ko": "위장의, 위장관의",
+"ex": {
+"en": "The doctor checked my GI tract after my tummy ache.",
+"ko": "배가 아프고 나서 의사가 내 위장을 검사했다."
+}
+},
+{
+"sid": "14418422-n",
+"easy": "A serious, long-lasting sickness of the mind.",
+"ko": "정신 이상, 광기",
+"ex": {
+"en": "The king in the play slowly fell into insanity.",
+"ko": "연극 속 왕은 점점 미쳐 갔다."
+}
+},
+{
+"sid": "03092047-a",
+"easy": "From or having to do with Lebanon, a country in the Middle East.",
+"ko": "레바논의",
+"ex": {
+"en": "We ate Lebanese food with hummus and pita.",
+"ko": "우리는 후무스와 피타가 나오는 레바논 음식을 먹었다."
+}
+},
+{
+"sid": "09739991-n",
+"easy": "A person from Lebanon.",
+"ko": "레바논 사람",
+"ex": {
+"en": "Our neighbor is Lebanese and makes delicious bread.",
+"ko": "우리 이웃은 레바논 사람이고 맛있는 빵을 만든다."
+}
+},
+{
+"sid": "13857084-n",
+"easy": "The direction halfway between north and west.",
+"ko": "북서쪽",
+"ex": {
+"en": "The wind is blowing from the northwest.",
+"ko": "바람이 북서쪽에서 불고 있다."
+}
+},
+{
+"sid": "13576649-n",
+"easy": "Making something into a certain shape.",
+"ko": "형태 잡기, 모양 만들기",
+"ex": {
+"en": "The shaping of the clay pot took an hour.",
+"ko": "점토 항아리 모양을 잡는 데 한 시간이 걸렸다."
+}
+},
+{
+"sid": "00588059-s",
+"easy": "Helping to form or build something, like a person's character.",
+"ko": "형성하는, 형성에 영향을 주는",
+"ex": {
+"en": "Summer camp had a shaping effect on my love of nature.",
+"ko": "여름 캠프는 내가 자연을 사랑하게 된 데 큰 영향을 주었다."
+}
+},
+{
+"sid": "15155157-n",
+"easy": "The time at Greenwich, England, used as a starting point for clocks around the world.",
+"ko": "그리니치 표준시",
+"ex": {
+"en": "The space station uses GMT for its clocks.",
+"ko": "우주 정거장은 시계를 그리니치 표준시에 맞춘다."
+}
+},
+{
+"sid": "02480958-v",
+"easy": "To officially say that a school or group meets the required standards.",
+"ko": "인가하다, 공인하다",
+"ex": {
+"en": "The state accredited the new school last year.",
+"ko": "주 정부는 작년에 새 학교를 인가했다."
+}
+},
+{
+"sid": "07330231-n",
+"easy": "The end of the world, when everything is destroyed, as told in some religious stories.",
+"ko": "종말, 대재앙",
+"ex": {
+"en": "The movie showed zombies after the apocalypse.",
+"ko": "그 영화는 종말 이후의 좀비들을 보여 주었다."
+}
+},
+{
+"sid": "06890058-n",
+"easy": "A small wave of the hand or nod that tells someone to come.",
+"ko": "손짓, 고갯짓",
+"ex": {
+"en": "The butler was at the king's beck and call.",
+"ko": "집사는 왕의 손짓 하나에 언제든 달려왔다."
+}
+},
+{
+"sid": "08318630-n",
+"easy": "A United Nations group that makes rules for ships and the sea.",
+"ko": "국제해사기구",
+"ex": {
+"en": "The IMO makes safety rules for ships.",
+"ko": "국제해사기구는 선박 안전 규칙을 만든다."
+}
+},
+{
+"sid": "01391862-s",
+"easy": "Very big in size or in what it covers.",
+"ko": "대규모의, 거시적인",
+"ex": {
+"en": "Let's look at the macro picture before the small details.",
+"ko": "작은 부분보다 먼저 큰 그림을 보자."
+}
+},
+{
+"sid": "06599062-n",
+"easy": "One computer command that runs many steps at once.",
+"ko": "매크로",
+"ex": {
+"en": "Dad made a macro to fill in the form with one click.",
+"ko": "아빠는 한 번 클릭으로 양식을 채우는 매크로를 만들었다."
+}
+},
+{
+"sid": "10300642-n",
+"easy": "A judge who handles small cases in a local court.",
+"ko": "치안 판사",
+"ex": {
+"en": "The magistrate decided the parking ticket case.",
+"ko": "치안 판사가 주차 위반 딱지 사건을 판결했다."
+}
+},
+{
+"sid": "13790580-n",
+"easy": "The amount a mug can hold.",
+"ko": "머그잔 하나 (가득한 양)",
+"ex": {
+"en": "I drank a whole mug of hot cocoa.",
+"ko": "나는 코코아를 머그잔으로 한 잔 다 마셨다."
+}
+},
+{
+"sid": "02282508-v",
+"easy": "To attack and rob someone in a public place.",
+"ko": "(노상에서) 강도질하다",
+"ex": {
+"en": "Dad told us to stay in groups so no one gets mugged.",
+"ko": "아빠는 강도를 당하지 않도록 함께 다니라고 하셨다."
+}
+},
+{
+"sid": "08643858-n",
+"easy": "A city or town that has its own local government.",
+"ko": "지방 자치체, 시, 읍",
+"ex": {
+"en": "Each municipality picks its own mayor.",
+"ko": "각 지방 자치체는 자기 시장을 뽑는다."
+}
+},
+{
+"sid": "14670060-n",
+"easy": "A silvery metal used to make super-strong magnets.",
+"ko": "네오디뮴",
+"ex": {
+"en": "The tiny magnet is made with neodymium.",
+"ko": "그 작은 자석은 네오디뮴으로 만들어졌다."
+}
+},
+{
+"sid": "05473219-n",
+"easy": "A cell in the brain and nerves that carries messages through the body.",
+"ko": "신경 세포, 뉴런",
+"ex": {
+"en": "Neurons send messages from your brain to your toes.",
+"ko": "뉴런은 뇌에서 발가락까지 신호를 보낸다."
+}
+},
+{
+"sid": "13570691-n",
+"easy": "When a muscle loosens and gets longer after working.",
+"ko": "이완",
+"ex": {
+"en": "Stretching helps the relaxation of tight muscles.",
+"ko": "스트레칭은 뭉친 근육을 이완시키는 데 도움이 된다."
+}
+},
+{
+"sid": "10536120-n",
+"easy": "A nurse who has finished training and passed a big test.",
+"ko": "정식 간호사",
+"ex": {
+"en": "My aunt is an RN at the children's hospital.",
+"ko": "이모는 어린이 병원의 정식 간호사다."
+}
+},
+{
+"sid": "10173755-n",
+"easy": "A member of a group of people whose families came from India long ago and now live in many countries, mostly in Europe.",
+"ko": "로마족 (집시)",
+"ex": {
+"en": "The Roma have their own language called Romani.",
+"ko": "로마족에게는 로마니어라는 자기 언어가 있다."
+}
+},
+{
+"sid": "06714902-n",
+"easy": "A master's degree in a science subject.",
+"ko": "이학 석사",
+"ex": {
+"en": "My cousin earned an MS in biology.",
+"ko": "사촌 오빠는 생물학 석사 학위를 받았다."
+}
+},
+{
+"sid": "06874910-n",
+"easy": "The five lines on which music notes are written.",
+"ko": "오선, 보표",
+"ex": {
+"en": "Draw the treble clef at the start of the stave.",
+"ko": "오선의 시작 부분에 높은음자리표를 그리세요."
+}
+},
+{
+"sid": "14166897-n",
+"easy": "A serious disease that usually hurts the lungs and spreads through the air.",
+"ko": "결핵",
+"ex": {
+"en": "Kids get a shot to protect them from TB.",
+"ko": "아이들은 결핵을 막으려고 주사를 맞는다."
+}
+},
+{
+"sid": "10748480-n",
+"easy": "In ancient Rome, an official chosen to protect ordinary people.",
+"ko": "호민관",
+"ex": {
+"en": "The tribune spoke up for the poor farmers.",
+"ko": "호민관은 가난한 농부들의 편을 들어 말했다."
+}
+},
+{
+"sid": "07293630-n",
+"easy": "Music written by the German composer Richard Wagner.",
+"ko": "바그너의 음악",
+"ex": {
+"en": "The orchestra played Wagner at the concert.",
+"ko": "오케스트라는 연주회에서 바그너의 음악을 연주했다."
+}
+},
+{
+"sid": "13684295-n",
+"easy": "Money once used in France and still used in Switzerland.",
+"ko": "프랑",
+"ex": {
+"en": "Before the euro, French people paid with francs.",
+"ko": "유로 이전에 프랑스 사람들은 프랑으로 돈을 냈다."
+}
+},
+{
+"sid": "07249995-n",
+"easy": "An official paper that says a person is accused of a crime.",
+"ko": "기소장, 기소",
+"ex": {
+"en": "The lawyer read the indictment out loud.",
+"ko": "변호사는 기소장을 소리 내어 읽었다."
+}
+},
+{
+"sid": "14672932-n",
+"easy": "A shiny silver-white metal used in jewelry and cars.",
+"ko": "팔라듐",
+"ex": {
+"en": "Her ring is made of palladium.",
+"ko": "그녀의 반지는 팔라듐으로 만들어졌다."
+}
+},
+{
+"sid": "14677133-n",
+"easy": "A soft silvery metal that bursts into flame in water.",
+"ko": "루비듐",
+"ex": {
+"en": "Rubidium reacts wildly when it touches water.",
+"ko": "루비듐은 물에 닿으면 격렬하게 반응한다."
+}
+},
+{
+"sid": "04485892-n",
+"easy": "A long, deep ditch dug by soldiers to hide in.",
+"ko": "참호",
+"ex": {
+"en": "Soldiers in World War I lived in muddy trenches.",
+"ko": "제1차 세계대전의 군인들은 진흙투성이 참호에서 지냈다."
+}
+},
+{
+"sid": "15155386-n",
+"easy": "The world's main time standard, kept exact with atomic clocks.",
+"ko": "협정 세계시",
+"ex": {
+"en": "Pilots use UTC so everyone agrees on the time.",
+"ko": "조종사들은 모두 같은 시간을 쓰려고 협정 세계시를 쓴다."
+}
+},
+{
+"sid": "08115995-n",
+"easy": "A kind of Buddhism that teaches finding peace and wisdom through quiet sitting and thinking.",
+"ko": "선, 선불교",
+"ex": {
+"en": "The monk practiced Zen in a quiet garden.",
+"ko": "스님은 조용한 정원에서 참선을 했다."
+}
+},
+{
+"sid": "10438047-n",
+"easy": "A person or thing that is a perfect example of an idea.",
+"ko": "화신, 구현",
+"ex": {
+"en": "The smiling nurse was the avatar of kindness.",
+"ko": "웃는 그 간호사는 친절의 화신이었다."
+}
+},
+{
+"sid": "01859966-n",
+"easy": "A small dark goose that nests in the far north and flies south for winter.",
+"ko": "흑기러기",
+"ex": {
+"en": "A flock of brent geese landed on the beach.",
+"ko": "흑기러기 떼가 해변에 내려앉았다."
+}
+},
+{
+"sid": "02681907-a",
+"easy": "Having to do with fast internet that can carry lots of information at once.",
+"ko": "광대역의",
+"ex": {
+"en": "We got broadband so movies don't freeze.",
+"ko": "영화가 멈추지 않도록 우리는 광대역 인터넷을 설치했다."
+}
+},
+{
+"sid": "02319255-v",
+"easy": "To take something away from someone.",
+"ko": "빼앗다, 박탈하다",
+"ex": {
+"en": "The storm deprived the town of electricity.",
+"ko": "폭풍 때문에 마을에 전기가 끊겼다."
+}
+},
+{
+"sid": "14883101-n",
+"easy": "Harmful dust that falls to the ground after a nuclear explosion.",
+"ko": "방사능 낙진",
+"ex": {
+"en": "People built shelters to stay safe from fallout.",
+"ko": "사람들은 낙진을 피하려고 대피소를 지었다."
+}
+},
+{
+"sid": "08596479-n",
+"easy": "In the past, the part of a European city where Jewish people were forced to live.",
+"ko": "게토, 유대인 거주 지역",
+"ex": {
+"en": "We read a book about a girl in the Warsaw ghetto.",
+"ko": "우리는 바르샤바 게토에 살던 소녀에 관한 책을 읽었다."
+}
+},
+{
+"sid": "01359213-a",
+"easy": "A medical method that goes inside the body by cutting or using a needle.",
+"ko": "침습적인",
+"ex": {
+"en": "The doctor chose a test that wasn't invasive, so no needles.",
+"ko": "의사는 바늘을 쓰지 않는 비침습적 검사를 골랐다."
+}
+},
+{
+"sid": "03589423-n",
+"easy": "A small device made by Apple for playing music.",
+"ko": "아이팟",
+"ex": {
+"en": "Dad still has his old iPod full of songs.",
+"ko": "아빠는 노래가 가득한 옛날 아이팟을 아직도 갖고 계신다."
+}
+},
+{
+"sid": "13844189-n",
+"easy": "A number from a test that is meant to show how smart a person is.",
+"ko": "지능 지수, 아이큐",
+"ex": {
+"en": "Some people think an IQ test can't measure creativity.",
+"ko": "어떤 사람들은 아이큐 검사로 창의력을 잴 수 없다고 생각한다."
+}
+},
+{
+"sid": "15063087-n",
+"easy": "A soft gray rock made of thin layers of hardened mud.",
+"ko": "셰일, 혈암",
+"ex": {
+"en": "The shale broke apart into flat pieces.",
+"ko": "셰일이 납작한 조각들로 쪼개졌다."
+}
+},
+{
+"sid": "00123481-n",
+"easy": "Firing a gun or arrow.",
+"ko": "사격, 발사",
+"ex": {
+"en": "His shooting at the archery range was slow but careful.",
+"ko": "그는 양궁장에서 천천히 하지만 정확하게 쏘았다."
+}
+},
+{
+"sid": "10642716-n",
+"easy": "A person who goes door to door asking for money, votes, or sales.",
+"ko": "외판원, (기부·주문 등을) 권유하는 사람",
+"ex": {
+"en": "The sign on our door says 'No solicitors.'",
+"ko": "우리 집 문에는 '방문 판매 사절'이라고 쓰여 있다."
+}
+},
+{
+"sid": "08237010-n",
+"easy": "A group of soldiers on horseback made up of smaller units.",
+"ko": "기병 대대",
+"ex": {
+"en": "A squadron of cavalry rode over the hill.",
+"ko": "기병 대대가 언덕을 넘어 달려왔다."
+}
+},
+{
+"sid": "08493176-n",
+"easy": "A strict religious and military group that took control of Afghanistan.",
+"ko": "탈레반",
+"ex": {
+"en": "The Taliban did not allow girls to go to school.",
+"ko": "탈레반은 여자아이들이 학교에 가지 못하게 했다."
+}
+},
+{
+"sid": "15126153-n",
+"easy": "Dry things like small twigs and grass used to start a fire.",
+"ko": "불쏘시개",
+"ex": {
+"en": "We gathered dry tinder to start the campfire.",
+"ko": "우리는 캠프파이어를 피우려고 마른 불쏘시개를 모았다."
+}
+},
+{
+"sid": "07905485-n",
+"easy": "A kind of beer; only for adults.",
+"ko": "에일 (맥주)",
+"ex": {
+"en": "The pub sold ale to the grown-ups.",
+"ko": "그 술집은 어른들에게 에일을 팔았다."
+}
+},
+{
+"sid": "13916195-n",
+"easy": "The direction of a star or planet measured as an angle around the horizon.",
+"ko": "방위각",
+"ex": {
+"en": "The astronomer wrote down the star's azimuth.",
+"ko": "천문학자는 그 별의 방위각을 기록했다."
+}
+},
+{
+"sid": "07391139-n",
+"easy": "A loud noise that keeps going, like hitting something again and again.",
+"ko": "쾅쾅거리는 소리",
+"ex": {
+"en": "The banging from next door kept me awake.",
+"ko": "옆집에서 쾅쾅거리는 소리에 잠을 못 잤다."
+}
+},
+{
+"sid": "08253359-n",
+"easy": "A group of companies that work together on a big project.",
+"ko": "컨소시엄, 협력단",
+"ex": {
+"en": "A consortium of companies built the new bridge.",
+"ko": "여러 회사로 이루어진 컨소시엄이 새 다리를 지었다."
+}
+},
+{
+"sid": "06715877-n",
+"easy": "The highest university degree in religion.",
+"ko": "신학 박사",
+"ex": {
+"en": "The pastor has a DD from a famous university.",
+"ko": "그 목사님은 유명한 대학에서 신학 박사 학위를 받으셨다."
+}
+},
+{
+"sid": "01053787-s",
+"easy": "Causing great harm or very bad results.",
+"ko": "처참한, 재앙을 일으키는",
+"ex": {
+"en": "Forgetting the tent was disastrous on our camping trip.",
+"ko": "텐트를 깜빡한 것은 캠핑 여행에서 재앙이었다."
+}
+},
+{
+"sid": "07920635-n",
+"easy": "A strong, clear alcohol drink flavored with berries; only for adults.",
+"ko": "진 (술)",
+"ex": {
+"en": "Gin is a strong drink only grown-ups may have.",
+"ko": "진은 어른만 마실 수 있는 독한 술이다."
+}
+},
+{
+"sid": "08160486-n",
+"easy": "The part of the British government that used to collect taxes.",
+"ko": "영국 국세청",
+"ex": {
+"en": "British workers paid taxes to the Inland Revenue.",
+"ko": "영국 노동자들은 국세청에 세금을 냈다."
+}
+},
+{
+"sid": "00990368-s",
+"easy": "Very, very overweight in a way that is bad for health.",
+"ko": "비만인, 몹시 뚱뚱한",
+"ex": {
+"en": "The vet put the obese dog on a diet.",
+"ko": "수의사는 몹시 뚱뚱한 개에게 다이어트를 시켰다."
+}
+},
+{
+"sid": "00084549-n",
+"easy": "Getting or buying things that are needed.",
+"ko": "조달, 획득",
+"ex": {
+"en": "She is in charge of the procurement of school supplies.",
+"ko": "그녀는 학용품 조달을 맡고 있다."
+}
+},
+{
+"sid": "14856363-n",
+"easy": "A material in cells that carries messages from DNA to help make proteins.",
+"ko": "리보핵산, RNA",
+"ex": {
+"en": "Scientists study RNA to learn how cells work.",
+"ko": "과학자들은 세포가 어떻게 움직이는지 알려고 RNA를 연구한다."
+}
+},
+{
+"sid": "90009931-v",
+"easy": "To talk with someone over a video call on the computer.",
+"ko": "(스카이프로) 영상 통화하다",
+"ex": {
+"en": "We Skype with Grandma in Seoul every Sunday.",
+"ko": "우리는 일요일마다 서울에 계신 할머니와 영상 통화를 한다."
+}
+},
+{
+"sid": "13856085-n",
+"easy": "The direction halfway between south and west.",
+"ko": "남서쪽",
+"ex": {
+"en": "The storm is moving toward the southwest.",
+"ko": "폭풍이 남서쪽으로 이동하고 있다."
+}
+},
+{
+"sid": "01238028-n",
+"easy": "Hurting someone back because they hurt you.",
+"ko": "복수",
+"ex": {
+"en": "The hero chose kindness instead of vengeance.",
+"ko": "주인공은 복수 대신 친절을 택했다."
+}
+},
+{
+"sid": "05910447-n",
+"easy": "Taking action to make changes in society, like by protesting.",
+"ko": "행동주의, (사회) 운동",
+"ex": {
+"en": "Her activism helped save the old park.",
+"ko": "그녀의 사회 운동 덕분에 오래된 공원을 지켜냈다."
+}
+},
+{
+"sid": "15266304-n",
+"easy": "The four weeks before Christmas.",
+"ko": "대림절, 강림절",
+"ex": {
+"en": "We open one door of our Advent calendar every day.",
+"ko": "우리는 매일 대림절 달력의 문을 하나씩 연다."
+}
+},
+{
+"sid": "00043179-r",
+"easy": "Sadly; by bad luck.",
+"ko": "안타깝게도, 슬프게도",
+"ex": {
+"en": "Alas, the ice cream melted before we got home.",
+"ko": "안타깝게도 집에 오기 전에 아이스크림이 녹아 버렸다."
+}
+},
+{
+"sid": "09860027-n",
+"easy": "A British title of honor, below a baron and above a knight.",
+"ko": "준남작",
+"ex": {
+"en": "As a baronet, he was called 'Sir Henry.'",
+"ko": "그는 준남작이어서 '헨리 경'이라고 불렸다."
+}
+},
+{
+"sid": "09287505-n",
+"easy": "A small valley with trees.",
+"ko": "작은 골짜기",
+"ex": {
+"en": "We sang 'The Farmer in the Dell' in music class.",
+"ko": "우리는 음악 시간에 '골짜기의 농부' 노래를 불렀다."
+}
+},
+{
+"sid": "13645383-n",
+"easy": "A unit of liquid equal to one-tenth of a liter.",
+"ko": "데시리터",
+"ex": {
+"en": "The recipe needs two deciliters of milk.",
+"ko": "그 요리법에는 우유 2데시리터가 필요하다."
+}
+},
+{
+"sid": "05995280-n",
+"easy": "Learning that helps people understand things and spreads knowledge.",
+"ko": "계몽, 깨우침",
+"ex": {
+"en": "Books bring enlightenment to curious minds.",
+"ko": "책은 호기심 많은 사람에게 깨우침을 준다."
+}
+},
+{
+"sid": "03425469-n",
+"easy": "A fort where soldiers live to guard a place.",
+"ko": "요새, 수비대 주둔지",
+"ex": {
+"en": "The soldiers stayed in the garrison on the hill.",
+"ko": "군인들은 언덕 위 요새에 머물렀다."
+}
+}
+]

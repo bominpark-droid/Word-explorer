@@ -1,0 +1,785 @@
+[
+{
+"sid": "08312501-n",
+"easy": "A big group of countries from around the world that work together to keep peace.",
+"ko": "국제 연합, 유엔",
+"ex": {
+"en": "Almost every country in the world is a member of the UN.",
+"ko": "세계의 거의 모든 나라가 유엔 회원국이다."
+}
+},
+{
+"sid": "07900542-n",
+"easy": "Drinks like beer and wine that only grown-ups drink, which can make people dizzy.",
+"ko": "술",
+"ex": {
+"en": "Kids should never drink alcohol.",
+"ko": "아이들은 절대 술을 마시면 안 된다."
+}
+},
+{
+"sid": "14732881-n",
+"easy": "A clear liquid that dries fast and is used for cleaning and in medicine.",
+"ko": "알코올",
+"ex": {
+"en": "The nurse cleaned my scraped knee with alcohol.",
+"ko": "간호사 선생님이 까진 무릎을 알코올로 닦아 주셨다."
+}
+},
+{
+"sid": "06900328-n",
+"easy": "A card that shows who you are, often with your photo on it.",
+"ko": "신분증",
+"ex": {
+"en": "Dad showed his ID at the airport.",
+"ko": "아빠는 공항에서 신분증을 보여 주셨다."
+}
+},
+{
+"sid": "02933576-a",
+"easy": "Having to do with Jewish people, their culture, or their religion.",
+"ko": "유대인의, 유대교의",
+"ex": {
+"en": "Our neighbors invited us to celebrate Hanukkah, a Jewish holiday.",
+"ko": "이웃이 유대교 명절인 하누카를 함께 지내자고 우리를 초대했다."
+}
+},
+{
+"sid": "02869918-n",
+"easy": "A thing made to blow up with a loud bang and break things.",
+"ko": "폭탄",
+"ex": {
+"en": "Workers found an old bomb from a past war, and experts safely took it away.",
+"ko": "일꾼들이 옛날 전쟁 때의 폭탄을 발견했고, 전문가들이 안전하게 치웠다."
+}
+},
+{
+"sid": "13291396-n",
+"easy": "Money or gifts given to a church or temple.",
+"ko": "헌금, 제물",
+"ex": {
+"en": "We put a dollar in the offering plate at church.",
+"ko": "우리는 교회에서 헌금 접시에 1달러를 넣었다."
+}
+},
+{
+"sid": "00143675-a",
+"easy": "Carrying a weapon, like a gun.",
+"ko": "무장한",
+"ex": {
+"en": "Armed guards stood outside the bank.",
+"ko": "무장한 경비원들이 은행 밖에 서 있었다."
+}
+},
+{
+"sid": "09890770-n",
+"easy": "A boy or man that someone loves and dates.",
+"ko": "남자 친구, 애인",
+"ex": {
+"en": "My big sister's boyfriend helped us carry the Christmas tree.",
+"ko": "언니의 남자 친구가 크리스마스트리 옮기는 걸 도와줬다."
+}
+},
+{
+"sid": "01687881-s",
+"easy": "Going toward a certain place or direction.",
+"ko": "~로 향하는",
+"ex": {
+"en": "The school bus was headed north.",
+"ko": "스쿨버스는 북쪽으로 향하고 있었다."
+}
+},
+{
+"sid": "06443410-n",
+"easy": "The holy book of Christians.",
+"ko": "성경",
+"ex": {
+"en": "Grandma reads the Bible every morning.",
+"ko": "할머니는 매일 아침 성경을 읽으신다."
+}
+},
+{
+"sid": "10021813-n",
+"easy": "A member of the Democratic Party, one of the two big political parties in the US.",
+"ko": "민주당원",
+"ex": {
+"en": "My aunt is a Democrat and votes in every election.",
+"ko": "이모는 민주당원이고 선거 때마다 투표하신다."
+}
+},
+{
+"sid": "00442596-s",
+"easy": "Slow to learn or understand.",
+"ko": "멍청한, 둔한",
+"ex": {
+"en": "I felt dumb when I forgot my own phone number.",
+"ko": "내 전화번호를 까먹었을 때 내가 참 멍청하게 느껴졌다."
+}
+},
+{
+"sid": "00153897-s",
+"easy": "Not able to speak for a moment, usually because of surprise.",
+"ko": "말문이 막힌, 말을 못 하는",
+"ex": {
+"en": "We were struck dumb when we saw the giant whale.",
+"ko": "거대한 고래를 보고 우리는 말문이 막혔다."
+}
+},
+{
+"sid": "02970952-a",
+"easy": "Having to do with the Soviet Union, a big country that included Russia until 1991.",
+"ko": "소련의",
+"ex": {
+"en": "The Soviet Union sent the first person into space.",
+"ko": "소련은 처음으로 사람을 우주에 보냈다."
+}
+},
+{
+"sid": "02896833-a",
+"easy": "Having to do with treating and watching real patients.",
+"ko": "임상의",
+"ex": {
+"en": "Doctors tested the new medicine in clinical trials.",
+"ko": "의사들은 임상 시험에서 새 약을 시험했다."
+}
+},
+{
+"sid": "10337745-n",
+"easy": "A person who works in a mill, grinding grain into flour.",
+"ko": "방앗간 주인, 제분업자",
+"ex": {
+"en": "The miller ground the wheat into soft white flour.",
+"ko": "방앗간 주인이 밀을 갈아 부드러운 하얀 밀가루를 만들었다."
+}
+},
+{
+"sid": "02355171-v",
+"easy": "To make a place free of something you do not want.",
+"ko": "없애다, 제거하다",
+"ex": {
+"en": "We need to rid the kitchen of ants.",
+"ko": "우리는 부엌에서 개미를 없애야 한다."
+}
+},
+{
+"sid": "00529364-s",
+"easy": "True or used everywhere in the world, by everyone.",
+"ko": "보편적인, 세계 공통의",
+"ex": {
+"en": "A smile is a universal sign of happiness.",
+"ko": "미소는 세계 어디서나 통하는 행복의 표시다."
+}
+},
+{
+"sid": "09700747-n",
+"easy": "A person who belongs to the Jewish people or follows the Jewish religion.",
+"ko": "유대인",
+"ex": {
+"en": "Sarah's family are Jews who celebrate Passover every spring.",
+"ko": "사라의 가족은 유대인이라서 봄마다 유월절을 지낸다."
+}
+},
+{
+"sid": "07403930-n",
+"easy": "A long, deep, booming sound, like thunder.",
+"ko": "(천둥 등의) 우르릉거리는 소리",
+"ex": {
+"en": "We heard the rolling of thunder far away.",
+"ko": "멀리서 우르릉거리는 천둥소리가 들렸다."
+}
+},
+{
+"sid": "09935806-n",
+"easy": "The top boss of a company.",
+"ko": "최고 경영자, CEO",
+"ex": {
+"en": "The CEO of the toy company visited our school fair.",
+"ko": "장난감 회사의 최고 경영자가 우리 학교 축제에 왔다."
+}
+},
+{
+"sid": "02535669-v",
+"easy": "To fail completely.",
+"ko": "실패하다, 무산되다",
+"ex": {
+"en": "Our class garden plan foundered when nobody brought seeds.",
+"ko": "아무도 씨앗을 가져오지 않아서 우리 반 텃밭 계획은 무산되었다."
+}
+},
+{
+"sid": "01994182-v",
+"easy": "To fill with water and sink.",
+"ko": "침몰하다",
+"ex": {
+"en": "The old fishing boat foundered in the storm.",
+"ko": "낡은 고깃배가 폭풍 속에서 침몰했다."
+}
+},
+{
+"sid": "00251525-r",
+"easy": "Side by side.",
+"ko": "나란히 있는",
+"ex": {
+"en": "The two boats were tied up alongside.",
+"ko": "두 배가 나란히 묶여 있었다."
+}
+},
+{
+"sid": "01587229-a",
+"easy": "Before any money is taken out for taxes or costs.",
+"ko": "총~, 공제 전의",
+"ex": {
+"en": "The gross amount from our bake sale was fifty dollars.",
+"ko": "빵 바자회의 총수입은 50달러였다."
+}
+},
+{
+"sid": "13772644-n",
+"easy": "Twelve dozen, which is 144.",
+"ko": "그로스 (12다스, 144개)",
+"ex": {
+"en": "The school ordered a gross of pencils.",
+"ko": "학교에서 연필을 144자루 주문했다."
+}
+},
+{
+"sid": "02296395-v",
+"easy": "To earn a certain amount of money before costs are taken out.",
+"ko": "총수입을 올리다",
+"ex": {
+"en": "The movie grossed a million dollars in one day.",
+"ko": "그 영화는 하루에 백만 달러의 총수입을 올렸다."
+}
+},
+{
+"sid": "08153242-n",
+"easy": "A group in the US government that looks into serious crimes.",
+"ko": "연방 수사국, FBI",
+"ex": {
+"en": "The FBI helps catch people who break big laws.",
+"ko": "FBI는 큰 법을 어긴 사람들을 잡는 일을 돕는다."
+}
+},
+{
+"sid": "92404762-n",
+"easy": "A smartphone made by the company Apple.",
+"ko": "아이폰",
+"ex": {
+"en": "Mom used her iPhone to take a picture of us.",
+"ko": "엄마는 아이폰으로 우리 사진을 찍으셨다."
+}
+},
+{
+"sid": "02799975-a",
+"easy": "Belonging to an art style from about 200 years ago that cared most about feelings and nature.",
+"ko": "낭만주의의",
+"ex": {
+"en": "We read a romantic poem about wild mountains and storms.",
+"ko": "우리는 거친 산과 폭풍에 관한 낭만주의 시를 읽었다."
+}
+},
+{
+"sid": "01468104-s",
+"easy": "Showing love, like between two people who are dating.",
+"ko": "낭만적인, 로맨틱한",
+"ex": {
+"en": "Dad made a romantic dinner with candles for Mom.",
+"ko": "아빠는 엄마를 위해 촛불을 켠 낭만적인 저녁을 차리셨다."
+}
+},
+{
+"sid": "10557379-n",
+"easy": "A person who dreams about love and beautiful things.",
+"ko": "낭만적인 사람, 낭만주의자",
+"ex": {
+"en": "Grandpa is a romantic who still writes Grandma love letters.",
+"ko": "할아버지는 아직도 할머니께 연애편지를 쓰시는 낭만적인 분이다."
+}
+},
+{
+"sid": "00722912-n",
+"easy": "Doing something for someone else, in their place.",
+"ko": "~을 대신하여, ~을 대표하여",
+"ex": {
+"en": "I accepted the prize on behalf of my whole class.",
+"ko": "나는 우리 반 전체를 대표해서 상을 받았다."
+}
+},
+{
+"sid": "06244979-n",
+"easy": "A religion that believes in one God and follows the teachings of Muhammad in the Quran.",
+"ko": "이슬람교",
+"ex": {
+"en": "Islam is one of the biggest religions in the world.",
+"ko": "이슬람교는 세계에서 가장 큰 종교 중 하나다."
+}
+},
+{
+"sid": "02582476-s",
+"easy": "Very silly; not sensible at all.",
+"ko": "말도 안 되는, 터무니없는",
+"ex": {
+"en": "Jumping off the roof with an umbrella is an insane idea!",
+"ko": "우산을 들고 지붕에서 뛰어내리는 건 말도 안 되는 생각이야!"
+}
+},
+{
+"sid": "01683714-a",
+"easy": "Made of chemicals that have carbon in them, like the ones in living things.",
+"ko": "유기의",
+"ex": {
+"en": "Sugar and fat are organic compounds.",
+"ko": "설탕과 지방은 유기 화합물이다."
+}
+},
+{
+"sid": "01684118-a",
+"easy": "Coming from living things like plants and animals.",
+"ko": "생물의, 유기체의",
+"ex": {
+"en": "Fallen leaves and other organic matter slowly turn into soil.",
+"ko": "낙엽과 다른 생물 찌꺼기는 천천히 흙으로 변한다."
+}
+},
+{
+"sid": "09748872-n",
+"easy": "A person whose family comes from Arabia and who speaks Arabic, often living in the Middle East or North Africa.",
+"ko": "아랍인",
+"ex": {
+"en": "Many Arabs live in Egypt and Saudi Arabia.",
+"ko": "많은 아랍인이 이집트와 사우디아라비아에 산다."
+}
+},
+{
+"sid": "02382560-n",
+"easy": "A fast, beautiful riding horse first raised in Arabia.",
+"ko": "아라비아 말",
+"ex": {
+"en": "The white Arab galloped across the sand.",
+"ko": "하얀 아라비아 말이 모래 위를 달려갔다."
+}
+},
+{
+"sid": "13373153-n",
+"easy": "A loan from a bank to buy a house, paid back over many years.",
+"ko": "주택 담보 대출, 저당",
+"ex": {
+"en": "My parents pay the mortgage on our house every month.",
+"ko": "부모님은 매달 우리 집 대출금을 갚으신다."
+}
+},
+{
+"sid": "02356733-v",
+"easy": "To promise your house or land to a bank so it will lend you money.",
+"ko": "저당 잡히다",
+"ex": {
+"en": "The farmer mortgaged his farm to buy a new tractor.",
+"ko": "농부는 새 트랙터를 사려고 농장을 저당 잡혔다."
+}
+},
+{
+"sid": "00690891-s",
+"easy": "Said to be true, but not proven yet.",
+"ko": "~라고 하는, 혐의를 받는",
+"ex": {
+"en": "The alleged thief said he had only borrowed the bike.",
+"ko": "도둑으로 의심받는 사람은 자전거를 빌렸을 뿐이라고 말했다."
+}
+},
+{
+"sid": "01922936-s",
+"easy": "Supposed to be something, but you doubt it.",
+"ko": "이른바, 소위",
+"ex": {
+"en": "My brother's alleged magic trick was just hiding a coin in his sleeve.",
+"ko": "형의 이른바 마술은 그냥 소매에 동전을 숨기는 거였다."
+}
+},
+{
+"sid": "00758433-n",
+"easy": "Something wrong that breaks a religious rule.",
+"ko": "죄",
+"ex": {
+"en": "Lying is a sin in many religions.",
+"ko": "많은 종교에서 거짓말은 죄다."
+}
+},
+{
+"sid": "02571602-v",
+"easy": "To do something wrong that breaks a religious or moral rule.",
+"ko": "죄를 짓다",
+"ex": {
+"en": "The story tells of a king who sinned and later said sorry.",
+"ko": "그 이야기는 죄를 지었다가 나중에 뉘우친 왕에 관한 것이다."
+}
+},
+{
+"sid": "04380981-n",
+"easy": "A weapon with a long, sharp metal blade and a handle.",
+"ko": "칼, 검",
+"ex": {
+"en": "The pirate waved his shiny sword.",
+"ko": "해적이 번쩍이는 칼을 휘둘렀다."
+}
+},
+{
+"sid": "03083234-n",
+"easy": "A shiny round disc that holds music or computer files.",
+"ko": "시디, CD",
+"ex": {
+"en": "Grandpa still plays his old CDs in the car.",
+"ko": "할아버지는 아직도 차에서 옛날 CD를 트신다."
+}
+},
+{
+"sid": "04843305-n",
+"easy": "Being ready to start things on your own without being told.",
+"ko": "진취성, 주도성",
+"ex": {
+"en": "She showed initiative by cleaning the classroom before anyone asked.",
+"ko": "그녀는 누가 시키기도 전에 교실을 청소해서 주도성을 보여 주었다."
+}
+},
+{
+"sid": "00240097-n",
+"easy": "The first move that starts something.",
+"ko": "첫걸음, 주도권",
+"ex": {
+"en": "Our class took the initiative to start a recycling club.",
+"ko": "우리 반이 앞장서서 재활용 동아리를 만들었다."
+}
+},
+{
+"sid": "03179855-n",
+"easy": "A strong cotton cloth, usually blue, used to make pants and jackets.",
+"ko": "데님, 진",
+"ex": {
+"en": "My jacket is made of blue jean.",
+"ko": "내 재킷은 파란 데님으로 만들어졌다."
+}
+},
+{
+"sid": "00883160-s",
+"easy": "Looking very carefully and deeply, trying to find the truth.",
+"ko": "캐묻는 듯한, 철저한",
+"ex": {
+"en": "Mom gave me a searching look when I said the dog ate my homework.",
+"ko": "개가 숙제를 먹었다고 하자 엄마는 나를 꿰뚫어 보듯 쳐다보셨다."
+}
+},
+{
+"sid": "00856977-v",
+"easy": "To tease someone in a friendly, joking way.",
+"ko": "놀리다, 농담하다",
+"ex": {
+"en": "My uncle loves to josh me about my messy hair.",
+"ko": "삼촌은 내 헝클어진 머리를 가지고 놀리는 걸 좋아하신다."
+}
+},
+{
+"sid": "09975423-n",
+"easy": "Short for 'representative': a person who speaks or acts for a group or company.",
+"ko": "대표, 담당 직원",
+"ex": {
+"en": "Our class rep shared our ideas with the principal.",
+"ko": "우리 반 대표가 교장 선생님께 우리 의견을 전했다."
+}
+},
+{
+"sid": "10722430-n",
+"easy": "A person who uses violence and fear to try to get what they want.",
+"ko": "테러리스트, 테러범",
+"ex": {
+"en": "The police stopped the terrorists before anyone got hurt.",
+"ko": "경찰은 아무도 다치기 전에 테러범들을 막았다."
+}
+},
+{
+"sid": "01647815-s",
+"easy": "Used for the first time, or never touched before.",
+"ko": "처음 쓰는, 사람 손이 닿지 않은",
+"ex": {
+"en": "We skied on virgin snow that nobody had touched.",
+"ko": "우리는 아무도 밟지 않은 눈 위에서 스키를 탔다."
+}
+},
+{
+"sid": "15237251-n",
+"easy": "Short for August, the month after July.",
+"ko": "8월",
+"ex": {
+"en": "School starts on Aug. 20 this year.",
+"ko": "올해는 8월 20일에 개학한다."
+}
+},
+{
+"sid": "02256437-s",
+"easy": "Having to do with a group of people who share the same culture, language, or background.",
+"ko": "민족의, 민족적인",
+"ex": {
+"en": "Our town has an ethnic food festival with dishes from many countries.",
+"ko": "우리 동네에서는 여러 나라 음식이 나오는 민족 음식 축제가 열린다."
+}
+},
+{
+"sid": "08310752-n",
+"easy": "A group of airplanes owned by the same company.",
+"ko": "(한 회사가 가진) 비행기 전체, 기단",
+"ex": {
+"en": "The airline has a fleet of 100 planes.",
+"ko": "그 항공사는 비행기 100대를 가지고 있다."
+}
+},
+{
+"sid": "08310411-n",
+"easy": "A group of cars, buses, or trucks owned by the same company.",
+"ko": "(한 회사가 가진) 차량 전체",
+"ex": {
+"en": "Our school district owns a fleet of yellow buses.",
+"ko": "우리 교육구는 노란 버스를 여러 대 가지고 있다."
+}
+},
+{
+"sid": "00981390-s",
+"easy": "Very fast.",
+"ko": "빠른, 날랜",
+"ex": {
+"en": "The fleet deer ran into the forest.",
+"ko": "날랜 사슴이 숲속으로 달려 들어갔다."
+}
+},
+{
+"sid": "14069684-n",
+"easy": "The time when a baby is growing inside its mother's body.",
+"ko": "임신",
+"ex": {
+"en": "During her pregnancy, Aunt Jen ate lots of fruit.",
+"ko": "젠 이모는 임신 기간에 과일을 많이 드셨다."
+}
+},
+{
+"sid": "01564906-n",
+"easy": "A small bird from Europe with a reddish-orange chest.",
+"ko": "울새, 유럽울새",
+"ex": {
+"en": "A robin sat on the garden fence in England.",
+"ko": "영국의 한 정원 울타리에 울새 한 마리가 앉아 있었다."
+}
+},
+{
+"sid": "01561634-n",
+"easy": "A North American bird with a reddish-orange chest that often hops on lawns in spring.",
+"ko": "울새, 아메리카울새",
+"ex": {
+"en": "A robin pulled a worm out of the wet grass.",
+"ko": "울새가 젖은 풀밭에서 지렁이를 끄집어냈다."
+}
+},
+{
+"sid": "00122186-n",
+"easy": "The act of sending a message or signal from one place to another.",
+"ko": "전송, 전달",
+"ex": {
+"en": "The radio transmission from the astronauts was very clear.",
+"ko": "우주 비행사들이 보낸 무전은 아주 또렷했다."
+}
+},
+{
+"sid": "02886180-a",
+"easy": "Having to do with communism, a system where the government owns the farms and factories.",
+"ko": "공산주의의",
+"ex": {
+"en": "China is ruled by a communist party.",
+"ko": "중국은 공산당이 다스린다."
+}
+},
+{
+"sid": "09964798-n",
+"easy": "A person who believes in communism.",
+"ko": "공산주의자",
+"ex": {
+"en": "Karl Marx was a famous communist thinker.",
+"ko": "카를 마르크스는 유명한 공산주의 사상가였다."
+}
+},
+{
+"sid": "01948431-s",
+"easy": "Almost the same as the real thing in every way.",
+"ko": "사실상의",
+"ex": {
+"en": "The game ended in a virtual tie.",
+"ko": "그 경기는 사실상 무승부로 끝났다."
+}
+},
+{
+"sid": "01674733-s",
+"easy": "Planned or set up ahead of time.",
+"ko": "미리 정해진, 계획된",
+"ex": {
+"en": "We met at the arranged time in front of the library.",
+"ko": "우리는 약속한 시간에 도서관 앞에서 만났다."
+}
+},
+{
+"sid": "02746212-n",
+"easy": "A building where weapons are kept.",
+"ko": "무기고",
+"ex": {
+"en": "The old arsenal is now a museum.",
+"ko": "그 오래된 무기고는 지금 박물관이 되었다."
+}
+},
+{
+"sid": "07283672-n",
+"easy": "A famous golden award given each year for the best movies and actors.",
+"ko": "오스카상, 아카데미상",
+"ex": {
+"en": "The actress cried when she won an Oscar.",
+"ko": "그 여배우는 오스카상을 받았을 때 울었다."
+}
+},
+{
+"sid": "04453655-n",
+"easy": "A bowl you sit on to pee or poop, and then flush with water.",
+"ko": "변기",
+"ex": {
+"en": "Please flush the toilet when you're done.",
+"ko": "다 쓰면 변기 물을 내려 주세요."
+}
+},
+{
+"sid": "07585209-n",
+"easy": "Flour made by grinding the whole wheat grain.",
+"ko": "통밀가루",
+"ex": {
+"en": "Mom bakes bread with graham instead of white flour.",
+"ko": "엄마는 흰 밀가루 대신 통밀가루로 빵을 구우신다."
+}
+},
+{
+"sid": "06538802-n",
+"easy": "Permission from a company to sell its products or run its kind of shop in one area.",
+"ko": "프랜차이즈, 가맹권",
+"ex": {
+"en": "Mr. Park bought a franchise to open a pizza shop.",
+"ko": "박 씨 아저씨는 피자 가게를 열려고 가맹권을 샀다."
+}
+},
+{
+"sid": "08077029-n",
+"easy": "A shop that sells a big company's products using that company's name.",
+"ko": "가맹점, 체인점",
+"ex": {
+"en": "There is a burger franchise next to our school.",
+"ko": "우리 학교 옆에 햄버거 체인점이 있다."
+}
+},
+{
+"sid": "10337158-n",
+"easy": "A soldier whose job is to be a police officer in the army.",
+"ko": "헌병",
+"ex": {
+"en": "An MP checked our car at the army base gate.",
+"ko": "헌병이 군부대 정문에서 우리 차를 검사했다."
+}
+},
+{
+"sid": "00714537-v",
+"easy": "To trust that someone or something will help you.",
+"ko": "의지하다, 믿다",
+"ex": {
+"en": "You can rely on our dog to wake you up for breakfast.",
+"ko": "아침 먹을 때 깨워 주는 건 우리 강아지를 믿어도 돼."
+}
+},
+{
+"sid": "13855040-n",
+"easy": "Short for southeast, the direction between south and east.",
+"ko": "남동(쪽)",
+"ex": {
+"en": "The wind is blowing from the SE today.",
+"ko": "오늘은 남동쪽에서 바람이 분다."
+}
+},
+{
+"sid": "01469607-v",
+"easy": "To be right next to something, touching at the edge.",
+"ko": "맞닿다, 인접하다",
+"ex": {
+"en": "Our backyard butts up against the school field.",
+"ko": "우리 집 뒷마당은 학교 운동장과 맞닿아 있다."
+}
+},
+{
+"sid": "08800171-n",
+"easy": "The country of Greece long ago, with cities like Athens and Sparta.",
+"ko": "고대 그리스",
+"ex": {
+"en": "The first Olympic Games were held in Greece long ago.",
+"ko": "최초의 올림픽 경기는 아주 옛날 그리스에서 열렸다."
+}
+},
+{
+"sid": "03011412-a",
+"easy": "Having to do with the Nazis, the cruel group led by Hitler that ruled Germany from 1933 to 1945.",
+"ko": "나치의",
+"ex": {
+"en": "Anne Frank hid from Nazi soldiers during the war.",
+"ko": "안네 프랑크는 전쟁 중에 나치 군인들을 피해 숨어 지냈다."
+}
+},
+{
+"sid": "10369951-n",
+"easy": "A member of Adolf Hitler's political party in Germany.",
+"ko": "나치당원, 나치",
+"ex": {
+"en": "The Nazis started World War II in Europe.",
+"ko": "나치는 유럽에서 제2차 세계 대전을 일으켰다."
+}
+},
+{
+"sid": "05045748-n",
+"easy": "How strong a mixture is, or how much of one thing is in it.",
+"ko": "농도",
+"ex": {
+"en": "Seawater has a high concentration of salt.",
+"ko": "바닷물은 소금 농도가 높다."
+}
+},
+{
+"sid": "05096011-n",
+"easy": "Many things crowded close together in one place.",
+"ko": "밀집, 집중",
+"ex": {
+"en": "There is a large concentration of birds near the lake.",
+"ko": "호수 근처에 새들이 많이 모여 있다."
+}
+},
+{
+"sid": "01269951-s",
+"easy": "Extremely funny.",
+"ko": "아주 웃긴, 우스꽝스러운",
+"ex": {
+"en": "The clown's hilarious act made everyone laugh.",
+"ko": "광대의 아주 웃긴 공연에 모두가 웃었다."
+}
+},
+{
+"sid": "00099205-n",
+"easy": "The way something works or gets done.",
+"ko": "방법, 구조, 메커니즘",
+"ex": {
+"en": "Voting is the mechanism our class uses to choose a leader.",
+"ko": "투표는 우리 반이 반장을 뽑는 방법이다."
+}
+},
+{
+"sid": "01454181-s",
+"easy": "Badly damaged or destroyed.",
+"ko": "망가진, 폐허가 된",
+"ex": {
+"en": "The rain left my drawing ruined.",
+"ko": "비 때문에 내 그림이 망가졌다."
+}
+}
+]

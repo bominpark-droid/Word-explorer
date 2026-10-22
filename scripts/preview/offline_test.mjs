@@ -33,7 +33,7 @@ await page.press('input', 'Enter');
 await page.waitForTimeout(800);
 const title = await page.getByText('glacier', { exact: true }).first().isVisible();
 console.log('offline search glaciers -> glacier visible:', title);
-await page.getByText('⭐ 단어장').click();
+await page.getByText('단어장', { exact: true }).click();
 const saved = await page.getByText('tribe', { exact: true }).first().isVisible();
 console.log('wordbook kept after reload:', saved);
 console.log('page errors:', errors.length ? errors : 'none');

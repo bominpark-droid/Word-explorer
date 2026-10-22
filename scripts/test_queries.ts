@@ -24,7 +24,7 @@ async function expectLookup(q: string, want: string) {
   for (const [q, w] of [
     ['valley', 'valley'], ['valleys', 'valley'], ['ran', 'run'], ['mice', 'mouse'], ['hiking', 'hike'],
     ['stopped', 'stop'], ['studies', 'study'], ['wolves', 'wolf'], ['Cherokee', 'Cherokee'], ['tepee', 'tepee'],
-    ['bigger', 'big'], ['happiest', 'happy'], ['eroded', 'eroded'], ['glaciers', 'glacier'], ['mother', 'mother'], ['teacher', 'teacher'],
+    ['bigger', 'big'], ['games', 'game'], ['died', 'die'], ['notes', 'note'], ['passed', 'pass'], ['hoped', 'hope'], ['priest', 'priest'], ['writer', 'writer'], ['policemen', 'policeman'], ['said', 'say'], ['happiest', 'happy'], ['eroded', 'eroded'], ['glaciers', 'glacier'], ['mother', 'mother'], ['teacher', 'teacher'],
   ]) await expectLookup(q, w);
   console.log('suggest(val):', (await suggest(db, 'val')).slice(0, 8).map((r) => r.word + (r.kid ? '*' : '')).join(', '));
   console.log('suggest(photo):', (await suggest(db, 'photo')).slice(0, 8).map((r) => r.word + (r.kid ? '*' : '')).join(', '));
@@ -32,10 +32,10 @@ async function expectLookup(q: string, want: string) {
   const e = await getEntry(db, v!.id);
   console.log(JSON.stringify(e, null, 1).slice(0, 1200));
   // Common words without a hand-written entry should still show Korean (data/gloss).
-  for (const w of ['laugh', 'garlic', 'walk']) {
+  for (const w of ['laugh', 'garlic', 'walk', 'because', 'the', 'station', 'japan', 'new york']) {
     const r = await lookup(db, w);
     const en = r ? await getEntry(db, r.id) : null;
-    const ko = en?.dictSenses.find((s) => s.ko)?.ko;
+    const ko = en?.kidSenses[0]?.ko ?? en?.dictSenses.find((s) => s.ko)?.ko;
     if (!ko) failed++;
     console.log(ko ? 'ok  ' : 'FAIL', w, 'Korean:', ko);
   }

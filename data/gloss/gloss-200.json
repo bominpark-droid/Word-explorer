@@ -1,0 +1,821 @@
+[
+{
+"sid": "13671409-n",
+"easy": "A unit for measuring how long something is. Twelve of them make one foot.",
+"ko": "인치",
+"ex": {
+"en": "The sign said the box was 12 in. wide.",
+"ko": "표지판에는 상자 폭이 12인치라고 쓰여 있었다."
+}
+},
+{
+"sid": "00504204-r",
+"easy": "Into a place, or toward the inside of it.",
+"ko": "안으로",
+"ex": {
+"en": "Come in, the cookies are ready!",
+"ko": "들어와, 쿠키 다 됐어!"
+}
+},
+{
+"sid": "06143961-n",
+"easy": "The work of using computers and networks to keep and send information.",
+"ko": "정보 기술, IT",
+"ex": {
+"en": "My uncle works in IT and fixes computers at a big company.",
+"ko": "삼촌은 IT 분야에서 일하시고 큰 회사의 컴퓨터를 고치신다."
+}
+},
+{
+"sid": "00068768-r",
+"easy": "Forward, moving ahead without stopping.",
+"ko": "앞으로, 계속",
+"ex": {
+"en": "We walked on until we reached the lake.",
+"ko": "우리는 호수에 닿을 때까지 계속 걸었다."
+}
+},
+{
+"sid": "00069746-r",
+"easy": "Continuing; not stopping.",
+"ko": "계속해서",
+"ex": {
+"en": "The band played on even when it started to rain.",
+"ko": "비가 오기 시작했는데도 밴드는 계속 연주했다."
+}
+},
+{
+"sid": "01655638-a",
+"easy": "Working or running, like a light that has been switched to work.",
+"ko": "켜져 있는",
+"ex": {
+"en": "Dad left the TV on all night.",
+"ko": "아빠가 밤새 TV를 켜 두셨다."
+}
+},
+{
+"sid": "00024432-r",
+"easy": "A word that turns a sentence into its opposite, meaning 'no'.",
+"ko": "~않다, ~아니다",
+"ex": {
+"en": "My cat does not like baths.",
+"ko": "우리 고양이는 목욕을 좋아하지 않는다."
+}
+},
+{
+"sid": "03855765-n",
+"easy": "A room in a hospital where doctors do operations.",
+"ko": "수술실",
+"ex": {
+"en": "The doctors rushed the patient into the OR.",
+"ko": "의사들은 환자를 급히 수술실로 옮겼다."
+}
+},
+{
+"sid": "02193977-s",
+"easy": "Just a single thing, not two or more.",
+"ko": "하나의, 한",
+"ex": {
+"en": "I have only one dog.",
+"ko": "나는 강아지가 딱 한 마리 있다."
+}
+},
+{
+"sid": "02950393-n",
+"easy": "A metal container that is sealed shut to keep food or drink fresh.",
+"ko": "깡통, 캔",
+"ex": {
+"en": "We opened a can of soup for lunch.",
+"ko": "우리는 점심으로 수프 한 캔을 땄다."
+}
+},
+{
+"sid": "13788130-n",
+"easy": "The amount that fits inside a can.",
+"ko": "한 캔(의 양)",
+"ex": {
+"en": "The hungry puppy ate a whole can of food.",
+"ko": "배고픈 강아지가 사료 한 캔을 다 먹었다."
+}
+},
+{
+"sid": "00214220-v",
+"easy": "To seal food in a can or jar so it stays good for a long time.",
+"ko": "통조림으로 만들다",
+"ex": {
+"en": "Grandma cans peaches every summer.",
+"ko": "할머니는 여름마다 복숭아 통조림을 만드신다."
+}
+},
+{
+"sid": "01559526-a",
+"easy": "A bigger amount of something.",
+"ko": "더 많은",
+"ex": {
+"en": "Can I have more juice, please?",
+"ko": "주스 좀 더 주실래요?"
+}
+},
+{
+"sid": "01560748-a",
+"easy": "A bigger number of things.",
+"ko": "더 많은",
+"ex": {
+"en": "Our class has more girls than boys.",
+"ko": "우리 반에는 남자아이보다 여자아이가 더 많다."
+}
+},
+{
+"sid": "00099891-r",
+"easy": "Used before a describing word to mean 'to a bigger degree'.",
+"ko": "더",
+"ex": {
+"en": "This book is more exciting than the movie.",
+"ko": "이 책이 영화보다 더 재미있다."
+}
+},
+{
+"sid": "00024946-r",
+"easy": "Not even a little bit.",
+"ko": "조금도 ~않다",
+"ex": {
+"en": "My cold is no better today.",
+"ko": "오늘 감기가 조금도 나아지지 않았다."
+}
+},
+{
+"sid": "02276242-a",
+"easy": "Not any; zero of something.",
+"ko": "없는, 하나도 없는",
+"ex": {
+"en": "There are no cookies left in the jar.",
+"ko": "통에 쿠키가 하나도 남지 않았다."
+}
+},
+{
+"sid": "07219764-n",
+"easy": "An answer that says you will not do something or do not agree.",
+"ko": "아니요, 거절",
+"ex": {
+"en": "Mom's answer to the sleepover was a firm no.",
+"ko": "밤샘 파티에 대한 엄마의 대답은 단호한 '안 돼'였다."
+}
+},
+{
+"sid": "08319645-n",
+"easy": "A group in the United Nations that helps countries keep people healthy.",
+"ko": "세계 보건 기구",
+"ex": {
+"en": "The WHO helps countries fight diseases.",
+"ko": "세계 보건 기구는 여러 나라가 질병과 싸우도록 돕는다."
+}
+},
+{
+"sid": "00109919-r",
+"easy": "In or at that place, not here.",
+"ko": "거기에, 그곳에",
+"ex": {
+"en": "Put your shoes over there by the door.",
+"ko": "신발은 저기 문 옆에 둬."
+}
+},
+{
+"sid": "00110206-r",
+"easy": "About that point; on that thing someone said.",
+"ko": "그 점에서",
+"ex": {
+"en": "You're right there, pizza is the best food.",
+"ko": "그 점은 네 말이 맞아, 피자가 최고의 음식이야."
+}
+},
+{
+"sid": "08506637-n",
+"easy": "That place, not this place.",
+"ko": "그곳, 거기",
+"ex": {
+"en": "From there, you can see the whole city.",
+"ko": "거기서는 도시 전체가 보인다."
+}
+},
+{
+"sid": "13765409-n",
+"easy": "The number you get when you add one and one.",
+"ko": "2, 둘",
+"ex": {
+"en": "Two is my lucky number.",
+"ko": "2는 나의 행운의 숫자다."
+}
+},
+{
+"sid": "03187461-n",
+"easy": "A playing card with two marks on it.",
+"ko": "(카드의) 2",
+"ex": {
+"en": "She played the two of hearts.",
+"ko": "그녀는 하트 2를 냈다."
+}
+},
+{
+"sid": "02194109-s",
+"easy": "One more than one.",
+"ko": "두, 둘의",
+"ex": {
+"en": "I have two dogs and a cat.",
+"ko": "나는 강아지 두 마리와 고양이 한 마리가 있다."
+}
+},
+{
+"sid": "02275443-s",
+"easy": "One or some, it does not matter which.",
+"ko": "어떤, 아무",
+"ex": {
+"en": "You can pick any book you like.",
+"ko": "네가 좋아하는 아무 책이나 골라도 돼."
+}
+},
+{
+"sid": "00024868-r",
+"easy": "Even a little bit.",
+"ko": "조금도, 조금이라도",
+"ex": {
+"en": "Is your tooth hurting any less?",
+"ko": "이가 조금이라도 덜 아프니?"
+}
+},
+{
+"sid": "00118527-r",
+"easy": "After that; next.",
+"ko": "그다음에, 그러고 나서",
+"ex": {
+"en": "We ate dinner, then we played a board game.",
+"ko": "우리는 저녁을 먹고 나서 보드게임을 했다."
+}
+},
+{
+"sid": "00118928-r",
+"easy": "Because of that; if so.",
+"ko": "그렇다면, 그러면",
+"ex": {
+"en": "If it rains, then we will play inside.",
+"ko": "비가 오면 그때는 안에서 놀 거야."
+}
+},
+{
+"sid": "01735357-s",
+"easy": "At that time in the past.",
+"ko": "당시의, 그때의",
+"ex": {
+"en": "The then mayor opened our new school.",
+"ko": "당시 시장이 우리 새 학교의 문을 열었다."
+}
+},
+{
+"sid": "15321597-n",
+"easy": "That time.",
+"ko": "그때",
+"ex": {
+"en": "I'll be home at six, so wait until then.",
+"ko": "6시에 집에 갈 테니 그때까지 기다려."
+}
+},
+{
+"sid": "15236280-n",
+"easy": "The month after April and before June.",
+"ko": "5월",
+"ex": {
+"en": "We plant flowers in the garden in May.",
+"ko": "우리는 5월에 정원에 꽃을 심는다."
+}
+},
+{
+"sid": "00043495-n",
+"easy": "The act of leaving a place.",
+"ko": "떠남, 출발",
+"ex": {
+"en": "Her going made the whole class sad.",
+"ko": "그녀가 떠나서 반 전체가 슬퍼했다."
+}
+},
+{
+"sid": "09202503-n",
+"easy": "The reason for something.",
+"ko": "이유, 까닭",
+"ex": {
+"en": "The teacher explained the whys of the new rule.",
+"ko": "선생님이 새 규칙의 이유를 설명해 주셨다."
+}
+},
+{
+"sid": "00500585-r",
+"easy": "In the time from one thing to the next.",
+"ko": "그 사이에",
+"ex": {
+"en": "We had two games with a short rest between.",
+"ko": "우리는 두 경기를 했고 그 사이에 잠깐 쉬었다."
+}
+},
+{
+"sid": "00252367-r",
+"easy": "In the space in the middle of two things.",
+"ko": "사이에",
+"ex": {
+"en": "There were two houses with a big tree between.",
+"ko": "집 두 채가 있었고 그 사이에 큰 나무가 있었다."
+}
+},
+{
+"sid": "06352710-n",
+"easy": "A polite word you put before a man's name.",
+"ko": "~씨, ~선생님 (남자를 부르는 말)",
+"ex": {
+"en": "Mr. Kim is my math teacher.",
+"ko": "김 선생님은 우리 수학 선생님이다."
+}
+},
+{
+"sid": "01880985-s",
+"easy": "Seeming a certain way when you see it.",
+"ko": "~해 보이는, ~하게 생긴",
+"ex": {
+"en": "That's a funny-looking dog!",
+"ko": "저 강아지 참 웃기게 생겼다!"
+}
+},
+{
+"sid": "00073433-r",
+"easy": "Very close to, but not quite.",
+"ko": "거의",
+"ex": {
+"en": "I'm almost done with my homework.",
+"ko": "나는 숙제를 거의 다 했다."
+}
+},
+{
+"sid": "00274382-r",
+"easy": "To the other side.",
+"ko": "건너서, 가로질러",
+"ex": {
+"en": "We swam across to the other side of the pool.",
+"ko": "우리는 수영장 건너편까지 헤엄쳐 갔다."
+}
+},
+{
+"sid": "00274275-r",
+"easy": "From one side to the other, going sideways.",
+"ko": "가로로",
+"ex": {
+"en": "Cut the sandwich across to make two pieces.",
+"ko": "샌드위치를 가로로 잘라서 두 조각으로 만들어."
+}
+},
+{
+"sid": "06845838-n",
+"easy": "The 16th letter of the English alphabet.",
+"ko": "알파벳 P",
+"ex": {
+"en": "Pig starts with the letter P.",
+"ko": "Pig는 P로 시작한다."
+}
+},
+{
+"sid": "06845730-n",
+"easy": "The 15th letter of the English alphabet.",
+"ko": "알파벳 O",
+"ex": {
+"en": "Owl starts with the letter O.",
+"ko": "Owl은 O로 시작한다."
+}
+},
+{
+"sid": "01595457-s",
+"easy": "Very grand and important-looking.",
+"ko": "위엄 있는, 당당한",
+"ex": {
+"en": "The august old castle stood on top of the hill.",
+"ko": "위엄 있는 오래된 성이 언덕 꼭대기에 서 있었다."
+}
+},
+{
+"sid": "10408139-n",
+"easy": "A person who has power over other people.",
+"ko": "지배자, 군주",
+"ex": {
+"en": "In the story, the lord ruled the whole valley.",
+"ko": "이야기 속에서 그 군주는 골짜기 전체를 다스렸다."
+}
+},
+{
+"sid": "10291374-n",
+"easy": "A man with a special high rank, like in England long ago.",
+"ko": "귀족, 경(卿)",
+"ex": {
+"en": "The lord lived in a huge castle with many servants.",
+"ko": "그 귀족은 하인이 많은 커다란 성에 살았다."
+}
+},
+{
+"sid": "13736746-n",
+"easy": "A unit for measuring temperature. Water freezes at 32 of them.",
+"ko": "화씨 (온도)",
+"ex": {
+"en": "It was 90 °F at the beach today.",
+"ko": "오늘 해변은 화씨 90도였다."
+}
+},
+{
+"sid": "00617464-v",
+"easy": "To leave someone or something out.",
+"ko": "제외하다",
+"ex": {
+"en": "Students who are sick will be excepted from the race.",
+"ko": "아픈 학생들은 달리기 경주에서 제외될 것이다."
+}
+},
+{
+"sid": "01822909-a",
+"easy": "Not liking an idea or plan; being against it.",
+"ko": "반대하는",
+"ex": {
+"en": "Most kids in my class are anti weekend homework.",
+"ko": "우리 반 아이들 대부분은 주말 숙제에 반대한다."
+}
+},
+{
+"sid": "04313218-n",
+"easy": "A building or place with special tools and workers for one kind of job.",
+"ko": "~소, ~서, ~국 (주유소, 소방서, 방송국 등)",
+"ex": {
+"en": "We stopped at a gas station to fill up the car.",
+"ko": "우리는 차에 기름을 넣으려고 주유소에 들렀다."
+}
+},
+{
+"sid": "01091334-v",
+"easy": "To send someone to a certain place to stay and do a job.",
+"ko": "배치하다, 주둔시키다",
+"ex": {
+"en": "The coach stationed one player by each goal.",
+"ko": "코치는 골대마다 선수를 한 명씩 배치했다."
+}
+},
+{
+"sid": "06845190-n",
+"easy": "The 10th letter of the English alphabet.",
+"ko": "알파벳 J",
+"ex": {
+"en": "Jellyfish starts with the letter J.",
+"ko": "Jellyfish는 J로 시작한다."
+}
+},
+{
+"sid": "09942876-n",
+"easy": "A person who is not important or famous.",
+"ko": "보잘것없는 사람",
+"ex": {
+"en": "In the movie, a nobody becomes a famous hero.",
+"ko": "그 영화에서는 보잘것없는 사람이 유명한 영웅이 된다."
+}
+},
+{
+"sid": "00441328-a",
+"easy": "Not smart; not thinking well.",
+"ko": "어리석은, 멍청한",
+"ex": {
+"en": "It was stupid of me to leave my lunch on the bus.",
+"ko": "버스에 점심을 두고 내린 건 내가 어리석었다."
+}
+},
+{
+"sid": "02963612-a",
+"easy": "Having to do with the religion that follows Jesus.",
+"ko": "기독교의",
+"ex": {
+"en": "Christmas is a Christian holiday.",
+"ko": "크리스마스는 기독교의 명절이다."
+}
+},
+{
+"sid": "09697405-n",
+"easy": "A person who believes in Jesus and follows his teachings.",
+"ko": "기독교인, 그리스도교 신자",
+"ex": {
+"en": "My aunt is a Christian and goes to church every Sunday.",
+"ko": "이모는 기독교인이라서 일요일마다 교회에 가신다."
+}
+},
+{
+"sid": "10089452-n",
+"easy": "A person who helps run a company and makes big decisions.",
+"ko": "임원, 경영 간부",
+"ex": {
+"en": "My mom is an executive at a toy company.",
+"ko": "엄마는 장난감 회사의 임원이시다."
+}
+},
+{
+"sid": "03029435-a",
+"easy": "Having the job of carrying out laws or plans.",
+"ko": "행정의, 집행의",
+"ex": {
+"en": "The President leads the executive branch of the government.",
+"ko": "대통령은 정부의 행정부를 이끈다."
+}
+},
+{
+"sid": "00221389-n",
+"easy": "The crime of killing a person on purpose.",
+"ko": "살인",
+"ex": {
+"en": "The detective in the story solved the murder.",
+"ko": "이야기 속 탐정이 그 살인 사건을 해결했다."
+}
+},
+{
+"sid": "13271829-n",
+"easy": "Everything a person owns, like money, a house, and things.",
+"ko": "재산",
+"ex": {
+"en": "Grandpa left his estate to his three children.",
+"ko": "할아버지는 재산을 세 자녀에게 남기셨다."
+}
+},
+{
+"sid": "13267561-n",
+"easy": "A large piece of land in the country, usually with a big house.",
+"ko": "사유지, 토지",
+"ex": {
+"en": "The family's estate had horses, a pond, and a huge garden.",
+"ko": "그 가족의 사유지에는 말과 연못과 커다란 정원이 있었다."
+}
+},
+{
+"sid": "00819893-s",
+"easy": "In the middle of something.",
+"ko": "중간의, 중순의",
+"ex": {
+"en": "We go to the beach in mid-July.",
+"ko": "우리는 7월 중순에 해변에 간다."
+}
+},
+{
+"sid": "10103127-n",
+"easy": "A casual word for a man or boy, like 'buddy'.",
+"ko": "녀석, 친구 (남자를 부르는 말)",
+"ex": {
+"en": "Dude, that skateboard trick was awesome!",
+"ko": "야, 그 스케이트보드 묘기 진짜 멋졌어!"
+}
+},
+{
+"sid": "83179919-n",
+"easy": "The man who leads the meetings of a group.",
+"ko": "의장, 회장",
+"ex": {
+"en": "The chairman tapped a small hammer to start the meeting.",
+"ko": "의장이 작은 망치를 두드려 회의를 시작했다."
+}
+},
+{
+"sid": "00526784-s",
+"easy": "Not this one and not that one either.",
+"ko": "어느 쪽도 ~아닌",
+"ex": {
+"en": "Neither shoe fits me anymore.",
+"ko": "두 신발 다 이제 나한테 안 맞는다."
+}
+},
+{
+"sid": "09927483-n",
+"easy": "A man or boy.",
+"ko": "남자, 녀석, 사람",
+"ex": {
+"en": "That fellow with the red hat is my uncle.",
+"ko": "빨간 모자를 쓴 저 남자가 우리 삼촌이다."
+}
+},
+{
+"sid": "04572661-n",
+"easy": "A tool used for fighting or hunting, like a sword or a bow.",
+"ko": "무기",
+"ex": {
+"en": "The knight's only weapon was a long sword.",
+"ko": "그 기사의 유일한 무기는 긴 칼이었다."
+}
+},
+{
+"sid": "07261592-n",
+"easy": "Something you use to win an argument or get what you want.",
+"ko": "무기, 수단",
+"ex": {
+"en": "Her sweet smile was her best weapon for getting extra dessert.",
+"ko": "귀여운 미소는 디저트를 더 얻어 내는 그녀의 최고 무기였다."
+}
+},
+{
+"sid": "01671772-a",
+"easy": "Arranged neatly, following a rule or pattern.",
+"ko": "질서 있는, 정돈된",
+"ex": {
+"en": "The books stood in ordered rows on the shelf.",
+"ko": "책들이 책장에 가지런히 줄지어 꽂혀 있었다."
+}
+},
+{
+"sid": "07907701-n",
+"easy": "A drink for grown-ups made from grape juice; it has alcohol in it.",
+"ko": "포도주, 와인",
+"ex": {
+"en": "Grandpa makes wine from the grapes in his yard.",
+"ko": "할아버지는 마당에서 기른 포도로 포도주를 만드신다."
+}
+},
+{
+"sid": "04971339-n",
+"easy": "A dark red color, like red grape juice.",
+"ko": "와인색, 포도주색",
+"ex": {
+"en": "She wore a wine dress to the party.",
+"ko": "그녀는 파티에 와인색 드레스를 입고 갔다."
+}
+},
+{
+"sid": "08609908-n",
+"easy": "The side of something that is blocked from the wind.",
+"ko": "바람이 가려지는 쪽, 바람의 그늘",
+"ex": {
+"en": "We set up our tent in the lee of a big rock.",
+"ko": "우리는 바람을 막아 주는 큰 바위 뒤쪽에 텐트를 쳤다."
+}
+},
+{
+"sid": "00612923-a",
+"easy": "Using the huge power that comes from splitting tiny atoms, like in bombs.",
+"ko": "핵의, 핵무기의",
+"ex": {
+"en": "Many countries agreed to stop making nuclear weapons.",
+"ko": "많은 나라가 핵무기를 만들지 않기로 약속했다."
+}
+},
+{
+"sid": "02873726-a",
+"easy": "Having to do with the tiny center of an atom.",
+"ko": "원자핵의, 핵의",
+"ex": {
+"en": "A nuclear power plant makes electricity for our city.",
+"ko": "원자력 발전소가 우리 도시에 전기를 만들어 준다."
+}
+},
+{
+"sid": "01793315-v",
+"easy": "To keep bothering someone again and again.",
+"ko": "괴롭히다",
+"ex": {
+"en": "The little dog harried the cat all afternoon.",
+"ko": "작은 강아지가 오후 내내 고양이를 괴롭혔다."
+}
+},
+{
+"sid": "01960457-a",
+"easy": "Changed by using a chemical or a special process.",
+"ko": "처리된",
+"ex": {
+"en": "The wood was treated so it would not rot in the rain.",
+"ko": "그 나무는 비에 썩지 않도록 처리되었다."
+}
+},
+{
+"sid": "01962094-a",
+"easy": "Given care by a doctor.",
+"ko": "치료받은",
+"ex": {
+"en": "A treated cut usually heals faster.",
+"ko": "치료받은 상처는 보통 더 빨리 낫는다."
+}
+},
+{
+"sid": "04861104-n",
+"easy": "A bad habit or a weakness in the way someone acts.",
+"ko": "악덕, 나쁜 버릇",
+"ex": {
+"en": "Eating too much candy is my only vice.",
+"ko": "사탕을 너무 많이 먹는 게 나의 유일한 나쁜 버릇이다."
+}
+},
+{
+"sid": "07902824-n",
+"easy": "A drink for grown-ups made from grain; it has alcohol in it.",
+"ko": "맥주",
+"ex": {
+"en": "Dad had a cold beer after mowing the lawn.",
+"ko": "아빠는 잔디를 깎고 나서 시원한 맥주를 드셨다."
+}
+},
+{
+"sid": "02799202-a",
+"easy": "Belonging to the Republican Party, one of the two big political parties in the US.",
+"ko": "공화당의",
+"ex": {
+"en": "The Republican senator gave a speech at our school.",
+"ko": "공화당 상원 의원이 우리 학교에서 연설을 했다."
+}
+},
+{
+"sid": "00720336-s",
+"easy": "Having to do with a government where the people vote for their leaders.",
+"ko": "공화제의, 공화국의",
+"ex": {
+"en": "The United States has a republican form of government.",
+"ko": "미국은 공화제 정부를 가지고 있다."
+}
+},
+{
+"sid": "10150397-n",
+"easy": "A female friend.",
+"ko": "여자 친구, 여성 친구",
+"ex": {
+"en": "Mom went shopping with her girlfriends.",
+"ko": "엄마는 친구분들과 쇼핑을 가셨다."
+}
+},
+{
+"sid": "10150206-n",
+"easy": "A girl or woman that someone loves and dates.",
+"ko": "여자 친구, 애인",
+"ex": {
+"en": "My cousin brought his girlfriend to Thanksgiving dinner.",
+"ko": "사촌 오빠가 추수감사절 저녁에 여자 친구를 데려왔다."
+}
+},
+{
+"sid": "02934823-a",
+"easy": "Having to do with Islam, the religion that follows the Quran.",
+"ko": "이슬람교의",
+"ex": {
+"en": "The Muslim holiday of Eid ends with a big family feast.",
+"ko": "이슬람교 명절인 이드는 가족들이 모여 큰 잔치를 하며 끝난다."
+}
+},
+{
+"sid": "09701687-n",
+"easy": "A person who follows the religion of Islam.",
+"ko": "무슬림, 이슬람교도",
+"ex": {
+"en": "My classmate Amir is a Muslim and fasts during Ramadan.",
+"ko": "우리 반 친구 아미르는 무슬림이라서 라마단 기간에 금식한다."
+}
+},
+{
+"sid": "13277590-n",
+"easy": "All the money a business takes in before paying its costs.",
+"ko": "수입, 매출",
+"ex": {
+"en": "Our lemonade stand's revenue was twenty dollars today.",
+"ko": "오늘 우리 레모네이드 가게의 매출은 20달러였다."
+}
+},
+{
+"sid": "13282815-n",
+"easy": "Money a government gets from taxes.",
+"ko": "세입, 세수",
+"ex": {
+"en": "The city uses tax revenue to build new parks.",
+"ko": "시는 세금으로 걷은 돈으로 새 공원을 짓는다."
+}
+},
+{
+"sid": "06073138-n",
+"easy": "The kind of medicine where doctors fix the body by opening it up.",
+"ko": "외과",
+"ex": {
+"en": "Dr. Lee teaches surgery at a big hospital.",
+"ko": "이 박사님은 큰 병원에서 외과를 가르치신다."
+}
+},
+{
+"sid": "00359212-a",
+"easy": "Holding electricity, either plus or minus.",
+"ko": "전하를 띤",
+"ex": {
+"en": "Rubbing a balloon makes it charged, so it sticks to the wall.",
+"ko": "풍선을 문지르면 전기를 띠어서 벽에 달라붙는다."
+}
+},
+{
+"sid": "00858176-s",
+"easy": "Full of strong feelings.",
+"ko": "(감정 등으로) 가득 찬",
+"ex": {
+"en": "The gym was charged with excitement before the big game.",
+"ko": "큰 경기를 앞두고 체육관은 흥분으로 가득 찼다."
+}
+},
+{
+"sid": "08190414-n",
+"easy": "A group of countries in Europe that work and trade together.",
+"ko": "유럽 연합, EU",
+"ex": {
+"en": "France and Germany are both part of the EU.",
+"ko": "프랑스와 독일은 둘 다 유럽 연합에 속해 있다."
+}
+}
+]
